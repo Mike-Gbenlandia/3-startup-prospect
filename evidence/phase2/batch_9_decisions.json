@@ -1,0 +1,219 @@
+[
+  {
+    "name": "PowerGen Renewable Energy Nigeria Limited",
+    "website": "https://powergen-renewable-energy.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Headquartered in Nairobi, Kenya (Nigeria is a regional office); closed Series A in 2016 plus later corporate/growth rounds; Sep 2026 $5M All On commitment is a mezzanine debt facility.",
+    "round_type_exact": "Mezzanine Debt Facility ($5M All On) / Prior Series A (2016)",
+    "amount": "$5M",
+    "announced_date": "2026-10-01",
+    "investors": "All On",
+    "hq_location": "Nairobi, Kenya (regional office: Abuja, Nigeria)",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://african-startups.com/news/funding/african-startups-that-raised-funding-in-september-2026/",
+      "https://www.africamda.org/one-on-one-with-alastair-smith-ceo-powergen-nigeria/",
+      "https://www.dobequity.nl/dob-equity-powergen"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/tomato_jos_e19040e893.md",
+      "evidence/phase2/q_powergen_b9.json"
+    ]
+  },
+  {
+    "name": "Slimepay",
+    "website": "https://slimepay.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Grant (Stellar Community Fund SCF #45 Build Award)",
+    "amount": "$35K",
+    "announced_date": "2026-09-30",
+    "investors": "Stellar Community Fund",
+    "hq_location": "Port Harcourt, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/slimepay-grant-35k-usd-84f0d27",
+      "https://bitcoinke.io/2026/10/stellar-community-fund-45",
+      "https://slimepay.com/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/slimepay_979aff30f7.md",
+      "evidence/phase2/q_slimepay_b9.json"
+    ]
+  },
+  {
+    "name": "Ororo Waste",
+    "website": "https://ororowaste.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Tranched corporate debt note (NGN 1.4B / up to $1M) for drums, trucks, hub storage, feedstock purchases and working capital; excluded as non-equity working-capital/asset debt facility.",
+    "round_type_exact": "Debt Financing (tranched corporate note)",
+    "amount": "$1M (NGN 1.4B)",
+    "announced_date": "2026-09-29",
+    "investors": "Rising Tide Africa",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/ororo-waste-debt-financing-1m-ngn-2e0a9cc",
+      "https://furtherafrica.com/2026/10/08/ororo-waste-funding-opens-nigeria-cooking-oil-market/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/ororo_waste_2ad1fbc9d7.md",
+      "evidence/phase2/q_ororo_b9.json"
+    ]
+  },
+  {
+    "name": "Jenzy",
+    "website": "https://www.jenzy.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Early Venture Equity (round stage unspecified)",
+    "amount": "Not disclosed",
+    "announced_date": "2026-09-29",
+    "investors": "Kili Ventures",
+    "hq_location": "Ifo, Ogun State, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/jenzy-venture-undisclosed-573b766",
+      "https://www.startuplist.africa/startups/jenzy",
+      "https://african-startups.com/news/funding/kili-ventures-makes-fourth-investment-backing-african-b2b-payments-startup-jenzy/",
+      "https://www.jenzy.com/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/jenzy_184c002b6f.md",
+      "evidence/phase2/jenzy_sl_b9.md",
+      "evidence/phase2/q_jenzy_b9.json",
+      "evidence/phase2/q_jenzy_site_b9.json"
+    ]
+  },
+  {
+    "name": "Aeon",
+    "website": "https://aeonsec.io/",
+    "tier": "A",
+    "status": "VERIFIED",
+    "round_type_exact": "Pre-seed",
+    "amount": "$1M",
+    "announced_date": "2026-09-18",
+    "investors": "Terra Industries (lead), Resilience17, Ajim Capital, DFS Labs, Kaleo Ventures, Seedstars",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://fireround.dev/companies/aeon",
+      "https://aeonsec.io/newsroom/aeon-raises-1-million-terra-industries-africa-sovereign-cyber-defence",
+      "https://african-startups.com/countries/nigeria/terra-industries-leads-1-million-pre-seed-round-in-nigerian-cybersecurity-startup-aeon/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/aeon_15cf355067.md",
+      "evidence/phase2/tomato_jos_e19040e893.md"
+    ]
+  },
+  {
+    "name": "Biochar Industrial Group",
+    "website": "https://industrialbiochar.com/",
+    "tier": "A",
+    "status": "VERIFIED",
+    "round_type_exact": "Pre-seed",
+    "amount": "$1.5M",
+    "announced_date": "2026-09-17",
+    "investors": "BREEGA (lead), The Catalyst Fund, Mulago Foundation (non-dilutive)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://fireround.dev/companies/biochar-industrial-group",
+      "https://techcabal.com/2026/09/17/biochar-industrial-group-raises-1-5-million",
+      "https://businessday.ng/news/article/biochar-industrial-secures-1-5m-pre-seed-to-scale-africas-industrial-carbon-removal"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/biochar_industrial_group_ec44f009af.md",
+      "evidence/phase2/tomato_jos_e19040e893.md"
+    ]
+  },
+  {
+    "name": "Nearpays",
+    "website": "https://www.nearpays.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Equity-free Prize (MoneySurge 2026 Fintech for Good at Money20/20 Middle East)",
+    "amount": "$100K",
+    "announced_date": "2026-09-16",
+    "investors": "MoneySurge / Money20/20 Middle East",
+    "hq_location": "Abuja, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/nearpays-equity-free-prize-100k-usd-3e6400e",
+      "https://www.argaam.com/en/article/articledetail/id/1937012",
+      "https://www.nearpays.com/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/nearpays_b5c72db2a3.md",
+      "evidence/phase2/q_nearpays_b9.json"
+    ]
+  },
+  {
+    "name": "Drive45",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "$3M 5-year senior debt facility from TLG Capital AGIF II (announced 2026-09-09) to finance commercial vehicle fleet expansion; excluded as commercial/asset-finance debt facility with no in-window equity round.",
+    "round_type_exact": "Debt Financing (5-year senior debt facility)",
+    "amount": "$3M",
+    "announced_date": "2026-09-09",
+    "investors": "TLG Capital (AGIF II)",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/drive45-debt-financing-3m-usd-8c8d3ce",
+      "https://disruptafrica.com/2026/09/18/nigerian-startup-drive45-mobility-secures-3m-debt-facility-to-drive-growth"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/drive45_9d7d8e48ad.md",
+      "evidence/phase2/q_drive45_b9.json"
+    ]
+  },
+  {
+    "name": "VENCO",
+    "website": "https://venco.africa/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Cascador 2026 ScaleUp Cohort (2026-09-07) is a growth-stage mentorship programme without guaranteed funding (2026 Pitch Day occurred June 3, 2026 pre-window); prior $670K round closed Dec 2022 (pre-2026-07-01) and founded 2022 (not Tier D).",
+    "round_type_exact": "Accelerator Mentorship Cohort (Cascador ScaleUp 2026) / Prior Pre-seed (Dec 2022)",
+    "amount": "$670K (Dec 2022); Unfunded cohort",
+    "announced_date": "2026-09-07",
+    "investors": "Cascador (programme); earlier: Zrosk Investment Management (2022)",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://disruptafrica.com/2026/09/07/cascador-picks-10-nigerian-startups-for-2026-scaleup-growth-programme/",
+      "https://www.startuplist.africa/startups/venco"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/venco_3e2fc994a8.md",
+      "evidence/phase2/q_venco_b9.json",
+      "evidence/phase2/q_cascador_pitch_b9.json"
+    ]
+  },
+  {
+    "name": "SunFi",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Cascador 2026 ScaleUp Cohort (2026-09-07) is a growth-stage mentorship programme without guaranteed funding; prior $2.325M Seed round closed Feb 2023 (pre-2026-07-01) and founded pre-2025 (not Tier D).",
+    "round_type_exact": "Accelerator Mentorship Cohort (Cascador ScaleUp 2026) / Prior Seed (Feb 2023)",
+    "amount": "$2.325M (Feb 2023); Unfunded cohort",
+    "announced_date": "2026-09-07",
+    "investors": "Cascador (programme); earlier: Factor[e], SCM Capital (2023)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://disruptafrica.com/2026/09/07/cascador-picks-10-nigerian-startups-for-2026-scaleup-growth-programme/",
+      "https://nextbillion.net/news/nigerian-clean-tech-startup-sunfi-raises-2-325-million-in-seed-funding/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/venco_3e2fc994a8.md",
+      "evidence/phase2/q_sunfi_b9.json",
+      "evidence/phase2/q_sunfi_stage_b9.json",
+      "evidence/phase2/q_cascador_pitch_b9.json"
+    ]
+  }
+]

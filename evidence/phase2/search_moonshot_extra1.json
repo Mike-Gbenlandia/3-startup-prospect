@@ -1,0 +1,69 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.instagram.com/p/DQ6DKViCP4f/",
+        "title": "Meet Our Silver Sponsor- Bluebulb Financials ...",
+        "description": "Bluebulb Financials is a forward-looking fintech company simplifying cross-border payments, treasury management and global business solutions ...",
+        "position": 1
+      },
+      {
+        "url": "https://www.bluebulb.co.uk/blog",
+        "title": "Blog & Insights: UK–Africa Payments and FX",
+        "description": "Expert articles on cross-border payments, FX strategy, treasury, and African fintech trends from the Bluebulb team. Read the latest posts now.",
+        "position": 2
+      },
+      {
+        "url": "https://www.facebook.com/TechCabal/posts/were-thrilled-to-share-that-bluebulb-is-joining-moonshot-2026-as-a-platinum-spon/1793042899497331/",
+        "title": "We're thrilled to share that Bluebulb is joining Moonshot 2026 as a Platinum ...",
+        "description": "We're thrilled to share that Bluebulb is joining Moonshot 2026 as a Platinum Sponsor! Bluebulb is a treasury infrastructure company helping ...",
+        "position": 3
+      },
+      {
+        "url": "https://www.instagram.com/reel/DI3VOmTJLUv/?hl=en",
+        "title": "PARTNER: Meet Seun Lanlege, the co-founder of @polytopelab Labs — ...",
+        "position": 4
+      },
+      {
+        "url": "https://www.startuplist.africa/startups/doux-finance",
+        "title": "Doux Finance: Company Profile, Funding & Investors",
+        "description": "Doux Finance is a FinTech and Cross-border Payments company based in Lagos, Nigeria. Founders, funding, investors and competitors.",
+        "position": 5
+      },
+      {
+        "url": "https://liners.com/research/moonshot-2026-african-companies",
+        "title": "Every African Company at Moonshot 2026 (Full List) - Liners",
+        "description": "# Every African Company that was Present at Moonshot 2026 and the Problems They're Solving\n## Payments and Cross-Border Money Companies at Moonshot 2026\n### 13. Bluebulb (Nigeria / UK)\n![Bluebulb product screenshot](https://assets.liners.com/storage/v1/object/public/media/tools/bluebulb/screenshot.webp)\n\n[Bluebulb](https://liners.com/bluebulb) handles cross-border payments, FX and treasury for African corporates.\n\n**The solution:** Pay-ins, payouts, FX and collections to the UK, US, EU and China, plus Orbita, a self-service treasury dashboard. Its clients include Oando and Nigerian Breweries.\n\n## Crypto and Digital Asset Companies at Moonshot 2026\n### 43. Bitoshi Africa, Doux Finance and MyPadi AI (Nigeria)\n![Doux Finance product screenshot](https://assets.liners.com/storage/v1/object/public/media/tools/doux/screenshot.webp)\n\n![Bitoshi Africa product screenshot](https://assets.liners.com/storage/v1/object/public/media/content/inline/4e3b58c5-e165-41c5-b723-094f66cbe83b.webp?v=1793547784397)\n\n![MyPadi AI product screenshot](https://assets.liners.com/storage/v1/object/public/media/content/inline/68221acc-7520-433c-9af3-ed7f055bc878.webp?v=1793547821927)\n\n- **[Bitoshi Africa](https://liners.com/bitoshi):** Founded in 2020, Bitoshi lets everyday users buy, sell and spend Bitcoin and USDT, with Naira wallets, bill payments and a dollar card.\n- **[Doux Finance](https://liners.com/doux):** A neobank for Africans paid by foreign employers, with cards that spend from USDT and USDC balances.\n- **[MyPadi AI](https://mypadi.ai/?utm_source=liners.com):** A WhatsApp assistant that converts BTC, ETH or USDT to Naira or rand by chat, settling straight to a bank account.\n\n## Commerce, Logistics, Mobility and Travel Companies at Moonshot 2026\n### 53. HomeFairyTech (Nigeria)\n![HomeFairyTech product screenshot](https://assets.liners.com/storage/v1/object/public/media/content/inline/7f7c6598-9206-42dc-85d0-e766ae3370ea.webp?v=1793547850823)\n\n[HomeFairyTech](https://homefairytech.com/?utm_source=liners.com) is a shortlet marketplace that verifies agents and property owners.\n\n**The problem:** Shortlet guests in Nigeria regularly pay fake agents for apartments that don't exist.\n\n**The solution:** ID and face checks for agents and owners, escrow payments and deal rooms, live in Lagos, Abuja and Port Harcourt.\n\n## Health, Legal, Education and Climate Companies at Moonshot 2026\n### 71. Earthbond (Nigeria)\nNigerians spend over $22 billion a year on generator fuel.\n\nEarthbond raised pre-seed funding from Madica.",
+        "position": 6
+      },
+      {
+        "url": "https://www.connectingafrica.com/investment/vc-funding-for-african-blockchain-startups-slows",
+        "title": "VC funding for African blockchain startups slows",
+        "description": "Cedar (pan-African) raised $9.9 million. Hyperbridge (Nigeria) raised $5.6 million. Jambo (pan-African) raised $5 million. When it comes to ...",
+        "position": 7
+      },
+      {
+        "url": "https://tracxn.com/d/companies/esca/__fYE_yCnbRcSajznXKj7hvNyRFUxW33m1YWygqus7r9s",
+        "title": "Esca - 2026 Company Profile, Team, Funding & Competitors",
+        "description": "Media has covered Esca for 1 event in last 1 year, It was about partnerships. •. MANSA and Esca Finance Partner for Same-Day African Settlement ...",
+        "position": 8
+      },
+      {
+        "url": "https://www.linkedin.com/posts/bluebulb-uk_nigeriafintechforum2026-bluebulb-fintech-activity-7490039367739105280-LtoA",
+        "title": "Nigeria Fintech Forum 2026: Reflections on Payments and ...",
+        "description": "Co-founder & CEO, Bluebulb | Cross-Border Payments & Treasury Infrastructure | Building regulated financial systems for global businesses across emerging ...",
+        "position": 9
+      },
+      {
+        "url": "https://startupmaphub.com/funding/country/nigeria",
+        "title": "Get startup funding in Nigeria (2026) – Equity-Free Grants, Seed Funding ...",
+        "description": "Seed funding for African startups in 2026\n\n# [Nigeria startup seed funding & grants (2026)](https://startupmaphub.com/users/sign_up?next=funding)\n## Accelerators in Africa\nCohorts offering seed funding in Africa, mentorship, and access to networks. Some take equity in return; others are equity-free.\n\nCloses Nov 20\n\nOpen\n\nCloses Feb 28\n\nOpen\n\nCloses Dec 06\n\nOpen\n\nOpen\n\nOpen\n\nOpen\n\nOpen\n\n[Bridge Seed Global Accelerator Program](https://startupmaphub.com/funding/bridge-seed-global-impact-accelerator)\n\nOpen\n\nOpen\n\nOpen\n\nOpen\n\nOpen\n\nOpen\n\nOpen\n\nOpen\n\nOpen\n\n[Startup World Cup 2026](https://startupmaphub.com/funding/startup-world-cup-2026)\n\nCloses Nov 06\n\nOpen\n\nOpen\n\nOpen\n\n[The Forum Accelerator](https://startupmaphub.com/funding/the-forum-accelerator)\n\nOpen\n\nOpen\n\nCloses Nov 18\n\n[Founders Factory Accelerator](https://startupmaphub.com/funding/founders-factory-accelerator)\n\nOpen\n\nOpen\n\nOpen\n\nOpen\n\n## Venture Capital & Angel Investors in Africa\nEquity seed funding from VCs and angel investors backing high-growth African startups.\n\n[Ajim Capital Fund II](https://startupmaphub.com/funding/ajim-capital-fund-ii)\n\nRolling Applications\n\n[OnAfrica Angel Syndicate](https://startupmaphub.com/funding/onafrica-angel-syndicate)\n\nRolling Applications\n\nRolling Applications\n\nRolling Applications\n\n[LAVA Venture Capital](https://startupmaphub.com/funding/lava)\n\nRolling Applications\n\n[Stanford GSB Impact Fund](https://startupmaphub.com/funding/stanford-gsb-impact-fund)\n\nRolling Applications\n\nRolling Applications\n\n[Google AI Futures Fund](https://startupmaphub.com/funding/google-ai-futures-fund)\n\nRolling Applications\n\n[Groundwork Capital](https://startupmaphub.com/funding/groundwork-capital)\n\nRolling Applications\n\nRolling Applications\n\nRolling Applications\n\nRolling Applications\n\n[Digital Africa Seed Fund](https://startupmaphub.com/funding/digital-africa-seed-fund)\n\nRolling Applications\n\n[Janngo Capital Startup Fund](https://startupmaphub.com/funding/janngo-capital-startup-fund)\n\nRolling Applications\n\nRolling Applications\n\n[Fil Rouge Capital](https://startupmaphub.com/funding/fil-rouge-capital)\n\nRolling Applications\n\n[Ventures Platform Seed Funding](https://startupmaphub.com/funding/ventures-platform-seed-funding)\n\nRolling Applications\n\n[Janngo Capital](https://startupmaphub.com/funding/janngo)\n\nRolling Applications\n\n[Voltron Capital](https://startupmaphub.com/funding/voltron-capital-investment-opportunity)\n\nRolling Applications\n\n[P1 Ventures](https://startupmaphub.com/funding/p1-ventures)\n\nRolling Applications\n\n[Knife Capital](https://startupmaphub.com/funding/knife-capital-funding-opportunity)\n\nRolling Applications\n\n[Aruwa Capital Management](https://startupmaphub.com/funding/aruwa-capital-management)\n\nRolling Applications\n\nRolling Applications\n\n[Ingressive Capital](https://startupmaphub.com/funding/ingressive-capital)\n\nRolling Applications\n\n[Ventures Platform](https://startupmaphub.com/funding/ventures-platform)\n\nRolling Applications\n\nRolling Applications\n\n[Pear VC Pre-seed and Seed Investment](https://startupmaphub.com/funding/pear-vc-pre-seed-and-seed-investment)\n\nRolling Applications\n\n[FUZE DA Seed Fund](https://startupmaphub.com/funding/fuze-da-seed-fund)\n\nRolling Applications\n\n[Hustle Fund Investment Opportunity](https://startupmaphub.com/funding/hustle-fund-investment-opportunity)\n\nRolling Applications\n\n[Sabou Capital SME Investment & Growth Support](https://startupmaphub.com/funding/sabou-capital-sme-investment-growth-support)\n\nRolling Applications\n\n[Five35 Ventures](https://startupmaphub.com/funding/five35-ventures)\n\nRolling Applications\n\n[FirstCheck Africa](https://startupmaphub.com/funding/firstcheck-africa)\n\nRolling Applications\n\n[Outlierz Ventures](https://startupmaphub.com/funding/outlierz-ventures)\n\nRolling Applications\n\n[Microtraction](https://startupmaphub.com/funding/microtraction)\n\nRolling Applications\n\nRolling Applications\n\nRolling Applications\n\n[Seedstars Africa Ventures](https://startupmaphub.com/funding/seedstars-africa-ventures)\n\nRolling Applications\n\n[Pitch to Catalyst Fund](https://startupmaphub.com/funding/pitch-to-catalyst-fund)\n\nRolling Applications\n\nRolling Applications\n\nRolling Applications\n\nRolling Applications\n\nRolling Applications\n\n[Goodwell Investments Apply for Funding](https://startupmaphub.com/funding/goodwell-investments-apply-for-funding)\n\nRolling Applications\n\n[Baobab Network Accelerator](https://startupmaphub.com/funding/baobab-network-accelerator)\n\nRolling Applications\n\nRolling Applications\n\n## Active Investors in Nigeria\n##### [All On](https://startupmaphub.com/investors/all-on)\nVc\n\nEnergy, Off-grid, CleanTech",
+        "position": 10
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a2178c-e5e8-70fb-8cbe-d136774be91e"
+}

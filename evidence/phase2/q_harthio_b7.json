@@ -1,0 +1,16 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.startuplist.africa/startups/harthio",
+        "title": "Harthio: Company Profile, Funding & Investors",
+        "description": "Harthio funding1 round. The latest is a Grant announced 06 Nov 2026, led by Wema Bank. Who has invested in Harthio.",
+        "position": 1
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a21299-71b9-7732-bfaa-ed31528cf4a4"
+}

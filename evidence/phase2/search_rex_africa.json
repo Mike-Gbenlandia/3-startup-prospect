@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.rexafrica.com/",
+        "title": "Rex Africa - Nigeria's first AI-native bank",
+        "description": "Rex Africa. Nigeria's first AI Native Bank. Powered by Rex Microfinance Bank, a CBN licensed financial institution. All deposits are insured by NDIC. NDIC.",
+        "position": 1
+      },
+      {
+        "url": "https://thepaypers.com/fintech/news/rex-africa-launches-ai-native-bank-with-agent-rex-atlas-in-nigeria",
+        "title": "Rex Africa launches AI-native bank with agent Rex Atlas in Nigeria",
+        "description": "Nigeria-based Rex Africa has launched an AI-native bank, powered by Rex Microfinance Bank, with an AI financial agent called Rex Atlas.",
+        "position": 2
+      },
+      {
+        "url": "https://tracxn.com/d/companies/rex-microfinance-bank/__AqWfR_uXEjbHairRV9lYLQKxh9vbCTxEBmHe9_Jvx4Q",
+        "title": "Rex Microfinance Bank - 2026 Company Profile & Competitors",
+        "description": "Rex Microfinance Bank is an unfunded company based in Abuja (Nigeria), founded in 2023. It operates as a Provider of a SaaS and AI-based ...",
+        "position": 3
+      },
+      {
+        "url": "https://disruptafrica.com/2026/11/11/nigerias-rex-africa-launches-ai-native-bank-with-conversational-financial-agent/",
+        "title": "Nigeria's Rex Africa launches AI-native bank with conversational ...",
+        "description": "**Nigerian fintech startup Rex Africa has launched what it says is the country’s first AI-native bank, built around an AI-powered financial agent that gives customers personalised guidance on saving, investing and borrowing.**\n\nFounded by Yinka Odeleye, [Rex Africa](https://www.rexafrica.com/) has built its own banking infrastructure, RexCore, with AI integrated from the outset rather than added on later.\n\nRex is powered by Rex Microfinance Bank, which is licensed by the Central Bank of Nigeria (CBN), with eligible deposits insured by the Nigeria Deposit Insurance Corporation (NDIC).",
+        "position": 4
+      },
+      {
+        "url": "https://dabafinance.com/en/news/nigeria-rex-africa-launches-ai-native-bank-2026-11-11",
+        "title": "Nigeria's Rex Africa Launches AI-Native Bank",
+        "description": "Nigeria's Rex Africa Launches AI-Native Bank. A smartphone screen ... Rex operates under the license of Rex Microfinance Bank, which is ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a2134a-45eb-728e-a0dd-6788f261de49"
+}

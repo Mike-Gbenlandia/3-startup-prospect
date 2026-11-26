@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.google.com/goto?url=CAESbAHEIkXXNJz4WLxfpb4t5S6qVjvTNQfh43ZmihoUXvOagUiQ4PQGE7tTT5CYsbiNqfusHfkMgHB4zHF1eIZGJbYNPjuQddSxAMfDqBujWV4Tz9gJNYUmvyYX__9m4UmvJrv9dyKkb0dC4yoSHg&gsessionid=psnY--tqLrq2670j1feR0FJfgCuJ-60wyg7x9efzF-9Hhzcu-VVlMQ",
+        "title": "Nigerian buy now, pay later startup Klump announces ...",
+        "description": "The buy now, pay later (BNPL) startup raised about $1.2 million across a seed round and an extension, and it turned down an acquisition offer it received this ...",
+        "position": 1
+      },
+      {
+        "url": "https://www.google.com/goto?url=CAESdAHEIkXXvI6BTufOCzN451RFkwpJWvYDBahD4NBFL7sad5buwrrYF_wLuitLeuBGNzW1Bb98tbgIWpetBN1_jp1upyvYRx0rLtDGUldEtJgMAodhqsXKMx4VZ7KXwy6p_-acgr2Ttbu2gD9ppC5c73AFI4bS&gsessionid=psnY--tqLrq2670j1feR0FJfgCuJ-60wyg7x9efzF-9Hhzcu-VVlMQ",
+        "title": "BIG raises $1.5M to transform agricultural waste into ...",
+        "description": "Biochar Industrial Group (BIG), a climate-tech startup founded by former Releaf Earth executives, has raised $1.5 million in pre-seed funding to scale its ...",
+        "position": 2
+      },
+      {
+        "url": "https://www.google.com/goto?url=CAESdAHEIkXXdJcHyUbG0WmR_mLE175-44cpZ4HUHjJqoNQ7aJlW132DXn1kvOfx0Do2crpkG_7TUnD26b0i6fFLq3tXPO8lmDyJfKvEm6g7rB0RTyFh1MBjJzrggLenkwdWFp2DJRWZIvkzRdYHvr1dj7uvecVx&gsessionid=lOC45Tt-pJAEquzUWCTSPDAs_ciZgLTLPgKbSC8VPysM9VmwLY2SvA",
+        "title": "Zedcrest completes Leatherback acquisition",
+        "description": "In April 2022, Zedcrest led Leatherback's $10 million pre-seed funding round, providing both capital and operational support as the fintech expanded into ...",
+        "position": 3
+      },
+      {
+        "url": "https://techpoint.africa/feature/meet-bani-solving-cross-border-payments/",
+        "title": "Cross-border payments in Africa take seven days. Bani is ...",
+        "description": "Search\n\n# Cross-border payments in Africa take seven days. Bani is betting on direct bank integrations to fix this\nBefore [Bani](https://techpoint.africa/news/4-nigerian-startups-for-googles-accelerator/), Jackson-Cole was CTO and Co-founder of Propsa, a Y Combinator-backed business banking startup that raised $3.8 million in pre-seed.\n\n## Next phase for Bani\n[![OPay is raising up to $336 million in its NYSE IPO, with $270 million in demand already lined up](https://techpoint.africa/wp-content/uploads/2026/10/OPay-NYSE-listing-2.jpg.webp)](https://techpoint.africa/news/opay-336m-ipo-demand/)\n\n[OPay is raising up to $336 million in its NYSE IPO, with $270 million in demand already lined up](https://techpoint.africa/news/opay-336m-ipo-demand/)\n\nOPay is raising up to $336 million in its New York IPO, and about 80% of the shares already have indicated demand, its recently amended SEC filing shows.",
+        "position": 4
+      },
+      {
+        "url": "https://www.google.com/goto?url=CAESdAHEIkXXpJ8NjyhNmQ6iLiCdLNJyRbFa9nM0DLalQEYC_0Qz8AN_tTUW89KtmkMutKn-nYTlJhysdOG8zTLKEofHjUUeQEWhO7_AEX-H5uI0OKRZT1uRikTC74lFgv3tPiXeE1JACfgSrp_CDX2AG9hAGxRD&gsessionid=7A1fbuH_E0xWTA_85jY-R6ILeDCTo5Laja-A_kaCV9_tbgS9v8ATKQ",
+        "title": "PawaPay wins regulatory approval to expand in Mozambique",
+        "description": "NeoFleet Capital has raised $4 million in pre-seed funding to scale its taxi fleet financing business across Africa and other emerging markets. The round, ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a20e0f-7b21-71de-b35d-adf721a9b78a"
+}

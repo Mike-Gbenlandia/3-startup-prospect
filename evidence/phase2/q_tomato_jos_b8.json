@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://africabusinesscommunities.com/agribusiness/nigeria-tomato-jos-secures-%E2%82%AC3.9-million-financing-to-bolster-growth/",
+        "title": "[Nigeria] Tomato Jos secures €3.9 million financing to bolster growth",
+        "description": "Since its inception, Tomato Jos has focused on securing its supply chain through primary production. The combined €3.9 million Series A funding boosts the ...",
+        "position": 1
+      },
+      {
+        "url": "https://www.linkedin.com/posts/marketforcesafrica_tomato-jos-raises-39-million-in-series-activity-6668453493512138752-LO9p",
+        "title": "Tomato Jos raises €3.9 million in Series A Funding",
+        "description": "Tomato Jos, a Kaduna, Nigeria-based agro ... Tomato Jos, a Kaduna, Nigeria ... Tomato Jos raises €3.9 million in Series A Funding https://dmarketforces.com.",
+        "position": 2
+      },
+      {
+        "url": "http://sdgprivatefinance.undp.org/leveraging-capital/sdg-investor-platform/business-case-studies/tomato-jos-makes-retail-packaged",
+        "title": "TOMATO JOS makes retail-packaged food products for consumers across ...",
+        "description": "## TOMATO JOS makes retail-packaged food products for consumers across all income brackets\n### Food and Beverage\nTo date, TOMATO JOS has raised USD 8.3 million in a series A equity round.",
+        "position": 3
+      },
+      {
+        "url": "https://nairametrics.com/2020/05/20/deal-tomato-jos-secures-over-n1-8billion-series-a-funding/",
+        "title": "DEAL: Tomato Jos secures over N1.8billion series A funding",
+        "description": "DEAL: Tomato Jos secures over N1.8billion series A funding. Tomato Jos secured Series A round funding through a consortium of investment firms.",
+        "position": 4
+      },
+      {
+        "url": "https://www.preqin.com/data/profile/asset/tomato-jos/376342",
+        "title": "Tomato Jos Farming and Processing Ltd. Asset Profile",
+        "description": "Based in Kaduna State, Nigeria, Tomato Jos Farming and Processing Ltd ... Tomato Jos produces Tomato Jos ... Company Stage. Series A. Total Amount Raised ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a2129c-3e06-76da-b516-76f803cd3c89"
+}

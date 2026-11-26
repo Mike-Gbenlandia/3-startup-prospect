@@ -1,0 +1,39 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.linkedin.com/in/saheed-akinbile",
+        "title": "Saheed Akinbile - CTO & Co-Founder at Minicor (YC P26)",
+        "description": "Saheed Akinbile. CTO & Co-Founder at Minicor (YC P26). Minicor (YC P26) Y Combinator. San Francisco, California, United States. 3K followers 500 ...",
+        "position": 1
+      },
+      {
+        "url": "https://www.instagram.com/p/DfM1zN6u0xS/",
+        "title": "Minicor, a San Francisco-based artificial intelligence startup co ...",
+        "description": "San Francisco-based artificial intelligence startup Minicor, co-founded by Nigerian software engineer Saheed Akinbile, has raised $3.8 million ...",
+        "position": 2
+      },
+      {
+        "url": "https://www.facebook.com/Nairametrics/posts/minicor-a-san-francisco-based-artificial-intelligence-startup-co-founded-by-nige/1595586499279971/",
+        "title": "Minicor, a San Francisco-based artificial intelligence startup co ...",
+        "description": "Minicor, a San Francisco-based artificial intelligence startup co-founded by Nigerian software engineer Saheed Akinbile, has raised $3.8 million ...",
+        "position": 3
+      },
+      {
+        "url": "https://www.instagram.com/reel/DfSkbqxs2vm/",
+        "title": "A San Francisco-based artificial intelligence startup co-founded by ...",
+        "position": 4
+      },
+      {
+        "url": "https://shattered.io/minicor-3-8m-seed-ai-agents-legacy-desktop-apps-akinbile-2026/",
+        "title": "Minicor Raises $3.8M Seed for AI Desktop Agents [2026]",
+        "description": "# Minicor Raises $3.8M Seed for AI Desktop Agents [2026]\nMinicor, a San Francisco startup co-founded by Saheed Akinbile and Faizaan Chishtie, announced a $3.8 million seed round on October 14, 2026.\n\n## Minicor’s $3.8M Seed Round: The Verified Facts\nIt is headquartered in San Francisco.\n\n| Item | Status | What the sources support |\n|-|-|-|\n| Headquarters | Confirmed | San Francisco |\n\n## Saheed Akinbile: From Lagos to a San Francisco Seed Round\nMinicor is not a Nigerian company by that measure, since it is based in San Francisco, so its round would not count in a country-level tally of local startups.\n\n## Frequently Asked Questions\n### How much did Minicor raise and when?\nThe company is headquartered in San Francisco.",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a2129c-305e-7518-8464-f17982dc14f7"
+}

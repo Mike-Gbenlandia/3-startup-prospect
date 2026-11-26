@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.protegey.com/en",
+        "title": "AI-Native Fraud, Risk, and Compliance Infrastructure",
+        "description": "PROTEGEY\n\n# AI-Native Fraud, Risk, and Compliance Infrastructure\n## Experience the future of fraud intelligence\nProtegey",
+        "position": 1
+      },
+      {
+        "url": "https://www.linkedin.com/company/protegeyhq",
+        "title": "PROTEGEY",
+        "description": "Website: https://www.protegey.com. External link for PROTEGEY ; Industry: Data Security Software Products ; Company size: 11-50 employees ; Headquarters: Newark, ...",
+        "position": 2
+      },
+      {
+        "url": "https://rocketreach.co/protegey-inc-profile_b6a95ee3c86585e7",
+        "title": "PROTEGEY INC. Information",
+        "description": "PROTEGEY INC. is a Data Security Software Products company located in ... PROTEGEY INC. is based in Newark, Delaware. Top PROTEGEY INC. Employees.",
+        "position": 3
+      },
+      {
+        "url": "https://www.instagram.com/p/DfzohZuRT3g/",
+        "title": "@protegeyhq, Secures Pre-Seed Funding, Backed by LvlUp Ventures ...",
+        "description": "Co-founded by Amadou DIALLO and Yvan NDEME, PROTEGEY provides AI-native, all-in-one fraud, risk and compliance infrastructure, combining KYC/KYB ...",
+        "position": 4
+      },
+      {
+        "url": "https://www.facebook.com/TechpointAfrica/posts/protegey-an-ai-powered-fraud-and-compliance-infrastructure-startup-has-secured-u/1460220672904391/",
+        "title": "Protegey secures pre-seed funding for AI fraud platform in Africa",
+        "description": "If Protegey can make ... Flutterwave, Moove drive Nigeria's $635m startup funding Nigerian ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a2128b-fbf5-77e2-a546-ea909e669f35"
+}

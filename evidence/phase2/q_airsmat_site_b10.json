@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://airsmat.com/",
+        "title": "AirSmat — Climate infrastructure to reverse climate change",
+        "description": "Infrastructure for the climate-smart economy. AirSmat is building climate infrastructure for biochar-based fertiliser, carbon removal, regenerative agriculture, ...",
+        "position": 1
+      },
+      {
+        "url": "https://www.facebook.com/airsmatinc/",
+        "title": "AirSmat | Ikoyi",
+        "description": "Visit our website for more information https://airsmat.com/. Internet company ... #AirSmat #Sustainability #ClimateAction #Agriculture #CarbonCredits Nigeria ...",
+        "position": 2
+      },
+      {
+        "url": "https://uk.linkedin.com/company/airsmat",
+        "title": "AirSmat",
+        "description": "AirSmat is a climate technology company building integrated climate infrastructure to reverse climate change while creating long-term economic value across ...",
+        "position": 3
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a212a2-b512-723a-ad4d-d76d37599e00"
+}

@@ -1,0 +1,3643 @@
+[
+  {
+    "name": "Axmed",
+    "website": "https://www.axmed.com",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Not Nigerian HQ (press release issued from Nairobi, Kenya; majority $2.28M for Kenya vs $2M procurement in Nigeria; HQ Kenya/Switzerland).",
+    "round_type_exact": "Grant",
+    "amount": "$4.28M",
+    "announced_date": "2026-11-23",
+    "investors": "Gates Foundation",
+    "hq_location": "Nairobi, Kenya (non-Nigeria HQ)",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/axmed-grant-4-2m-usd-74ec90d"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/axmed_bb673929f2.md"
+    ],
+    "batch_number": 1
+  },
+  {
+    "name": "Telios",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "iDICE Startup Bridge Growth Lab Equity",
+    "amount": "$100K",
+    "announced_date": "2026-11-23",
+    "investors": "Bank of Industry (BOI) / iDICE Startup Bridge (AfDB, AFD, IsDB)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://weetracker.com/2026/11/23/8-nigerian-startups-get-800000-idice-growth-lab/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/telios_26cdd1b886.md"
+    ],
+    "batch_number": 1
+  },
+  {
+    "name": "Leaflet",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "iDICE Startup Bridge Growth Lab Equity",
+    "amount": "$100K",
+    "announced_date": "2026-11-23",
+    "investors": "Bank of Industry (BOI) / iDICE Startup Bridge (AfDB, AFD, IsDB)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://weetracker.com/2026/11/23/8-nigerian-startups-get-800000-idice-growth-lab/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/telios_26cdd1b886.md"
+    ],
+    "batch_number": 1
+  },
+  {
+    "name": "Kadosh Mechatronics",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Her Startup 2nd Accelerator Cohort (convertible revenue-based financing)",
+    "amount": "Undisclosed (convertible RBF)",
+    "announced_date": "2026-11-23",
+    "investors": "Her Startup (KSH Foundation, Tomorrow Foundation, EHA Impact Ventures, Founder Institute Morocco)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://disruptafrica.com/2026/11/23/her-startup-selects-12-women-led-startups-for-2nd-accelerator-cohort/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/kadosh_mechatronics_e5b58210ed.md"
+    ],
+    "batch_number": 1
+  },
+  {
+    "name": "FriendnPal",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Her Startup 2nd Accelerator Cohort (convertible revenue-based financing)",
+    "amount": "Undisclosed (convertible RBF)",
+    "announced_date": "2026-11-23",
+    "investors": "Her Startup (KSH Foundation, Tomorrow Foundation, EHA Impact Ventures, Founder Institute Morocco)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://disruptafrica.com/2026/11/23/her-startup-selects-12-women-led-startups-for-2nd-accelerator-cohort/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/kadosh_mechatronics_e5b58210ed.md"
+    ],
+    "batch_number": 1
+  },
+  {
+    "name": "Glorious Farmgate",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Her Startup 2nd Accelerator Cohort (convertible revenue-based financing)",
+    "amount": "Undisclosed (convertible RBF)",
+    "announced_date": "2026-11-23",
+    "investors": "Her Startup (KSH Foundation, Tomorrow Foundation, EHA Impact Ventures, Founder Institute Morocco)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://disruptafrica.com/2026/11/23/her-startup-selects-12-women-led-startups-for-2nd-accelerator-cohort/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/kadosh_mechatronics_e5b58210ed.md"
+    ],
+    "batch_number": 1
+  },
+  {
+    "name": "Fuse Varsity",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Her Startup 2nd Accelerator Cohort (convertible revenue-based financing)",
+    "amount": "Undisclosed (convertible RBF)",
+    "announced_date": "2026-11-23",
+    "investors": "Her Startup (KSH Foundation, Tomorrow Foundation, EHA Impact Ventures, Founder Institute Morocco)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://disruptafrica.com/2026/11/23/her-startup-selects-12-women-led-startups-for-2nd-accelerator-cohort/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/kadosh_mechatronics_e5b58210ed.md"
+    ],
+    "batch_number": 1
+  },
+  {
+    "name": "Odnaworld",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Her Startup 2nd Accelerator Cohort (convertible revenue-based financing)",
+    "amount": "Undisclosed (convertible RBF)",
+    "announced_date": "2026-11-23",
+    "investors": "Her Startup (KSH Foundation, Tomorrow Foundation, EHA Impact Ventures, Founder Institute Morocco)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://disruptafrica.com/2026/11/23/her-startup-selects-12-women-led-startups-for-2nd-accelerator-cohort/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/kadosh_mechatronics_e5b58210ed.md"
+    ],
+    "batch_number": 1
+  },
+  {
+    "name": "TESA Global Solutions",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Her Startup 2nd Accelerator Cohort (convertible revenue-based financing)",
+    "amount": "Undisclosed (convertible RBF)",
+    "announced_date": "2026-11-23",
+    "investors": "Her Startup (KSH Foundation, Tomorrow Foundation, EHA Impact Ventures, Founder Institute Morocco)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://disruptafrica.com/2026/11/23/her-startup-selects-12-women-led-startups-for-2nd-accelerator-cohort/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/kadosh_mechatronics_e5b58210ed.md"
+    ],
+    "batch_number": 1
+  },
+  {
+    "name": "CostGraph",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Angel",
+    "amount": "$10K",
+    "announced_date": "2026-11-20",
+    "investors": "Ayomide Oyekanmi",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/costgraph-angel-10k-usd-c9f3456",
+      "https://startupnews.africa/2026/11/20/ayomide-oyekanmi-brimble-costgraph-angel-investments/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/costgraph_5750aff0a7.md"
+    ],
+    "batch_number": 1
+  },
+  {
+    "name": "SavvyBee",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "iDICE Startup Bridge Growth Lab Equity",
+    "amount": "$100K",
+    "announced_date": "2026-11-19",
+    "investors": "Bank of Industry (BOI) / iDICE Startup Bridge (AfDB, AFD, IsDB)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/savvybee-equity-investment-100k-usd-e237502",
+      "https://weetracker.com/2026/11/23/8-nigerian-startups-get-800000-idice-growth-lab/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/savvybee_1bbd207139.md",
+      "evidence/phase1/hy_weetracker_idice_8.md"
+    ],
+    "batch_number": 2
+  },
+  {
+    "name": "Vantrace",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "iDICE Startup Bridge Growth Lab Equity",
+    "amount": "$100K",
+    "announced_date": "2026-11-19",
+    "investors": "Bank of Industry (BOI) / iDICE Startup Bridge (AfDB, AFD, IsDB)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/vantrace-equity-investment-100k-usd-776acf7",
+      "https://weetracker.com/2026/11/23/8-nigerian-startups-get-800000-idice-growth-lab/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/vantrace_f130a7db5c.md",
+      "evidence/phase1/hy_weetracker_idice_8.md"
+    ],
+    "batch_number": 2
+  },
+  {
+    "name": "360GadgetsAfrica",
+    "website": "https://360gadgetsafrica.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "iDICE Startup Bridge Growth Lab Equity",
+    "amount": "$100K",
+    "announced_date": "2026-11-19",
+    "investors": "Bank of Industry (BOI) / iDICE Startup Bridge (AfDB, AFD, IsDB)",
+    "hq_location": "Ikeja, Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/360gadgetsafrica-equity-investment-100k-usd-1c19c45",
+      "https://weetracker.com/2026/11/23/8-nigerian-startups-get-800000-idice-growth-lab/",
+      "https://360gadgetsafrica.com/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/360gadgetsafrica_aa6cb63ecd.md",
+      "evidence/phase1/hy_weetracker_idice_8.md",
+      "evidence/phase2/q_batch1_sites.json"
+    ],
+    "batch_number": 2
+  },
+  {
+    "name": "GoDash",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "iDICE Startup Bridge Growth Lab Equity",
+    "amount": "$100K",
+    "announced_date": "2026-11-19",
+    "investors": "Bank of Industry (BOI) / iDICE Startup Bridge (AfDB, AFD, IsDB)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/godash-equity-investment-100k-usd-3c20a0d",
+      "https://weetracker.com/2026/11/23/8-nigerian-startups-get-800000-idice-growth-lab/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/godash_6410fa9d9a.md",
+      "evidence/phase1/hy_weetracker_idice_8.md"
+    ],
+    "batch_number": 2
+  },
+  {
+    "name": "Brimble",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Angel",
+    "amount": "$15K",
+    "announced_date": "2026-11-19",
+    "investors": "Ayomide Oyekanmi",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/brimble-angel-15k-usd-6606092"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/brimble_201caca46a.md"
+    ],
+    "batch_number": 2
+  },
+  {
+    "name": "Lenol",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "iDICE Startup Bridge Growth Lab Equity",
+    "amount": "$100K",
+    "announced_date": "2026-11-19",
+    "investors": "Bank of Industry (BOI) / iDICE Startup Bridge (AfDB, AFD, IsDB)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/lenol-equity-investment-100k-usd-21e9d21",
+      "https://weetracker.com/2026/11/23/8-nigerian-startups-get-800000-idice-growth-lab/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/lenol_810f52a23c.md",
+      "evidence/phase1/hy_weetracker_idice_8.md"
+    ],
+    "batch_number": 2
+  },
+  {
+    "name": "Khaime",
+    "website": "https://khaime.com/",
+    "tier": "A",
+    "status": "VERIFIED",
+    "round_type_exact": "Pre-seed",
+    "amount": "$500K",
+    "announced_date": "2026-11-16",
+    "investors": "Launch Africa Ventures (lead), angel investors",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://fireround.dev/companies/khaime",
+      "https://african-startups.com/news/funding/khaime-raises-500k-pre-seed-to-build-commerce-infrastructure-for-ai-agents/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/khaime_838dd3c689.md"
+    ],
+    "batch_number": 2
+  },
+  {
+    "name": "Vibe Jungle",
+    "website": "https://www.vibejungle.ai/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Founder-led funding round (early undisclosed package)",
+    "amount": "$400K",
+    "announced_date": "2026-11-16",
+    "investors": "Founder-led (undisclosed)",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://fireround.dev/companies/vibe-jungle",
+      "https://african-startups.com/news/funding/vibe-jungle-raises-400k-to-lower-production-costs-for-african-creators/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/vibe_jungle_2253e8b272.md",
+      "evidence/phase2/vibe_jungle_article_48cd48bf34.md"
+    ],
+    "batch_number": 2
+  },
+  {
+    "name": "Storipod",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Early undisclosed investment",
+    "amount": "Not disclosed",
+    "announced_date": "2026-11-16",
+    "investors": "The FourthMainland Fund (Chude Jideonwo)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/storipod-undisclosed-investment-undisclosed-022fe5d",
+      "https://fourthmainland.com/updates/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/storipod_76368090c8.md",
+      "evidence/phase2/storipod_fourth_74a947aa4f.md"
+    ],
+    "batch_number": 2
+  },
+  {
+    "name": "PROTEGEY",
+    "website": "https://www.protegey.com/en",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Not headquartered or primarily operating in Nigeria (LinkedIn HQ Newark, Delaware; product targets Francophone West/Central Africa GIM-UEMOA/GIMAC; founders Amadou Diallo & Yvan Ndeme)",
+    "round_type_exact": "Pre-seed",
+    "amount": "Not disclosed",
+    "announced_date": "2026-11-16",
+    "investors": "LvlUp Ventures, angel investors",
+    "hq_location": "Newark, Delaware / Francophone Africa",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://weetracker.com/2026/11/16/protegey-secures-pre-seed-funding-lvlup-ventures/",
+      "https://techclout.africa/protegey-fraud-detection-african-banks/",
+      "https://www.protegey.com/en"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/protegey_f41ae09869.md",
+      "evidence/phase2/protegey_techclout.md",
+      "evidence/phase2/protegey_hq_search2.json",
+      "evidence/phase2/protegey_site_81f3d48662.md"
+    ],
+    "batch_number": 2
+  },
+  {
+    "name": "CREAM",
+    "website": "https://creamplatform.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Launched in 2016 (10 years old) with 7M+ subscribers and owned by D'Kings Men Media Ltd; Afreximbank CANEX Creations took an undisclosed strategic equity stake in an established platform rather than an early-stage startup round.",
+    "round_type_exact": "Strategic equity investment",
+    "amount": "Not disclosed",
+    "announced_date": "2026-11-06",
+    "investors": "CANEX Creations Incorporated (Afreximbank)",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/cream-equity-investment-undisclosed-cfcbca8",
+      "https://www.premiumtimesng.com/entertainment/naija-fashion/924992-afreximbank-acquires-stake-in-dbanjs-cream-platform.html"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/cream_716498e93e.md",
+      "evidence/phase2/cream_pt_aa8e74b428.md"
+    ],
+    "batch_number": 3
+  },
+  {
+    "name": "Intron",
+    "website": "https://intron.io/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Accelerator / AI Lab Cohort (Google Africa Applied AI Lab, managed by Google AI Futures Fund)",
+    "amount": "Undisclosed (AI Futures Fund & VC partner cohort access)",
+    "announced_date": "2026-11-11",
+    "investors": "Google AI Futures Fund / Google Research Africa (VC partners: 4DX Ventures, Norrsken22, Novastar Ventures, Ventures Platform)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://blog.google/intl/en-africa/company-news/outreach-and-initiatives/applied-ai-lab-cohort-2026/",
+      "https://au-startups.com/news/google-africa-applied-ai-lab-nigerian-startups"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/intron_3c3eae2a41.md",
+      "evidence/phase2/google_lab_au_e0217b3baa.md",
+      "evidence/phase2/intron_site_ff07001d4b.md"
+    ],
+    "batch_number": 3
+  },
+  {
+    "name": "Termii",
+    "website": "https://termii.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Established post-Seed / Series A+ stage (founded 2014, raised $5.18M-$6.2M across 5-7 rounds including $3.65M/Series A; Google Accelerator Africa Techpoint article notes Series A cohort).",
+    "round_type_exact": "Google Africa Applied AI Lab Cohort (prior Series A / $6.2M raised)",
+    "amount": "Undisclosed",
+    "announced_date": "2026-11-11",
+    "investors": "Google AI Futures Fund / Google Research Africa",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://blog.google/intl/en-africa/company-news/outreach-and-initiatives/applied-ai-lab-cohort-2026/",
+      "https://au-startups.com/news/google-africa-applied-ai-lab-nigerian-startups",
+      "https://techpoint.africa/news/4-nigerian-startups-for-googles-accelerator/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/intron_3c3eae2a41.md",
+      "evidence/phase2/google_lab_au_e0217b3baa.md",
+      "evidence/phase2/termii_tp_1ba62ce5cf.md",
+      "evidence/phase2/q_termii_funding.json"
+    ],
+    "batch_number": 3
+  },
+  {
+    "name": "Vendy",
+    "website": "https://vendy.ng/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Accelerator / AI Lab Cohort (Google Africa Applied AI Lab, managed by Google AI Futures Fund)",
+    "amount": "Undisclosed (AI Futures Fund & VC partner cohort access)",
+    "announced_date": "2026-11-11",
+    "investors": "Google AI Futures Fund / Google Research Africa (VC partners: 4DX Ventures, Norrsken22, Novastar Ventures, Ventures Platform)",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://blog.google/intl/en-africa/company-news/outreach-and-initiatives/applied-ai-lab-cohort-2026/",
+      "https://au-startups.com/news/google-africa-applied-ai-lab-nigerian-startups"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/intron_3c3eae2a41.md",
+      "evidence/phase2/google_lab_au_e0217b3baa.md",
+      "evidence/phase2/vendy_site_a373b2f27c.md"
+    ],
+    "notes": "vendy.ng currently displays Kleevar escrow marketplace branding.",
+    "batch_number": 3
+  },
+  {
+    "name": "AethexAI",
+    "website": "https://aethexai.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Listed as Pan-African by Google (London HQ per Soapbox VC / UK LinkedIn; Senegal demo focus); $3M pre-seed was announced in June 2026 (prior to 2026-07-01 window).",
+    "round_type_exact": "Google Africa Applied AI Lab Cohort / Pre-seed (June 2026)",
+    "amount": "$3M (Jun 2026)",
+    "announced_date": "2026-06-03",
+    "investors": "4DX Ventures, Enza Capital",
+    "hq_location": "London, UK / Pan-African",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://blog.google/intl/en-africa/company-news/outreach-and-initiatives/applied-ai-lab-cohort-2026/",
+      "https://finance.yahoo.com/technology/ai/articles/aethexai-full-stack-voice-ai-175757305.html"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/intron_3c3eae2a41.md",
+      "evidence/phase2/q_aethexai.json",
+      "evidence/phase2/q_aethexai_preseed.json",
+      "evidence/phase2/aethexai_site_e4ba19a025.md"
+    ],
+    "batch_number": 3
+  },
+  {
+    "name": "Sparklean Station Nigeria",
+    "website": "https://sparkleanstation.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "NiYA-Cascador Non-dilutive Grant",
+    "amount": "NGN 5M (~$3,711)",
+    "announced_date": "2026-11-10",
+    "investors": "Cascador / Nigerian Youth Academy (NiYA) / Federal Ministry of Youth Development",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/sparklean-station-nigeria-grant-5m-ngn-3b1a496",
+      "https://techcabal.com/2026/11/10/cascador-niya-select-eight-founders/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/sparklean_station_nigeria_54a91c6da0.md",
+      "evidence/phase2/shellify_7b972c7cf9.md"
+    ],
+    "batch_number": 3
+  },
+  {
+    "name": "Parakletus Hub Nigeria",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "NiYA-Cascador Non-dilutive Grant",
+    "amount": "NGN 1M (~$742)",
+    "announced_date": "2026-11-10",
+    "investors": "Cascador / Nigerian Youth Academy (NiYA) / Federal Ministry of Youth Development",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/parakletus-hub-nigeria-grant-1m-ngn-8a5eb1e"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/parakletus_hub_nigeria_72717f3274.md"
+    ],
+    "notes": "Also named ParaLearn (Parakletus Hub Nigeria).",
+    "batch_number": 3
+  },
+  {
+    "name": "Biuda",
+    "website": "https://www.biudahq.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "NiYA-Cascador Non-dilutive Grant",
+    "amount": "NGN 5M (~$3,711)",
+    "announced_date": "2026-11-10",
+    "investors": "Cascador / Nigerian Youth Academy (NiYA) / Federal Ministry of Youth Development",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/biuda-grant-5m-ngn-e88c610",
+      "https://techcabal.com/2026/11/10/cascador-niya-select-eight-founders/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/biuda_09d6d55d3c.md",
+      "evidence/phase2/shellify_7b972c7cf9.md"
+    ],
+    "batch_number": 3
+  },
+  {
+    "name": "Backel",
+    "website": "https://backel.co/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "NiYA-Cascador Non-dilutive Grant",
+    "amount": "NGN 5M (~$3,711)",
+    "announced_date": "2026-11-10",
+    "investors": "Cascador / Nigerian Youth Academy (NiYA) / Federal Ministry of Youth Development",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/backel-grant-5m-ngn-7e60b9c",
+      "https://techcabal.com/2026/11/10/cascador-niya-select-eight-founders/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/backel_ba37db82f2.md",
+      "evidence/phase2/shellify_7b972c7cf9.md"
+    ],
+    "batch_number": 3
+  },
+  {
+    "name": "UpSmart Energies",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "NiYA-Cascador Non-dilutive Grant",
+    "amount": "NGN 1M (~$742)",
+    "announced_date": "2026-11-10",
+    "investors": "Cascador / Nigerian Youth Academy (NiYA) / Federal Ministry of Youth Development",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/upsmart-energies-grant-1m-ngn-59cb2af"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/upsmart_energies_b2ef2500a2.md"
+    ],
+    "batch_number": 3
+  },
+  {
+    "name": "Zannytecture",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "NiYA-Cascador Non-dilutive Grant",
+    "amount": "NGN 1M (~$742)",
+    "announced_date": "2026-11-10",
+    "investors": "Cascador / Nigerian Youth Academy (NiYA) / Federal Ministry of Youth Development",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/zannytecture-grant-1m-ngn-87be0fd"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/zannytecture_dfbc0fd5d8.md"
+    ],
+    "batch_number": 4
+  },
+  {
+    "name": "Drych Digital",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "NiYA-Cascador Non-dilutive Grant",
+    "amount": "NGN 1M (~$742)",
+    "announced_date": "2026-11-10",
+    "investors": "Cascador / Nigerian Youth Academy (NiYA) / Federal Ministry of Youth Development",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/drych-digital-grant-1m-ngn-6acd88b"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/drych_digital_8c8790f64c.md"
+    ],
+    "batch_number": 4
+  },
+  {
+    "name": "Craft Planet",
+    "website": "https://craftplanet.org/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "NiYA-Cascador Non-dilutive Grant",
+    "amount": "NGN 5M (~$3,711)",
+    "announced_date": "2026-11-10",
+    "investors": "Cascador / Nigerian Youth Academy (NiYA) / Federal Ministry of Youth Development",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/craft-planet-grant-5m-ngn-624c65a",
+      "https://techcabal.com/2026/11/10/cascador-niya-select-eight-founders/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/craft_planet_758423b5d5.md",
+      "evidence/phase2/shellify_7b972c7cf9.md"
+    ],
+    "batch_number": 4
+  },
+  {
+    "name": "Rekool",
+    "website": "https://rekool.ng/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "NiYA-Cascador Non-dilutive Grant",
+    "amount": "NGN 5M (~$3,711)",
+    "announced_date": "2026-11-10",
+    "investors": "Cascador / Nigerian Youth Academy (NiYA) / Federal Ministry of Youth Development",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/rekool-grant-5m-ngn-7b3b0c8",
+      "https://techcabal.com/2026/11/10/cascador-niya-select-eight-founders/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/rekool_e64539bef1.md",
+      "evidence/phase2/shellify_7b972c7cf9.md"
+    ],
+    "batch_number": 4
+  },
+  {
+    "name": "SewPro",
+    "website": "https://www.sewpro.app/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "NiYA-Cascador Non-dilutive Grant",
+    "amount": "NGN 5M (~$3,711)",
+    "announced_date": "2026-11-10",
+    "investors": "Cascador / Nigerian Youth Academy (NiYA) / Federal Ministry of Youth Development",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/sewpro-grant-5m-ngn-e0fa5fa",
+      "https://techcabal.com/2026/11/10/cascador-niya-select-eight-founders/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/sewpro_49d2a3a46c.md",
+      "evidence/phase2/shellify_7b972c7cf9.md"
+    ],
+    "batch_number": 4
+  },
+  {
+    "name": "Shellify",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "NiYA-Cascador Non-dilutive Grant",
+    "amount": "NGN 5M (~$3,711)",
+    "announced_date": "2026-11-10",
+    "investors": "Cascador / Nigerian Youth Academy (NiYA) / Federal Ministry of Youth Development",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://techcabal.com/2026/11/10/cascador-niya-select-eight-founders/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/shellify_7b972c7cf9.md"
+    ],
+    "notes": "TechCabal links founder LinkedIn: https://www.linkedin.com/in/lpt-khuzaifa-aminu-92ab321b3/",
+    "batch_number": 4
+  },
+  {
+    "name": "Agrosavvy Consult",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "NiYA-Cascador Non-dilutive Grant",
+    "amount": "NGN 5M (~$3,711)",
+    "announced_date": "2026-11-10",
+    "investors": "Cascador / Nigerian Youth Academy (NiYA) / Federal Ministry of Youth Development",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://techcabal.com/2026/11/10/cascador-niya-select-eight-founders/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/shellify_7b972c7cf9.md"
+    ],
+    "notes": "TechCabal links Facebook page: https://www.facebook.com/100070778739771/posts/agrosavvy-consults-is-your-one-stop-service-provider-for-all-your-farm-and-garde/829467216089229/",
+    "batch_number": 4
+  },
+  {
+    "name": "UfarmX",
+    "website": "https://www.ufarmx.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Headquartered in Columbia, Maryland, USA per TEDCO press release (backed by Maryland's TEDCO Social Impact Funds for Maryland companies); multi-country Africa ops (Senegal, Kenya, Liberia, Nigeria) rather than Nigerian HQ.",
+    "round_type_exact": "Pre-Seed",
+    "amount": "$250K",
+    "announced_date": "2026-11-09",
+    "investors": "TEDCO Pre-Seed Builder Fund",
+    "hq_location": "Columbia, Maryland, USA",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.tedcomd.com/press-release/tedco-invests-ufarmx",
+      "https://liners.com/ufarmx"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/tedco_ufarmx_35f073d330.md",
+      "evidence/phase2/ufarmx_3c5d8b15dc.md"
+    ],
+    "batch_number": 4
+  },
+  {
+    "name": "Pharmarun",
+    "website": "https://www.pharmarun.africa/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Non-equity Grant (Zenith Bank Zecathon 6.0 3rd place)",
+    "amount": "NGN 15M (~$11.2K)",
+    "announced_date": "2026-11-19",
+    "investors": "Zenith Bank (Zecathon 6.0 / Beyond Limits Global)",
+    "hq_location": "Lagos, Nigeria (25 Nigerian cities)",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://liners.com/pharmarun",
+      "https://www.thisdaylive.com/2026/11/19/zenith-bank-unveils-n190m-zecathon-6-0-winners/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/pharmarun_fc062df2d1.md",
+      "evidence/phase2/zecathon_thisday_c99da60436.md"
+    ],
+    "batch_number": 4
+  },
+  {
+    "name": "Niteon",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Non-equity Grant (Wema Bank Hackaholics 7.0 Grand Prize)",
+    "amount": "NGN 60M",
+    "announced_date": "2026-11-06",
+    "investors": "Wema Bank",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/niteon-grant-60m-ngn-fdbdde3"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/niteon_sl_a4b50a5d2f.md"
+    ],
+    "notes": "Earlier pre-seed on 2025-08-08 (Tomi Davies, Seedstars); latest award NGN 60M grand prize on 2026-11-06.",
+    "batch_number": 4
+  },
+  {
+    "name": "Helium Health",
+    "website": "https://heliumhealth.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Post-Seed / Series B stage startup ($10M Series A in 2020 and $30M Series B in June 2023); excluded per Series A+ rule despite Nov 2026 Google.org grant.",
+    "round_type_exact": "Grant (Google.org Impact Challenge) / Prior Series B",
+    "amount": "$2.5M grant",
+    "announced_date": "2026-11-04",
+    "investors": "Google.org",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/helium-health-grant-2-5m-usd-eb2ec25",
+      "https://heliumhealth.com/announcing-helium-healths-30m-series-b/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/helium_health_7eb99752d0.md",
+      "evidence/phase2/q_helium_stage.json"
+    ],
+    "batch_number": 5
+  },
+  {
+    "name": "Fuelventa",
+    "website": "https://fuelventa.com/",
+    "tier": "A",
+    "status": "VERIFIED",
+    "round_type_exact": "Pre-seed",
+    "amount": "$45K ($44.7K)",
+    "announced_date": "2026-11-03",
+    "investors": "Not disclosed",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://www.trysignalbase.com/news/funding/fuelventa-raises-45k-in-pre-seed-round",
+      "https://fuelventa.com/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/fuelventa_6f49c83214.md",
+      "evidence/phase2/fuelventa_site.md",
+      "evidence/phase2/q_fuelventa.json"
+    ],
+    "batch_number": 5
+  },
+  {
+    "name": "Polysmart Packaging",
+    "website": "https://polysmartgroup.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Established industrial company founded in 2013 with 570+ direct employees raising a growth equity round from Aruwa Capital; not an early-stage startup.",
+    "round_type_exact": "Growth equity round",
+    "amount": "Not disclosed",
+    "announced_date": "2026-11-03",
+    "investors": "Aruwa Capital",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://fireround.dev/companies/polysmart-packaging",
+      "https://au-startups.com/news/aruwa-capital-invests-in-polysmart-packaging"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/polysmart_packaging_8ea3899159.md"
+    ],
+    "batch_number": 5
+  },
+  {
+    "name": "Koolboks",
+    "website": "https://www.koolboks.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Post-Seed / Series A stage company (founded 2018, ~400 employees, raised $2.5M Seed in 2022 and $11M Series A); excluded per Series A+ rule.",
+    "round_type_exact": "Debt Financing (TLG Capital credit facility) / Prior Series A",
+    "amount": "Not disclosed",
+    "announced_date": "2026-11-03",
+    "investors": "TLG Capital",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/koolboks-debt-financing-undisclosed-c05580a",
+      "https://disruptafrica.com/2026/11/09/nigerias-koolboks-secures-credit-facility-from-tlg-capital-to-fund-inventory-growth/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/koolboks_538f0b1e39.md",
+      "evidence/phase2/koolboks_da.md",
+      "evidence/phase2/q_koolboks_stage.json"
+    ],
+    "batch_number": 5
+  },
+  {
+    "name": "Acecore",
+    "website": "https://acecore.tech/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Equity-free prize (TC Battlefield 2026 Grand Prize)",
+    "amount": "$10K",
+    "announced_date": "2026-10-30",
+    "investors": "TechCabal Moonshot / Yango Group (TC Battlefield)",
+    "hq_location": "Oyigbo, Rivers State, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/acecore-equity-free-prize-10k-usd-af0d5df",
+      "https://techcabal.beehiiv.com/p/acecore-wins-10-000-at-moonshot",
+      "https://liners.com/research/moonshot-2026-african-companies"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/acecore_19538575dd.md",
+      "evidence/phase1/hy_techcabal_moonshot_battlefield.md",
+      "evidence/phase1/hy_liners_moonshot_2026.md"
+    ],
+    "batch_number": 5
+  },
+  {
+    "name": "Supplya",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Equity-free prize (TC Battlefield 2026 Runner-Up)",
+    "amount": "$5K",
+    "announced_date": "2026-10-30",
+    "investors": "TechCabal Moonshot / Yango Group (TC Battlefield)",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/supplya-equity-free-prize-5000-usd-d59d15a",
+      "https://techcabal.beehiiv.com/p/acecore-wins-10-000-at-moonshot",
+      "https://liners.com/research/moonshot-2026-african-companies"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/supplya_29047d52f6.md",
+      "evidence/phase1/hy_techcabal_moonshot_battlefield.md",
+      "evidence/phase1/hy_liners_moonshot_2026.md",
+      "evidence/phase2/q_supplya.json"
+    ],
+    "batch_number": 5
+  },
+  {
+    "name": "Navidyn",
+    "website": "https://www.navidynrobotics.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Equity-free prize (TC Battlefield 2026 3rd Place)",
+    "amount": "$2.5K",
+    "announced_date": "2026-10-30",
+    "investors": "TechCabal Moonshot / Yango Group (TC Battlefield)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/navidyn-equity-free-prize-2500-usd-8fca81c",
+      "https://techcabal.beehiiv.com/p/acecore-wins-10-000-at-moonshot",
+      "https://techcabal.com/2026/11/10/acecore-supplya-and-navidyn-moonshot/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/navidyn_b061815746.md",
+      "evidence/phase1/hy_techcabal_moonshot_battlefield.md",
+      "evidence/phase2/q_navidyn.json"
+    ],
+    "batch_number": 5
+  },
+  {
+    "name": "Fertitude",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Strategic/Seed funding announced 2026-02-27 (prior to 2026-07-01 window); TC Battlefield finalist on 2026-10-30 with no prize won (top 3 only); launched Mar 2024 (ineligible for Tier D).",
+    "round_type_exact": "TC Battlefield Finalist (prior Seed 2026-02-27)",
+    "amount": "$0 in window",
+    "announced_date": "2026-02-27",
+    "investors": "Nubia Capital (Feb 2026)",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/fertitude-seed-undisclosed-8440831",
+      "https://techcabal.beehiiv.com/p/acecore-wins-10-000-at-moonshot"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/fertitude_sl.md",
+      "evidence/phase1/hy_techcabal_moonshot_battlefield.md"
+    ],
+    "batch_number": 5
+  },
+  {
+    "name": "Prado Power",
+    "website": "http://www.pradopower.org/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "SPV project-finance senior debt facility from Camco REPP 2 + World Bank DARES subsidy for solar mini-grid construction rather than early-stage startup equity/angel/accelerator funding.",
+    "round_type_exact": "Senior debt facility (SPV project finance)",
+    "amount": "Not disclosed",
+    "announced_date": "2026-10-01",
+    "investors": "REPP 2 (Camco)",
+    "hq_location": "Abuja, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://african-startups.com/countries/nigeria/nigerias-prado-power-secures-repp-2-debt-financing-to-develop-five-solar-mini-grids-with-battery-storage/",
+      "https://african-startups.com/news/funding/meet-the-african-startups-that-secured-funding-in-october-2026/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/prado_power_as.md",
+      "evidence/phase1/hy_as_oct_2026.md"
+    ],
+    "batch_number": 5
+  },
+  {
+    "name": "Qiqi Farms",
+    "website": "https://qiqifarms.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Founded in 2020 and no funding rounds raised per Tracxn; TC Battlefield 2026 finalist (only top 3 won prizes); not eligible for Tier A/B/C or Tier D (2025/2026 launch).",
+    "round_type_exact": "TC Battlefield Finalist (no funding raised)",
+    "amount": "$0",
+    "announced_date": "NOT_FOUND",
+    "investors": "None",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://techcabal.beehiiv.com/p/acecore-wins-10-000-at-moonshot",
+      "https://liners.com/research/moonshot-2026-african-companies"
+    ],
+    "evidence_paths": [
+      "evidence/phase1/hy_techcabal_moonshot_battlefield.md",
+      "evidence/phase1/hy_liners_moonshot_2026.md",
+      "evidence/phase2/q_qiqi_farms.json"
+    ],
+    "batch_number": 5
+  },
+  {
+    "name": "Solarcorp",
+    "website": "https://solarcorptech.com/",
+    "tier": "A",
+    "status": "VERIFIED",
+    "round_type_exact": "Pre-seed (MARL Accelerator 14th Cohort SAFE)",
+    "amount": "$50K",
+    "announced_date": "2026-10-30",
+    "investors": "MARL Accelerator",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://www.trysignalbase.com/news/funding/zendtrax-raises-50k-in-pre-seed-round",
+      "https://solarcorptech.com/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/solarcorp_8da3a99eb5.md",
+      "evidence/phase2/q_solarcorp.json",
+      "evidence/phase2/q_bravoo.json"
+    ],
+    "batch_number": 6
+  },
+  {
+    "name": "Bravoo",
+    "website": "https://app.joinbravoo.com/",
+    "tier": "A",
+    "status": "VERIFIED",
+    "round_type_exact": "Pre-seed (MARL Accelerator 14th Cohort SAFE)",
+    "amount": "$50K",
+    "announced_date": "2026-10-30",
+    "investors": "MARL Accelerator",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.trysignalbase.com/news/funding/zendtrax-raises-50k-in-pre-seed-round",
+      "https://marlvc.com/portfolio/bravoo/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/solarcorp_8da3a99eb5.md",
+      "evidence/phase2/bravoo_marl.md",
+      "evidence/phase2/q_bravoo.json"
+    ],
+    "batch_number": 6
+  },
+  {
+    "name": "Pullus",
+    "website": "https://pullusafrica.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Oct 30, 2026 announcement is undisclosed working-capital trade finance debt to buy poultry inventory; earlier $500K pre-seed was announced 2026-06-30 (prior to 2026-07-01 window) and backed by Acumen, elea, Livelihood Impact Fund, and Mulago.",
+    "round_type_exact": "Debt Financing (working capital trade finance) / Prior Pre-seed (2026-06-30)",
+    "amount": "Not disclosed",
+    "announced_date": "2026-10-30",
+    "investors": "Undisclosed debt provider (earlier: Acumen, elea, Livelihood Impact Fund, Mulago)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://african-startups.com/countries/nigeria/pullus-gets-first-debt-financing-to-buy-poultry-from-nigerian-smallholder-farmers/",
+      "https://www.trysignalbase.com/news/funding/pullus-africa-raises-500k-pre"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/pullus_3b6d4a7889.md",
+      "evidence/phase2/pullus_sb.md",
+      "evidence/phase2/q_pullus_stage.json"
+    ],
+    "batch_number": 6
+  },
+  {
+    "name": "KrosAI",
+    "website": "https://krosai.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "iDICE Startup Bridge Growth Lab Equity ($100K, 2026-11-23) & Early Funding Round ($135K incl. INSEAD AI Venture Lab, 2026-10-29)",
+    "amount": "$100K + $135K",
+    "announced_date": "2026-11-23",
+    "investors": "Bank of Industry (BOI) / iDICE Startup Bridge; INSEAD AI Venture Lab, MARL Accelerator, Microsoft for Startups, NVIDIA Inception, Draper University",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://weetracker.com/2026/11/23/8-nigerian-startups-get-800000-idice-growth-lab/",
+      "https://weetracker.com/2026/11/04/krosai-raises-135k-ai-voice-infrastructure-africa",
+      "https://fireround.dev/companies/krosai"
+    ],
+    "evidence_paths": [
+      "evidence/phase1/hy_weetracker_idice_8.md",
+      "evidence/phase2/krosai_wt.md",
+      "evidence/phase2/krosai_6d365197ab.md"
+    ],
+    "batch_number": 6
+  },
+  {
+    "name": "Okra Solar",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Raised $12M Series A in 2023 (excluded per Series A+ rule); founded in 2016 (Australian-founded); Oct 2026 $7M BII commitment is a working-capital debt facility.",
+    "round_type_exact": "Debt Financing ($7M BII facility) / Prior Series A ($12M, 2023)",
+    "amount": "$7M",
+    "announced_date": "2026-10-29",
+    "investors": "British International Investment (BII)",
+    "hq_location": "Australia-founded / Nigeria ops",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/okra-solar-debt-financing-7m-usd-61254cf",
+      "https://launchbaseafrica.com/2026/10/29/okra-solar/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/okra_solar_a1c05ea59d.md",
+      "evidence/phase2/okra_lb.md"
+    ],
+    "batch_number": 6
+  },
+  {
+    "name": "Talent Nation",
+    "website": "https://trials.learn2earn.ng/login",
+    "tier": "A",
+    "status": "VERIFIED",
+    "round_type_exact": "Pre-seed",
+    "amount": "Not disclosed",
+    "announced_date": "2026-10-28",
+    "investors": "Enza Capital (co-lead), LocalGlobe (co-lead), Future Africa, Kaleo Ventures, Ajim Capital, Solving.org, Accelerate Africa",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/talent-nation-pre-seed-undisclosed-eb43a81",
+      "https://disruptafrica.com/2026/10/30/aboyeji-backed-ai-engineering-talent-platform-talent-nation-raises-pre-seed-funding/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/talent_nation_25a2762990.md",
+      "evidence/phase2/talent_nation_da.md"
+    ],
+    "batch_number": 6
+  },
+  {
+    "name": "Maliyo Games",
+    "website": "https://www.maliyo.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Non-dilutive Grant (Google Play Indie Games Fund Africa 2026)",
+    "amount": "Not disclosed ($1M total fund across 10 studios)",
+    "announced_date": "2026-10-28",
+    "investors": "Google Play / Google",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/maliyo-games-grant-undisclosed-9c7899a",
+      "https://african-startups.com/news/funding/meet-the-10-african-gaming-studios-selected-for-google-plays-1-million-indie-games-fund/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/maliyo_games_9f6caa369a.md",
+      "evidence/phase1/hy_as_google_indie_games.md"
+    ],
+    "batch_number": 6
+  },
+  {
+    "name": "Gazuntype",
+    "website": "https://gazuntype.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Non-dilutive Grant (Google Play Indie Games Fund Africa 2026)",
+    "amount": "Not disclosed ($1M total fund across 10 studios)",
+    "announced_date": "2026-10-28",
+    "investors": "Google Play / Google",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/gazuntype-grant-undisclosed-2826c91",
+      "https://african-startups.com/news/funding/meet-the-10-african-gaming-studios-selected-for-google-plays-1-million-indie-games-fund/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/gazuntype_d8aed51966.md",
+      "evidence/phase1/hy_as_google_indie_games.md"
+    ],
+    "batch_number": 6
+  },
+  {
+    "name": "Fer Factor",
+    "website": "https://ferfactor.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Non-dilutive Grant (Google Play Indie Games Fund Africa 2026)",
+    "amount": "Not disclosed ($1M total fund across 10 studios)",
+    "announced_date": "2026-10-28",
+    "investors": "Google Play / Google",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/fer-factor-grant-undisclosed-ed25f85",
+      "https://african-startups.com/news/funding/meet-the-10-african-gaming-studios-selected-for-google-plays-1-million-indie-games-fund/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/fer_factor_9003517b61.md",
+      "evidence/phase1/hy_as_google_indie_games.md"
+    ],
+    "batch_number": 6
+  },
+  {
+    "name": "Deluxe Entertainment Studios",
+    "website": "https://www.deluxecreation.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Non-dilutive Grant (Google Play Indie Games Fund Africa 2026)",
+    "amount": "Not disclosed ($1M total fund across 10 studios)",
+    "announced_date": "2026-10-28",
+    "investors": "Google Play / Google",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/deluxe-entertainment-studios-grant-undisclosed-4568457",
+      "https://african-startups.com/news/funding/meet-the-10-african-gaming-studios-selected-for-google-plays-1-million-indie-games-fund/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/deluxe_entertainment_studios_a4c6e7965d.md",
+      "evidence/phase1/hy_as_google_indie_games.md"
+    ],
+    "batch_number": 6
+  },
+  {
+    "name": "Come Again Foods",
+    "website": "https://comeagainfoods.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "NSIA Prize for Innovation 4.0 (1st Place Cash & Equity) + Cascador Impact Award ($5K)",
+    "amount": "$100K (+ $5K Cascador Impact Award)",
+    "announced_date": "2026-10-26",
+    "investors": "Nigeria Sovereign Investment Authority (NSIA), Cascador",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://businessday.ng/news/article/nsia-awards-275000-to-nigerian-startups-come-again-foods-leads-winners/",
+      "https://african-startups.com/countries/nigeria/nigerias-nsia-awards-220k-in-cash-and-equity-to-three-winners-of-its-prize-for-innovation-4-0/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/nsia_bd_b7.md",
+      "evidence/phase2/come_again_foods_70ca297135.md",
+      "evidence/phase1/hy_as_nsia_4.md"
+    ],
+    "batch_number": 7
+  },
+  {
+    "name": "Harthio",
+    "website": "https://harthio.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Grant (Wema Bank Hackaholics 7.0 3rd Place Social Impact) / Micro-seed",
+    "amount": "NGN 20M (+ $1.5K-$2K Signalbase micro-seed)",
+    "announced_date": "2026-11-06",
+    "investors": "Wema Bank",
+    "hq_location": "Akure, Ondo State, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/startups/harthio",
+      "https://www.trysignalbase.com/news/funding/harthio-raises-2k-in-seed-funding"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/harthio_sl_b7.md",
+      "evidence/phase2/harthio_a74cb0eb65.md"
+    ],
+    "batch_number": 7
+  },
+  {
+    "name": "HubPharm Africa",
+    "website": "https://hubpharmafrica.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Equity-free Grand Prize (2nd ECOWAS Startup Awards)",
+    "amount": "$30K",
+    "announced_date": "2026-10-02",
+    "investors": "ECOWAS Commission",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.ecowas.int/ecowas-celebrates-innovation-as-hubpharm-africa-wins-second-startup-awards/",
+      "https://www.trysignalbase.com/news/funding/hubpharm-africa-raises-30k-to-expand-specialty-pharmacy-access"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/hubpharm_ecowas_b7.md",
+      "evidence/phase2/hubpharm_africa_6287e52a2c.md",
+      "evidence/phase2/q_hubpharm_b7.json"
+    ],
+    "batch_number": 7
+  },
+  {
+    "name": "Teazy Tech",
+    "website": "https://teazytech.online/",
+    "tier": "A",
+    "status": "VERIFIED",
+    "round_type_exact": "Pre-seed (Orange Corners Innovation Fund Cohort 14)",
+    "amount": "$11.3K ($11K)",
+    "announced_date": "2026-10-05",
+    "investors": "Orange Corners Innovation Fund (OCIF) / FATE Foundation / Kingdom of the Netherlands",
+    "hq_location": "Lekki, Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.trysignalbase.com/news/funding/teazy-tech-raises-11k-pre",
+      "https://www.f6s.com/company/teazy-tech",
+      "https://www.facebook.com/OrangeCornersNigeria/posts/introducing-orange-corners-nigeria-lagos-cohort-14-incubateesjoin-us-in-welcomin/1422486406572278/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/teazy_tech_e5e215e135.md",
+      "evidence/phase2/q_teazy_b7.json"
+    ],
+    "batch_number": 7
+  },
+  {
+    "name": "Tryctor",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Equity-free Prize (NSIA Prize for Innovation 4.0 Demo Day / Wema Bank)",
+    "amount": "$4K",
+    "announced_date": "2026-10-24",
+    "investors": "Wema Bank / NSIA Prize for Innovation 4.0",
+    "hq_location": "Ilorin, Kwara State, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/tryctor-equity-free-prize-4000-usd-7b459b4",
+      "https://businessday.ng/news/article/nsia-awards-275000-to-nigerian-startups-come-again-foods-leads-winners/",
+      "https://www.startuplist.africa/startups/tryctor"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/tryctor_7e78672e24.md",
+      "evidence/phase2/nsia_bd_b7.md",
+      "evidence/phase2/tryctor_sl_b7.md"
+    ],
+    "batch_number": 7
+  },
+  {
+    "name": "Eight Medical",
+    "website": "https://www.8medical.co/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Equity-free Prizes (Cascador Cash Prize $15K + Wema Bank $4K at NPI 4.0 Demo Day)",
+    "amount": "$19K",
+    "announced_date": "2026-10-24",
+    "investors": "Cascador, Wema Bank (earlier: Techstars '23, Catalyst Fund)",
+    "hq_location": "Ikate, Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/eight-medical-equity-free-prize-19k-usd-16b7cf9",
+      "https://businessday.ng/news/article/nsia-awards-275000-to-nigerian-startups-come-again-foods-leads-winners/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/eight_medical_428484505b.md",
+      "evidence/phase2/nsia_bd_b7.md",
+      "evidence/phase2/q_eight_medical_b7.json"
+    ],
+    "batch_number": 7
+  },
+  {
+    "name": "Uwana Energy",
+    "website": "https://www.uwanaconnect.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Equity-free Prize (Cascador Cash Prize at NPI 4.0 Demo Day)",
+    "amount": "$15K",
+    "announced_date": "2026-10-24",
+    "investors": "Cascador",
+    "hq_location": "Ikoyi, Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/uwana-energy-equity-free-prize-5000-usd-fdf3554",
+      "https://businessday.ng/news/article/nsia-awards-275000-to-nigerian-startups-come-again-foods-leads-winners/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/uwana_energy_fb1d550273.md",
+      "evidence/phase2/nsia_bd_b7.md",
+      "evidence/phase2/q_uwana_b7.json"
+    ],
+    "batch_number": 7
+  },
+  {
+    "name": "Zendtrax",
+    "website": "https://www.zendtrax.co/",
+    "tier": "A",
+    "status": "VERIFIED",
+    "round_type_exact": "Pre-seed (MARL Accelerator 14th Cohort SAFE)",
+    "amount": "$50K",
+    "announced_date": "2026-10-21",
+    "investors": "MARL Accelerator",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/zendtrax-accelerator-50k-usd-55e3060",
+      "https://www.trysignalbase.com/news/funding/zendtrax-raises-50k-in-pre-seed-round"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/zendtrax_fa93d49a2b.md",
+      "evidence/phase2/solarcorp_8da3a99eb5.md"
+    ],
+    "batch_number": 7
+  },
+  {
+    "name": "Circool",
+    "website": "https://solarcorptech.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Duplicate of Solarcorp (Batch 6): circool_82cd494349.md and q_solarcorp.json confirm Circool is the app/product of Solarcorp on solarcorptech.com, referencing the identical MARL 14th-cohort $50K accelerator selection.",
+    "round_type_exact": "Accelerator ($50K MARL 14th Cohort - duplicate of Solarcorp)",
+    "amount": "$50K",
+    "announced_date": "2026-10-21",
+    "investors": "MARL Accelerator",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/circool-accelerator-50k-usd-6cc60d2"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/circool_82cd494349.md",
+      "evidence/phase2/q_solarcorp.json"
+    ],
+    "batch_number": 7
+  },
+  {
+    "name": "Aktivate",
+    "website": "https://useaktivate.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Early-stage Investment (round unspecified; initial Fund I portfolio)",
+    "amount": "Not disclosed",
+    "announced_date": "2026-10-21",
+    "investors": "Aries Media Ventures (Fund I)",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/aktivate-investment-round-not-specified-undisclosed-59af6f8",
+      "https://african-startups.com/news/funding/aries-media-ventures-launches-debut-fund-for-african-mediatech-startups-backs-first-three-companies/",
+      "https://useaktivate.com/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/aktivate_e48764fbae.md",
+      "evidence/phase1/hy_as_aries_mediatech.md",
+      "evidence/phase2/q_aktivate_b7.json",
+      "evidence/phase2/q_aktivate_site_b7.json"
+    ],
+    "batch_number": 7
+  },
+  {
+    "name": "Beacon Power Services",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Raised Series A financing led by Partech (announced Nov 7, 2024); Oct 16, 2026 $10M EBRD commitment is a corporate debt loan (excluded per Series A+ and debt-facility rules).",
+    "round_type_exact": "Debt Financing ($10M EBRD loan) / Prior Series A (Nov 2024)",
+    "amount": "$10M",
+    "announced_date": "2026-10-16",
+    "investors": "European Bank for Reconstruction and Development (EBRD); earlier: Partech",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/beacon-power-services-debt-financing-10m-usd-822631a",
+      "https://partechpartners.com/news/beacon-power-services-secures-series-a-funding-to-accelerate-sustainable-data-driven-solutions-for-africas-power-sector",
+      "https://techpoint.africa/news/beacon-power-gets-funding-partech/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/beacon_power_services_e72d78acfb.md",
+      "evidence/phase2/q_beacon_b8.json"
+    ],
+    "batch_number": 8
+  },
+  {
+    "name": "Cold Hubs",
+    "website": "https://coldhubs.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Grant (Milken-Motsepe Prize in Circular Economy Semifinalist Unrestricted Award)",
+    "amount": "$50K",
+    "announced_date": "2026-10-15",
+    "investors": "Milken Institute / Motsepe Foundation (also Cascador 2026 ScaleUp Cohort)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/cold-hubs-grant-50k-usd-2c0a614",
+      "https://milkeninstitute.org/content-hub/news-releases/10-companies-named-semifinalists-2-million-milken-motsepe-prize-circular-economy",
+      "https://disruptafrica.com/2026/10/19/10-african-startups-named-semi-finalists-for-2m-milken-motsepe-prize-in-circular-economy/",
+      "https://coldhubs.com/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/cold_hubs_e9c5002c06.md",
+      "evidence/phase2/q_coldhubs_b8.json",
+      "evidence/phase1/hy_disruptafrica_cascador_10.md"
+    ],
+    "batch_number": 8
+  },
+  {
+    "name": "Minicor",
+    "website": "https://www.minicor.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Headquartered in San Francisco, California, US (YC P26; co-founded by Nigerian-born Saheed Akinbile and Faizaan Chishtie); does not meet Nigeria HQ/main operations requirement.",
+    "round_type_exact": "Seed",
+    "amount": "$3.8M",
+    "announced_date": "2026-10-14",
+    "investors": "IA Ventures (lead), Y Combinator, Paul Graham, Pioneer Fund, Robinhood Ventures, Rebel Fund",
+    "hq_location": "San Francisco, United States",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/minicor-seed-3-8m-usd-6a62519",
+      "https://shattered.io/minicor-3-8m-seed-ai-agents-legacy-desktop-apps-akinbile-2026/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/minicor_0a6ccb3d13.md",
+      "evidence/phase2/q_minicor_b8.json"
+    ],
+    "batch_number": 8
+  },
+  {
+    "name": "MAX",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Series B3 funding extension (reaching $29M cumulative) announced 2026-10-12; excluded per Series A+ rule.",
+    "round_type_exact": "Series B3 extension",
+    "amount": "Undisclosed ($29M cumulative Series B3)",
+    "announced_date": "2026-10-12",
+    "investors": "Nithio Holdings, BII",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/maxng-series-b-undisclosed-f0afdea",
+      "https://nithio.com/nithio-expands-its-e-mobility-portfolio-with-investment-in-max/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/max_cb2f16df42.md"
+    ],
+    "batch_number": 8
+  },
+  {
+    "name": "Vatar",
+    "website": "https://vatar.com/",
+    "tier": "A",
+    "status": "VERIFIED",
+    "round_type_exact": "Pre-seed",
+    "amount": "$500K (at $10M valuation)",
+    "announced_date": "2026-10-09",
+    "investors": "Abdulhamid Hassan, Nathan Nwachuku, Oo Nwoye, Resilience17",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://fireround.dev/companies/vatar",
+      "https://techcabal.com/2026/10/09/lagos-life-maker-vatar-raises-500000/",
+      "https://techpoint.africa/news/lagos-life-10m-valuation",
+      "https://vatar.com/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/vatar_16d8fe42b5.md"
+    ],
+    "batch_number": 8
+  },
+  {
+    "name": "Adaptive Atelier",
+    "website": "https://www.adaptiveatelier.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Grant (Standard Chartered Foundation Women in Tech Accelerator Nigeria Cycle 7)",
+    "amount": "$10K",
+    "announced_date": "2026-10-03",
+    "investors": "Standard Chartered Foundation",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/adaptive-atelier-grant-10k-usd-6e0374f",
+      "https://techpoint.africa/brandpress/standard-chartered-foundation-women-in-tech-accelerator-winners-in-nigeria-announced/",
+      "https://www.adaptiveatelier.com/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/adaptive_atelier_d008b18de6.md",
+      "evidence/phase2/q_adaptive_b8.json"
+    ],
+    "batch_number": 8
+  },
+  {
+    "name": "Mariam Grey Pharmacy",
+    "website": "https://mariamgrey.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Grant (Standard Chartered Foundation Women in Tech Accelerator Nigeria Cycle 7)",
+    "amount": "$10K",
+    "announced_date": "2026-10-03",
+    "investors": "Standard Chartered Foundation",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/mariam-grey-pharmacy-grant-10k-usd-dc37247",
+      "https://techpoint.africa/brandpress/standard-chartered-foundation-women-in-tech-accelerator-winners-in-nigeria-announced/",
+      "https://mariamgrey.com/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/mariam_grey_pharmacy_0b87f46eba.md",
+      "evidence/phase2/q_mariam_grey_b8.json"
+    ],
+    "batch_number": 8
+  },
+  {
+    "name": "KidsThatCode",
+    "website": "https://www.kidsthatcode.co/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Grant (Standard Chartered Foundation Women in Tech Accelerator Nigeria Cycle 7)",
+    "amount": "$10K",
+    "announced_date": "2026-10-03",
+    "investors": "Standard Chartered Foundation",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/kidsthatcode-grant-10k-usd-5504a50",
+      "https://techpoint.africa/brandpress/standard-chartered-foundation-women-in-tech-accelerator-winners-in-nigeria-announced/",
+      "https://www.kidsthatcode.co/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/kidsthatcode_12f00be026.md",
+      "evidence/phase2/q_kidsthatcode_b8.json"
+    ],
+    "batch_number": 8
+  },
+  {
+    "name": "Proc360",
+    "website": "https://proc360.1879techhub.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Grant (Standard Chartered Foundation Women in Tech Accelerator Nigeria Cycle 7)",
+    "amount": "$10K",
+    "announced_date": "2026-10-02",
+    "investors": "Standard Chartered Foundation",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/proc360-grant-10k-usd-ae59694",
+      "https://businessday.ng/brands-advertising/article/standard-chartered-foundation-women-in-tech-accelerator-winners-in-nigeria-announced/",
+      "https://herimpactafrica.com/five-nigerian-women-founders-receive-50000-to-scale-technology-businesses/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/proc360_9566ad2831.md",
+      "evidence/phase2/q_proc360_b8.json"
+    ],
+    "batch_number": 8
+  },
+  {
+    "name": "Tomato Jos",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Raised €3.9M ($4.4M / $8.3M total) Series A in 2020 (excluded per Series A+ rule); founded 2014; Oct 1, 2026 $2M Sabou Capital announcement is a debt facility.",
+    "round_type_exact": "Debt Facility ($2M Sabou Capital) / Prior Series A (2020)",
+    "amount": "$2M",
+    "announced_date": "2026-10-01",
+    "investors": "Sabou Capital",
+    "hq_location": "Kaduna, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://african-startups.com/news/funding/african-startups-that-raised-funding-in-september-2026/",
+      "https://nairametrics.com/2020/05/20/deal-tomato-jos-secures-over-n1-8billion-series-a-funding/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/tomato_jos_e19040e893.md",
+      "evidence/phase2/q_tomato_jos_b8.json"
+    ],
+    "batch_number": 8
+  },
+  {
+    "name": "PowerGen Renewable Energy Nigeria Limited",
+    "website": "https://powergen-renewable-energy.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Headquartered in Nairobi, Kenya (Nigeria is a regional office); closed Series A in 2016 plus later corporate/growth rounds; Sep 2026 $5M All On commitment is a mezzanine debt facility.",
+    "round_type_exact": "Mezzanine Debt Facility ($5M All On) / Prior Series A (2016)",
+    "amount": "$5M",
+    "announced_date": "2026-10-01",
+    "investors": "All On",
+    "hq_location": "Nairobi, Kenya (regional office: Abuja, Nigeria)",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://african-startups.com/news/funding/african-startups-that-raised-funding-in-september-2026/",
+      "https://www.africamda.org/one-on-one-with-alastair-smith-ceo-powergen-nigeria/",
+      "https://www.dobequity.nl/dob-equity-powergen"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/tomato_jos_e19040e893.md",
+      "evidence/phase2/q_powergen_b9.json"
+    ],
+    "batch_number": 9
+  },
+  {
+    "name": "Slimepay",
+    "website": "https://slimepay.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Grant (Stellar Community Fund SCF #45 Build Award)",
+    "amount": "$35K",
+    "announced_date": "2026-09-30",
+    "investors": "Stellar Community Fund",
+    "hq_location": "Port Harcourt, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/slimepay-grant-35k-usd-84f0d27",
+      "https://bitcoinke.io/2026/10/stellar-community-fund-45",
+      "https://slimepay.com/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/slimepay_979aff30f7.md",
+      "evidence/phase2/q_slimepay_b9.json"
+    ],
+    "batch_number": 9
+  },
+  {
+    "name": "Ororo Waste",
+    "website": "https://ororowaste.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Tranched corporate debt note (NGN 1.4B / up to $1M) for drums, trucks, hub storage, feedstock purchases and working capital; excluded as non-equity working-capital/asset debt facility.",
+    "round_type_exact": "Debt Financing (tranched corporate note)",
+    "amount": "$1M (NGN 1.4B)",
+    "announced_date": "2026-09-29",
+    "investors": "Rising Tide Africa",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/ororo-waste-debt-financing-1m-ngn-2e0a9cc",
+      "https://furtherafrica.com/2026/10/08/ororo-waste-funding-opens-nigeria-cooking-oil-market/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/ororo_waste_2ad1fbc9d7.md",
+      "evidence/phase2/q_ororo_b9.json"
+    ],
+    "batch_number": 9
+  },
+  {
+    "name": "Jenzy",
+    "website": "https://www.jenzy.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Early Venture Equity (round stage unspecified)",
+    "amount": "Not disclosed",
+    "announced_date": "2026-09-29",
+    "investors": "Kili Ventures",
+    "hq_location": "Ifo, Ogun State, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/jenzy-venture-undisclosed-573b766",
+      "https://www.startuplist.africa/startups/jenzy",
+      "https://african-startups.com/news/funding/kili-ventures-makes-fourth-investment-backing-african-b2b-payments-startup-jenzy/",
+      "https://www.jenzy.com/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/jenzy_184c002b6f.md",
+      "evidence/phase2/jenzy_sl_b9.md",
+      "evidence/phase2/q_jenzy_b9.json",
+      "evidence/phase2/q_jenzy_site_b9.json"
+    ],
+    "batch_number": 9
+  },
+  {
+    "name": "Aeon",
+    "website": "https://aeonsec.io/",
+    "tier": "A",
+    "status": "VERIFIED",
+    "round_type_exact": "Pre-seed",
+    "amount": "$1M",
+    "announced_date": "2026-09-18",
+    "investors": "Terra Industries (lead), Resilience17, Ajim Capital, DFS Labs, Kaleo Ventures, Seedstars",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://fireround.dev/companies/aeon",
+      "https://aeonsec.io/newsroom/aeon-raises-1-million-terra-industries-africa-sovereign-cyber-defence",
+      "https://african-startups.com/countries/nigeria/terra-industries-leads-1-million-pre-seed-round-in-nigerian-cybersecurity-startup-aeon/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/aeon_15cf355067.md",
+      "evidence/phase2/tomato_jos_e19040e893.md"
+    ],
+    "batch_number": 9
+  },
+  {
+    "name": "Biochar Industrial Group",
+    "website": "https://industrialbiochar.com/",
+    "tier": "A",
+    "status": "VERIFIED",
+    "round_type_exact": "Pre-seed",
+    "amount": "$1.5M",
+    "announced_date": "2026-09-17",
+    "investors": "BREEGA (lead), The Catalyst Fund, Mulago Foundation (non-dilutive)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://fireround.dev/companies/biochar-industrial-group",
+      "https://techcabal.com/2026/09/17/biochar-industrial-group-raises-1-5-million",
+      "https://businessday.ng/news/article/biochar-industrial-secures-1-5m-pre-seed-to-scale-africas-industrial-carbon-removal"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/biochar_industrial_group_ec44f009af.md",
+      "evidence/phase2/tomato_jos_e19040e893.md"
+    ],
+    "batch_number": 9
+  },
+  {
+    "name": "Nearpays",
+    "website": "https://www.nearpays.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Equity-free Prize (MoneySurge 2026 Fintech for Good at Money20/20 Middle East)",
+    "amount": "$100K",
+    "announced_date": "2026-09-16",
+    "investors": "MoneySurge / Money20/20 Middle East",
+    "hq_location": "Abuja, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/nearpays-equity-free-prize-100k-usd-3e6400e",
+      "https://www.argaam.com/en/article/articledetail/id/1937012",
+      "https://www.nearpays.com/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/nearpays_b5c72db2a3.md",
+      "evidence/phase2/q_nearpays_b9.json"
+    ],
+    "batch_number": 9
+  },
+  {
+    "name": "Drive45",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "$3M 5-year senior debt facility from TLG Capital AGIF II (announced 2026-09-09) to finance commercial vehicle fleet expansion; excluded as commercial/asset-finance debt facility with no in-window equity round.",
+    "round_type_exact": "Debt Financing (5-year senior debt facility)",
+    "amount": "$3M",
+    "announced_date": "2026-09-09",
+    "investors": "TLG Capital (AGIF II)",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/drive45-debt-financing-3m-usd-8c8d3ce",
+      "https://disruptafrica.com/2026/09/18/nigerian-startup-drive45-mobility-secures-3m-debt-facility-to-drive-growth"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/drive45_9d7d8e48ad.md",
+      "evidence/phase2/q_drive45_b9.json"
+    ],
+    "batch_number": 9
+  },
+  {
+    "name": "VENCO",
+    "website": "https://venco.africa/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Cascador 2026 ScaleUp Cohort (2026-09-07) is a growth-stage mentorship programme without guaranteed funding (2026 Pitch Day occurred June 3, 2026 pre-window); prior $670K round closed Dec 2022 (pre-2026-07-01) and founded 2022 (not Tier D).",
+    "round_type_exact": "Accelerator Mentorship Cohort (Cascador ScaleUp 2026) / Prior Pre-seed (Dec 2022)",
+    "amount": "$670K (Dec 2022); Unfunded cohort",
+    "announced_date": "2026-09-07",
+    "investors": "Cascador (programme); earlier: Zrosk Investment Management (2022)",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://disruptafrica.com/2026/09/07/cascador-picks-10-nigerian-startups-for-2026-scaleup-growth-programme/",
+      "https://www.startuplist.africa/startups/venco"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/venco_3e2fc994a8.md",
+      "evidence/phase2/q_venco_b9.json",
+      "evidence/phase2/q_cascador_pitch_b9.json"
+    ],
+    "batch_number": 9
+  },
+  {
+    "name": "SunFi",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Cascador 2026 ScaleUp Cohort (2026-09-07) is a growth-stage mentorship programme without guaranteed funding; prior $2.325M Seed round closed Feb 2023 (pre-2026-07-01) and founded pre-2025 (not Tier D).",
+    "round_type_exact": "Accelerator Mentorship Cohort (Cascador ScaleUp 2026) / Prior Seed (Feb 2023)",
+    "amount": "$2.325M (Feb 2023); Unfunded cohort",
+    "announced_date": "2026-09-07",
+    "investors": "Cascador (programme); earlier: Factor[e], SCM Capital (2023)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://disruptafrica.com/2026/09/07/cascador-picks-10-nigerian-startups-for-2026-scaleup-growth-programme/",
+      "https://nextbillion.net/news/nigerian-clean-tech-startup-sunfi-raises-2-325-million-in-seed-funding/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/venco_3e2fc994a8.md",
+      "evidence/phase2/q_sunfi_b9.json",
+      "evidence/phase2/q_sunfi_stage_b9.json",
+      "evidence/phase2/q_cascador_pitch_b9.json"
+    ],
+    "batch_number": 9
+  },
+  {
+    "name": "EHA Clinics",
+    "website": "https://www.eha.ng/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Capital Reinvestment / Pre-Series A Impact Investment",
+    "amount": "$1.25M",
+    "announced_date": "2026-07-28",
+    "investors": "EHA Impact Ventures (EIV)",
+    "hq_location": "Abuja, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.eha.ng/blog/eha-clinics-receives-1-25mllion-capital-reinvestment-from-eha-impact-ventures",
+      "https://www.eha.ventures/post/eiv-reinvests-in-eha-clinics-to-strengthen-maternal-care-and-expand-healthcare-access-in-nigeria",
+      "https://trustur.ai/news/ng/2026/07/31/eha-impact-ventures-reinvests-125m-in-eha-clinics-as-government-and-vc-debts-fil/7cd14aad-3738-4347-926f-89deb24ebe1e/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/eha_clinics_b10.md",
+      "evidence/phase2/q_eha_clinics_b10.json",
+      "evidence/phase2/q_eha_stage_b10.json"
+    ],
+    "notes": "Received $1.25M capital reinvestment from EHA Impact Ventures on 2026-07-28 at Insights Learning Forum 2026 in Abuja; confirmed pre-Series A (no Series A closed yet).",
+    "batch_number": 10
+  },
+  {
+    "name": "Beauty Hut Africa",
+    "website": "https://beautyhutafrica.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Selected for Cascador 2026 ScaleUp Cohort (2026-09-07), an unfunded 12-week mentorship programme for growth-stage firms (12 weeks ends ~Nov 30, after Nov 24 window). No in-window funding raised; grant.beautyhutafrica.com is an outbound grant run by Beauty Hut.",
+    "round_type_exact": "Accelerator Mentorship Cohort (Cascador ScaleUp 2026, unfunded)",
+    "amount": "Unfunded cohort",
+    "announced_date": "2026-09-07",
+    "investors": "Cascador (programme)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://disruptafrica.com/2026/09/07/cascador-picks-10-nigerian-startups-for-2026-scaleup-growth-programme/",
+      "https://grant.beautyhutafrica.com/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/venco_3e2fc994a8.md",
+      "evidence/phase2/q_cascador_7a_b10.json",
+      "evidence/phase2/q_cascador_others_b10.json"
+    ],
+    "batch_number": 10
+  },
+  {
+    "name": "BEYOND Fitness",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Selected for Cascador 2026 ScaleUp Cohort (2026-09-07), an unfunded 12-week mentorship programme for growth-stage firms; no in-window funding found.",
+    "round_type_exact": "Accelerator Mentorship Cohort (Cascador ScaleUp 2026, unfunded)",
+    "amount": "Unfunded cohort",
+    "announced_date": "2026-09-07",
+    "investors": "Cascador (programme)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://disruptafrica.com/2026/09/07/cascador-picks-10-nigerian-startups-for-2026-scaleup-growth-programme/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/venco_3e2fc994a8.md",
+      "evidence/phase2/q_cascador_others_b10.json"
+    ],
+    "batch_number": 10
+  },
+  {
+    "name": "Ziba Beach Resort",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Hospitality resort selected for Cascador 2026 ScaleUp Cohort (2026-09-07), an unfunded mentorship programme for established businesses; no in-window funding found.",
+    "round_type_exact": "Accelerator Mentorship Cohort (Cascador ScaleUp 2026, unfunded)",
+    "amount": "Unfunded cohort",
+    "announced_date": "2026-09-07",
+    "investors": "Cascador (programme)",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://disruptafrica.com/2026/09/07/cascador-picks-10-nigerian-startups-for-2026-scaleup-growth-programme/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/venco_3e2fc994a8.md",
+      "evidence/phase2/q_cascador_others_b10.json"
+    ],
+    "batch_number": 10
+  },
+  {
+    "name": "Tulay Africa",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Selected for Cascador 2026 ScaleUp Cohort (2026-09-07), an unfunded mentorship programme; no in-window funding found.",
+    "round_type_exact": "Accelerator Mentorship Cohort (Cascador ScaleUp 2026, unfunded)",
+    "amount": "Unfunded cohort",
+    "announced_date": "2026-09-07",
+    "investors": "Cascador (programme)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://disruptafrica.com/2026/09/07/cascador-picks-10-nigerian-startups-for-2026-scaleup-growth-programme/",
+      "https://pitchbook.com/profiles/company/1489177-27"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/venco_3e2fc994a8.md",
+      "evidence/phase2/q_cascador_7b_b10.json"
+    ],
+    "batch_number": 10
+  },
+  {
+    "name": "Maanj Agric",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Founded 2022 with no funding raised per Tracxn; Cascador 2026 ScaleUp Cohort (2026-09-07) is an unfunded mentorship programme.",
+    "round_type_exact": "Accelerator Mentorship Cohort (Cascador ScaleUp 2026, unfunded)",
+    "amount": "Unfunded cohort",
+    "announced_date": "2026-09-07",
+    "investors": "Cascador (programme)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://disruptafrica.com/2026/09/07/cascador-picks-10-nigerian-startups-for-2026-scaleup-growth-programme/",
+      "https://tracxn.com/d/companies/maanj-agric/__RI-V7o6gewqIRhJ_j3kLY2tmO7_TVsUEdzyKLMFySQ0"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/venco_3e2fc994a8.md",
+      "evidence/phase2/q_cascador_7b_b10.json"
+    ],
+    "batch_number": 10
+  },
+  {
+    "name": "Finger Chops",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Selected for Cascador 2026 ScaleUp Cohort (2026-09-07), an unfunded mentorship programme for growth-stage businesses; no in-window funding found.",
+    "round_type_exact": "Accelerator Mentorship Cohort (Cascador ScaleUp 2026, unfunded)",
+    "amount": "Unfunded cohort",
+    "announced_date": "2026-09-07",
+    "investors": "Cascador (programme)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://disruptafrica.com/2026/09/07/cascador-picks-10-nigerian-startups-for-2026-scaleup-growth-programme/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/venco_3e2fc994a8.md",
+      "evidence/phase2/q_cascador_others_b10.json"
+    ],
+    "batch_number": 10
+  },
+  {
+    "name": "Trade Lenda",
+    "website": "https://tradelenda.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Catalytic Early Financing (Village Capital Africa Ecosystem Catalysts Facility)",
+    "amount": "$300K",
+    "announced_date": "2026-09-03",
+    "investors": "Village Capital (Africa Ecosystem Catalysts Facility)",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/trade-lenda-funding-round-300k-usd-b683912",
+      "https://newsandviews.vilcap.com/press-releases/africa-ecosystem-catalysts-facility-expands-into-nigeria-with-usd-450k-in-first-investments",
+      "https://techcabal.com/2026/09/03/village-capital-nigeria-investments",
+      "https://tradelenda.com/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/trade_lenda_vc_b10.md",
+      "evidence/phase2/q_trade_lenda_stage_b10.json",
+      "evidence/phase2/q_tradelenda_site_b10.json"
+    ],
+    "notes": "Prior $520K Pre-seed (2023); $300K flexible catalytic financing from Village Capital on 2026-09-03 (separate $2M local debt facility excluded).",
+    "batch_number": 10
+  },
+  {
+    "name": "AirSmat",
+    "website": "https://airsmat.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Catalytic Early Financing (Village Capital Africa Ecosystem Catalysts Facility)",
+    "amount": "$150K",
+    "announced_date": "2026-09-03",
+    "investors": "Village Capital (Africa Ecosystem Catalysts Facility)",
+    "hq_location": "Ikoyi, Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/airsmat-funding-round-150k-usd-c3fd5ed",
+      "https://disruptafrica.com/2026/09/07/2-nigerian-startups-secure-450k-from-africa-ecosystem-catalysts-facility",
+      "https://airsmat.com/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/airsmat_f4faa88065.md",
+      "evidence/phase2/q_airsmat_site_b10.json"
+    ],
+    "batch_number": 10
+  },
+  {
+    "name": "ChipMango",
+    "website": "https://chipmango.com/",
+    "tier": "B",
+    "status": "VERIFIED",
+    "round_type_exact": "Seed",
+    "amount": "$1.9M",
+    "announced_date": "2026-09-01",
+    "investors": "Atlantica Ventures (lead), Madica, DFS Lab, Kaleo Ventures, Trilinear Technologies, Malta Venture Capital",
+    "hq_location": "Nigeria (Nigerian startup; Lagos university & NITDA programmes; global ops)",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/chipmango-seed-1-9m-usd-1506894",
+      "https://disruptafrica.com/2026/09/04/nigerias-chipmango-raises-1-9m-seed-round-to-expand-operations-globally/",
+      "https://chipmango.com/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/chipmango_b1046e6558.md",
+      "evidence/phase2/chipmango_da_b10.md",
+      "evidence/phase2/chipmango_company_b10.md",
+      "evidence/phase2/q_chipmango_site_b10.json"
+    ],
+    "batch_number": 10
+  },
+  {
+    "name": "Pewbeam",
+    "website": "https://pewbeam.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Early Venture Equity (round stage unspecified)",
+    "amount": "Not disclosed",
+    "announced_date": "2026-09-01",
+    "investors": "Resilience17",
+    "hq_location": "Ibadan, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/pewbeam-funding-round-undisclosed-3faccfa",
+      "https://resilience17.com/blog/pewbeam-is-building-the-ai-layer-for-church-services",
+      "https://pewbeam.com/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/pewbeam_f11970c794.md",
+      "evidence/phase2/pewbeam_r17_b11.md",
+      "evidence/phase2/q_pewbeam_b11.json"
+    ],
+    "notes": "AI church presentation software built in Ibadan; R17 explicitly notes Pewbeam has grown without spending on marketing and plans to build its first dedicated marketing engine.",
+    "batch_number": 11
+  },
+  {
+    "name": "Odyssey Energy Solutions",
+    "website": "https://odysseyenergysolutions.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "US-headquartered startup (Launch Base Africa: 'The US Startup Controlling Nigeria's $1.1bn Clean Energy Pipeline') raising $74M ($27M equity + $47M debt) later-stage/debt financing.",
+    "round_type_exact": "Debt Financing ($47M) + Equity ($27M)",
+    "amount": "$47M debt ($74M total)",
+    "announced_date": "2026-09-01",
+    "investors": "British International Investment, Facility for Energy Inclusion, Energy Entrepreneurs Growth Fund, BIO",
+    "hq_location": "United States (operations in emerging markets incl. Nigeria)",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/odyssey-energy-solutions-debt-financing-47m-usd-9d7b1b9",
+      "https://odysseyenergysolutions.com/news-insights/odyssey-energy-solutions-raises-74-million-to-accelerate-distributed-renewable-energy-financing-in-emerging-markets"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/odyssey_energy_solutions_16a60d6d34.md"
+    ],
+    "batch_number": 11
+  },
+  {
+    "name": "Maskh Nigeria Limited",
+    "website": "https://maskh.com.ng/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Incorporated in 1991 (mature 35-year-old engineering/infrastructure company, not a startup); $4M Sep 2026 deal is blended project finance including UK retail bond (GBP 600K) and REA results-based financing for mini-grid sites.",
+    "round_type_exact": "Blended Project Financing (All On DART / Energise Africa Bond / REA RBF)",
+    "amount": "$4M",
+    "announced_date": "2026-09-01",
+    "investors": "All On, Energise Africa, Rural Electrification Agency",
+    "hq_location": "Abuja, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/maskh-nigeria-limited-funding-round-4m-usd-7862d55",
+      "https://empowerafrica.com/all-on-and-energise-africa-invest-4-million-in-maskh-nigeria-solar-mini-grid-project/",
+      "https://maskh.com.ng/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/maskh_nigeria_limited_abe1e1e0c0.md",
+      "evidence/phase2/q_maskh_b11.json",
+      "evidence/phase2/q_maskh_site_b11.json"
+    ],
+    "batch_number": 11
+  },
+  {
+    "name": "Thrive Agric",
+    "website": "https://thriveagric.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Debt financing (NGN 5.3B / $3.9M debut Commercial Paper issuance on 2026-08-25); excluded as debt financing.",
+    "round_type_exact": "Debt Financing (Commercial Paper)",
+    "amount": "$3.9M (NGN 5.3B)",
+    "announced_date": "2026-08-25",
+    "investors": "Commercial Paper investors",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/thrive-agric-commercial-paper-3-9m-usd-c67022c",
+      "https://techcabal.com/2026/08/25/thriveagric-commercial-paper-raise-5-3-billion-naira"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/thrive_agric_4256a89829.md"
+    ],
+    "batch_number": 11
+  },
+  {
+    "name": "PricePally",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Follow-on Equity Investment (round stage unspecified)",
+    "amount": "Not disclosed",
+    "announced_date": "2026-08-19",
+    "investors": "Five35 Ventures (lead)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/pricepally-funding-round-undisclosed-4d74597",
+      "https://launchbaseafrica.com/2026/08/19/five35-ventures"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/pricepally_83d969846f.md",
+      "evidence/phase2/q_pricepally_b11.json",
+      "evidence/phase2/q_pricepally_stage_b11.json"
+    ],
+    "notes": "Prior $1.3M Seed in Nov 2023; Aug 2026 follow-on equity investment from Five35 Ventures (no Series A closed).",
+    "batch_number": 11
+  },
+  {
+    "name": "Zummey Technologies",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Grant (Edo Youth Impact Forum 2.0)",
+    "amount": "Not disclosed",
+    "announced_date": "2026-08-18",
+    "investors": "Edo State Government",
+    "hq_location": "Benin City, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/zummey-technologies-grant-undisclosed-1513653",
+      "https://msmeafricaonline.com/edo-state-awards-%E2%82%A640m-grants-to-10-youth-led-ventures-to-support-business-growth",
+      "https://www.startuplist.africa/startups/zummey-technologies"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/zummey_technologies_348d756621.md",
+      "evidence/phase2/zummey_sl_b11.md",
+      "evidence/phase2/q_zummey_b11.json"
+    ],
+    "batch_number": 11
+  },
+  {
+    "name": "Safebox Energy",
+    "website": "https://www.safeboxenergy.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Grant (Edo Youth Impact Forum 2.0)",
+    "amount": "Not disclosed",
+    "announced_date": "2026-08-18",
+    "investors": "Edo State Government",
+    "hq_location": "Benin City, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/safebox-energy-grant-undisclosed-4ad7402",
+      "https://msmeafricaonline.com/edo-state-awards-%E2%82%A640m-grants-to-10-youth-led-ventures-to-support-business-growth",
+      "https://www.safeboxenergy.com/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/safebox_energy_f8a3cb091e.md",
+      "evidence/phase2/q_safebox_b11.json"
+    ],
+    "batch_number": 11
+  },
+  {
+    "name": "Terra Industries",
+    "website": "https://www.terraindustries.co/",
+    "tier": "B",
+    "status": "VERIFIED",
+    "round_type_exact": "Seed extension",
+    "amount": "$18M ($52M seed total)",
+    "announced_date": "2026-08-17",
+    "investors": "8VC, Silent Ventures, Nova Global, Belief Capital, SV Angel, Norleo Space Investments, Grant Gordon",
+    "hq_location": "Abuja, Nigeria (Pax-1 flagship; London office opened)",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://fireround.dev/companies/terra-industries",
+      "https://www.terraindustries.co/newsroom/funding-52m-london",
+      "https://www.finsmes.com/2026/08/terra-industries-raises-additional-18m-in-funding.html"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/terra_industries_e4a2975553.md",
+      "evidence/phase2/terra_pr_b11.md"
+    ],
+    "batch_number": 11
+  },
+  {
+    "name": "Pouchers",
+    "website": "https://pouchers.io/",
+    "tier": "A",
+    "status": "VERIFIED",
+    "round_type_exact": "Pre-seed",
+    "amount": "$500K",
+    "announced_date": "2026-08-14",
+    "investors": "Stack Directory LLC (lead)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/pouchers-pre-seed-500k-usd-625e80e",
+      "https://pouchers.io/blog/500k-in-pre-seed-funding",
+      "https://techcabal.com/2026/08/17/pouchers-raises-500000-in-pre-seed-funding-and-exits-beta"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/pouchers_d040916b63.md",
+      "evidence/phase2/pouchers_site_b11.md"
+    ],
+    "batch_number": 11
+  },
+  {
+    "name": "Blockops",
+    "website": "https://www.blockops.network/",
+    "tier": "A",
+    "status": "VERIFIED",
+    "round_type_exact": "Pre-seed",
+    "amount": "$250K",
+    "announced_date": "2026-08-12",
+    "investors": "Antler (lead)",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/blockops-pre-seed-250k-usd-2462cea",
+      "https://inforcapital.com/news/nigerias-blockops-network-secures-250000-pre-seed-funding-to-power-stablecoin-operations",
+      "https://www.blockops.network/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/blockops_89d1606b32.md",
+      "evidence/phase2/q_blockops_b11.json",
+      "evidence/phase2/q_blockops_site_b11.json"
+    ],
+    "batch_number": 11
+  },
+  {
+    "name": "DAWN AI Study",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Equity-free Grant (Mastercard Foundation EdTech Fellowship Cohort 4)",
+    "amount": "Up to $100K",
+    "announced_date": "2026-08-04",
+    "investors": "CcHUB, Mastercard Foundation",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/dawn-ai-study-grant-100k-usd-326a51e",
+      "https://cchub.africa/the-mastercard-foundation-edtech-fellowship-backs-12-early-stage-nigerian-startups-advancing-inclusive-education-through-innovation-and-evidence/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/dawn_ai_study_665af4b7c4.md",
+      "evidence/phase1/hy_cchub_edtech_12.md"
+    ],
+    "batch_number": 12
+  },
+  {
+    "name": "Lena",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Equity-free Grant (Mastercard Foundation EdTech Fellowship Cohort 4)",
+    "amount": "Up to $100K",
+    "announced_date": "2026-08-04",
+    "investors": "CcHUB, Mastercard Foundation",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/lena-grant-100k-usd-58bf4a5",
+      "https://cchub.africa/the-mastercard-foundation-edtech-fellowship-backs-12-early-stage-nigerian-startups-advancing-inclusive-education-through-innovation-and-evidence/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/lena_241b7217ae.md",
+      "evidence/phase1/hy_cchub_edtech_12.md"
+    ],
+    "batch_number": 12
+  },
+  {
+    "name": "Ileemore Technologies",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Equity-free Grant (Mastercard Foundation EdTech Fellowship Cohort 4)",
+    "amount": "Up to $100K",
+    "announced_date": "2026-08-04",
+    "investors": "CcHUB, Mastercard Foundation",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/ileemore-technologies-grant-100k-usd-3d15f52",
+      "https://cchub.africa/the-mastercard-foundation-edtech-fellowship-backs-12-early-stage-nigerian-startups-advancing-inclusive-education-through-innovation-and-evidence/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/ileemore_technologies_c75c57bdea.md",
+      "evidence/phase1/hy_cchub_edtech_12.md"
+    ],
+    "batch_number": 12
+  },
+  {
+    "name": "Heels and Tech",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Equity-free Grant (Mastercard Foundation EdTech Fellowship Cohort 4)",
+    "amount": "Up to $100K",
+    "announced_date": "2026-08-04",
+    "investors": "CcHUB, Mastercard Foundation",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/heels-and-tech-grant-100k-usd-bd30eff",
+      "https://cchub.africa/the-mastercard-foundation-edtech-fellowship-backs-12-early-stage-nigerian-startups-advancing-inclusive-education-through-innovation-and-evidence/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/heels_and_tech_3cbcbde315.md",
+      "evidence/phase1/hy_cchub_edtech_12.md"
+    ],
+    "batch_number": 12
+  },
+  {
+    "name": "NursePadi",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Equity-free Grant (Mastercard Foundation EdTech Fellowship Cohort 4)",
+    "amount": "Up to $100K",
+    "announced_date": "2026-08-04",
+    "investors": "CcHUB, Mastercard Foundation",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/nursepadi-grant-100k-usd-78954d5",
+      "https://cchub.africa/the-mastercard-foundation-edtech-fellowship-backs-12-early-stage-nigerian-startups-advancing-inclusive-education-through-innovation-and-evidence/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/nursepadi_3403c8c9a1.md",
+      "evidence/phase1/hy_cchub_edtech_12.md"
+    ],
+    "batch_number": 12
+  },
+  {
+    "name": "Lalitah",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Equity-free Grant (Mastercard Foundation EdTech Fellowship Cohort 4)",
+    "amount": "Up to $100K",
+    "announced_date": "2026-08-04",
+    "investors": "CcHUB, Mastercard Foundation",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/lalitah-grant-100k-usd-17cfc20",
+      "https://cchub.africa/the-mastercard-foundation-edtech-fellowship-backs-12-early-stage-nigerian-startups-advancing-inclusive-education-through-innovation-and-evidence/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/lalitah_0e8554b8db.md",
+      "evidence/phase1/hy_cchub_edtech_12.md"
+    ],
+    "batch_number": 12
+  },
+  {
+    "name": "TrainDTrainer",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Equity-free Grant (Mastercard Foundation EdTech Fellowship Cohort 4)",
+    "amount": "Up to $100K",
+    "announced_date": "2026-08-04",
+    "investors": "CcHUB, Mastercard Foundation",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/traindtrainer-grant-100k-usd-5e31a1a",
+      "https://cchub.africa/the-mastercard-foundation-edtech-fellowship-backs-12-early-stage-nigerian-startups-advancing-inclusive-education-through-innovation-and-evidence/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/traindtrainer_ad48364520.md",
+      "evidence/phase1/hy_cchub_edtech_12.md"
+    ],
+    "batch_number": 12
+  },
+  {
+    "name": "Skillup Africa",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Equity-free Grant (Mastercard Foundation EdTech Fellowship Cohort 4)",
+    "amount": "Up to $100K",
+    "announced_date": "2026-08-04",
+    "investors": "CcHUB, Mastercard Foundation",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/skillup-africa-grant-100k-usd-a71daa1",
+      "https://cchub.africa/the-mastercard-foundation-edtech-fellowship-backs-12-early-stage-nigerian-startups-advancing-inclusive-education-through-innovation-and-evidence/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/skillup_africa_99053c0b0c.md",
+      "evidence/phase1/hy_cchub_edtech_12.md"
+    ],
+    "batch_number": 12
+  },
+  {
+    "name": "Ribara Analytica",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Equity-free Grant (Mastercard Foundation EdTech Fellowship Cohort 4)",
+    "amount": "Up to $100K",
+    "announced_date": "2026-08-04",
+    "investors": "CcHUB, Mastercard Foundation",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/ribara-analytica-grant-100k-usd-60f7c9b",
+      "https://cchub.africa/the-mastercard-foundation-edtech-fellowship-backs-12-early-stage-nigerian-startups-advancing-inclusive-education-through-innovation-and-evidence/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/ribara_analytica_530de8fa21.md",
+      "evidence/phase1/hy_cchub_edtech_12.md"
+    ],
+    "batch_number": 12
+  },
+  {
+    "name": "Skilladder",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Equity-free Grant (Mastercard Foundation EdTech Fellowship Cohort 4)",
+    "amount": "Up to $100K",
+    "announced_date": "2026-08-04",
+    "investors": "CcHUB, Mastercard Foundation",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/skilladder-grant-100k-usd-f043c20",
+      "https://cchub.africa/the-mastercard-foundation-edtech-fellowship-backs-12-early-stage-nigerian-startups-advancing-inclusive-education-through-innovation-and-evidence/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/skilladder_5d28154980.md",
+      "evidence/phase1/hy_cchub_edtech_12.md"
+    ],
+    "batch_number": 12
+  },
+  {
+    "name": "Efiwe",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Equity-free Grant (Mastercard Foundation EdTech Fellowship Cohort 4)",
+    "amount": "Up to $100K",
+    "announced_date": "2026-08-04",
+    "investors": "CcHUB, Mastercard Foundation",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/efiwe-grant-100k-usd-413e53d",
+      "https://cchub.africa/the-mastercard-foundation-edtech-fellowship-backs-12-early-stage-nigerian-startups-advancing-inclusive-education-through-innovation-and-evidence/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/efiwe_1bb179f28d.md",
+      "evidence/phase1/hy_cchub_edtech_12.md"
+    ],
+    "batch_number": 13
+  },
+  {
+    "name": "Talktu",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Equity-free Grant (Mastercard Foundation EdTech Fellowship Cohort 4)",
+    "amount": "Up to $100K",
+    "announced_date": "2026-08-04",
+    "investors": "CcHUB, Mastercard Foundation",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/talktu-grant-100k-usd-75ee33f",
+      "https://cchub.africa/the-mastercard-foundation-edtech-fellowship-backs-12-early-stage-nigerian-startups-advancing-inclusive-education-through-innovation-and-evidence/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/talktu_ad55227026.md",
+      "evidence/phase1/hy_cchub_edtech_12.md"
+    ],
+    "batch_number": 13
+  },
+  {
+    "name": "Noma Services",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Pure debt financing ($650k working capital and capex loan from Sahel Capital SEFAA, 2026-07-14).",
+    "round_type_exact": "Debt Financing (Working Capital & Capex Loan)",
+    "amount": "$650K",
+    "announced_date": "2026-07-14",
+    "investors": "Sahel Capital (SEFAA)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://african-startups.com/news/funding/nigerian-agribusiness-noma-services-secures-650k-working-capital-and-capex-loan/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/noma_services_bd8bc629db.md"
+    ],
+    "batch_number": 13
+  },
+  {
+    "name": "Choppaddi",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Grant (Stellar Community Fund #44 Build Award)",
+    "amount": "$80K",
+    "announced_date": "2026-07-24",
+    "investors": "Stellar Community Fund",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/choppaddi-grant-80k-usd-3cfb4cb",
+      "https://dealroom.co/news/145916-six-nigerian-startups-win-521-700-in-stellar-grants-led-by-yolats-110k"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/choppaddi_ba1ec8030d.md",
+      "evidence/phase2/scf44_dealroom_8584237347.md"
+    ],
+    "batch_number": 13
+  },
+  {
+    "name": "Yolat",
+    "website": "https://www.yolat.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Grant (Stellar Community Fund #44 Build Award)",
+    "amount": "$110K",
+    "announced_date": "2026-07-24",
+    "investors": "Stellar Community Fund",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/yolat-grant-110k-usd-29f71fb",
+      "https://dealroom.co/news/145916-six-nigerian-startups-win-521-700-in-stellar-grants-led-by-yolats-110k"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/yolat_a7160b14c3.md",
+      "evidence/phase2/scf44_dealroom_8584237347.md"
+    ],
+    "batch_number": 13
+  },
+  {
+    "name": "Blink Labs",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Grant (Stellar Community Fund #44 Build Award)",
+    "amount": "$75K",
+    "announced_date": "2026-07-24",
+    "investors": "Stellar Community Fund",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/blink-labs-grant-75k-usd-528abd3",
+      "https://dealroom.co/news/145916-six-nigerian-startups-win-521-700-in-stellar-grants-led-by-yolats-110k"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/blink_labs_d6d8bc05c2.md",
+      "evidence/phase2/scf44_dealroom_8584237347.md"
+    ],
+    "batch_number": 13
+  },
+  {
+    "name": "Jumpa",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Grant (Stellar Community Fund #44 Build Award)",
+    "amount": "$89.7K",
+    "announced_date": "2026-07-24",
+    "investors": "Stellar Community Fund",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/jumpa-grant-89-7k-usd-015f1a4",
+      "https://dealroom.co/news/145916-six-nigerian-startups-win-521-700-in-stellar-grants-led-by-yolats-110k"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/jumpa_6abe705c87.md",
+      "evidence/phase2/scf44_dealroom_8584237347.md"
+    ],
+    "batch_number": 13
+  },
+  {
+    "name": "useazza",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Grant (Stellar Community Fund #44 Build Award)",
+    "amount": "$89K",
+    "announced_date": "2026-07-24",
+    "investors": "Stellar Community Fund",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/useazza-grant-89k-usd-b17cb26",
+      "https://dealroom.co/news/145916-six-nigerian-startups-win-521-700-in-stellar-grants-led-by-yolats-110k"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/useazza_d6a81effaf.md",
+      "evidence/phase2/scf44_dealroom_8584237347.md"
+    ],
+    "batch_number": 13
+  },
+  {
+    "name": "Paycashless",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Grant (Stellar Community Fund #44 Build Award)",
+    "amount": "$78K",
+    "announced_date": "2026-07-24",
+    "investors": "Stellar Community Fund",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/paycashless-grant-78k-usd-3fe4c9d",
+      "https://dealroom.co/news/145916-six-nigerian-startups-win-521-700-in-stellar-grants-led-by-yolats-110k"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/paycashless_sl_94a86de0e3.md",
+      "evidence/phase2/scf44_dealroom_8584237347.md"
+    ],
+    "batch_number": 13
+  },
+  {
+    "name": "Codar Tech Africa",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Equity + Debt Funding Round",
+    "amount": "$1.5M",
+    "announced_date": "2026-07-17",
+    "investors": "KWE4 Africa Venture Studio",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/codar-tech-africa-funding-round-1-5m-usd-9109041",
+      "https://techcabal.com/2026/07/17/codar-raises-1-5-million-to-expand-ai-education-across-africa/",
+      "https://empowerafrica.com/codar-raises-1-5-million-to-expand-ai-and-digital-skills-training-across-africa/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/codar_tech_africa_55adc3b339.md",
+      "evidence/phase2/codar_tc_edc70a6164.md",
+      "evidence/phase2/codar_emp_393e1b59f6.md"
+    ],
+    "batch_number": 13
+  },
+  {
+    "name": "Mathesis Analytics",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Institutional Equity / Venture Investment",
+    "amount": "Undisclosed",
+    "announced_date": "2026-07-16",
+    "investors": "First Ally Capital, Sewa Capital",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/mathesis-analytics-first-ally-july-2026",
+      "https://techbuild.africa/mathesis-analytics-ai-infrastructure-nigeria/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/mathesis_analytics_b9d7630427.md",
+      "evidence/phase2/mathesis_tb_953db2efc6.md"
+    ],
+    "batch_number": 14
+  },
+  {
+    "name": "Agriarche",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Announced 2026-06-03 (before 2026-07-01 window) and pure debt financing ($1.7M Cascador Pitch Day).",
+    "round_type_exact": "Debt Financing",
+    "amount": "$1.7M",
+    "announced_date": "2026-06-03",
+    "investors": "Cascador",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/agriarche-debt-financing-1-7m-usd-d0117f1"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/agriarche_sl_345f8bd9e9.md"
+    ],
+    "batch_number": 14
+  },
+  {
+    "name": "Stabyl",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Originally announced 2026-06-04 (Technext 2026-06-05, stealth emergence 2026-06-26/29), before 2026-07-01 window.",
+    "round_type_exact": "Pre-Seed",
+    "amount": "$2.7M",
+    "announced_date": "2026-06-04",
+    "investors": "Konga",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/stabyl-seed-2-7m-usd-47be855"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/stabyl_sl_ca90e82fae.md"
+    ],
+    "batch_number": 14
+  },
+  {
+    "name": "Sika Financial",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Announced 2026-06-08 / 2026-06-09 (Africa Private Equity News, Empower Africa, TechAfrica News), before 2026-07-01 window.",
+    "round_type_exact": "Seed Extension",
+    "amount": "$2M",
+    "announced_date": "2026-06-08",
+    "investors": "Aruwa Capital Management (Fund II)",
+    "hq_location": "Ghana / Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.africaprivateequitynews.com/p/aruwa-capital-invests-in-sika-financial",
+      "https://empowerafrica.com/aruwa-capital-backs-sika-financial-group-with-2-million-to-expand-cross-border-financial-infrastructure/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/sika_search.json",
+      "evidence/phase2/sika_financial_133ea19c17.md"
+    ],
+    "batch_number": 14
+  },
+  {
+    "name": "Powerstove",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Announced 2026-06-03 (before 2026-07-01 window) and pure debt financing ($1.2M Cascador Pitch Day).",
+    "round_type_exact": "Debt Financing",
+    "amount": "$1.2M",
+    "announced_date": "2026-06-03",
+    "investors": "Cascador",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/powerstove-energy-debt-financing-1-2m-usd-33b8eb1"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/powerstove_sl.md"
+    ],
+    "batch_number": 14
+  },
+  {
+    "name": "Eja-Ice",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Announced 2026-06-22 (before 2026-07-01 window).",
+    "round_type_exact": "Equity / Impact Investment",
+    "amount": "$1M",
+    "announced_date": "2026-06-22",
+    "investors": "All On",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://african-startups.com/countries/nigeria/nigerias-eja-ice-secures-1-million-from-all-on-to-scale-solar-powered-cold-chain-in-off-grid-communities/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/eja_ice_as_b9cd066c36.md"
+    ],
+    "batch_number": 14
+  },
+  {
+    "name": "Regxta",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Undisclosed Venture Lab Investment (Renew Capital EmFi Series)",
+    "amount": "Undisclosed",
+    "announced_date": "2026-07-09",
+    "investors": "Renew Capital",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/regxta-emfi-series-undisclosed-6af29d2",
+      "https://thecondia.com/renew-capital-15-shiprazor-oze-regxta/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/regxta_bf0ab676cf.md",
+      "evidence/phase2/regxta_condia_9b411c5f3a.md"
+    ],
+    "batch_number": 14
+  },
+  {
+    "name": "Timon",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Accelerator Investment (Alliance DAO)",
+    "amount": "Undisclosed",
+    "announced_date": "2026-07-08",
+    "investors": "Alliance DAO",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/timon-accelerator-undisclosed-321d41b",
+      "https://thecondia.com/timon-alliance-funding-kenya"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/timon_102b978f8a.md",
+      "evidence/phase2/timon_condia_ad72ca17a4.md"
+    ],
+    "batch_number": 14
+  },
+  {
+    "name": "Data Entry Academy",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Grant (1st Place UNDP Get Ready 4 timbuktoo EdTech)",
+    "amount": "$10K",
+    "announced_date": "2026-07-01",
+    "investors": "UNDP timbuktoo",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/data-entry-academy-grant-10k-usd-ba0ba12",
+      "https://cchub.africa/nigerias-data-entry-academy-wins-first-place-at-undps-timbuktoo-edtech-competition"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/data_entry_academy_98e49c8607.md",
+      "evidence/phase2/data_entry_cchub_8b18c7e9d9.md"
+    ],
+    "batch_number": 14
+  },
+  {
+    "name": "500Chow",
+    "website": "https://www.500chow.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Launched in 2023 (YC S23 Chow Central Inc.); no funding announced between 2026-07-01 and 2026-11-24.",
+    "round_type_exact": "NOT_FOUND",
+    "amount": "NOT_FOUND",
+    "announced_date": "NOT_FOUND",
+    "investors": "NOT_FOUND",
+    "hq_location": "Nigeria",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://liners.com/research/food-delivery-apps-nigeria-2026",
+      "https://www.500chow.com/blog"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/500chow_7ca7822c4f.md",
+      "evidence/phase2/500chow_search.json"
+    ],
+    "batch_number": 14
+  },
+  {
+    "name": "Bridge Merchant",
+    "website": "https://www.bridgemerchant.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Founded in 2020 (pre-2025); grown through operating revenue, founder capital, and undated historical grants; progressing toward institutional debt financing, with no funding announced in 2026-07-01..2026-11-24.",
+    "round_type_exact": "NOT_FOUND",
+    "amount": "NOT_FOUND",
+    "announced_date": "NOT_FOUND",
+    "investors": "Acumen, Heifer International, Standard Chartered Foundation, Access Bank, Sahara Group Foundation (undated past support)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://disruptafrica.com/2026/11/11/nigerian-agri-tech-startup-bridge-merchant-connects-smallholder-farmers-to-institutional-buyers/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/bridge_merchant_10ff6ba84c.md"
+    ],
+    "batch_number": 15
+  },
+  {
+    "name": "BukaFinder",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Listed in Liners Nov 2026 Nigerian food delivery apps study without funding or 2025-2026 launch evidence; no in-window funding found in Firecrawl search.",
+    "round_type_exact": "NOT_FOUND",
+    "amount": "NOT_FOUND",
+    "announced_date": "NOT_FOUND",
+    "investors": "NOT_FOUND",
+    "hq_location": "Nigeria",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://liners.com/research/food-delivery-apps-nigeria-2026"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/500chow_7ca7822c4f.md",
+      "evidence/phase2/search_food_apps_1.json"
+    ],
+    "batch_number": 15
+  },
+  {
+    "name": "Dado Food",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Active since at least May 2024 (pre-2025); no funding announced in 2026-07-01..2026-11-24.",
+    "round_type_exact": "NOT_FOUND",
+    "amount": "NOT_FOUND",
+    "announced_date": "NOT_FOUND",
+    "investors": "NOT_FOUND",
+    "hq_location": "Nigeria",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://liners.com/research/food-delivery-apps-nigeria-2026",
+      "https://lucidityinsights.com/news/dado-food-nigeria"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/500chow_7ca7822c4f.md",
+      "evidence/phase2/search_food_apps_1.json"
+    ],
+    "batch_number": 15
+  },
+  {
+    "name": "DownloadChow",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Listed in Liners Nov 2026 Nigerian food delivery apps study without funding or 2025-2026 launch evidence; no in-window funding found in Firecrawl search.",
+    "round_type_exact": "NOT_FOUND",
+    "amount": "NOT_FOUND",
+    "announced_date": "NOT_FOUND",
+    "investors": "NOT_FOUND",
+    "hq_location": "Nigeria",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://liners.com/research/food-delivery-apps-nigeria-2026"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/500chow_7ca7822c4f.md",
+      "evidence/phase2/search_food_apps_1.json"
+    ],
+    "batch_number": 15
+  },
+  {
+    "name": "Exploit-Forge Limited",
+    "website": "https://strikehound.ai/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Founded in 2024 (pre-2025) per LinkedIn and The Manifest; launched Strikehound product on 2026-11-20 with no external funding announced.",
+    "round_type_exact": "NOT_FOUND",
+    "amount": "NOT_FOUND",
+    "announced_date": "NOT_FOUND",
+    "investors": "NOT_FOUND",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://techpoint.africa/brandpress/exploit-forge-launches-strikehound/",
+      "https://www.linkedin.com/company/exploitforge"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/exploit_forge_limited_f03997df4d.md",
+      "evidence/phase2/search_exploit_forge.json"
+    ],
+    "batch_number": 15
+  },
+  {
+    "name": "First Circle Capital",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Venture capital firm (announced $26M fintech fund close), not an operating startup.",
+    "round_type_exact": "VC Fund Close",
+    "amount": "$26M",
+    "announced_date": "NOT_FOUND",
+    "investors": "LPs",
+    "hq_location": "Africa",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://techpoint.africa/insight/techpoint-digest-1479/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/first_circle_capital_366926d0dd.md"
+    ],
+    "batch_number": 15
+  },
+  {
+    "name": "Foodelo",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Tracxn confirms Foodelo has not raised any funding; no 2025-2026 founding or Tier D eligibility.",
+    "round_type_exact": "NOT_FOUND",
+    "amount": "NOT_FOUND",
+    "announced_date": "NOT_FOUND",
+    "investors": "NOT_FOUND",
+    "hq_location": "Nigeria",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://liners.com/research/food-delivery-apps-nigeria-2026",
+      "https://tracxn.com/d/companies/foodelo/__Aw3xsltjxrBU9l2Y607YanFImc2mufGF-I9kR3wbRYo"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/500chow_7ca7822c4f.md",
+      "evidence/phase2/search_food_apps_1.json"
+    ],
+    "batch_number": 15
+  },
+  {
+    "name": "FoodNaija",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Listed in Liners Nov 2026 Nigerian food delivery apps study without funding or 2025-2026 launch evidence; no in-window funding found in Firecrawl search.",
+    "round_type_exact": "NOT_FOUND",
+    "amount": "NOT_FOUND",
+    "announced_date": "NOT_FOUND",
+    "investors": "NOT_FOUND",
+    "hq_location": "Nigeria",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://liners.com/research/food-delivery-apps-nigeria-2026"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/500chow_7ca7822c4f.md",
+      "evidence/phase2/search_food_apps_2.json"
+    ],
+    "batch_number": 15
+  },
+  {
+    "name": "Gsubz",
+    "website": "https://gsubz.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Founded in 2021 (pre-2025) and bootstrapped; Nov 19, 2026 brand press announces Gsubz Store expansion with no external funding.",
+    "round_type_exact": "NOT_FOUND",
+    "amount": "NOT_FOUND",
+    "announced_date": "NOT_FOUND",
+    "investors": "NOT_FOUND",
+    "hq_location": "Nigeria",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://techpoint.africa/brandpress/gsubz-expands-from-data-into-china-imports-for-nigerian-smes/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/gsubz_1568213f41.md"
+    ],
+    "batch_number": 15
+  },
+  {
+    "name": "HelpMe AI Solutions",
+    "website": "https://www.helpmeai.ng/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Announced public launch on 2026-11-24 after GITEX MVP showcase; no external funding announced and no commercial revenue/paying customers yet (ineligible for Tier D).",
+    "round_type_exact": "NOT_FOUND",
+    "amount": "NOT_FOUND",
+    "announced_date": "NOT_FOUND",
+    "investors": "NOT_FOUND",
+    "hq_location": "Nigeria",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://techpoint.africa/brandpress/helpme-ai-sets-24-november-public-launch-for-unified-ai-transaction-interface/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/helpme_ai_solutions_943b396e8c.md"
+    ],
+    "batch_number": 15
+  },
+  {
+    "name": "Heyfood",
+    "website": "https://heyfood.africa/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Tracxn shows Seed round in Jan 2022 ($500K); no new funding announced in 2026-07-01..2026-11-24.",
+    "round_type_exact": "Seed",
+    "amount": "$500K",
+    "announced_date": "2022-01-01",
+    "investors": "Y Combinator",
+    "hq_location": "Ibadan, Nigeria",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://liners.com/research/food-delivery-apps-nigeria-2026",
+      "https://tracxn.com/d/companies/heyfood/__yDf_qy8QceJG6mGB_sK3cz3xi2hj4zYQZV3gptWguzM"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/500chow_7ca7822c4f.md",
+      "evidence/phase2/search_food_apps_2.json"
+    ],
+    "batch_number": 16
+  },
+  {
+    "name": "Lodapoint",
+    "website": "https://lodapoint.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Launched truck-hailing platform on 2026-11-20 following a B2B pilot; no external funding announced and no commercial revenue figures disclosed.",
+    "round_type_exact": "NOT_FOUND",
+    "amount": "NOT_FOUND",
+    "announced_date": "NOT_FOUND",
+    "investors": "NOT_FOUND",
+    "hq_location": "Nigeria",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://african-startups.com/countries/nigeria/lodapoint-launches-truck-hailing-platform-with-over-10000-trucks-engaged/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/lodapoint_9496341d15.md"
+    ],
+    "batch_number": 16
+  },
+  {
+    "name": "Mytherapist",
+    "website": "https://mytherapist.ng/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Founded in 2021 (pre-2025) and received grants in 2024; no funding announced in 2026-07-01..2026-11-24.",
+    "round_type_exact": "NOT_FOUND",
+    "amount": "NOT_FOUND",
+    "announced_date": "NOT_FOUND",
+    "investors": "54Collective, Wema Bank Nigeria, ABC Health, FATE Foundation (2024 grants)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://disruptafrica.com/2026/11/05/nigerias-mytherapist-wants-to-close-the-gap-between-needing-therapy-and-getting-it/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/mytherapist_3b7f91fe2d.md"
+    ],
+    "batch_number": 16
+  },
+  {
+    "name": "OnIt Innovations",
+    "website": "https://www.onithq.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Launched in Lagos in May 2024 (pre-2025); no dated funding or accelerator selection in 2026-07-01..2026-11-24.",
+    "round_type_exact": "NOT_FOUND",
+    "amount": "NOT_FOUND",
+    "announced_date": "NOT_FOUND",
+    "investors": "Women in Tech accelerator, Orange Corners Nigeria (undated historical)",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://disruptafrica.com/2026/11/24/nigerias-onit-brings-structure-trust-to-africas-informal-service-economy/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/onit_innovations_1ac012ada1.md"
+    ],
+    "batch_number": 16
+  },
+  {
+    "name": "PeoplePulse",
+    "website": "https://www.peoplepulseafrica.com/",
+    "tier": "D",
+    "status": "VERIFIED",
+    "round_type_exact": "Pre-funding / Commercial Revenue (Bootstrapped + Friends & Family)",
+    "amount": "NOT_FOUND",
+    "announced_date": "2026-11-19",
+    "investors": "Founders and friends-and-family; Women in Tech Accelerator Nigeria Cycle 7 top 11 finalist",
+    "hq_location": "Nigeria",
+    "funding_confidence": "TIER_D_REVENUE",
+    "source_urls": [
+      "https://disruptafrica.com/2026/11/19/how-nigerian-startup-peoplepulse-is-helping-smes-digitise-hr-with-ai/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/peoplepulse_83a35729ce.md"
+    ],
+    "notes": "Founded June 2025; piloted May-Jul 2026 with ~280 employees across 8 companies, all 8 converted into paying SME customers at NGN 2,000-3,500/employee/month.",
+    "batch_number": 16
+  },
+  {
+    "name": "Rana Energy",
+    "website": "https://ranaenergy.io/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Raised $3M pre-seed in October 2025 (outside 2026-07-01..2026-11-24 window); Firecrawl search found no 2026 funding round.",
+    "round_type_exact": "Pre-seed",
+    "amount": "$3M",
+    "announced_date": "2025-10-20",
+    "investors": "Techstars, EchoVC Eco, Optimum Global, FSDH Asset Management",
+    "hq_location": "Nigeria",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://disruptafrica.com/2025/10/20/nigerian-startup-rana-energy-raises-3m-pre-seed-funding-to-expand-operations/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/rana_energy_dd61ad6f7d.md",
+      "evidence/phase2/search_rana_energy_2026.json"
+    ],
+    "batch_number": 16
+  },
+  {
+    "name": "Rex Africa",
+    "website": "https://www.rexafrica.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Tracxn confirms Rex Microfinance Bank (Rex Africa) was founded in 2023 (pre-2025) and is unfunded; Nov 11, 2026 article is a product launch with no external funding.",
+    "round_type_exact": "NOT_FOUND",
+    "amount": "NOT_FOUND",
+    "announced_date": "NOT_FOUND",
+    "investors": "NOT_FOUND",
+    "hq_location": "Abuja, Nigeria",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://disruptafrica.com/2026/11/11/nigerias-rex-africa-launches-ai-native-bank-with-conversational-financial-agent/",
+      "https://tracxn.com/d/companies/rex-microfinance-bank/__AqWfR_uXEjbHairRV9lYLQKxh9vbCTxEBmHe9_Jvx4Q"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/rex_africa_bb6aafb79b.md",
+      "evidence/phase2/search_rex_africa.json"
+    ],
+    "batch_number": 16
+  },
+  {
+    "name": "Squaay",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Listed in Liners Nov 2026 Nigerian food delivery apps study without funding or 2025-2026 launch evidence; Firecrawl search found no funding in 2025-2026.",
+    "round_type_exact": "NOT_FOUND",
+    "amount": "NOT_FOUND",
+    "announced_date": "NOT_FOUND",
+    "investors": "NOT_FOUND",
+    "hq_location": "Nigeria",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://liners.com/research/food-delivery-apps-nigeria-2026"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/500chow_7ca7822c4f.md",
+      "evidence/phase2/search_food_apps_2.json"
+    ],
+    "batch_number": 16
+  },
+  {
+    "name": "Tratum",
+    "website": "https://www.tratum-website.vercel.app/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Incorporated in 2025, explicitly pre-launch and pre-revenue ('Tratum is pre-launch and pre-revenue... now raising capital'); ineligible for Tier A/B/C/D.",
+    "round_type_exact": "NOT_FOUND",
+    "amount": "NOT_FOUND",
+    "announced_date": "NOT_FOUND",
+    "investors": "Founder/family and government-assisted loan programmes (undated/pre-launch)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://disruptafrica.com/2026/11/17/nigerias-tratum-building-offline-capable-banking-infrastructure-for-physical-economy/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/tratum_3ede33357e.md"
+    ],
+    "batch_number": 16
+  },
+  {
+    "name": "AbegEppMe Global Services Limited",
+    "website": "https://www.abegeppme.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "F6S profile shows founded 2025 in Lagos with 'Raised from Ayooluwa Adesina' (founder self-funded); no external funding, date, or commercial revenue disclosed.",
+    "round_type_exact": "NOT_FOUND",
+    "amount": "NOT_FOUND",
+    "announced_date": "NOT_FOUND",
+    "investors": "Ayooluwa Adesina (founder)",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://www.f6s.com/company/abegeppme-global-services-limited"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/f6s_159_abegeppme_global_services_limited.md"
+    ],
+    "batch_number": 16
+  },
+  {
+    "name": "Tradevu",
+    "website": "https://www.tradevu.co/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Accelerator / Investment Candidacy (Renew Venture Lab: EmFi Series top 15)",
+    "amount": "Undisclosed (part of $250K venture-building package for 47 finalists; investment consideration)",
+    "announced_date": "2026-07-09",
+    "investors": "Renew Capital",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.renewcapital.com/newsroom/renew-capital-narrows-500-african-companies-to-15-embedded-finance-investment-candidates",
+      "https://thecondia.com/renew-capital-15-shiprazor-oze-regxta/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/renew_capital_emfi.md",
+      "evidence/phase2/regxta_condia_9b411c5f3a.md",
+      "evidence/phase2/search_tradevu.json"
+    ],
+    "notes": "Founded 2024 by Nkiru Amadi-Emina; selected among top 15 from 500+ applicants for Renew Venture Lab EmFi Series.",
+    "batch_number": 17
+  },
+  {
+    "name": "Rigo",
+    "website": "https://www.rigohq.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Accelerator / Investment Candidacy (Renew Venture Lab: EmFi Series top 15)",
+    "amount": "Undisclosed (part of $250K venture-building package for 47 finalists; investment consideration)",
+    "announced_date": "2026-07-09",
+    "investors": "Renew Capital",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.renewcapital.com/newsroom/renew-capital-narrows-500-african-companies-to-15-embedded-finance-investment-candidates",
+      "https://thecondia.com/renew-capital-15-shiprazor-oze-regxta/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/renew_capital_emfi.md",
+      "evidence/phase2/regxta_condia_9b411c5f3a.md",
+      "evidence/phase2/search_rigo.json"
+    ],
+    "notes": "Rigo Incorporated (formerly NucleusIS Africa); founder Olukayode Odeyinde; selected among top 15 for Renew Venture Lab EmFi Series.",
+    "batch_number": 17
+  },
+  {
+    "name": "Varsity Scape",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Accelerator Winner (UNDP Get Ready 4 timbuktoo EdTech Top 10)",
+    "amount": "Undisclosed (Top 10 winner; previously $100K Mastercard Foundation EdTech Fellowship Cohort 3)",
+    "announced_date": "2026-07-01",
+    "investors": "UNDP timbuktoo EdTech Hub",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.ngmorningreport.com/p/nigerian-edtech-startup-wins-10000",
+      "https://cchub.africa/nigerias-data-entry-academy-wins-first-place-at-undps-timbuktoo-edtech-competition/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/timbuktoo_ngmorning.md",
+      "evidence/phase2/data_entry_cchub_8b18c7e9d9.md",
+      "evidence/phase2/search_varsity_scape.json"
+    ],
+    "notes": "Founded by Daniel Idiare; placed 6th among top 10 winners out of 1,429 applicants at UNDP Get Ready 4 timbuktoo EdTech pitch event on 2026-07-01.",
+    "batch_number": 17
+  },
+  {
+    "name": "Genovo Technologies",
+    "website": "https://www.genovotech.dev/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "F6S profile shows founded 2025 in Lagos, 'Raised from Ifeoluwa Adegbite and 1 more' (founder self-funded); no external funding, date, or commercial revenue disclosed.",
+    "round_type_exact": "NOT_FOUND",
+    "amount": "NOT_FOUND",
+    "announced_date": "NOT_FOUND",
+    "investors": "Ifeoluwa Adegbite (founder)",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://www.f6s.com/company/genovo-technologies"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/f6s_171_genovo_technologies.md"
+    ],
+    "batch_number": 17
+  },
+  {
+    "name": "KeyCall Automations Enterprise",
+    "website": "https://www.keycall.tech/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "F6S profile shows founded 2026 in Abuja, 'Raised from Abel Okurerie' (founder self-funded); no external funding, date, or commercial revenue disclosed.",
+    "round_type_exact": "NOT_FOUND",
+    "amount": "NOT_FOUND",
+    "announced_date": "NOT_FOUND",
+    "investors": "Abel Okurerie (founder)",
+    "hq_location": "Abuja, Nigeria",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://www.f6s.com/company/keycall-automations-enterprise"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/f6s_173_keycall_automations_enterprise.md"
+    ],
+    "batch_number": 17
+  },
+  {
+    "name": "Nahme",
+    "website": "https://www.nahme.co/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "F6S profile shows founded 2026 in Lagos, 'Raised from Owolabi Gideon' (founder self-funded); no external funding, date, or commercial revenue disclosed.",
+    "round_type_exact": "NOT_FOUND",
+    "amount": "NOT_FOUND",
+    "announced_date": "NOT_FOUND",
+    "investors": "Owolabi Gideon (founder)",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://www.f6s.com/company/nahme"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/f6s_176_nahme.md"
+    ],
+    "batch_number": 17
+  },
+  {
+    "name": "Optimus-Ai global Ecosystem Ltd",
+    "website": "https://optimusaiglobal.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "F6S profile shows founded 2026 in Lagos, 'Raised from Omoredia Ronald' (founder self-funded); no external funding, date, or commercial revenue disclosed.",
+    "round_type_exact": "NOT_FOUND",
+    "amount": "NOT_FOUND",
+    "announced_date": "NOT_FOUND",
+    "investors": "Omoredia Ronald (founder)",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://www.f6s.com/company/optimus-ai-global-ecosystem-ltd"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/f6s_179_optimus_ai_global_ecosystem_ltd.md"
+    ],
+    "batch_number": 17
+  },
+  {
+    "name": "Safe Space Pro",
+    "website": "http://www.safespacepro.io/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "F6S profile shows founded 2025 in Abuja, 'Raised from Prince Obiapuna' (founder self-funded); no external funding, date, or commercial revenue disclosed.",
+    "round_type_exact": "NOT_FOUND",
+    "amount": "NOT_FOUND",
+    "announced_date": "NOT_FOUND",
+    "investors": "Prince Obiapuna (founder)",
+    "hq_location": "Abuja, Nigeria",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://www.f6s.com/company/safe-space-pro"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/f6s_183_safe_space_pro.md"
+    ],
+    "batch_number": 17
+  },
+  {
+    "name": "Shuaibujaccingo",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "F6S profile is an individual AI data annotator/freelancer listing cloud/developer credits (AWS, ElevenLabs, GitHub, Cloudflare), not a funded startup.",
+    "round_type_exact": "NOT_FOUND",
+    "amount": "NOT_FOUND",
+    "announced_date": "NOT_FOUND",
+    "investors": "NOT_FOUND",
+    "hq_location": "Yola, Nigeria",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://www.f6s.com/company/shuaibujaccingo"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/f6s_184_shuaibujaccingo.md"
+    ],
+    "batch_number": 17
+  },
+  {
+    "name": "Tally Technologies Limited",
+    "website": "https://www.tallytechng.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "F6S profile shows founded 2024 in Abuja, 'Raised from Abasi Ekpenyon' (founder self-funded); no external funding, date, or commercial revenue disclosed.",
+    "round_type_exact": "NOT_FOUND",
+    "amount": "NOT_FOUND",
+    "announced_date": "NOT_FOUND",
+    "investors": "Abasi Ekpenyon (founder)",
+    "hq_location": "Abuja, Nigeria",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://www.f6s.com/company/tally-technologies-limited"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/f6s_187_tally_technologies_limited.md"
+    ],
+    "batch_number": 17
+  }
+]

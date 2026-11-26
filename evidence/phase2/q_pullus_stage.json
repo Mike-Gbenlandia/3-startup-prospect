@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.caplight.com/company/pullusafrica",
+        "title": "Pullus Africa Valuation & Funding History",
+        "description": "Pullus Africa Funding Rounds ; Pre Seed, May 5, 2026. Demo ; Accelerator, Feb 26, 2025. Demo ; Seed, Jan 1, 2024. Demo ; pre_seed, Oct 15, 2023. Demo.",
+        "position": 1
+      },
+      {
+        "url": "https://www.crunchbase.com/organization/pullus-africa",
+        "title": "Pullus Africa - Crunchbase Company Profile & Funding",
+        "description": "Seed Round - Pullus Africa Logo. Seed Round - Pullus Africa · 1. obfuscated ... Europe, Middle East, and Africa (EMEA) B2B Companies with Seed Funding.",
+        "position": 2
+      },
+      {
+        "url": "https://www.startuplist.africa/startups/pullus-africa",
+        "title": "Pullus Africa: Company Profile, Funding & Investors",
+        "description": "Pullus Africa has raised 1 funding round; the amounts were not disclosed. Its latest, a Investment (instrument not disclosed), was announced on ...",
+        "position": 3
+      },
+      {
+        "url": "https://www.avca.africa/news-insights/member-news/acumen-invests-in-pullus/",
+        "title": "Acumen invests in Pullus - avca.africa",
+        "description": "Acumen has invested in Pullus Africa Solutions Limited, a Nigerian agribusiness working to create fairer and more reliable markets for smallholder poultry ...",
+        "position": 4
+      },
+      {
+        "url": "https://www.trysignalbase.com/news/funding/pullus-africa-raises-500k-pre",
+        "title": "Pullus Africa Raises $500K Pre",
+        "description": "A new infusion of capital is set to boost local poultry production across Africa, as Pullus Africa announced it has raised $500K in pre-seed funding.",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a21295-20cd-727e-8440-dc821c235f68"
+}

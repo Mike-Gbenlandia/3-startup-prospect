@@ -1,0 +1,2060 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "tools": [
+      {
+        "provider": "fireround",
+        "capability": "companies/profile",
+        "name": "A company's profile and funding",
+        "description": "One recently funded startup's profile and venture funding, when Fireround holds it: its headquarters (location), its sector, what the company does, its total raised (announced and reported rounds), its valuation (latest and every stated one), every round newest first with its leads and official announcement, and every investor on them, leads first. Use for questions like \"where is TypeSafe AI headquartered and what does it do\", \"tell me about Supabase's funding\", \"what is Ramp valued at\" or \"who has invested in Ramp\". Takes the company's domain or its id from companies/search. Coverage limit: Fireround tracks rounds announced from 2026 onward. It holds a few thousand companies, most of them startups that raised in 2026, and earlier rounds only for some of those. Most companies, and most rounds before 2026, are not on record, so a lookup of an arbitrary company's full funding history, its pre-2026 rounds, an investor's whole portfolio or acquisitions usually returns nothing here; use a company-data provider with historical funding coverage for those.",
+        "creditsCost": 5,
+        "perRecord": false,
+        "options": [
+          {
+            "name": "id",
+            "type": "string",
+            "about": "The company's domain or its id from companies/search, for example `supabase.com` or `supabase`; its name as written (`Supabase`) works too. Also accepted under company, domain, name or url, including a fireround company URL.",
+            "aliases": [
+              "company",
+              "domain",
+              "name",
+              "slug",
+              "company_id",
+              "companyId",
+              "company_name",
+              "url",
+              "website"
+            ],
+            "in": "path",
+            "required": true
+          }
+        ],
+        "response": {
+          "about": "One company's profile and funding: where it is headquartered, its sector, what it does, its total raised, its valuations, every round and every investor.",
+          "key": "",
+          "fields": [
+            {
+              "about": "The company's id: pass it to companies/profile.",
+              "name": "id",
+              "type": "string"
+            },
+            {
+              "name": "name",
+              "type": "string"
+            },
+            {
+              "about": "The company's own website, bare, when known.",
+              "name": "domain",
+              "type": "string"
+            },
+            {
+              "about": "The company's page on fireround.dev, with every round and its sources.",
+              "name": "url",
+              "type": "string"
+            },
+            {
+              "about": "What the company does, from its own homepage when read.",
+              "name": "description",
+              "type": "string"
+            },
+            {
+              "about": "The company's sector, as fireround classifies it.",
+              "name": "sector",
+              "type": "string"
+            },
+            {
+              "about": "Where the company is based, for example `London, UK`.",
+              "name": "headquarters",
+              "type": "string"
+            },
+            {
+              "about": "What it raised in million USD: the stated amounts of its announced and reported rounds, never expected or unconfirmed ones.",
+              "name": "total_raised_usd_millions",
+              "type": "number"
+            },
+            {
+              "about": "The company's own stated funding to date, from its newest announced or reported round that states one; null when none does. usd_millions, as_written, quote (the sentence that states it), stated_on, stage, stage_as_written, source (the page it is read from), rounds_sum_usd_millions (what its rounds on record add up to by then) and exceeds_rounds_sum (true when the stated total is more than 2% above that sum, so some earlier rounds are missing here). Prefer it to total_raised_usd_millions for \"how much has X raised\" when exceeds_rounds_sum is true.",
+              "name": "stated_total_raised",
+              "type": "object"
+            },
+            {
+              "about": "What it was valued at, kept apart from what it raised: `stated` lists every round that carries a valuation, newest first (usd_millions, as_written, basis, announced_on, stage, stage_as_written, certainty), and `latest` is the first of them, null when no source states one.",
+              "name": "valuation_history",
+              "type": "object"
+            },
+            {
+              "about": "Its newest round: stage, stage_as_written, amount (usd_millions, as_written), valuation (usd_millions, as_written, basis: post, pre or unknown; null when no source states one), announced_on, certainty, lead_investors, other_investors, primary_source (the official announcement's URL, or null), earlier_round.",
+              "name": "latest_round",
+              "type": "object"
+            },
+            {
+              "about": "Every round on record, newest first: stage, stage_as_written, amount (usd_millions, as_written), valuation (usd_millions, as_written, basis: post, pre or unknown; null when no source states one), announced_on, certainty, lead_investors, other_investors, primary_source (the official announcement's URL, or null), earlier_round.",
+              "name": "rounds",
+              "type": "object[]"
+            },
+            {
+              "about": "The investors on its rounds, leads first: id (pass it to investors/profile), name, domain, url, rounds_led, rounds_participated.",
+              "name": "investors",
+              "type": "object[]"
+            }
+          ]
+        },
+        "id": "fireround/companies/profile",
+        "example": {
+          "recordedAt": "2026-10-11",
+          "request": {
+            "id": "supabase.com"
+          },
+          "response": {
+            "id": "supabase",
+            "name": "Supabase",
+            "domain": "supabase.com",
+            "url": "https://fireround.dev/companies/supabase",
+            "description": "a leader in agentic infrastructure and open source Postgres development platform",
+            "sector": "ai infrastructure",
+            "headquarters": "San Francisco",
+            "total_raised_usd_millions": 916,
+            "latest_round": {
+              "stage": "growth",
+              "stage_as_written": "growth equity",
+              "amount": {
+                "usd_millions": 150,
+                "as_written": "US$150 million"
+              },
+              "announced_on": "2026-10-02",
+              "certainty": "announced",
+              "lead_investors": [
+                "GIC"
+              ],
+              "other_investors": [
+                "IronArc",
+                "Alphabet's CapitalG",
+                "Square Peg"
+              ],
+              "primary_source": "https://www.prnewswire.com/news-releases/supabase-announces-150m-in-new-funding-and-turso-acquisition-302896752.html",
+              "earlier_round": false
+            },
+            "rounds": [
+              {
+                "stage": "growth",
+                "stage_as_written": "growth equity",
+                "amount": {
+                  "usd_millions": 150,
+                  "as_written": "US$150 million"
+                },
+                "announced_on": "2026-10-02",
+                "certainty": "announced",
+                "lead_investors": [
+                  "GIC"
+                ],
+                "other_investors": [
+                  "IronArc",
+                  "Alphabet's CapitalG",
+                  "Square Peg"
+                ],
+                "primary_source": "https://www.prnewswire.com/news-releases/supabase-announces-150m-in-new-funding-and-turso-acquisition-302896752.html",
+                "earlier_round": false
+              },
+              {
+                "stage": "series_d_plus",
+                "stage_as_written": "Series F",
+                "amount": {
+                  "usd_millions": 500,
+                  "as_written": "$500 million"
+                },
+                "announced_on": "2026-06-04",
+                "certainty": "announced",
+                "lead_investors": [
+                  "GIC"
+                ],
+                "other_investors": [
+                  "Accel",
+                  "Y Combinator",
+                  "Craft Ventures",
+                  "Felicis",
+                  "Peak XV Partners",
+                  "Coatue",
+                  "Stripe",
+                  "Salesforce Ventures"
+                ],
+                "primary_source": "https://supabase.com/blog/supabase-series-f",
+                "earlier_round": true
+              },
+              {
+                "stage": "series_d_plus",
+                "stage_as_written": "Series E",
+                "amount": {
+                  "usd_millions": 100,
+                  "as_written": "$100M"
+                },
+                "announced_on": "2025-10-03",
+                "certainty": "announced",
+                "lead_investors": [
+                  "Accel",
+                  "Peak XV Partners"
+                ],
+                "other_investors": [
+                  "Figma Ventures",
+                  "YC",
+                  "Coatue",
+                  "Felicis",
+                  "Craft Ventures",
+                  "Square Peg"
+                ],
+                "primary_source": "https://supabase.com/blog/supabase-series-e",
+                "earlier_round": true
+              },
+              {
+                "stage": "series_c",
+                "stage_as_written": "Series C",
+                "amount": {
+                  "usd_millions": 80,
+                  "as_written": "$80 million"
+                },
+                "announced_on": "2024-09-25",
+                "certainty": "announced",
+                "lead_investors": [
+                  "Peak XV Partners",
+                  "Craft Ventures"
+                ],
+                "other_investors": [
+                  "Avra Capital",
+                  "Coatue",
+                  "Felicis",
+                  "Y Combinator"
+                ],
+                "primary_source": null,
+                "earlier_round": true
+              },
+              {
+                "stage": "series_b",
+                "stage_as_written": "Series B",
+                "amount": {
+                  "usd_millions": 80,
+                  "as_written": "$80M"
+                },
+                "announced_on": "2022-05-10",
+                "certainty": "announced",
+                "lead_investors": [
+                  "Felicis"
+                ],
+                "other_investors": [
+                  "Square Peg",
+                  "Coatue",
+                  "Lightspeed"
+                ],
+                "primary_source": "https://supabase.com/blog/supabase-series-b",
+                "earlier_round": true
+              },
+              {
+                "stage": "other",
+                "stage_as_written": "funding round",
+                "amount": {
+                  "usd_millions": 6,
+                  "as_written": "$6 million"
+                },
+                "announced_on": "2020-12-15",
+                "certainty": "announced",
+                "lead_investors": [
+                  "Coatue"
+                ],
+                "other_investors": [
+                  "YC",
+                  "Mozilla"
+                ],
+                "primary_source": null,
+                "earlier_round": true
+              }
+            ],
+            "investors": [
+              {
+                "id": "peak-xv",
+                "name": "Peak XV Partners",
+                "domain": "peakxv.com",
+                "url": "https://fireround.dev/investors/peak-xv",
+                "rounds_led": 2,
+                "rounds_participated": 1
+              },
+              {
+                "id": "gic",
+                "name": "GIC",
+                "domain": "gic.com.sg",
+                "url": "https://fireround.dev/investors/gic",
+                "rounds_led": 2,
+                "rounds_participated": 0
+              },
+              {
+                "id": "coatue",
+                "name": "Coatue",
+                "domain": "coatue.com",
+                "url": "https://fireround.dev/investors/coatue",
+                "rounds_led": 1,
+                "rounds_participated": 4
+              },
+              {
+                "id": "felicis",
+                "name": "Felicis",
+                "domain": "felicis.com",
+                "url": "https://fireround.dev/investors/felicis",
+                "rounds_led": 1,
+                "rounds_participated": 3
+              },
+              {
+                "id": "craft",
+                "name": "Craft Ventures",
+                "domain": "craftventures.com",
+                "url": "https://fireround.dev/investors/craft",
+                "rounds_led": 1,
+                "rounds_participated": 2
+              },
+              {
+                "id": "accel",
+                "name": "Accel",
+                "domain": "accel.com",
+                "url": "https://fireround.dev/investors/accel",
+                "rounds_led": 1,
+                "rounds_participated": 1
+              },
+              {
+                "id": "square-peg",
+                "name": "Square Peg",
+                "domain": "squarepeg.vc",
+                "url": "https://fireround.dev/investors/square-peg",
+                "rounds_led": 0,
+                "rounds_participated": 3
+              },
+              {
+                "id": "y-combinator",
+                "name": "Y Combinator",
+                "domain": "ycombinator.com",
+                "url": "https://fireround.dev/investors/y-combinator",
+                "rounds_led": 0,
+                "rounds_participated": 2
+              },
+              {
+                "id": "yc",
+                "name": "YC",
+                "domain": null,
+                "url": "https://fireround.dev/investors/yc",
+                "rounds_led": 0,
+                "rounds_participated": 2
+              },
+              {
+                "id": "alphabet-capitalg",
+                "name": "Alphabet's CapitalG",
+                "domain": null,
+                "url": "https://fireround.dev/investors/alphabet-capitalg",
+                "rounds_led": 0,
+                "rounds_participated": 1
+              },
+              {
+                "id": "avra",
+                "name": "Avra Capital",
+                "domain": "avracap.com",
+                "url": "https://fireround.dev/investors/avra",
+                "rounds_led": 0,
+                "rounds_participated": 1
+              },
+              {
+                "id": "figma",
+                "name": "Figma Ventures",
+                "domain": null,
+                "url": "https://fireround.dev/investors/figma",
+                "rounds_led": 0,
+                "rounds_participated": 1
+              },
+              {
+                "id": "ironarc",
+                "name": "IronArc",
+                "domain": null,
+                "url": "https://fireround.dev/investors/ironarc",
+                "rounds_led": 0,
+                "rounds_participated": 1
+              },
+              {
+                "id": "lightspeed",
+                "name": "Lightspeed",
+                "domain": "lsvp.com",
+                "url": "https://fireround.dev/investors/lightspeed",
+                "rounds_led": 0,
+                "rounds_participated": 1
+              },
+              {
+                "id": "mozilla",
+                "name": "Mozilla",
+                "domain": "mozilla.org",
+                "url": "https://fireround.dev/investors/mozilla",
+                "rounds_led": 0,
+                "rounds_participated": 1
+              },
+              {
+                "id": "salesforce",
+                "name": "Salesforce Ventures",
+                "domain": "salesforceventures.com",
+                "url": "https://fireround.dev/investors/salesforce",
+                "rounds_led": 0,
+                "rounds_participated": 1
+              },
+              {
+                "id": "stripe",
+                "name": "Stripe",
+                "domain": "stripe.com",
+                "url": "https://fireround.dev/investors/stripe",
+                "rounds_led": 0,
+                "rounds_participated": 1
+              }
+            ]
+          }
+        },
+        "execute": {
+          "provider": "fireround",
+          "capability": "companies/profile"
+        },
+        "similarity": 0.5703967779759088,
+        "reputation": {
+          "calls": 298,
+          "successRate": 1,
+          "emptyRate": 0.4429530201342282,
+          "p50Ms": 356,
+          "p95Ms": 1949
+        },
+        "matchedBy": [
+          "semantic"
+        ],
+        "matchedUrls": []
+      },
+      {
+        "provider": "fireround",
+        "capability": "companies/rounds",
+        "name": "A company's funding rounds",
+        "description": "Every funding round Fireround holds for one recently funded startup, as full round records, newest first: each with amount, valuation, investors, certainty, the sentence that states it and its sources. Use when you need the evidence and sources behind a company's rounds; for an overview of its funding (total raised, investors) use companies/profile. Coverage limit: Fireround tracks rounds announced from 2026 onward. It holds a few thousand companies, most of them startups that raised in 2026, and earlier rounds only for some of those. Most companies, and most rounds before 2026, are not on record, so a lookup of an arbitrary company's full funding history, its pre-2026 rounds, an investor's whole portfolio or acquisitions usually returns nothing here; use a company-data provider with historical funding coverage for those.",
+        "creditsCost": 5,
+        "perRecord": false,
+        "options": [
+          {
+            "name": "company",
+            "type": "string",
+            "about": "The company's domain (`supabase.com`, a URL works too) or its name. The domain is exact; a name matches the company's own name.",
+            "required": true
+          },
+          {
+            "name": "certainty",
+            "type": "string",
+            "about": "Only rounds of this certainty: announced (closed on the record), reported (said to have closed by a publisher citing unnamed sources), expected (still being raised), unconfirmed. Absent means every certainty but unconfirmed.",
+            "oneOf": [
+              "announced",
+              "reported",
+              "expected",
+              "unconfirmed"
+            ]
+          },
+          {
+            "name": "limit",
+            "type": "number",
+            "about": "Rounds per page, 1 to 50. Defaults to 20. Each round is a full record of about 1,500 characters, so read more with `cursor` rather than a larger page.",
+            "max": 50,
+            "min": 1
+          },
+          {
+            "name": "cursor",
+            "type": "string",
+            "about": "The `next_cursor` of the previous page, to read the next one under the same filters."
+          }
+        ],
+        "response": {
+          "about": "One page of rounds under `data`, with `next_cursor` beside it (null on the last page). When a name matched nothing, `did_you_mean` lists up to three near names (`id`, `name`) to retry with. Each round is what Fireround checked: the company, stage, money, valuation when stated, date, certainty, investors, the sentence that states it and the pages it was read from.",
+          "key": "data",
+          "fields": [
+            {
+              "about": "Stable round id, company_key:stage:announced_on.",
+              "name": "id",
+              "type": "string"
+            },
+            {
+              "about": "The round's company page on fireround.dev, with every source and the evidence for each field.",
+              "name": "url",
+              "type": "string"
+            },
+            {
+              "about": "name, domain, website, description, sector, headquarters.",
+              "name": "company",
+              "type": "object"
+            },
+            {
+              "about": "One of pre_seed, seed, pre_a, series_a, series_b, series_c, series_d_plus, growth, bridge, debt, grant, convertible, secondary, undisclosed, other.",
+              "name": "stage",
+              "type": "string"
+            },
+            {
+              "about": "The stage as the source wrote it, for example `Series B-2`.",
+              "name": "stage_as_written",
+              "type": "string"
+            },
+            {
+              "about": "usd_millions (null when undisclosed or unconvertible), as_written, currency.",
+              "name": "amount",
+              "type": "object"
+            },
+            {
+              "about": "The post- or pre-money valuation as written, when a source states it.",
+              "name": "valuation",
+              "type": "string"
+            },
+            {
+              "about": "true when a valuation is stated; false when a source says outright that it was not disclosed; null when no source says either way. A null valuation with false here is a known non-disclosure, not a gap.",
+              "name": "valuation_disclosed",
+              "type": "boolean"
+            },
+            {
+              "about": "A larger figure stated beside the round, such as funding to date or the whole financing; never the round's own amount.",
+              "name": "total_as_written",
+              "type": "string"
+            },
+            {
+              "about": "YYYY-MM-DD; read with date_precision (day, week, month, unknown).",
+              "name": "announced_on",
+              "type": "string"
+            },
+            {
+              "name": "date_precision",
+              "type": "string"
+            },
+            {
+              "about": "announced (closed on the record), reported (said to have closed, citing unnamed sources), expected (still being raised), or unconfirmed (reported or expected, and never confirmed).",
+              "name": "certainty",
+              "type": "string"
+            },
+            {
+              "about": "True when a model read the round back against its sources and they agreed, with any field it corrected applied.",
+              "name": "verified",
+              "type": "boolean"
+            },
+            {
+              "about": "True when the round is public but carries a recorded doubt (thin evidence, low confidence, or no stated amount); treat it as provisional.",
+              "name": "provisional",
+              "type": "boolean"
+            },
+            {
+              "about": "True for an earlier round of the company, verified on its own, rather than recent news.",
+              "name": "earlier_round",
+              "type": "boolean"
+            },
+            {
+              "about": "True for an extension of an earlier round.",
+              "name": "is_extension",
+              "type": "boolean"
+            },
+            {
+              "name": "lead_investors",
+              "type": "string[]"
+            },
+            {
+              "name": "other_investors",
+              "type": "string[]"
+            },
+            {
+              "about": "The sentence from a source that states the round.",
+              "name": "evidence",
+              "type": "string"
+            },
+            {
+              "about": "The round's official announcement: url, and kind (company for the company's own page, wire for its newswire release). Null when the sources hold neither.",
+              "name": "primary_source",
+              "type": "object"
+            },
+            {
+              "about": "Up to 3 pages the round was read from, in reading order (the official announcement first, then established outlets, then the rest): url, title, publisher, published.",
+              "name": "sources",
+              "type": "object[]"
+            },
+            {
+              "about": "How many pages the round was read from in all.",
+              "name": "source_count",
+              "type": "number"
+            },
+            {
+              "about": "While the round is in its first 72 hours: rank, people_on_x, outlets, hn_points. Null after.",
+              "name": "trending",
+              "type": "object"
+            },
+            {
+              "about": "The company's other rounds announced before this one, newest first, up to 5: id, stage, stage_as_written, amount (usd_millions, as_written), announced_on, lead_investors, url (the round's official announcement when it has one).",
+              "name": "previous_rounds",
+              "type": "object[]"
+            }
+          ],
+          "paginated": true
+        },
+        "id": "fireround/companies/rounds",
+        "example": {
+          "recordedAt": "2026-10-08",
+          "request": {
+            "company": "supabase.com",
+            "limit": 3
+          },
+          "response": {
+            "data": [
+              {
+                "id": "supabase:other:2026-10-05",
+                "url": "https://fireround.dev/companies/supabase",
+                "company": {
+                  "name": "Supabase",
+                  "domain": "supabase.com",
+                  "website": "https://supabase.com",
+                  "description": "a leader in agentic infrastructure and open source Postgres development platform",
+                  "sector": "ai infrastructure",
+                  "headquarters": "San Francisco"
+                },
+                "stage": "growth",
+                "stage_as_written": "growth equity",
+                "amount": {
+                  "usd_millions": 150,
+                  "as_written": "$150 million",
+                  "currency": "USD"
+                },
+                "valuation": null,
+                "valuation_disclosed": null,
+                "total_as_written": null,
+                "announced_on": "2026-10-02",
+                "date_precision": "day",
+                "certainty": "announced",
+                "verified": true,
+                "provisional": false,
+                "earlier_round": false,
+                "is_extension": false,
+                "lead_investors": [
+                  "GIC"
+                ],
+                "other_investors": [
+                  "Alphabet's CapitalG",
+                  "SquarePeg",
+                  "IronArc"
+                ],
+                "evidence": "Supabase, a San Francisco, CA-based provider of an agentic infrastructure and open source Postgres development platform, raised $150M in funding.",
+                "primary_source": {
+                  "url": "https://www.prnewswire.com/news-releases/supabase-announces-150m-in-new-funding-and-turso-acquisition-302896752.html",
+                  "kind": "wire"
+                },
+                "sources": [
+                  {
+                    "url": "https://www.prnewswire.com/news-releases/supabase-announces-150m-in-new-funding-and-turso-acquisition-302896752.html",
+                    "title": "Supabase Announces $150M in New Funding and Turso Acquisition",
+                    "publisher": "prnewswire.com",
+                    "published": "2026-10-02"
+                  },
+                  {
+                    "url": "https://siliconangle.com/2026/10/02/database-startup-supabase-raises-150m-acquires-turso",
+                    "title": "Database startup supabase raises 150M acquires turso",
+                    "publisher": "siliconangle.com",
+                    "published": "2026-10-02"
+                  },
+                  {
+                    "url": "https://www.bizjournals.com/sanfrancisco/news/2026/10/05/sfbt-digest-monday-vaxcyte-fleet-week-ggu-campus.html",
+                    "title": "Daily Digest: Fleet Week returns to S.F., Golden Gate University scours city for campus - San Francisco Business Times",
+                    "publisher": "bizjournals.com",
+                    "published": "2026-10-05"
+                  },
+                  {
+                    "url": "https://genztech.blog/funding-tracker",
+                    "title": "Startup Funding Rounds Announced This Week (2026)",
+                    "publisher": "genztech.blog",
+                    "published": "2026-09-08"
+                  },
+                  {
+                    "url": "https://www.citybiz.co/channel/venture-capital",
+                    "title": "Venture Capital Archives",
+                    "publisher": "citybiz.co",
+                    "published": "2026-09-28"
+                  }
+                ],
+                "source_count": 16,
+                "trending": null,
+                "previous_rounds": [
+                  {
+                    "id": "supabase:series_d_plus:2026-06-04",
+                    "stage": "series_d_plus",
+                    "stage_as_written": "Series F",
+                    "amount": {
+                      "usd_millions": 500,
+                      "as_written": "$500 million"
+                    },
+                    "announced_on": "2026-06-04",
+                    "lead_investors": [
+                      "GIC"
+                    ],
+                    "url": "https://supabase.com/blog/supabase-series-f"
+                  },
+                  {
+                    "id": "supabase:series_d_plus:2025-10-03",
+                    "stage": "series_d_plus",
+                    "stage_as_written": "Series E",
+                    "amount": {
+                      "usd_millions": 100,
+                      "as_written": "$100M"
+                    },
+                    "announced_on": "2025-10-03",
+                    "lead_investors": [
+                      "Accel",
+                      "Peak XV Partners"
+                    ],
+                    "url": "https://supabase.com/blog/supabase-series-e"
+                  },
+                  {
+                    "id": "supabase:series_c:2024-09-25",
+                    "stage": "series_c",
+                    "stage_as_written": "Series C",
+                    "amount": {
+                      "usd_millions": 80,
+                      "as_written": "$80 million"
+                    },
+                    "announced_on": "2024-09-25",
+                    "lead_investors": [
+                      "Peak XV Partners",
+                      "Craft Ventures"
+                    ],
+                    "url": "https://techcrunch.com/2024/09/25/supabase-a-postgres-centric-developer-platform-raises-80m-series-c"
+                  },
+                  {
+                    "id": "supabase:series_b:2022-05-10",
+                    "stage": "series_b",
+                    "stage_as_written": "Series B",
+                    "amount": {
+                      "usd_millions": 80,
+                      "as_written": "$80M"
+                    },
+                    "announced_on": "2022-05-10",
+                    "lead_investors": [
+                      "Felicis"
+                    ],
+                    "url": "https://supabase.com/blog/supabase-series-b"
+                  },
+                  {
+                    "id": "supabase:other:2020-12-15",
+                    "stage": "other",
+                    "stage_as_written": "funding round",
+                    "amount": {
+                      "usd_millions": 6,
+                      "as_written": "$6 million"
+                    },
+                    "announced_on": "2020-12-15",
+                    "lead_investors": [
+                      "Coatue"
+                    ],
+                    "url": "https://techcrunch.com/2020/12/15/supabase-raises-6m-for-its-open-source-firebase-alternative"
+                  }
+                ]
+              },
+              {
+                "id": "supabase:series_d_plus:2026-06-04",
+                "url": "https://fireround.dev/companies/supabase",
+                "company": {
+                  "name": "Supabase",
+                  "domain": "supabase.com",
+                  "website": "https://supabase.com",
+                  "description": "a leader in agentic infrastructure and open source Postgres development platform",
+                  "sector": "ai infrastructure",
+                  "headquarters": "San Francisco"
+                },
+                "stage": "series_d_plus",
+                "stage_as_written": "Series F",
+                "amount": {
+                  "usd_millions": 500,
+                  "as_written": "$500 million",
+                  "currency": "USD"
+                },
+                "valuation": "$10.5 billion post-money",
+                "valuation_disclosed": true,
+                "total_as_written": "over $1 billion",
+                "announced_on": "2026-06-04",
+                "date_precision": "day",
+                "certainty": "announced",
+                "verified": true,
+                "provisional": false,
+                "earlier_round": true,
+                "is_extension": false,
+                "lead_investors": [
+                  "GIC"
+                ],
+                "other_investors": [
+                  "Accel",
+                  "Y Combinator",
+                  "Craft Ventures",
+                  "Felicis",
+                  "Peak XV Partners",
+                  "Coatue",
+                  "Stripe",
+                  "Salesforce Ventures"
+                ],
+                "evidence": "The round was led by GIC. Participating investors included existing backers Accel, Y Combinator, Craft, Felicis, Peak XV, and Coatue, along with new investments from Stripe and Salesforce Ventures.",
+                "primary_source": {
+                  "url": "https://supabase.com/blog/supabase-series-f",
+                  "kind": "company"
+                },
+                "sources": [
+                  {
+                    "url": "https://supabase.com/blog/supabase-series-f",
+                    "title": "Supabase Series F",
+                    "publisher": "supabase.com",
+                    "published": "2026-06-04"
+                  },
+                  {
+                    "url": "https://www.prnewswire.com/news-releases/supabase-raises-500m-at-10-5b-to-accelerate-lead-in-agentic-infrastructure-302791787.html",
+                    "title": "Supabase Raises $500M at $10.5B to Accelerate Lead in Agentic Infrastructure",
+                    "publisher": "prnewswire.com",
+                    "published": "2026-06-04"
+                  },
+                  {
+                    "url": "https://www.thesaasnews.com/news/supabase-raises-500m-series-f",
+                    "title": "Supabase Raises $500M Series F",
+                    "publisher": "thesaasnews.com",
+                    "published": "2026-06-05"
+                  }
+                ],
+                "source_count": 3,
+                "trending": null,
+                "previous_rounds": [
+                  {
+                    "id": "supabase:series_d_plus:2025-10-03",
+                    "stage": "series_d_plus",
+                    "stage_as_written": "Series E",
+                    "amount": {
+                      "usd_millions": 100,
+                      "as_written": "$100M"
+                    },
+                    "announced_on": "2025-10-03",
+                    "lead_investors": [
+                      "Accel",
+                      "Peak XV Partners"
+                    ],
+                    "url": "https://supabase.com/blog/supabase-series-e"
+                  },
+                  {
+                    "id": "supabase:series_c:2024-09-25",
+                    "stage": "series_c",
+                    "stage_as_written": "Series C",
+                    "amount": {
+                      "usd_millions": 80,
+                      "as_written": "$80 million"
+                    },
+                    "announced_on": "2024-09-25",
+                    "lead_investors": [
+                      "Peak XV Partners",
+                      "Craft Ventures"
+                    ],
+                    "url": "https://techcrunch.com/2024/09/25/supabase-a-postgres-centric-developer-platform-raises-80m-series-c"
+                  },
+                  {
+                    "id": "supabase:series_b:2022-05-10",
+                    "stage": "series_b",
+                    "stage_as_written": "Series B",
+                    "amount": {
+                      "usd_millions": 80,
+                      "as_written": "$80M"
+                    },
+                    "announced_on": "2022-05-10",
+                    "lead_investors": [
+                      "Felicis"
+                    ],
+                    "url": "https://supabase.com/blog/supabase-series-b"
+                  },
+                  {
+                    "id": "supabase:other:2020-12-15",
+                    "stage": "other",
+                    "stage_as_written": "funding round",
+                    "amount": {
+                      "usd_millions": 6,
+                      "as_written": "$6 million"
+                    },
+                    "announced_on": "2020-12-15",
+                    "lead_investors": [
+                      "Coatue"
+                    ],
+                    "url": "https://techcrunch.com/2020/12/15/supabase-raises-6m-for-its-open-source-firebase-alternative"
+                  }
+                ]
+              },
+              {
+                "id": "supabase:series_d_plus:2025-10-03",
+                "url": "https://fireround.dev/companies/supabase",
+                "company": {
+                  "name": "Supabase",
+                  "domain": "supabase.com",
+                  "website": "https://supabase.com",
+                  "description": "a leader in agentic infrastructure and open source Postgres development platform",
+                  "sector": "ai infrastructure",
+                  "headquarters": "San Francisco"
+                },
+                "stage": "series_d_plus",
+                "stage_as_written": "Series E",
+                "amount": {
+                  "usd_millions": 100,
+                  "as_written": "$100M",
+                  "currency": "USD"
+                },
+                "valuation": "$5 billion",
+                "valuation_disclosed": true,
+                "total_as_written": "$500 million",
+                "announced_on": "2025-10-03",
+                "date_precision": "day",
+                "certainty": "announced",
+                "verified": true,
+                "provisional": false,
+                "earlier_round": true,
+                "is_extension": false,
+                "lead_investors": [
+                  "Accel",
+                  "Peak XV Partners"
+                ],
+                "other_investors": [
+                  "Figma Ventures",
+                  "YC",
+                  "Coatue",
+                  "Felicis",
+                  "Craft Ventures",
+                  "Square Peg"
+                ],
+                "evidence": "Supabase announced that it raised a fresh $100 million Series E at a $5 billion valuation, led by Accel and Peak XV.",
+                "primary_source": {
+                  "url": "https://supabase.com/blog/supabase-series-e",
+                  "kind": "company"
+                },
+                "sources": [
+                  {
+                    "url": "https://supabase.com/blog/supabase-series-e",
+                    "title": "Supabase Series E",
+                    "publisher": "supabase.com",
+                    "published": "2025-10-03"
+                  },
+                  {
+                    "url": "https://www.prnewswire.com/news-releases/supabase-raises-100m-at-5b-valuation-co-led-by-accel-and-peak-xv-302573153.html",
+                    "title": "Supabase Raises $100M at $5B Valuation, Co-Led by Accel and Peak XV",
+                    "publisher": "prnewswire.com",
+                    "published": null
+                  },
+                  {
+                    "url": "https://techcrunch.com/2025/10/03/supabase-nabs-5b-valuation-four-months-after-hitting-2b",
+                    "title": "Supabase nabs $5B valuation, four months after hitting $2B | TechCrunch",
+                    "publisher": "techcrunch.com",
+                    "published": "2025-10-03"
+                  }
+                ],
+                "source_count": 3,
+                "trending": null,
+                "previous_rounds": [
+                  {
+                    "id": "supabase:series_c:2024-09-25",
+                    "stage": "series_c",
+                    "stage_as_written": "Series C",
+                    "amount": {
+                      "usd_millions": 80,
+                      "as_written": "$80 million"
+                    },
+                    "announced_on": "2024-09-25",
+                    "lead_investors": [
+                      "Peak XV Partners",
+                      "Craft Ventures"
+                    ],
+                    "url": "https://techcrunch.com/2024/09/25/supabase-a-postgres-centric-developer-platform-raises-80m-series-c"
+                  },
+                  {
+                    "id": "supabase:series_b:2022-05-10",
+                    "stage": "series_b",
+                    "stage_as_written": "Series B",
+                    "amount": {
+                      "usd_millions": 80,
+                      "as_written": "$80M"
+                    },
+                    "announced_on": "2022-05-10",
+                    "lead_investors": [
+                      "Felicis"
+                    ],
+                    "url": "https://supabase.com/blog/supabase-series-b"
+                  },
+                  {
+                    "id": "supabase:other:2020-12-15",
+                    "stage": "other",
+                    "stage_as_written": "funding round",
+                    "amount": {
+                      "usd_millions": 6,
+                      "as_written": "$6 million"
+                    },
+                    "announced_on": "2020-12-15",
+                    "lead_investors": [
+                      "Coatue"
+                    ],
+                    "url": "https://techcrunch.com/2020/12/15/supabase-raises-6m-for-its-open-source-firebase-alternative"
+                  }
+                ]
+              }
+            ],
+            "next_cursor": "2025-10-03|supabase:series_d_plus:2025-10-03"
+          }
+        },
+        "execute": {
+          "provider": "fireround",
+          "capability": "companies/rounds"
+        },
+        "similarity": 0.4933746112639531,
+        "reputation": {
+          "calls": 80,
+          "successRate": 1,
+          "emptyRate": 0.2875,
+          "p50Ms": 339,
+          "p95Ms": 4560
+        },
+        "matchedBy": [
+          "semantic"
+        ],
+        "matchedUrls": []
+      },
+      {
+        "provider": "fireround",
+        "capability": "rounds/search",
+        "name": "Search funding rounds",
+        "description": "Search startup funding rounds: the latest rounds, the biggest rounds, and rounds by stage, sector, investor, date or size across venture capital (VC funding) of private companies, pre-seed to growth. Who raised money in AI infrastructure this week, who raised a Series A in fintech this week, the largest AI rounds since a date, every round a named fund led or joined. Each funding round carries the company, amount, valuation when stated, lead and other investors, and its sources, so one call answers for many companies' rounds, investors and valuations. Coverage limit: Fireround tracks rounds announced from 2026 onward. It holds a few thousand companies, most of them startups that raised in 2026, and earlier rounds only for some of those. Most companies, and most rounds before 2026, are not on record, so a lookup of an arbitrary company's full funding history, its pre-2026 rounds, an investor's whole portfolio or acquisitions usually returns nothing here; use a company-data provider with historical funding coverage for those.",
+        "creditsCost": 5,
+        "perRecord": false,
+        "options": [
+          {
+            "name": "q",
+            "type": "string",
+            "about": "Free text over company names, descriptions and investor names, for example `Sequoia` or `vector database`."
+          },
+          {
+            "name": "since",
+            "type": "string",
+            "about": "Rounds announced on or after this day: a date (YYYY-MM-DD), a month (YYYY-MM, from its first day), today, yesterday, or a number of days back such as 7d or 30d. A date window also lists companies' earlier rounds (`history: true`)."
+          },
+          {
+            "name": "stage",
+            "type": "string",
+            "about": "Comma-separated stages, any of: pre_seed, seed, pre_a, series_a, series_b, series_c, series_d_plus, growth, bridge, debt, grant, convertible, secondary, undisclosed, other, or the words for them. For example `series_a,series_b` or `Series A`."
+          },
+          {
+            "name": "certainty",
+            "type": "string",
+            "about": "Only rounds of this certainty: announced (closed on the record), reported (said to have closed by a publisher citing unnamed sources), expected (still being raised), unconfirmed. Absent means every certainty but unconfirmed.",
+            "oneOf": [
+              "announced",
+              "reported",
+              "expected",
+              "unconfirmed"
+            ]
+          },
+          {
+            "name": "sector",
+            "type": "string",
+            "about": "The company's sector, as fireround classifies it: ai, ai infrastructure, developer tools, data and analytics, cybersecurity, enterprise software, fintech, payments, insurtech, crypto, healthtech, biotech, medtech, climate, energy, mobility, robotics, hardware, semiconductors, quantum, space, defense, consumer, ecommerce, marketplace, media and gaming, edtech, hr tech, legal tech, proptech, logistics, agtech and food, manufacturing, other. Case and dashes don't matter and common other names work (`ai-infra`, `healthcare`, `dev tools`). A broad sector takes in its narrower ones, so one call covers them: `ai` includes ai infrastructure; `fintech` includes payments, insurtech and crypto; `climate` includes energy. The narrower word alone reads only that sector."
+          },
+          {
+            "name": "min_usd",
+            "type": "number",
+            "about": "Rounds of at least this many million US dollars.",
+            "min": 0
+          },
+          {
+            "name": "sort",
+            "type": "string",
+            "about": "amount: announced rounds first, then reported and expected (with provisional rounds) as one group; each group largest first, undisclosed amounts last. So a large reported round can sit below every announced one: for the biggest rounds of any certainty, read every page or filter by certainty. Absent is newest announced first.",
+            "oneOf": [
+              "amount"
+            ]
+          },
+          {
+            "name": "limit",
+            "type": "number",
+            "about": "Rounds per page, 1 to 50. Defaults to 20. Each round is a full record of about 1,500 characters, so read more with `cursor` rather than a larger page.",
+            "max": 50,
+            "min": 1
+          },
+          {
+            "name": "cursor",
+            "type": "string",
+            "about": "The `next_cursor` of the previous page, to read the next one under the same filters."
+          }
+        ],
+        "response": {
+          "about": "One page of rounds under `data`, with `next_cursor` beside it (null on the last page). When a name matched nothing, `did_you_mean` lists up to three near names (`id`, `name`) to retry with. Each round is what Fireround checked: the company, stage, money, valuation when stated, date, certainty, investors, the sentence that states it and the pages it was read from.",
+          "key": "data",
+          "fields": [
+            {
+              "about": "Stable round id, company_key:stage:announced_on.",
+              "name": "id",
+              "type": "string"
+            },
+            {
+              "about": "The round's company page on fireround.dev, with every source and the evidence for each field.",
+              "name": "url",
+              "type": "string"
+            },
+            {
+              "about": "name, domain, website, description, sector, headquarters.",
+              "name": "company",
+              "type": "object"
+            },
+            {
+              "about": "One of pre_seed, seed, pre_a, series_a, series_b, series_c, series_d_plus, growth, bridge, debt, grant, convertible, secondary, undisclosed, other.",
+              "name": "stage",
+              "type": "string"
+            },
+            {
+              "about": "The stage as the source wrote it, for example `Series B-2`.",
+              "name": "stage_as_written",
+              "type": "string"
+            },
+            {
+              "about": "usd_millions (null when undisclosed or unconvertible), as_written, currency.",
+              "name": "amount",
+              "type": "object"
+            },
+            {
+              "about": "The post- or pre-money valuation as written, when a source states it.",
+              "name": "valuation",
+              "type": "string"
+            },
+            {
+              "about": "true when a valuation is stated; false when a source says outright that it was not disclosed; null when no source says either way. A null valuation with false here is a known non-disclosure, not a gap.",
+              "name": "valuation_disclosed",
+              "type": "boolean"
+            },
+            {
+              "about": "A larger figure stated beside the round, such as funding to date or the whole financing; never the round's own amount.",
+              "name": "total_as_written",
+              "type": "string"
+            },
+            {
+              "about": "YYYY-MM-DD; read with date_precision (day, week, month, unknown).",
+              "name": "announced_on",
+              "type": "string"
+            },
+            {
+              "name": "date_precision",
+              "type": "string"
+            },
+            {
+              "about": "announced (closed on the record), reported (said to have closed, citing unnamed sources), expected (still being raised), or unconfirmed (reported or expected, and never confirmed).",
+              "name": "certainty",
+              "type": "string"
+            },
+            {
+              "about": "True when a model read the round back against its sources and they agreed, with any field it corrected applied.",
+              "name": "verified",
+              "type": "boolean"
+            },
+            {
+              "about": "True when the round is public but carries a recorded doubt (thin evidence, low confidence, or no stated amount); treat it as provisional.",
+              "name": "provisional",
+              "type": "boolean"
+            },
+            {
+              "about": "True for an earlier round of the company, verified on its own, rather than recent news.",
+              "name": "earlier_round",
+              "type": "boolean"
+            },
+            {
+              "about": "True for an extension of an earlier round.",
+              "name": "is_extension",
+              "type": "boolean"
+            },
+            {
+              "name": "lead_investors",
+              "type": "string[]"
+            },
+            {
+              "name": "other_investors",
+              "type": "string[]"
+            },
+            {
+              "about": "The sentence from a source that states the round.",
+              "name": "evidence",
+              "type": "string"
+            },
+            {
+              "about": "The round's official announcement: url, and kind (company for the company's own page, wire for its newswire release). Null when the sources hold neither.",
+              "name": "primary_source",
+              "type": "object"
+            },
+            {
+              "about": "Up to 3 pages the round was read from, in reading order (the official announcement first, then established outlets, then the rest): url, title, publisher, published.",
+              "name": "sources",
+              "type": "object[]"
+            },
+            {
+              "about": "How many pages the round was read from in all.",
+              "name": "source_count",
+              "type": "number"
+            },
+            {
+              "about": "While the round is in its first 72 hours: rank, people_on_x, outlets, hn_points. Null after.",
+              "name": "trending",
+              "type": "object"
+            },
+            {
+              "about": "The company's other rounds announced before this one, newest first, up to 5: id, stage, stage_as_written, amount (usd_millions, as_written), announced_on, lead_investors, url (the round's official announcement when it has one).",
+              "name": "previous_rounds",
+              "type": "object[]"
+            }
+          ],
+          "paginated": true
+        },
+        "id": "fireround/rounds/search",
+        "example": {
+          "recordedAt": "2026-10-08",
+          "request": {
+            "q": "Firecrawl",
+            "limit": 2
+          },
+          "response": {
+            "data": [
+              {
+                "id": "firecrawl:series_b:2026-09-22",
+                "url": "https://fireround.dev/companies/firecrawl.dev",
+                "company": {
+                  "name": "Firecrawl",
+                  "domain": "firecrawl.dev",
+                  "website": "http://www.firecrawl.dev/",
+                  "description": "Web Data API for AI Agents",
+                  "sector": "ai",
+                  "headquarters": "San Francisco, CA"
+                },
+                "stage": "series_b",
+                "stage_as_written": "Series B",
+                "amount": {
+                  "usd_millions": 75,
+                  "as_written": "$75M",
+                  "currency": "USD"
+                },
+                "valuation": null,
+                "valuation_disclosed": false,
+                "total_as_written": "approximately $90 million",
+                "announced_on": "2026-09-22",
+                "date_precision": "day",
+                "certainty": "announced",
+                "verified": true,
+                "provisional": false,
+                "earlier_round": false,
+                "is_extension": false,
+                "lead_investors": [
+                  "Smash Capital"
+                ],
+                "other_investors": [
+                  "Altos Ventures",
+                  "Freestyle",
+                  "Nexus Venture Partners",
+                  "Offline Ventures",
+                  "Y Combinator"
+                ],
+                "evidence": "Firecrawl raised a $75M Series B and launched Alexandria, a curated data library built for AI agents to search instead of the open web.",
+                "primary_source": {
+                  "url": "https://www.firecrawl.dev/blog/introducing-alexandria-series-b",
+                  "kind": "company"
+                },
+                "sources": [
+                  {
+                    "url": "https://www.firecrawl.dev/blog/introducing-alexandria-series-b",
+                    "title": "Introducing Alexandria and our $75M Series B",
+                    "publisher": "firecrawl.dev",
+                    "published": null
+                  },
+                  {
+                    "url": "https://www.pr.com/press-release/979737",
+                    "title": "Firecrawl Raises $75M Series B; Launches Alexandria - PR.com",
+                    "publisher": "pr.com",
+                    "published": "2026-09-22"
+                  },
+                  {
+                    "url": "https://siliconangle.com/2026/09/22/web-scraping-startup-firecrawl-closes-75m-investment",
+                    "title": "Web scraping startup firecrawl closes 75M investment",
+                    "publisher": "siliconangle.com",
+                    "published": "2026-09-22"
+                  },
+                  {
+                    "url": "https://en.wowtale.net/2026/09/23/235198",
+                    "title": "Firecrawl Raises $75M Series B, Launches Alexandria - WOWTALE",
+                    "publisher": "en.wowtale.net",
+                    "published": "2026-09-22"
+                  },
+                  {
+                    "url": "https://runtimewire.com/article/firecrawl-raises-75m-series-b-alexandria-ai-agent-data",
+                    "title": "Firecrawl raises $75M to turn web crawling into an agent data library",
+                    "publisher": "runtimewire.com",
+                    "published": "2026-09-22"
+                  }
+                ],
+                "source_count": 23,
+                "trending": null,
+                "previous_rounds": [
+                  {
+                    "id": "firecrawl:series_a:2025-08-19",
+                    "stage": "series_a",
+                    "stage_as_written": "Series A",
+                    "amount": {
+                      "usd_millions": 14.5,
+                      "as_written": "$14.5 million"
+                    },
+                    "announced_on": "2025-08-19",
+                    "lead_investors": [
+                      "Nexus Venture Partners"
+                    ],
+                    "url": "https://www.firecrawl.dev/blog/firecrawl-v2-series-a-announcement"
+                  }
+                ]
+              }
+            ],
+            "next_cursor": null
+          }
+        },
+        "execute": {
+          "provider": "fireround",
+          "capability": "rounds/search"
+        },
+        "similarity": 0.47125367441302746,
+        "reputation": {
+          "calls": 788,
+          "successRate": 1,
+          "emptyRate": 0.1751269035532995,
+          "p50Ms": 414,
+          "p95Ms": 1854
+        },
+        "matchedBy": [
+          "semantic"
+        ],
+        "matchedUrls": []
+      },
+      {
+        "provider": "aviato",
+        "capability": "companies/funding-rounds",
+        "name": "Funding rounds",
+        "description": "A company's full funding round history, from its earliest seed or angel round to its latest growth round, years back and not just recent raises: each round's name and stage, announcement date, amount raised, valuation when known, and its lead and other investors (firms and individual angels). Use it for questions like \"what rounds has Stripe raised and who led each\", \"how much did Figma raise in its Series B\", \"who invested in Snowflake's Series A\", \"total raised by Discord\" or \"which VCs backed Shopify before its IPO\". Takes the company's domain (website), LinkedIn URL or Aviato id. 10 credits per successful call, including an empty page; the price is per call, not per row, so pass perPage=25 to read up to 25 rows at once (omitted, a call returns one row). A 404 costs nothing.",
+        "creditsCost": 5,
+        "perRecord": false,
+        "options": [
+          {
+            "name": "id",
+            "type": "string",
+            "about": "Aviato company id."
+          },
+          {
+            "name": "linkedinID",
+            "type": "string",
+            "about": "LinkedIn company slug."
+          },
+          {
+            "name": "linkedinNumID",
+            "type": "string",
+            "about": "Numeric LinkedIn company id."
+          },
+          {
+            "name": "linkedinURL",
+            "type": "string",
+            "about": "Company LinkedIn URL."
+          },
+          {
+            "name": "website",
+            "type": "string",
+            "about": "Company domain or URL, such as stripe.com."
+          },
+          {
+            "name": "perPage",
+            "type": "number",
+            "min": 1,
+            "max": 25,
+            "default": 1,
+            "about": "Rows per page, from 1 to 25. Omitted calls request 1. The credit price is per call, not per row."
+          },
+          {
+            "name": "page",
+            "type": "number",
+            "min": 0,
+            "max": 10000,
+            "default": 0,
+            "about": "Page number, starting at 0."
+          }
+        ],
+        "response": {
+          "about": "Every funding round on record for one company, with its date, stage, amount, valuation and investors. Records in fundingRounds. The body also has pages and totalResults for the whole list. An empty page is still billed. The call is accepted only when fundingRounds is an array and pages and totalResults are numbers.",
+          "key": "fundingRounds",
+          "fields": [
+            {
+              "name": "id",
+              "type": "number",
+              "about": "Aviato round id."
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "about": "The round as named, for example Series B."
+            },
+            {
+              "name": "stage",
+              "type": "string",
+              "about": "Round stage, for example Seed or Series A."
+            },
+            {
+              "name": "announcedOn",
+              "type": "string",
+              "about": "The date the round was announced."
+            },
+            {
+              "name": "moneyRaised",
+              "type": "number",
+              "about": "Amount raised in the round, in US dollars."
+            },
+            {
+              "name": "valuation",
+              "type": "number",
+              "about": "The company's valuation at the round in US dollars, when disclosed."
+            },
+            {
+              "name": "leadCompanyInvestorList",
+              "type": "object[]",
+              "about": "Lead investor firms: id, name, description, country, region, locality, URLs (website, linkedin, crunchbase, pitchbook and more), industryList, headcount."
+            },
+            {
+              "name": "companyInvestorList",
+              "type": "object[]",
+              "about": "Every investor firm in the round: id, name, description, country, region, locality, URLs (website, linkedin, crunchbase, pitchbook and more), industryList, headcount."
+            },
+            {
+              "name": "leadPersonInvestorList",
+              "type": "object[]",
+              "about": "Lead individual investors (angels): id, fullName, firstName, lastName, location, URLs (linkedin and more)."
+            },
+            {
+              "name": "personInvestorList",
+              "type": "object[]",
+              "about": "Every individual investor (angel) in the round: id, fullName, firstName, lastName, location, URLs (linkedin and more)."
+            },
+            {
+              "name": "companyID",
+              "type": "string",
+              "about": "Aviato id of the company that raised."
+            }
+          ],
+          "paginated": true,
+          "additionalFields": true
+        },
+        "id": "aviato/companies/funding-rounds",
+        "requiresOneOf": [
+          [
+            "id",
+            "linkedinID",
+            "linkedinNumID",
+            "linkedinURL",
+            "website"
+          ]
+        ],
+        "execute": {
+          "provider": "aviato",
+          "capability": "companies/funding-rounds"
+        },
+        "similarity": 0.462299595561247,
+        "reputation": {
+          "calls": 884,
+          "successRate": 1,
+          "emptyRate": 0.24773755656108598,
+          "p50Ms": 291,
+          "p95Ms": 1017
+        },
+        "matchedBy": [
+          "semantic"
+        ],
+        "matchedUrls": []
+      },
+      {
+        "provider": "fireround",
+        "capability": "companies/search",
+        "name": "Search funded companies",
+        "description": "Find startups and other venture-backed private companies by sector, stage, location (headquarters city or country), what the company does, or when they last raised, one row per company: which fintech startups in London raised this month, the most-funded AI infrastructure companies, seed-stage climate companies in Germany. Each carries its headquarters, sector, what it does, total raised, round count and newest round; use companies/profile for one company's valuation and full funding. Coverage limit: Fireround tracks rounds announced from 2026 onward. It holds a few thousand companies, most of them startups that raised in 2026, and earlier rounds only for some of those. Most companies, and most rounds before 2026, are not on record, so a lookup of an arbitrary company's full funding history, its pre-2026 rounds, an investor's whole portfolio or acquisitions usually returns nothing here; use a company-data provider with historical funding coverage for those.",
+        "creditsCost": 5,
+        "perRecord": false,
+        "options": [
+          {
+            "name": "q",
+            "type": "string",
+            "about": "Free text over the company's name, description, sector, domain and headquarters, for example `London` or `payments API`."
+          },
+          {
+            "name": "sector",
+            "type": "string",
+            "about": "Only companies in this sector, as fireround classifies it, for example `fintech` or `ai`."
+          },
+          {
+            "name": "stage",
+            "type": "string",
+            "about": "Only companies with a round at one of these stages (comma-separated, any of: pre_seed, seed, pre_a, series_a, series_b, series_c, series_d_plus, growth, bridge, debt, grant, convertible, secondary, undisclosed, other); with since, a round at that stage announced on or after that date."
+          },
+          {
+            "name": "since",
+            "type": "string",
+            "about": "Only companies with a round announced on or after this day: a date (YYYY-MM-DD), a month (YYYY-MM, from its first day), today, yesterday, or a number of days back such as 7d or 30d."
+          },
+          {
+            "name": "sort",
+            "type": "string",
+            "about": "latest (the newest raise first, the default), raised (the most raised first) or name.",
+            "oneOf": [
+              "latest",
+              "raised",
+              "name"
+            ]
+          },
+          {
+            "name": "page",
+            "type": "number",
+            "about": "Page number, from 1.",
+            "min": 1
+          },
+          {
+            "name": "limit",
+            "type": "number",
+            "about": "Companies per page, 1 to 100. Defaults to 20.",
+            "max": 100,
+            "min": 1
+          }
+        ],
+        "response": {
+          "about": "One page of companies under `data`, one row per company, with `total` and `next_page` beside it (null on the last page). When a name matched nothing, `did_you_mean` lists up to three near names (`id`, `name`) to retry with.",
+          "key": "data",
+          "fields": [
+            {
+              "about": "The company's id: pass it to companies/profile.",
+              "name": "id",
+              "type": "string"
+            },
+            {
+              "name": "name",
+              "type": "string"
+            },
+            {
+              "about": "The company's own website, bare, when known.",
+              "name": "domain",
+              "type": "string"
+            },
+            {
+              "about": "The company's page on fireround.dev, with every round and its sources.",
+              "name": "url",
+              "type": "string"
+            },
+            {
+              "about": "What the company does, from its own homepage when read.",
+              "name": "description",
+              "type": "string"
+            },
+            {
+              "about": "The company's sector, as fireround classifies it.",
+              "name": "sector",
+              "type": "string"
+            },
+            {
+              "about": "Where the company is based, for example `London, UK`.",
+              "name": "headquarters",
+              "type": "string"
+            },
+            {
+              "about": "Rounds on record for the company.",
+              "name": "rounds_total",
+              "type": "number"
+            },
+            {
+              "about": "What it raised in million USD: the stated amounts of its announced and reported rounds, never expected or unconfirmed ones. Null when no such round states an amount.",
+              "name": "total_raised_usd_millions",
+              "type": "number"
+            },
+            {
+              "about": "Its newest round: stage, stage_as_written, announced_on.",
+              "name": "latest_round",
+              "type": "object"
+            }
+          ],
+          "paginated": true
+        },
+        "id": "fireround/companies/search",
+        "example": {
+          "recordedAt": "2026-10-11",
+          "request": {
+            "q": "London",
+            "sector": "fintech",
+            "since": "2026-09-11",
+            "limit": 3
+          },
+          "response": {
+            "data": [
+              {
+                "id": "immix.xyz",
+                "name": "IMMIX",
+                "domain": "immix.xyz",
+                "url": "https://fireround.dev/companies/immix.xyz",
+                "description": "a trading firm that helps payment companies exchange stablecoins between currencies",
+                "sector": "fintech",
+                "headquarters": "London",
+                "rounds_total": 1,
+                "total_raised_usd_millions": 3.5,
+                "latest_round": {
+                  "stage": "other",
+                  "stage_as_written": "funding round",
+                  "announced_on": "2026-10-08"
+                }
+              },
+              {
+                "id": "noah.com",
+                "name": "Noah",
+                "domain": "noah.com",
+                "url": "https://fireround.dev/companies/noah.com",
+                "description": "a stablecoin payments infrastructure provider",
+                "sector": "fintech",
+                "headquarters": "London",
+                "rounds_total": 2,
+                "total_raised_usd_millions": 38,
+                "latest_round": {
+                  "stage": "seed",
+                  "stage_as_written": "seed extension",
+                  "announced_on": "2026-10-07"
+                }
+              },
+              {
+                "id": "plannerpal",
+                "name": "PlannerPal",
+                "domain": "plannerpal.co.uk",
+                "url": "https://fireround.dev/companies/plannerpal",
+                "description": "a provider of an AI workflow platform for financial advice and wealth management firms",
+                "sector": "fintech",
+                "headquarters": "London, UK",
+                "rounds_total": 1,
+                "total_raised_usd_millions": 6,
+                "latest_round": {
+                  "stage": "seed",
+                  "stage_as_written": "seed round",
+                  "announced_on": "2026-10-07"
+                }
+              }
+            ],
+            "total": 6,
+            "next_page": 2
+          }
+        },
+        "execute": {
+          "provider": "fireround",
+          "capability": "companies/search"
+        },
+        "similarity": 0.547251790909371,
+        "reputation": {
+          "calls": 460,
+          "successRate": 1,
+          "emptyRate": 0.24565217391304348,
+          "p50Ms": 356,
+          "p95Ms": 2154
+        },
+        "matchedBy": [
+          "semantic"
+        ],
+        "matchedUrls": []
+      },
+      {
+        "provider": "fireround",
+        "capability": "investors/top",
+        "name": "Most active lead investors",
+        "description": "Rank the investors that led the most startup funding rounds this week, this month or this quarter, overall or in one sector or stage: which VCs led the most AI rounds this month, who is leading the most seed deals this week. Each carries the money it led and its latest led rounds.",
+        "creditsCost": 5,
+        "perRecord": false,
+        "options": [
+          {
+            "name": "window",
+            "type": "string",
+            "about": "How far back to count: 7d (this week), 30d (this month, the default) or 90d.",
+            "oneOf": [
+              "7d",
+              "30d",
+              "90d"
+            ]
+          },
+          {
+            "name": "sector",
+            "type": "string",
+            "about": "Only rounds of companies in this sector, as fireround classifies it, for example `ai` or `fintech`."
+          },
+          {
+            "name": "stage",
+            "type": "string",
+            "about": "Comma-separated stages, any of: pre_seed, seed, pre_a, series_a, series_b, series_c, series_d_plus, growth, bridge, debt, grant, convertible, secondary, undisclosed, other, or the words for them. For example `series_a,series_b` or `Series A`."
+          },
+          {
+            "name": "limit",
+            "type": "number",
+            "about": "Investors to rank, 1 to 50. Defaults to 10.",
+            "max": 50,
+            "min": 1
+          }
+        ],
+        "response": {
+          "about": "The ranking under `data`, with `window`, `since` (the first day counted) and `sector` beside it. Counts announced and reported rounds only, never expected ones or a company's earlier rounds.",
+          "key": "data",
+          "fields": [
+            {
+              "about": "1 is the investor that led the most rounds.",
+              "name": "rank",
+              "type": "number"
+            },
+            {
+              "about": "The investor's id: pass it to investors/profile.",
+              "name": "id",
+              "type": "string"
+            },
+            {
+              "name": "name",
+              "type": "string"
+            },
+            {
+              "about": "The investor's own website, bare, when known.",
+              "name": "domain",
+              "type": "string"
+            },
+            {
+              "about": "The investor's page on fireround.dev, with every round it is named on.",
+              "name": "url",
+              "type": "string"
+            },
+            {
+              "about": "Rounds it led in the window.",
+              "name": "rounds_led",
+              "type": "number"
+            },
+            {
+              "about": "Its share of the money it led, in million USD: each led round's amount split evenly between its leads, so the figures add up across investors.",
+              "name": "lead_share_usd_millions",
+              "type": "number"
+            },
+            {
+              "about": "Every round it led in the window, newest first: company, company_domain, company_url, stage, stage_as_written, amount (usd_millions, as_written), announced_on.",
+              "name": "led_rounds",
+              "type": "object[]"
+            }
+          ],
+          "paginated": true
+        },
+        "id": "fireround/investors/top",
+        "example": {
+          "recordedAt": "2026-10-11",
+          "request": {
+            "window": "30d",
+            "sector": "ai",
+            "limit": 3
+          },
+          "response": {
+            "data": [
+              {
+                "rank": 1,
+                "id": "insight",
+                "name": "Insight Partners",
+                "domain": "insightpartners.com",
+                "url": "https://fireround.dev/investors/insight",
+                "rounds_led": 4,
+                "lead_share_usd_millions": 164.4,
+                "led_rounds": [
+                  {
+                    "company": "Hestus",
+                    "company_domain": "hestus.co",
+                    "company_url": "https://fireround.dev/companies/hestus.co",
+                    "stage": "seed",
+                    "stage_as_written": "Seed",
+                    "amount": {
+                      "usd_millions": 7.4,
+                      "as_written": "$7.4M"
+                    },
+                    "announced_on": "2026-10-02"
+                  },
+                  {
+                    "company": "Metaview",
+                    "company_domain": "metaview.ai",
+                    "company_url": "https://fireround.dev/companies/metaview",
+                    "stage": "series_c",
+                    "stage_as_written": "Series C",
+                    "amount": {
+                      "usd_millions": 60,
+                      "as_written": "$60M (€52.1M)"
+                    },
+                    "announced_on": "2026-09-30"
+                  },
+                  {
+                    "company": "Confido",
+                    "company_domain": "confidotech.com",
+                    "company_url": "https://fireround.dev/companies/confidotech.com",
+                    "stage": "series_b",
+                    "stage_as_written": "Series B",
+                    "amount": {
+                      "usd_millions": 55,
+                      "as_written": "$55 million"
+                    },
+                    "announced_on": "2026-09-22"
+                  }
+                ]
+              },
+              {
+                "rank": 2,
+                "id": "lightspeed",
+                "name": "Lightspeed",
+                "domain": "lsvp.com",
+                "url": "https://fireround.dev/investors/lightspeed",
+                "rounds_led": 3,
+                "lead_share_usd_millions": 163,
+                "led_rounds": [
+                  {
+                    "company": "Arena",
+                    "company_domain": "arena.ai",
+                    "company_url": "https://fireround.dev/companies/arena",
+                    "stage": "series_b",
+                    "stage_as_written": "Series B",
+                    "amount": {
+                      "usd_millions": 200,
+                      "as_written": "$200 million"
+                    },
+                    "announced_on": "2026-10-08"
+                  },
+                  {
+                    "company": "Ande",
+                    "company_domain": "ande.ai",
+                    "company_url": "https://fireround.dev/companies/ande",
+                    "stage": "seed",
+                    "stage_as_written": "Seed and Series A funding",
+                    "amount": {
+                      "usd_millions": 52,
+                      "as_written": "$52M"
+                    },
+                    "announced_on": "2026-09-22"
+                  },
+                  {
+                    "company": "Nuance Labs",
+                    "company_domain": "nuancelabs.ai",
+                    "company_url": "https://fireround.dev/companies/nuance",
+                    "stage": "series_a",
+                    "stage_as_written": "Series A",
+                    "amount": {
+                      "usd_millions": 50,
+                      "as_written": "$50 million"
+                    },
+                    "announced_on": "2026-09-14"
+                  }
+                ]
+              },
+              {
+                "rank": 3,
+                "id": "idg",
+                "name": "IDG Capital",
+                "domain": "idgcapital.com",
+                "url": "https://fireround.dev/investors/idg",
+                "rounds_led": 2,
+                "lead_share_usd_millions": 250,
+                "led_rounds": [
+                  {
+                    "company": "Butterfly Effect Pte. Ltd.",
+                    "company_domain": "butterflyeffect.ai",
+                    "company_url": "https://fireround.dev/companies/butterfly-effect",
+                    "stage": "growth",
+                    "stage_as_written": "funding round",
+                    "amount": {
+                      "usd_millions": 500,
+                      "as_written": "over $500 million"
+                    },
+                    "announced_on": "2026-10-08"
+                  },
+                  {
+                    "company": "Apex Intelligence",
+                    "company_domain": "apexin.ai",
+                    "company_url": "https://fireround.dev/companies/apexin.ai",
+                    "stage": "pre_seed",
+                    "stage_as_written": "angel and angel-plus funding rounds",
+                    "amount": {
+                      "usd_millions": null,
+                      "as_written": null
+                    },
+                    "announced_on": "2026-09-16"
+                  }
+                ]
+              }
+            ],
+            "window": "30d",
+            "since": "2026-09-11",
+            "sector": "ai"
+          }
+        },
+        "execute": {
+          "provider": "fireround",
+          "capability": "investors/top"
+        },
+        "similarity": 0.5264487805113228,
+        "matchedBy": [
+          "semantic"
+        ],
+        "matchedUrls": []
+      },
+      {
+        "provider": "fireround",
+        "capability": "news/latest",
+        "name": "Latest funding news",
+        "description": "The latest startup funding news: articles from press and newswires about the rounds Fireround tracks, newest first, each with its publisher, date, and the rounds it reports (company, amount, stage, lead investors). Use for what's happening in startup funding today or this week, or the coverage of one company's raise.",
+        "creditsCost": 5,
+        "perRecord": false,
+        "options": [
+          {
+            "name": "since",
+            "type": "string",
+            "about": "Articles published on or after this day: a date (YYYY-MM-DD), a month (YYYY-MM, from its first day), today, yesterday, or a number of days back such as 7d or 30d."
+          },
+          {
+            "name": "sector",
+            "type": "string",
+            "about": "Only articles about rounds of companies in this sector, for example `ai` or `fintech`."
+          },
+          {
+            "name": "company",
+            "type": "string",
+            "about": "Only articles about one company's rounds, its earlier rounds included: its id from companies/search, its domain (a URL works too) or its name slug, for example `supabase.com`. Use it rather than q for one company's coverage; q matches headline words and can find another company of the same name."
+          },
+          {
+            "name": "q",
+            "type": "string",
+            "about": "A company name or a word in the headline."
+          },
+          {
+            "name": "limit",
+            "type": "number",
+            "about": "Articles per page, 1 to 100. Defaults to 20.",
+            "max": 100,
+            "min": 1
+          },
+          {
+            "name": "cursor",
+            "type": "string",
+            "about": "The `next_cursor` of the previous page, to read the next one under the same filters."
+          }
+        ],
+        "response": {
+          "about": "One page of articles under `data`, newest first, with `next_cursor` beside it (null on the last page).",
+          "key": "data",
+          "fields": [
+            {
+              "name": "title",
+              "type": "string"
+            },
+            {
+              "name": "url",
+              "type": "string"
+            },
+            {
+              "about": "The publisher's host, for example techcrunch.com.",
+              "name": "publisher",
+              "type": "string"
+            },
+            {
+              "about": "YYYY-MM-DD: the article's own day; for a page that states none, the day of the newest round it reports, never later than the day it was read.",
+              "name": "published_on",
+              "type": "string"
+            },
+            {
+              "about": "Null: the article's own text is not stored. Read each round's `evidence` for the sentence that states it.",
+              "name": "excerpt",
+              "type": "string"
+            },
+            {
+              "about": "The rounds it reports: company, company_domain, company_url, stage, stage_as_written, amount (usd_millions, as_written), announced_on, certainty, sector, lead_investors, evidence (the sentence from the round's sources that states it, or null).",
+              "name": "rounds",
+              "type": "object[]"
+            }
+          ],
+          "paginated": true
+        },
+        "id": "fireround/news/latest",
+        "example": {
+          "recordedAt": "2026-10-11",
+          "request": {
+            "limit": 2
+          },
+          "response": {
+            "data": [
+              {
+                "title": "(Weekly funding roundup Oct 3-9) Steep decline in VC inflow",
+                "url": "https://yourstory.com/2026/10/weekly-funding-roundup-oct-3-9-steep-decline-in-vc-inflow",
+                "publisher": "yourstory.com",
+                "published_on": "2026-10-11",
+                "excerpt": null,
+                "rounds": [
+                  {
+                    "company": "myTVS",
+                    "company_domain": "mytvs.com",
+                    "company_url": "https://fireround.dev/companies/mytvs",
+                    "stage": "series_d_plus",
+                    "stage_as_written": "Series D",
+                    "amount": {
+                      "usd_millions": 43.937,
+                      "as_written": "Rs 425 crore"
+                    },
+                    "announced_on": "2026-10-05",
+                    "certainty": "announced",
+                    "sector": "mobility",
+                    "lead_investors": [
+                      "CE-Invests"
+                    ]
+                  },
+                  {
+                    "company": "Lumio",
+                    "company_domain": null,
+                    "company_url": "https://fireround.dev/companies/lumio",
+                    "stage": "series_a",
+                    "stage_as_written": "Series A",
+                    "amount": {
+                      "usd_millions": 12,
+                      "as_written": "$12 million"
+                    },
+                    "announced_on": "2026-09-30",
+                    "certainty": "announced",
+                    "sector": "consumer",
+                    "lead_investors": [
+                      "Blume"
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Hero Electronix-backed Tessolve ne uthaye **$75 Million**, Chip sector mein bada action!",
+                "url": "https://www.whalesbook.com/news/Hinglish/technology/Hero-Electronix-Backed-Tessolve-Raises-dollar75-Million-for-Expansion/6acb5f0579a16deaeaed467c",
+                "publisher": "whalesbook.com",
+                "published_on": "2026-10-11",
+                "excerpt": "Tessolve has raised $75 million (about Rs 725 crore) from US-based Vector Line Capital",
+                "rounds": [
+                  {
+                    "company": "Tessolve Semiconductor",
+                    "company_domain": null,
+                    "company_url": "https://fireround.dev/companies/tessolve",
+                    "stage": "other",
+                    "stage_as_written": "investment",
+                    "amount": {
+                      "usd_millions": 75,
+                      "as_written": "$75 million"
+                    },
+                    "announced_on": "2026-10-11",
+                    "certainty": "announced",
+                    "sector": "semiconductors",
+                    "lead_investors": []
+                  }
+                ]
+              }
+            ],
+            "next_cursor": "2026-10-11|https://www.whalesbook.com/news/Hinglish/technology/Hero-Electronix-Backed-Tessolve-Raises-dollar75-Million-for-Expansion/6acb5f0579a16deaeaed467c"
+          }
+        },
+        "execute": {
+          "provider": "fireround",
+          "capability": "news/latest"
+        },
+        "similarity": 0.5360363072199706,
+        "matchedBy": [
+          "semantic"
+        ],
+        "matchedUrls": []
+      }
+    ]
+  },
+  "creditsUsed": 0,
+  "id": "01a20e0a-f702-7711-a680-c82294283a5d"
+}

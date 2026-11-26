@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.linkedin.com/in/captaindiallo",
+        "title": "Amadou D. - CEO, PROTEGEY | Fighting Fraud in Africa",
+        "description": "Amadou D. · CEO, PROTEGEY | Fighting Fraud in Africa | Product & Business Development Leader | PMP | EMBA | GTM | Strategy | Partnerships | Regional Expansion.",
+        "position": 1
+      },
+      {
+        "url": "https://www.instagram.com/p/DfzohZuRT3g/",
+        "title": "@protegeyhq, Secures Pre-Seed Funding, Backed by LvlUp Ventures ...",
+        "description": "founded by Amadou DIALLO and Yvan NDEME, PROTEGEY provides AI ... The founders are CEO Amadou Diallo and CTO Ndeme Yvan, and the money ...",
+        "position": 2
+      },
+      {
+        "url": "https://af.net/realtime/protegey-secures-pre-seed-funding-to-expand-fraud-intelligence-across-africa/",
+        "title": "PROTEGEY Secures Pre-Seed Funding to Expand Fraud ...",
+        "description": "# PROTEGEY Secures Pre-Seed Funding to Expand Fraud Intelligence Across Africa\nFounded by CEO Amadou Diallo and CTO Ndeme Yvan, the company is building an AI-powered risk platform and a cross-border shared fraud intelligence network that enables institutions to track threats without exchanging raw customer data.\n\nFounded by Chief Executive Officer Amadou Diallo and Chief Technology Officer Ndeme Yvan, PROTEGEY is developing an artificial intelligence-driven platform that integrates identity verification, fraud prevention, risk management, and regulatory compliance tools for financial institutions.",
+        "position": 3
+      },
+      {
+        "url": "https://techclout.africa/protegey-fraud-detection-african-banks/",
+        "title": "PROTEGEY Fraud Detection Targets African Financial Institutions With ...",
+        "description": "Founded by Chief Executive Officer Amadou Diallo and Chief Technology Officer Ndeme Yvan, PROTEGEY is building technology that brings fraud ...",
+        "position": 4
+      },
+      {
+        "url": "https://weetracker.com/2026/11/16/protegey-secures-pre-seed-funding-lvlup-ventures/",
+        "title": "PROTEGEY Secures Pre-Seed Funding To Expand Fraud ...",
+        "description": "## Deal Street\n#### 2024 African Venture Capital Report\n##### PROTEGEY Secures Pre-Seed Funding To Expand Fraud Intelligence & Compliance In Africa\nThe company was founded by CEO Amadou Diallo and CTO Ndeme Yvan, who are building an AI-powered platform combining identity verification, fraud prevention, risk management and compliance tools.",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a2128b-78a6-7499-a283-dc0554d3688c"
+}

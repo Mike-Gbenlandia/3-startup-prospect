@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://magnitt.com/news/trade-lenda-520k-pre-seed-53837",
+        "title": "Trade Lenda raises $520K Pre-SEED",
+        "description": "Nigeria FinTech Trade Lenda has raised $520K in a Pre-SEED round from Sovereign Capital, ARM Labs, Expert Dojo, and Nigeria-based angel ...",
+        "position": 1
+      },
+      {
+        "url": "https://africabusinesscommunities.com/tech-24/nigeria-fintech-startup-trade-lenda-raises-520k-in-pre-seed-round/",
+        "title": "[Nigeria] Fintech startup Trade Lenda raises $520k in pre-seed round",
+        "description": "[Nigeria] Fintech startup Trade Lenda raises $520k in pre-seed round. Trade Lenda, a Nigerian fintech startup that helps micro, small, and informal retailers ...",
+        "position": 2
+      },
+      {
+        "url": "https://www.caplight.com/company/tradelenda",
+        "title": "Trade Lenda Valuation & Funding History",
+        "description": "Trade Lenda Funding Rounds ; Grant, Oct 16, 2024. Demo · Demo · Demo ; Pre Seed, Jan 27, 2023. Demo · Demo · Demo.",
+        "position": 3
+      },
+      {
+        "url": "https://www.linkedin.com/pulse/2023-b2b-financing-fintech-trade-lenda-raises-520k-pre-seed-",
+        "title": "2023: B2B financing fintech Trade Lenda raises $520k pre-seed ...",
+        "description": "Welcome to February, 2023: Nigerian fintech startup Trade Lenda has raised US$520,000 in pre-seed funding to speed its growth.",
+        "position": 4
+      },
+      {
+        "url": "https://tracxn.com/d/companies/trade-lenda/__2dC4kZ2nJW4nsUwXvP5z2tOFLWAxPLMaW6gSaRaWmsY",
+        "title": "Trade Lenda - 2026 Company Profile, Team, Funding & Competitors",
+        "description": "Nigerian fintech startup Trade Lenda raises $520m pre-seed roundDisrupt ... Trade Lenda is a funded company, having raised a total of $***** in its 1st and only ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a212a0-2fb8-7087-ab32-a405a9d81be9"
+}

@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://ng.linkedin.com/in/opeyemi-ogunbode",
+        "title": "Opeyemi Ogunbode - Senior Frontend Engineer @Blockops (Antler '26)",
+        "description": "Currently at Blockops Network, an Antler-backed startup, where I've been part of the early engineering team shipping products used by Polygon, SSV, Obol, ...",
+        "position": 1
+      },
+      {
+        "url": "https://www.instagram.com/p/DcJjSamnOGZ/",
+        "title": "🚀 $54.31M in funding was raised this week by 4 #African ...",
+        "description": "... Blockops Network, a Nigerian blockchain startup, raised $250K in pre-seed funding from Antler VC. (Aug 13).⁠ ⁠ ◻ Tennsa, a South African deeptech startup ...",
+        "position": 2
+      },
+      {
+        "url": "https://www.thecompanycheck.com/company/b/blockops/e4566f96bfc746228",
+        "title": "BlockOps — Company Profile",
+        "description": "BlockOps is a company based in Lagos (Nigeria) founded in 2022. It operates as a SaaS and B2B. BlockOps has raised $250 thousand across 1 funding round from ...",
+        "position": 3
+      },
+      {
+        "url": "https://www.linkedin.com/in/ayowole-ogunsade",
+        "title": "Ayowole Ogunsade - Business Operations Lead | Scaling Growth, ...",
+        "description": "COO at Blockops Network. I focus on execution, cost discipline, and making sure strategy translates into reality. I work across teams to ensure alignment, ...",
+        "position": 4
+      },
+      {
+        "url": "https://www.useklari.com/index/seed-stage-funding-rounds-in-nigeria",
+        "title": "Seed Funding Rounds in Nigeria | Klari Index",
+        "description": "PouchersFinTech • Nigeria, 2026-08-17, Pre-Seed, $500K, Stack Directory LLC, Details · BlockopsFinTech • Nigeria, 2026-08-12, Pre-Seed, $250K, Antler, Details.",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a212a3-b44a-76be-89f1-971684ac6a12"
+}

@@ -1,0 +1,39 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.facebook.com/OrangeCornersNigeria/posts/introducing-orange-corners-nigeria-lagos-cohort-14-incubateesjoin-us-in-welcomin/1422486406572278/",
+        "title": "Introducing Orange Corners Nigeria (Lagos) Cohort 14 Incubatees! Join ...",
+        "description": "Join us in welcoming Princess Natasha Momoh, Founder & CEO of Teazy Tech, to Orange Corners Nigeria (Lagos). We wish her the very best on ...",
+        "position": 1
+      },
+      {
+        "url": "https://www.trysignalbase.com/news/funding/teazy-tech-raises-11k-pre",
+        "title": "Teazy Tech Raises $11K Pre",
+        "description": "The Orange Corners Innovation Fund (OCIF) has backed Teazy Tech with an $11K pre-seed investment, signaling support for the startup's mission to modernize classrooms.",
+        "position": 2
+      },
+      {
+        "url": "https://www.instagram.com/p/DaNoAEJMs7u/",
+        "title": "Introducing Orange Corners Nigeria (Lagos) Cohort 14 Incubatees! Join ...",
+        "description": "Join us in welcoming @princessnatashabm Founder & CEO of Teazy Tech, to Orange Corners Nigeria (Lagos). We wish her the very best on this ...",
+        "position": 3
+      },
+      {
+        "url": "https://www.f6s.com/company/teazy-tech",
+        "title": "Teazy Tech",
+        "description": "Teazy Tech - Education - Building innovative educators ... Overview. Lekki, Nigeria. Founded 2021. Raised from About Orange Corners Innovation Fund - F6S Profile ...",
+        "position": 4
+      },
+      {
+        "url": "https://www.facebook.com/OrangeCornersNigeria/posts/orange-corners-nigeria-on-arise-newsthe-ocn-14-close-out-ocif-track-ii-award-cer/1507796008041317/",
+        "title": "Orange Corners Nigeria on Arise News The OCN 14 Close-Out & OCIF ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a21299-a00d-71cf-9186-2f760f4a9e16"
+}

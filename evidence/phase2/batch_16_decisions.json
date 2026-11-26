@@ -1,0 +1,198 @@
+[
+  {
+    "name": "Heyfood",
+    "website": "https://heyfood.africa/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Tracxn shows Seed round in Jan 2022 ($500K); no new funding announced in 2026-07-01..2026-11-24.",
+    "round_type_exact": "Seed",
+    "amount": "$500K",
+    "announced_date": "2022-01-01",
+    "investors": "Y Combinator",
+    "hq_location": "Ibadan, Nigeria",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://liners.com/research/food-delivery-apps-nigeria-2026",
+      "https://tracxn.com/d/companies/heyfood/__yDf_qy8QceJG6mGB_sK3cz3xi2hj4zYQZV3gptWguzM"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/500chow_7ca7822c4f.md",
+      "evidence/phase2/search_food_apps_2.json"
+    ]
+  },
+  {
+    "name": "Lodapoint",
+    "website": "https://lodapoint.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Launched truck-hailing platform on 2026-11-20 following a B2B pilot; no external funding announced and no commercial revenue figures disclosed.",
+    "round_type_exact": "NOT_FOUND",
+    "amount": "NOT_FOUND",
+    "announced_date": "NOT_FOUND",
+    "investors": "NOT_FOUND",
+    "hq_location": "Nigeria",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://african-startups.com/countries/nigeria/lodapoint-launches-truck-hailing-platform-with-over-10000-trucks-engaged/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/lodapoint_9496341d15.md"
+    ]
+  },
+  {
+    "name": "Mytherapist",
+    "website": "https://mytherapist.ng/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Founded in 2021 (pre-2025) and received grants in 2024; no funding announced in 2026-07-01..2026-11-24.",
+    "round_type_exact": "NOT_FOUND",
+    "amount": "NOT_FOUND",
+    "announced_date": "NOT_FOUND",
+    "investors": "54Collective, Wema Bank Nigeria, ABC Health, FATE Foundation (2024 grants)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://disruptafrica.com/2026/11/05/nigerias-mytherapist-wants-to-close-the-gap-between-needing-therapy-and-getting-it/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/mytherapist_3b7f91fe2d.md"
+    ]
+  },
+  {
+    "name": "OnIt Innovations",
+    "website": "https://www.onithq.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Launched in Lagos in May 2024 (pre-2025); no dated funding or accelerator selection in 2026-07-01..2026-11-24.",
+    "round_type_exact": "NOT_FOUND",
+    "amount": "NOT_FOUND",
+    "announced_date": "NOT_FOUND",
+    "investors": "Women in Tech accelerator, Orange Corners Nigeria (undated historical)",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://disruptafrica.com/2026/11/24/nigerias-onit-brings-structure-trust-to-africas-informal-service-economy/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/onit_innovations_1ac012ada1.md"
+    ]
+  },
+  {
+    "name": "PeoplePulse",
+    "website": "https://www.peoplepulseafrica.com/",
+    "tier": "D",
+    "status": "VERIFIED",
+    "round_type_exact": "Pre-funding / Commercial Revenue (Bootstrapped + Friends & Family)",
+    "amount": "NOT_FOUND",
+    "announced_date": "2026-11-19",
+    "investors": "Founders and friends-and-family; Women in Tech Accelerator Nigeria Cycle 7 top 11 finalist",
+    "hq_location": "Nigeria",
+    "funding_confidence": "TIER_D_REVENUE",
+    "source_urls": [
+      "https://disruptafrica.com/2026/11/19/how-nigerian-startup-peoplepulse-is-helping-smes-digitise-hr-with-ai/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/peoplepulse_83a35729ce.md"
+    ],
+    "notes": "Founded June 2025; piloted May-Jul 2026 with ~280 employees across 8 companies, all 8 converted into paying SME customers at NGN 2,000-3,500/employee/month."
+  },
+  {
+    "name": "Rana Energy",
+    "website": "https://ranaenergy.io/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Raised $3M pre-seed in October 2025 (outside 2026-07-01..2026-11-24 window); Firecrawl search found no 2026 funding round.",
+    "round_type_exact": "Pre-seed",
+    "amount": "$3M",
+    "announced_date": "2025-10-20",
+    "investors": "Techstars, EchoVC Eco, Optimum Global, FSDH Asset Management",
+    "hq_location": "Nigeria",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://disruptafrica.com/2025/10/20/nigerian-startup-rana-energy-raises-3m-pre-seed-funding-to-expand-operations/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/rana_energy_dd61ad6f7d.md",
+      "evidence/phase2/search_rana_energy_2026.json"
+    ]
+  },
+  {
+    "name": "Rex Africa",
+    "website": "https://www.rexafrica.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Tracxn confirms Rex Microfinance Bank (Rex Africa) was founded in 2023 (pre-2025) and is unfunded; Nov 11, 2026 article is a product launch with no external funding.",
+    "round_type_exact": "NOT_FOUND",
+    "amount": "NOT_FOUND",
+    "announced_date": "NOT_FOUND",
+    "investors": "NOT_FOUND",
+    "hq_location": "Abuja, Nigeria",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://disruptafrica.com/2026/11/11/nigerias-rex-africa-launches-ai-native-bank-with-conversational-financial-agent/",
+      "https://tracxn.com/d/companies/rex-microfinance-bank/__AqWfR_uXEjbHairRV9lYLQKxh9vbCTxEBmHe9_Jvx4Q"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/rex_africa_bb6aafb79b.md",
+      "evidence/phase2/search_rex_africa.json"
+    ]
+  },
+  {
+    "name": "Squaay",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Listed in Liners Nov 2026 Nigerian food delivery apps study without funding or 2025-2026 launch evidence; Firecrawl search found no funding in 2025-2026.",
+    "round_type_exact": "NOT_FOUND",
+    "amount": "NOT_FOUND",
+    "announced_date": "NOT_FOUND",
+    "investors": "NOT_FOUND",
+    "hq_location": "Nigeria",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://liners.com/research/food-delivery-apps-nigeria-2026"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/500chow_7ca7822c4f.md",
+      "evidence/phase2/search_food_apps_2.json"
+    ]
+  },
+  {
+    "name": "Tratum",
+    "website": "https://www.tratum-website.vercel.app/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Incorporated in 2025, explicitly pre-launch and pre-revenue ('Tratum is pre-launch and pre-revenue... now raising capital'); ineligible for Tier A/B/C/D.",
+    "round_type_exact": "NOT_FOUND",
+    "amount": "NOT_FOUND",
+    "announced_date": "NOT_FOUND",
+    "investors": "Founder/family and government-assisted loan programmes (undated/pre-launch)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://disruptafrica.com/2026/11/17/nigerias-tratum-building-offline-capable-banking-infrastructure-for-physical-economy/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/tratum_3ede33357e.md"
+    ]
+  },
+  {
+    "name": "AbegEppMe Global Services Limited",
+    "website": "https://www.abegeppme.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "F6S profile shows founded 2025 in Lagos with 'Raised from Ayooluwa Adesina' (founder self-funded); no external funding, date, or commercial revenue disclosed.",
+    "round_type_exact": "NOT_FOUND",
+    "amount": "NOT_FOUND",
+    "announced_date": "NOT_FOUND",
+    "investors": "Ayooluwa Adesina (founder)",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://www.f6s.com/company/abegeppme-global-services-limited"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/f6s_159_abegeppme_global_services_limited.md"
+    ]
+  }
+]

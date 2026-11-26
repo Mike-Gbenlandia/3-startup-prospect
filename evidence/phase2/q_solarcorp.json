@@ -1,0 +1,39 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://solarcorptech.com/",
+        "title": "SolarcorpTech",
+        "description": "Why Solarcorp? · Electricity you can trust. Our solar panels are internationally sourced and have a warranty of up to 5 years · Affordable. Can't pay on the go?",
+        "position": 1
+      },
+      {
+        "url": "https://www.facebook.com/esther.onuoha.7524/posts/looking-to-switch-to-solar-without-paying-everything-upfront-circool-by-solarcor/2058167838425054/",
+        "title": "Circool by Solarcorp offers flexible solar installation payments in Nigeria",
+        "description": "Circool by Solarcorp is a Nigerian solar savings platform that helps individuals and businesses save toward a solar system or pay in flexible ...",
+        "position": 2
+      },
+      {
+        "url": "https://www.instagram.com/solarcorp.energy/",
+        "title": "solarcorp.energy",
+        "description": "Solarcorp is transforming Families and Businesses with access to affordable and reliable Solar Energy Solution. · Generator wahala and rising fuel prices? · Power ...",
+        "position": 3
+      },
+      {
+        "url": "https://x.com/Solarcorpenergy",
+        "title": "Solarcorp Energy (@Solarcorpenergy) ...",
+        "description": "Thinking about making the switch to solar? Let's help you find the right setup for your energy needs. Go solar with Solarcorp today solarcorptech.com/circool.",
+        "position": 4
+      },
+      {
+        "url": "https://www.instagram.com/reel/DO42ZoDDXIJ/",
+        "title": "Reel by Solarcorp (@solarcorp.energy) · September 22, 2025",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a21295-0549-745b-94ca-954f1b18fc77"
+}

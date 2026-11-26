@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://cascador.org/pitch-day/",
+        "title": "Pitch-Day - Cascador",
+        "description": "Pitch Day. 2026 PITCH DAY RESULTS. Tap to unmute. Your browser can't play this video. Learn more ...",
+        "position": 1
+      },
+      {
+        "url": "https://cascador.org/apply-2026/",
+        "title": "Apply 2026",
+        "description": "Pitch Day · Resources · Media · Our Impact · Contact · About · About Cascador · Faculty ... Cascador ScaleUp 2026 Application. Thank you again for your interest ...",
+        "position": 2
+      },
+      {
+        "url": "https://www.facebook.com/cascadorprogram/posts/we-are-excited-to-announce-cascador-pitch-day-2026-and-this-year-we-are-going-bi/1298369592457093/",
+        "title": "Cascador Pitch Day 2026 for Nigerian entrepreneurs",
+        "description": "We are excited to announce Cascador Pitch Day 2026 and this year, we are going bigger. On Wednesday, June 3, 2026, join us in Lagos for ...",
+        "position": 3
+      },
+      {
+        "url": "https://cascador.org/cascador-pitch-day-2026/",
+        "title": "Cascador Pitch Day 2026: $5M+ Deployed to Seven Nigerian ...",
+        "description": "# Cascador Pitch Day 2026: Over $5M Deployed to Seven Transformative & Impactful Entrepreneurs in Nigeria\n#### Lagos, Nigeria\n**Special Prizes Awarded**\n\n● NSIA Prize for Innovation: Indigenius AI\n\n● Best Pitch: Koolboks",
+        "position": 4
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=4I8XxTIW59E",
+        "title": "Founders Share the Numbers Behind Their Growth",
+        "description": "At Cascador Pitch Day 2026, alumni founders from across Sub-Saharan Africa presented results built on access to catalytic capital and customized, ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a2129e-eb9d-725d-90e7-492f9ccf921a"
+}

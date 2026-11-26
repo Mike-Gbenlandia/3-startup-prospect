@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://marlvc.com/portfolio/bravoo/",
+        "title": "Bravoo",
+        "description": "Bravoo helps young people build skills through interactive missions, connect with a community, and earn rewards as they learn. ... Marl Accelerator, LLC ...",
+        "position": 1
+      },
+      {
+        "url": "https://www.facebook.com/groups/4113982442011643/posts/29165988576384350/",
+        "title": "b ל ל I'm Earning on Bravoo cash Turn your participation into real rewards ...",
+        "description": "b ל ל I'm Earning on Bravoo cash Turn your participation into real rewards when you join Bravoo. Click to join @ https://app.joinbravoo.com?",
+        "position": 2
+      },
+      {
+        "url": "https://techpoint.africa/brandpress/bravoo-builds-community-platform-around-missions-participation-and-rewards/",
+        "title": "Bravoo Builds Community Platform Around Missions, Participation and ...",
+        "description": "Rewards are an important part of Bravoo. It is just not the whole story. If Bravoo were only about scraping together a few extra dollars, it'd ...",
+        "position": 3
+      },
+      {
+        "url": "https://www.instagram.com/p/De1yJBFIA_i/",
+        "title": "Three Nigerian startups have secured ...",
+        "description": "Solarcorp, Bravoo and Zendtrax will each receive $50,000, $150,000 combined, as MARL's 14th cohort, with support in product development, ...",
+        "position": 4
+      },
+      {
+        "url": "https://app.dealroom.co/news/note/three-nigerian-startups-each-land-50k-in-marl-s-14th-global-cohort",
+        "title": "Three Nigerian startups each land $50K in MARL's 14th global cohort",
+        "description": "Bravoo is building a consumer platform around rewards and gamified experiences, while Zendtrax offers enterprise software for procurement ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a21295-169d-748d-8c06-1527049d44a4"
+}

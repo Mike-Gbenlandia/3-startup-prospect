@@ -1,0 +1,58 @@
+[Skip to content](https://www.startuplist.africa/funding/nursepadi-grant-100k-usd-78954d5#main-content)
+
+Live market
+
+NGX ASI245,685.87-0.32%
+
+JSE TOP40105,663.54-0.26%
+
+NGX ASI245,685.87-0.32%
+
+JSE TOP40105,663.54-0.26%
+
+NGX ASI245,685.87-0.32%
+
+JSE TOP40105,663.54-0.26%
+
+NGX ASI245,685.87-0.32%
+
+JSE TOP40105,663.54-0.26%
+
+Amount raised$100KUSD
+
+Announced04 Aug 20263 months ago
+
+Investors2
+
+## Investors in NursePadi's Grant2
+
+- CC![](https://www.startuplist.africa/_next/image?url=https%3A%2F%2Fs3.amazonaws.com%2Fstartuplist.africa%2Finvestors%2Flogos%2Fco-creation-hub-nigeria%2Fco-creation-hub-nigeria-logo.png&w=1920&q=75)
+[CcHUB](https://www.startuplist.africa/investors/cchub)
+
+Incubator · Lagos, Nigeria
+
+
+Participating[Profile of CcHUB →](https://www.startuplist.africa/investors/cchub)
+- MA
+[Mastercard Foundation](https://www.startuplist.africa/investors/mastercard-foundation)
+
+Foundation · Toronto, Canada
+
+
+Participating[Profile of Mastercard Foundation →](https://www.startuplist.africa/investors/mastercard-foundation)
+
+## About this round
+
+Non-dilutive, equity-free funding of up to $100,000 per startup under the Mastercard Foundation EdTech Fellowship (Cohort IV, Nigeria), an 18-month programme run by CcHUB with the Mastercard Foundation; the cohort total is a $1.2M commitment across 12 startups. Sources say 'up to $100,000', so the exact disbursed amount is not confirmed.
+
+## Sources for this round3
+
+- [techpoint.africaThe Mastercard Foundation EdTech Fellowship backs 12 early-stage Nigerian startups (CcHUB / Mastercard Foundation release, Techpoint Africa BrandPress, 4 Aug 2026)↗](https://techpoint.africa/brandpress/the-mastercard-foundation-edtech-fellowship-backs-12-early-stage-nigerian-startups)
+- [innovation-village.comEdTech Fellowship Cohort 4: 12 startups chosen by CcHUB and Mastercard Foundation (Innovation Village, 4 Aug 2026)↗](https://innovation-village.com/edtech-fellowship-cohort-4-12-startups-chosen-by-cchub-and-mastercard-foundation)
+- [msmeafricaonline.comCcHUB, Mastercard Foundation back 12 Nigerian edtech startups with $100,000 grants each (MSME Africa, 4 Aug 2026)↗](https://msmeafricaonline.com/cchub-mastercard-foundation-back-12-nigerian-edtech-startups-with-100000-grants-each)
+
+## Frequently asked about NursePadi's Grant
+
+How much did NursePadi raise in its Grant?$100K, announced on 4 August 2026.
+
+Who invested in NursePadi's Grant?2 investors are named for this round: CcHUB and Mastercard Foundation.

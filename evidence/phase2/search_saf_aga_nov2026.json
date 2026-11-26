@@ -1,0 +1,46 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.instagram.com/p/DfXHw8XiOTU/",
+        "title": "On the road to 100000+ mesh-grid connections in Nigeria. 🌍 Nigeria's ...",
+        "description": "... First Electric, Maskh Nigeria and Saf-Aga Renewable Energy In development: 200,000 more connections targeted by the end of Q1 2027, under ...",
+        "position": 1
+      },
+      {
+        "url": "https://www.facebook.com/Okra.Power/posts/on-the-road-to-100000-mesh-grid-connections-in-nigeria-nigerias-dares-program-wa/1880947160363441/",
+        "title": "Nigeria DARES mesh-grid connections reach 100000",
+        "description": "... First Electric, Maskh Nigeria and Saf-Aga Renewable Energy In development: 200,000 more connections targeted by the end of Q1 2027, under ...",
+        "position": 2
+      },
+      {
+        "url": "https://ng.linkedin.com/company/okra-solar",
+        "title": "Okra Solar",
+        "description": "... First Electric, PriVida Power Limited and SAF-AGA Renewable Energy Limited. ... Maskh Nigeria and Saf-Aga Renewable Energy In development: 200,000 more ...",
+        "position": 3
+      },
+      {
+        "url": "https://www.instagram.com/p/CVBtUmtrLD_/",
+        "title": "\"Access to modern energy can transform lives and offering ...",
+        "description": "... First Electric, Maskh Nigeria and Saf-Aga Renewable Energy In development: 200,000 more connections targeted by the end of Q1 2027, under Joint ...",
+        "position": 4
+      },
+      {
+        "url": "https://ng.linkedin.com/in/ridwan-fohunola-a91943158",
+        "title": "Ridwan Fohunola - Corporate Finance | Financial Advisory",
+        "description": "Corporate Finance | Financial Advisory | Strategic Advisory · Finance professional continuously providing valuable insights for ventures to unlock value.",
+        "position": 5
+      },
+      {
+        "url": "https://www.instagram.com/p/CVh7JPfAeKa/",
+        "title": "Pairing energy access with productive appliances is the key to elevating ...",
+        "description": "... Maskh Nigeria and Saf-Aga Renewable Energy In development ... ⚡. okra_solar · Video by First Electric on October 19, 2026. May be an ...",
+        "position": 6
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a21786-8c8d-70a6-9e9e-22e6fb0b1b8a"
+}

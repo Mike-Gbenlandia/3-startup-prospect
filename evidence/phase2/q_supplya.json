@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.caplight.com/company/supplya",
+        "title": "Supplya Valuation & Funding History",
+        "description": "Supplya has raised $120000. Last round: Pre Seed (Jan 2022). Based in Lagos. Founded in 2021. Sector: Consumer & Commerce. Funding history on Caplight.",
+        "position": 1
+      },
+      {
+        "url": "https://ng.linkedin.com/company/supplyashop",
+        "title": "Supplya",
+        "description": "Supplya. Financial Services. Supplya provides SMEs interest-free inventory financing, helping them buy now, pay later and scale faster.",
+        "position": 2
+      },
+      {
+        "url": "https://www.startuplist.africa/startups/supplya",
+        "title": "Supplya: Company Profile, Funding & Investors",
+        "description": "## About Supplya\nIts own website says it serves retailers in Lagos and Ogun states.\n\n## Supplya funding1 round\nSupplya has raised $5K across 1 round.\n\n## Frequently asked about Supplya\nHow much funding has Supplya raised? Supplya has raised $5K across 1 funding round. Its latest, a $5K Equity-free prize, was announced on 30 Oct 2026.\n\nSupplya operates in BNPL, FinTech and RetailTech.",
+        "position": 3
+      },
+      {
+        "url": "https://www.instagram.com/p/DQwWxNCClGp/",
+        "title": "Nigeria-based startup Supplya is reshaping how SMEs source goods ...",
+        "description": "Nigeria-based startup Supplya is reshaping how SMEs source goods, connecting retailers directly to manufacturers and offering interest-free ...",
+        "position": 4
+      },
+      {
+        "url": "https://disruptafrica.com/2025/11/04/how-nigerias-supplya-helps-smes-source-consumer-goods-from-manufacturers/",
+        "title": "How Nigeria's Supplya helps SMEs source consumer goods from ...",
+        "description": "Bootstrapped from the off, with US$10,500 in grant funding, Supplya has already secured more than 3,000 app downloads, with US$100,000 worth of ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a21293-ace9-723e-b42d-006d91398f07"
+}

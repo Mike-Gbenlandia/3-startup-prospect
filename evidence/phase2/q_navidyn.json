@@ -1,0 +1,39 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.navidynrobotics.com/",
+        "title": "Navidyn | The African Maritime Robotics Company",
+        "description": "Navidyn is a Nigerian marine robotics company developing ROVs, AUVs, and USVs for subsea inspection and other maritime operations starting with ...",
+        "position": 1
+      },
+      {
+        "url": "https://techcabal.com/2026/11/10/acecore-supplya-and-navidyn-moonshot/",
+        "title": "Acecore, Supplya and Navidyn are betting Nigeria can build, lend and dive",
+        "description": "# Acecore, Supplya and Navidyn are betting Nigeria can build, lend and dive\n[![Acecore, Supplya and Navidyn are betting Nigeria can build, lend and dive](https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/11/Acecore.webp)](https://techcabal.com/2026/11/10/acecore-supplya-and-navidyn-moonshot/) _The Acecore team receives the $10,000 cheque for winning TC Battlefield 2026 at Moonshot by TechCabal in Lagos._\n\n## **Navidyn**\n[Navidyn](https://www.navidynrobotics.com/) built the robot before the company.\n\nAtabot is an observation-class remotely operated vehicle, or ROV, rated to 50 metres with a battery that lasts 36 minutes. Navidyn plans to rent it at $4,000 a day, add lump-sum fees for bigger jobs, and sell machines later. It will start with small and medium-sized offshore operators in shallow water, and wants $800,000 to finish a product, land a first recurring contract, and fund 18 months.\n\nNavidyn’s case rests on a shift in who owns Nigeria’s oil.\n\nRenting by the day puts Navidyn in the same business as operators that already own vessels, crews and imported fleets, and work-class machines handle jobs Atabot cannot yet do.\n\nNavidyn’s list of 50 target companies splits into 23 small, 22 medium and 13 large, which adds up to 58. Ogaji also works as a lead engineer at a Texas-based drone manufacturer. At the pitch, the founders [said](https://techcabal.com/2026/11/03/acecore-wins-tc-battlefield/) that a Sahara Group representative offered a $5,000 inspection job before the product was ready.\n\n## Check your email\n![TechCabal](https://c76c7bbc41.mjedge.net/wp-content/themes/tc3.0/assets/img/tc-icon.png)\n\n![TechCabal](https://c76c7bbc41.mjedge.net/wp-content/themes/tc3.0/assets/img/tc-icon.png)",
+        "position": 2
+      },
+      {
+        "url": "https://www.linkedin.com/company/navidyn-limited",
+        "title": "Navidyn Limited",
+        "description": "Navidyn is an engineering and technology company building intelligent inspection and monitoring systems for critical underwater infrastructure.",
+        "position": 3
+      },
+      {
+        "url": "https://www.instagram.com/reel/DX1v-sDoaIK/",
+        "title": "Winners of our $5000 grant Navidyn and @tuntunre  ...",
+        "position": 4
+      },
+      {
+        "url": "https://www.instagram.com/p/DXrOGfuCF7_/",
+        "title": "Meet our finalists! 🌟Navidyn is officially pitching LIVE at Innovate 2026! Will ...",
+        "description": "Navidyn is officially pitching LIVE at Innovate 2026! Will they walk away with the $5,000 grant ? Join us this Saturday May 2nd 2026 ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a21293-7d6e-746f-baad-c0c08de7fcf0"
+}

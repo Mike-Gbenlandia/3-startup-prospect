@@ -1,0 +1,201 @@
+[
+  {
+    "name": "Bridge Merchant",
+    "website": "https://www.bridgemerchant.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Founded in 2020 (pre-2025); grown through operating revenue, founder capital, and undated historical grants; progressing toward institutional debt financing, with no funding announced in 2026-07-01..2026-11-24.",
+    "round_type_exact": "NOT_FOUND",
+    "amount": "NOT_FOUND",
+    "announced_date": "NOT_FOUND",
+    "investors": "Acumen, Heifer International, Standard Chartered Foundation, Access Bank, Sahara Group Foundation (undated past support)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://disruptafrica.com/2026/11/11/nigerian-agri-tech-startup-bridge-merchant-connects-smallholder-farmers-to-institutional-buyers/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/bridge_merchant_10ff6ba84c.md"
+    ]
+  },
+  {
+    "name": "BukaFinder",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Listed in Liners Nov 2026 Nigerian food delivery apps study without funding or 2025-2026 launch evidence; no in-window funding found in Firecrawl search.",
+    "round_type_exact": "NOT_FOUND",
+    "amount": "NOT_FOUND",
+    "announced_date": "NOT_FOUND",
+    "investors": "NOT_FOUND",
+    "hq_location": "Nigeria",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://liners.com/research/food-delivery-apps-nigeria-2026"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/500chow_7ca7822c4f.md",
+      "evidence/phase2/search_food_apps_1.json"
+    ]
+  },
+  {
+    "name": "Dado Food",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Active since at least May 2024 (pre-2025); no funding announced in 2026-07-01..2026-11-24.",
+    "round_type_exact": "NOT_FOUND",
+    "amount": "NOT_FOUND",
+    "announced_date": "NOT_FOUND",
+    "investors": "NOT_FOUND",
+    "hq_location": "Nigeria",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://liners.com/research/food-delivery-apps-nigeria-2026",
+      "https://lucidityinsights.com/news/dado-food-nigeria"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/500chow_7ca7822c4f.md",
+      "evidence/phase2/search_food_apps_1.json"
+    ]
+  },
+  {
+    "name": "DownloadChow",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Listed in Liners Nov 2026 Nigerian food delivery apps study without funding or 2025-2026 launch evidence; no in-window funding found in Firecrawl search.",
+    "round_type_exact": "NOT_FOUND",
+    "amount": "NOT_FOUND",
+    "announced_date": "NOT_FOUND",
+    "investors": "NOT_FOUND",
+    "hq_location": "Nigeria",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://liners.com/research/food-delivery-apps-nigeria-2026"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/500chow_7ca7822c4f.md",
+      "evidence/phase2/search_food_apps_1.json"
+    ]
+  },
+  {
+    "name": "Exploit-Forge Limited",
+    "website": "https://strikehound.ai/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Founded in 2024 (pre-2025) per LinkedIn and The Manifest; launched Strikehound product on 2026-11-20 with no external funding announced.",
+    "round_type_exact": "NOT_FOUND",
+    "amount": "NOT_FOUND",
+    "announced_date": "NOT_FOUND",
+    "investors": "NOT_FOUND",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://techpoint.africa/brandpress/exploit-forge-launches-strikehound/",
+      "https://www.linkedin.com/company/exploitforge"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/exploit_forge_limited_f03997df4d.md",
+      "evidence/phase2/search_exploit_forge.json"
+    ]
+  },
+  {
+    "name": "First Circle Capital",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Venture capital firm (announced $26M fintech fund close), not an operating startup.",
+    "round_type_exact": "VC Fund Close",
+    "amount": "$26M",
+    "announced_date": "NOT_FOUND",
+    "investors": "LPs",
+    "hq_location": "Africa",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://techpoint.africa/insight/techpoint-digest-1479/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/first_circle_capital_366926d0dd.md"
+    ]
+  },
+  {
+    "name": "Foodelo",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Tracxn confirms Foodelo has not raised any funding; no 2025-2026 founding or Tier D eligibility.",
+    "round_type_exact": "NOT_FOUND",
+    "amount": "NOT_FOUND",
+    "announced_date": "NOT_FOUND",
+    "investors": "NOT_FOUND",
+    "hq_location": "Nigeria",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://liners.com/research/food-delivery-apps-nigeria-2026",
+      "https://tracxn.com/d/companies/foodelo/__Aw3xsltjxrBU9l2Y607YanFImc2mufGF-I9kR3wbRYo"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/500chow_7ca7822c4f.md",
+      "evidence/phase2/search_food_apps_1.json"
+    ]
+  },
+  {
+    "name": "FoodNaija",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Listed in Liners Nov 2026 Nigerian food delivery apps study without funding or 2025-2026 launch evidence; no in-window funding found in Firecrawl search.",
+    "round_type_exact": "NOT_FOUND",
+    "amount": "NOT_FOUND",
+    "announced_date": "NOT_FOUND",
+    "investors": "NOT_FOUND",
+    "hq_location": "Nigeria",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://liners.com/research/food-delivery-apps-nigeria-2026"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/500chow_7ca7822c4f.md",
+      "evidence/phase2/search_food_apps_2.json"
+    ]
+  },
+  {
+    "name": "Gsubz",
+    "website": "https://gsubz.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Founded in 2021 (pre-2025) and bootstrapped; Nov 19, 2026 brand press announces Gsubz Store expansion with no external funding.",
+    "round_type_exact": "NOT_FOUND",
+    "amount": "NOT_FOUND",
+    "announced_date": "NOT_FOUND",
+    "investors": "NOT_FOUND",
+    "hq_location": "Nigeria",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://techpoint.africa/brandpress/gsubz-expands-from-data-into-china-imports-for-nigerian-smes/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/gsubz_1568213f41.md"
+    ]
+  },
+  {
+    "name": "HelpMe AI Solutions",
+    "website": "https://www.helpmeai.ng/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Announced public launch on 2026-11-24 after GITEX MVP showcase; no external funding announced and no commercial revenue/paying customers yet (ineligible for Tier D).",
+    "round_type_exact": "NOT_FOUND",
+    "amount": "NOT_FOUND",
+    "announced_date": "NOT_FOUND",
+    "investors": "NOT_FOUND",
+    "hq_location": "Nigeria",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://techpoint.africa/brandpress/helpme-ai-sets-24-november-public-launch-for-unified-ai-transaction-interface/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/helpme_ai_solutions_943b396e8c.md"
+    ]
+  }
+]

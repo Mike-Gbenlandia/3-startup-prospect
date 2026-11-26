@@ -1,0 +1,67 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.facebook.com/odnaworld/",
+        "title": "Odnaworld",
+        "description": "Odnaworld is into digital solutions in the supply value chain of farm produce. Foodservice distributor.",
+        "position": 1
+      },
+      {
+        "url": "https://www.instagram.com/reel/DEaDJuCis-z/",
+        "title": "More details on how to order via our website and Odnaworld",
+        "description": "Have you ordered your UTC JOS Tomatoes? A basket is selling for 25,000 Naira. To order, kindly visit our website www.odnaworld.com or call us on ...",
+        "position": 2
+      },
+      {
+        "url": "https://www.instagram.com/reel/C4vGrYNo7Mw/",
+        "title": "Supply, Processing & Distribution | Price Update  A small basket of ...",
+        "position": 3
+      },
+      {
+        "url": "https://www.startuplist.africa/startups/godash",
+        "title": "GoDash: Company Profile, Funding & Investors",
+        "description": "GoDash is a technology company based in Nigeria. It has raised $100K across 1 round. Founders, funding, investors and competitors.",
+        "position": 4
+      },
+      {
+        "url": "https://app.dealroom.co/companies/godash",
+        "title": "GoDash company information, funding & investors",
+        "description": "The eight startups span sectors and regions: godash in last-mile logistics, Telios in energy, Vantrace ... SavvyBee in fintech. What's the ...",
+        "position": 5
+      },
+      {
+        "url": "https://startup.gov.ng/",
+        "title": "Startup Nigeria",
+        "description": "## Sign Up and Pave the Way for Innovation and Growth\n![Startups](https://startup.gov.ng/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FIllus01.4e3f1223.png&w=384&q=75)\n\n## Partners\n[![NITDA](https://startup.gov.ng/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnitdalogo.eebe6332.png&w=640&q=75)](https://startup.gov.ng/#)\n\n[![NSIA](https://startup.gov.ng/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnsialogo.a1f4f346.png&w=640&q=75)](https://startup.gov.ng/#)\n\n[![NITDA](https://startup.gov.ng/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnitdalogo.eebe6332.png&w=640&q=75)](https://startup.gov.ng/#)\n\n[![NSIA](https://startup.gov.ng/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnsialogo.a1f4f346.png&w=640&q=75)](https://startup.gov.ng/#)",
+        "position": 6
+      },
+      {
+        "url": "https://www.facebook.com/yateghteghsolomon/videos/a-well-funded-nigerian-startup-shut-down-okra-one-of-the-pioneers-of-open-bankin/1835821273774937/",
+        "title": "A well-funded Nigerian startup… shut down. Okra, one of the pioneers ...",
+        "position": 7
+      },
+      {
+        "url": "https://www.linkedin.com/company/savvy-bee-ltd",
+        "title": "Savvy Bee LTD",
+        "description": "Hear the full story #savvybee #taxtool #financetools #moneymanagement #founderstory … ... GoDash. Software Development. Gusau, Zamfara. Vantrace Africa. Financial ...",
+        "position": 8
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=26Hz9h7CHvw",
+        "title": "Scaling Startups In Nigeria: From Survival To Sustainable Growth",
+        "description": "00:00 – Introduction ; 00:29 – What Does Scaling a Startup Actually Mean? ; 05:00 – Why Scaling is Difficult in Nigeria ; 09:05 – Survival vs.",
+        "position": 9
+      },
+      {
+        "url": "https://www.instagram.com/reel/B8g5r1jlwLf/",
+        "title": "Farm-to-Table Agritech | Supply, Processing & Distribution",
+        "position": 10
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a21790-fd67-70cf-b294-be87e337be56"
+}

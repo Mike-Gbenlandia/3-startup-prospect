@@ -1,0 +1,70 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.rewardinvestments.com/2026/09/15/madica-invests-up-to-1m-in-five-african-pre-seed-startups/",
+        "title": "Madica invests up to $1m in five African pre-seed startups",
+        "description": "Madica, an Africa-focused pre-seed investment programme, has committed up to $1 million across five startups in Algeria, Cameroon, Nigeria ...",
+        "position": 1
+      },
+      {
+        "url": "https://knews.kathimerini.com.cy/en/business/startups-get-boost-from-new-pre-seed-program",
+        "title": "Startups get boost from new PRE-SEED program - Knews",
+        "description": "The Research and Innovation Foundation (RIF) has introduced the PRE-SEED program, welcoming entrepreneurs and early-stage startups with open",
+        "position": 2
+      },
+      {
+        "url": "https://tracxn.com/d/companies/nymiz/__HouP2FAH22qYxYZ1_8U4IyEmD0mzZCzl-N4FHUKtMBw/funding-and-investors",
+        "title": "2026 Funding Rounds & List of Investors - Nymiz",
+        "description": "Nymiz has raised a total of $6.35M over 5 funding rounds: 3 Seed and 2 Early-Stage rounds. Nymiz's largest funding round so far was a Series ...",
+        "position": 3
+      },
+      {
+        "url": "https://miva.edu.ng/events/the-miva-academic-discourse-june-2025-edition/",
+        "title": "The Miva Academic Discourse – June 2025 Edition",
+        "description": "Date: Friday, 27th June, 2025; Time: 4:00 PM (WAT); Host: Prof. Tayo Arulogun, Vice Chancellor, Miva Open University",
+        "position": 4
+      },
+      {
+        "url": "https://maps.google.com/",
+        "title": "Google Maps",
+        "description": "Find local businesses, view maps and get driving directions in Google Maps.",
+        "position": 5
+      },
+      {
+        "url": "https://totalenergies.com/",
+        "title": "TotalEnergies - integrated multi-energy company ...",
+        "description": "TotalEnergies is a global integrated energy company that produces and markets energies: oil and biofuels, natural gas and green gases, renewables and electricity.",
+        "position": 6
+      },
+      {
+        "url": "https://www.easyjet.com/en/",
+        "title": "easyJet | Flights & holidays ️ Book low-cost airline tickets",
+        "description": "Find great deals on flights and holidays with easyJet. Explore popular destinations, compare prices, and book your next adventure with ease.",
+        "position": 7
+      },
+      {
+        "url": "https://jobnow.ng/",
+        "title": "Jobnow Nigeria",
+        "description": "Welcome to Jobnow Nigeria, your premier career gateway for top-tier employment, high-paying corporate roles, and structured graduate entry…",
+        "position": 8
+      },
+      {
+        "url": "https://www.booking.com/",
+        "title": "Booking.com | Official site | The best hotels, flights, car ...",
+        "description": "Whether you’re looking for hotels, homes, or vacation rentals, you’ll always find the guaranteed best price. Browse our accommodations in over 85,000 destinations.",
+        "position": 9
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Miss_Universe_2026",
+        "title": "Miss Universe 2026 - Wikipedia",
+        "description": "Miss Universe 2026 was the 75th Miss Universe pageant, held at the José Miguel Agrelot Coliseum in San Juan, Puerto Rico, on 24 November 2026. The event was presented by R'Bonney Gabriel, Mario Lopez, Zuri Hall, and Dayanara Torres.",
+        "position": 10
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a21352-1446-76fb-aa5a-59e4bc4d46da"
+}

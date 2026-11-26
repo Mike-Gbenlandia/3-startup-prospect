@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://coldhubs.com/",
+        "title": "ColdHubs – Nigeria's Largest Cold Chain Network",
+        "description": "## ColdHubs\n### Nigeria’s Largest Cold Chain Network\n[Check out Our Services](https://coldhubs.com/our-services)\n\n# ColdHubs Solutions\n## Join Our Newsletter\n### Want to chat first?\n#### Download Our Brochure\n- [Home](https://coldhubs.com/)",
+        "position": 1
+      },
+      {
+        "url": "https://www.ccacoalition.org/content/coldhubs-ltd",
+        "title": "ColdHubs Ltd. | Climate & Clean Air Coalition",
+        "description": "ColdHubs Ltd. has developed solar powered refrigeration units that provide affordable cold storage rooms to farmers. Its product is a solar powered walk-in cold ...",
+        "position": 2
+      },
+      {
+        "url": "https://energy-base.org/news/meet-the-global-caas-prize-winner-coldhubs/",
+        "title": "Meet the Global CaaS Prize Winner: ColdHubs – BASE",
+        "description": "ColdHubs' business model is a simple pay-as-you-store Cooling as a Service model. Farmers and retailers pay 100 Nigerian Naira (equivalent of ...",
+        "position": 3
+      },
+      {
+        "url": "https://foodplanetprize.org/initiatives/coldhubs-coldhubs-is-fixing-food-loss-with-off-grid-cool-rooms/",
+        "title": "ColdHubs is fixing food loss with off-grid cool rooms",
+        "description": "ColdHubs isn't Nigeria's first foray into cooling stations. However, its ... funding support for clean-cooling initiatives such as ColdHubs. Businesses ...",
+        "position": 4
+      },
+      {
+        "url": "https://bfaglobal.com/catalyst-fund/insights/why-we-invested-coldhubs/",
+        "title": "ColdHubs is decreasing food spoilage by reducing barriers to cold storage ...",
+        "description": "To enable the entire country to access ColdHubs's technology and service, the Catalyst Fund team is helping them to launch a Cold Connect ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a2129c-1f15-75fc-a437-409026494145"
+}

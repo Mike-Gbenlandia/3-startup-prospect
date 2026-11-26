@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.trysignalbase.com/news/funding/fuelventa-raises-45k-in-pre-seed-round",
+        "title": "Fuelventa Raises $45K in Pre-Seed Round",
+        "description": "Fuelventa has raised $45K in pre-seed funding to build digital infrastructure for fuel commerce.",
+        "position": 1
+      },
+      {
+        "url": "https://www.trysignalbase.com/news/funding/daya-raises-2-4m-pre-seed-round",
+        "title": "Daya Raises $2.4M Pre-Seed Round",
+        "description": "Pre-seed, $11.0M, today. 2. ATHENA logo. ATHENA. Pre-seed, $2.5M, today. 3. Unitoq logo. Unitoq. Pre-seed, $172.4K, today. 4. Fuelventa logo.",
+        "position": 2
+      },
+      {
+        "url": "https://www.linkedin.com/posts/velareo_velgas-investor-overview-building-the-activity-7513581493026279424-vyD9",
+        "title": "Velgas Digital LPG Distribution Ecosystem | Abimbola Ojo posted on ...",
+        "description": "... Seed Stage | Raising $1.39M ... #FuelVenta #DangoteRefinery #Energy #Nigeria #Downstream #FuelCommerce #EnergyTechnology #Industrialisation.",
+        "position": 3
+      },
+      {
+        "url": "https://www.trysignalbase.com/news/funding/lignosphere-secures-1-4m-pre",
+        "title": "LignoSphere Secures $1.4M Pre",
+        "description": "Pre-seed, $11.0M, today. 2. ATHENA logo. ATHENA. Pre-seed, $2.5M, today. 3. Unitoq logo. Unitoq. Pre-seed, $172.4K, today. 4. Fuelventa logo.",
+        "position": 4
+      },
+      {
+        "url": "https://www.trysignalbase.com/news/funding/lyrieai-raises-2m-pre-seed-funding",
+        "title": "Lyrie.ai Raises $2.0M Pre-Seed Funding",
+        "description": "Pre-seed, $2.5M, today. 2. Unitoq logo. Unitoq. Pre-seed, $172.4K, today. 3. Fuelventa logo. Fuelventa. Nigeria. Pre-seed, $44.7K, today. 4. Marble Cognition ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a21293-464b-763b-8182-b40b4ffacc15"
+}

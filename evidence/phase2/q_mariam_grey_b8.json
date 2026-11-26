@@ -1,0 +1,39 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://mariamgrey.com/",
+        "title": "Mariam Grey Pharmacy - #1 Online Pharmacy in Nigeria",
+        "description": "The customer service is outstanding and they are so caring and friendly. Run, don't walk to Mariam Grey Pharmacy. Buchi.",
+        "position": 1
+      },
+      {
+        "url": "https://www.facebook.com/lasgmist/videos/introducing-jennifer-esiaba-founder-of-mariam-grey-pharmacy-mariamgreyrx-a-femal/1212654710666739/",
+        "title": "Introducing Jennifer Esiaba, Founder of Mariam-Grey Pharmacy ...",
+        "position": 2
+      },
+      {
+        "url": "https://ng.linkedin.com/company/mariam-grey-pharmacy",
+        "title": "MARIAM GREY PHARMACY",
+        "description": "Mariam grey pharmacy is Nigeria first family pharmacy with a paritcular focus on women's healthcare and mental health.We have designed a telemedic ...",
+        "position": 3
+      },
+      {
+        "url": "https://vc4a.com/ventures/mariam-grey-pharmacy/",
+        "title": "Mariam Grey pharmacy",
+        "description": "|  |  |\n|-|-|\n| Social media | [Sign in to view details](https://vc4a.com/ventures/mariam-grey-pharmacy/#)[Sign in to view details](https://vc4a.com/ventures/mariam-grey-pharmacy/#)[Sign in to view details](https://vc4a.com/ventures/mariam-grey-pharmacy/#)[Sign in to view details](https://vc4a.com/ventures/mariam-grey-pharmacy/#)[Sign in to view details](https://vc4a.com/ventures/mariam-grey-pharmacy/#)[Sign in to view details](https://vc4a.com/ventures/mariam-grey-pharmacy/#) |",
+        "position": 4
+      },
+      {
+        "url": "https://www.crunchbase.com/organization/mariam-grey-pharmacy",
+        "title": "Mariam Grey Pharmacy - Crunchbase Company Profile & Funding",
+        "description": "Mariam Grey Pharmacy is Nigeria's first family pharmacy with a particular focus on women's healthcare and mental health.",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a2129c-5b77-76bd-9be3-a29497d7da63"
+}

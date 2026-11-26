@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.crunchbase.com/organization/foodelo",
+        "title": "Foodelo - Crunchbase Company Profile & Funding",
+        "description": "Foodelo is an Online Food Delivery SaaS for on-demand food logistics in Nigeria. With the product available as a Web App and Mobile App.",
+        "position": 1
+      },
+      {
+        "url": "https://tracxn.com/d/companies/foodelo/__Aw3xsltjxrBU9l2Y607YanFImc2mufGF-I9kR3wbRYo",
+        "title": "Foodelo - 2026 Company Profile & Competitors",
+        "description": "It operates as an Online food discovery and ordering platform. Foodelo has not raised any funding yet. The company has 41 active competitors, including 4 that ...",
+        "position": 2
+      },
+      {
+        "url": "https://www.facebook.com/doc.awolowo/posts/i-have-been-sleeping-on-foodelo-intelligent-food-delivery-companion-but-not-anym/10164347562672326/",
+        "title": "I have been sleeping on FOODELO | Intelligent Food delivery ...",
+        "description": "I have been sleeping on FOODELO | Intelligent Food delivery Companion but not anymore. Get 30% off your first order, plus you get rewarded every time you order.",
+        "position": 3
+      },
+      {
+        "url": "https://lucidityinsights.com/news/dado-food-nigeria",
+        "title": "Dado Food: Redefining Eastern Nigeria's Culinary Landscape!",
+        "description": "Dado Food's arrival in the Eastern Nigerian food delivery scene marks a significant shift in the way people eat, socialise, and live their daily ...",
+        "position": 4
+      },
+      {
+        "url": "https://www.instagram.com/p/C6_sIUWt96t/",
+        "title": "all with just a few taps. ⁠ ⁠ DADO FOOD app is available on IOS and Android ...",
+        "description": "In a region where food delivery has traditionally been a slow and unreliable process, Dado Food is bringing a breath of fresh air to the table.⁠",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a2134a-0f0e-76fa-80c9-ec4e81d2ef6a"
+}

@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://tradelenda.com/",
+        "title": "Trade Lenda",
+        "description": "# Built for the business owner in you.Built for thetraderin you.\n[See a day with Trade Lenda](https://tradelenda.com/#story)\n\n## A day with Ada, a fabric trader in Balogun Market\n[Explore bill payments](https://tradelenda.com/products)\n\n## Your business has a story. Let’s grow it together.\n[Open your free account](https://tradelenda.com/signup) [Explore products](https://tradelenda.com/products)",
+        "position": 1
+      },
+      {
+        "url": "https://www.linkedin.com/company/tradelenda",
+        "title": "Trade Lenda",
+        "description": "Trade Lenda is transforming financial access and fueling prosperity in emerging markets. Website: https://tradelenda.com. External link for Trade Lenda.",
+        "position": 2
+      },
+      {
+        "url": "https://www.facebook.com/Tradelenda/posts/your-business-deserves-more-than-just-capital-it-deserves-a-partner-trade-lenda-/1331974232376964/",
+        "title": "Trade Lenda",
+        "description": "Your business deserves more than just capital, it deserves a partner. Trade Lenda is SO ready for you. Apply now! Link in bio #TradeLenda...",
+        "position": 3
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a212a2-a503-71a0-8cc7-6a03b2c74ed6"
+}

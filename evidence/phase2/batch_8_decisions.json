@@ -1,0 +1,214 @@
+[
+  {
+    "name": "Beacon Power Services",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Raised Series A financing led by Partech (announced Nov 7, 2024); Oct 16, 2026 $10M EBRD commitment is a corporate debt loan (excluded per Series A+ and debt-facility rules).",
+    "round_type_exact": "Debt Financing ($10M EBRD loan) / Prior Series A (Nov 2024)",
+    "amount": "$10M",
+    "announced_date": "2026-10-16",
+    "investors": "European Bank for Reconstruction and Development (EBRD); earlier: Partech",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/beacon-power-services-debt-financing-10m-usd-822631a",
+      "https://partechpartners.com/news/beacon-power-services-secures-series-a-funding-to-accelerate-sustainable-data-driven-solutions-for-africas-power-sector",
+      "https://techpoint.africa/news/beacon-power-gets-funding-partech/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/beacon_power_services_e72d78acfb.md",
+      "evidence/phase2/q_beacon_b8.json"
+    ]
+  },
+  {
+    "name": "Cold Hubs",
+    "website": "https://coldhubs.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Grant (Milken-Motsepe Prize in Circular Economy Semifinalist Unrestricted Award)",
+    "amount": "$50K",
+    "announced_date": "2026-10-15",
+    "investors": "Milken Institute / Motsepe Foundation (also Cascador 2026 ScaleUp Cohort)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/cold-hubs-grant-50k-usd-2c0a614",
+      "https://milkeninstitute.org/content-hub/news-releases/10-companies-named-semifinalists-2-million-milken-motsepe-prize-circular-economy",
+      "https://disruptafrica.com/2026/10/19/10-african-startups-named-semi-finalists-for-2m-milken-motsepe-prize-in-circular-economy/",
+      "https://coldhubs.com/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/cold_hubs_e9c5002c06.md",
+      "evidence/phase2/q_coldhubs_b8.json",
+      "evidence/phase1/hy_disruptafrica_cascador_10.md"
+    ]
+  },
+  {
+    "name": "Minicor",
+    "website": "https://www.minicor.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Headquartered in San Francisco, California, US (YC P26; co-founded by Nigerian-born Saheed Akinbile and Faizaan Chishtie); does not meet Nigeria HQ/main operations requirement.",
+    "round_type_exact": "Seed",
+    "amount": "$3.8M",
+    "announced_date": "2026-10-14",
+    "investors": "IA Ventures (lead), Y Combinator, Paul Graham, Pioneer Fund, Robinhood Ventures, Rebel Fund",
+    "hq_location": "San Francisco, United States",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/minicor-seed-3-8m-usd-6a62519",
+      "https://shattered.io/minicor-3-8m-seed-ai-agents-legacy-desktop-apps-akinbile-2026/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/minicor_0a6ccb3d13.md",
+      "evidence/phase2/q_minicor_b8.json"
+    ]
+  },
+  {
+    "name": "MAX",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Series B3 funding extension (reaching $29M cumulative) announced 2026-10-12; excluded per Series A+ rule.",
+    "round_type_exact": "Series B3 extension",
+    "amount": "Undisclosed ($29M cumulative Series B3)",
+    "announced_date": "2026-10-12",
+    "investors": "Nithio Holdings, BII",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/maxng-series-b-undisclosed-f0afdea",
+      "https://nithio.com/nithio-expands-its-e-mobility-portfolio-with-investment-in-max/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/max_cb2f16df42.md"
+    ]
+  },
+  {
+    "name": "Vatar",
+    "website": "https://vatar.com/",
+    "tier": "A",
+    "status": "VERIFIED",
+    "round_type_exact": "Pre-seed",
+    "amount": "$500K (at $10M valuation)",
+    "announced_date": "2026-10-09",
+    "investors": "Abdulhamid Hassan, Nathan Nwachuku, Oo Nwoye, Resilience17",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://fireround.dev/companies/vatar",
+      "https://techcabal.com/2026/10/09/lagos-life-maker-vatar-raises-500000/",
+      "https://techpoint.africa/news/lagos-life-10m-valuation",
+      "https://vatar.com/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/vatar_16d8fe42b5.md"
+    ]
+  },
+  {
+    "name": "Adaptive Atelier",
+    "website": "https://www.adaptiveatelier.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Grant (Standard Chartered Foundation Women in Tech Accelerator Nigeria Cycle 7)",
+    "amount": "$10K",
+    "announced_date": "2026-10-03",
+    "investors": "Standard Chartered Foundation",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/adaptive-atelier-grant-10k-usd-6e0374f",
+      "https://techpoint.africa/brandpress/standard-chartered-foundation-women-in-tech-accelerator-winners-in-nigeria-announced/",
+      "https://www.adaptiveatelier.com/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/adaptive_atelier_d008b18de6.md",
+      "evidence/phase2/q_adaptive_b8.json"
+    ]
+  },
+  {
+    "name": "Mariam Grey Pharmacy",
+    "website": "https://mariamgrey.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Grant (Standard Chartered Foundation Women in Tech Accelerator Nigeria Cycle 7)",
+    "amount": "$10K",
+    "announced_date": "2026-10-03",
+    "investors": "Standard Chartered Foundation",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/mariam-grey-pharmacy-grant-10k-usd-dc37247",
+      "https://techpoint.africa/brandpress/standard-chartered-foundation-women-in-tech-accelerator-winners-in-nigeria-announced/",
+      "https://mariamgrey.com/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/mariam_grey_pharmacy_0b87f46eba.md",
+      "evidence/phase2/q_mariam_grey_b8.json"
+    ]
+  },
+  {
+    "name": "KidsThatCode",
+    "website": "https://www.kidsthatcode.co/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Grant (Standard Chartered Foundation Women in Tech Accelerator Nigeria Cycle 7)",
+    "amount": "$10K",
+    "announced_date": "2026-10-03",
+    "investors": "Standard Chartered Foundation",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/kidsthatcode-grant-10k-usd-5504a50",
+      "https://techpoint.africa/brandpress/standard-chartered-foundation-women-in-tech-accelerator-winners-in-nigeria-announced/",
+      "https://www.kidsthatcode.co/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/kidsthatcode_12f00be026.md",
+      "evidence/phase2/q_kidsthatcode_b8.json"
+    ]
+  },
+  {
+    "name": "Proc360",
+    "website": "https://proc360.1879techhub.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Grant (Standard Chartered Foundation Women in Tech Accelerator Nigeria Cycle 7)",
+    "amount": "$10K",
+    "announced_date": "2026-10-02",
+    "investors": "Standard Chartered Foundation",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/proc360-grant-10k-usd-ae59694",
+      "https://businessday.ng/brands-advertising/article/standard-chartered-foundation-women-in-tech-accelerator-winners-in-nigeria-announced/",
+      "https://herimpactafrica.com/five-nigerian-women-founders-receive-50000-to-scale-technology-businesses/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/proc360_9566ad2831.md",
+      "evidence/phase2/q_proc360_b8.json"
+    ]
+  },
+  {
+    "name": "Tomato Jos",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Raised €3.9M ($4.4M / $8.3M total) Series A in 2020 (excluded per Series A+ rule); founded 2014; Oct 1, 2026 $2M Sabou Capital announcement is a debt facility.",
+    "round_type_exact": "Debt Facility ($2M Sabou Capital) / Prior Series A (2020)",
+    "amount": "$2M",
+    "announced_date": "2026-10-01",
+    "investors": "Sabou Capital",
+    "hq_location": "Kaduna, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://african-startups.com/news/funding/african-startups-that-raised-funding-in-september-2026/",
+      "https://nairametrics.com/2020/05/20/deal-tomato-jos-secures-over-n1-8billion-series-a-funding/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/tomato_jos_e19040e893.md",
+      "evidence/phase2/q_tomato_jos_b8.json"
+    ]
+  }
+]

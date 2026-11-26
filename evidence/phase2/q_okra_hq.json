@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://en.wikipedia.org/wiki/First_Solar",
+        "title": "First Solar - Wikipedia",
+        "description": "| First Solar, Inc. |\n|-|\n| Founded | 1999;27years ago(1999) |\n| Headquarters | [Phoenix, Arizona](https://en.wikipedia.org/wiki/Phoenix,_Arizona)<br>, <br>U.S. |",
+        "position": 1
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Okta,_Inc.",
+        "title": "Okta, Inc. - Wikipedia",
+        "description": "# Okta, Inc.\n| Okta, Inc. |\n|-|\n| Founded | January2009;17years ago(2009-01) |",
+        "position": 2
+      },
+      {
+        "url": "https://www.firstsolar.com/en/About-Us/Overview",
+        "title": "Overview - First Solar",
+        "description": "Leading the World’s Sustainable Energy Future Founded in 1999, First Solar is America’s leading photovoltaic (“PV”) solar technology and manufacturing company. The only U.S.-headquartered company among the world’s largest solar manufacturers, First Solar is focused on competitively and reliably enabling power generation needs with its advanced, uniquely American thin film PV ...",
+        "position": 3
+      },
+      {
+        "url": "https://www.all-energy.com.au/",
+        "title": "All Energy Australia",
+        "description": "The Southern Hemisphere's Largest Clean Energy Event. A premium free-to-attend business-to-business conference and exhibition.",
+        "position": 4
+      },
+      {
+        "url": "https://us.sunpower.com/company/history",
+        "title": "Company History | SunPower®",
+        "description": "Complete Solaria, Inc. is now SunPower Inc., combining expertise and innovation to deliver reliable, accessible residential solar and energy storage solutions. Learn how we’re powering a sustainable future for all.",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a21295-2bc3-74c0-9945-2517f1725907"
+}

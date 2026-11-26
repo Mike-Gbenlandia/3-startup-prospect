@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://kutanapay.com/about-us",
+        "title": "About Kutana | Building Africa's Trusted Trade Infrastructure",
+        "description": "Kutana Pay makes it easy for exporters to get paid and for African SMEs to ... Kutana Technologies Limited (Canada) is registered with the Bank of ...",
+        "position": 1
+      },
+      {
+        "url": "https://uk.linkedin.com/company/kutana-tech",
+        "title": "Kutana Technologies (JPMorgan FFP'25)",
+        "description": "Kutana Technologies (JPMorgan FFP'25) | 1611 followers on LinkedIn. B2B Cross-Border Trade Infrastructure for Africa — Fast. Trusted. | Kutana Pay ...",
+        "position": 2
+      },
+      {
+        "url": "https://app.dealroom.co/companies/kutana_technologies",
+        "title": "Kutana Technologies company information, funding & investors",
+        "description": "Kutana Technologies is a financial technology company incorporated in the UK, Ghana ... Kutana Pay, the company's flagship platform, addresses these ...",
+        "position": 3
+      },
+      {
+        "url": "https://www.crunchbase.com/organization/kutana-technologies",
+        "title": "Kutana Technologies - Crunchbase Company Profile & Funding",
+        "description": "Kutana Technologies uses AI and Blockchain to secure B2B payments for African SMEs through their platform, KutanaPay.",
+        "position": 4
+      },
+      {
+        "url": "https://compass.nayaone.com/vendor_listing/kutana-technologies-kutana-pay-05",
+        "title": "Kutana Technologies",
+        "description": "![Kutana Technologies](https://cqdvuoijtlujjngvttym.supabase.co/storage/v1/object/public/assets/vendors/f1759998891915x509702204360202430/7760236c34d04f52996e95359fae17c9.avif)Kutana Technologies\n\n# Kutana Technologies\n![Kutana Technologies](https://cqdvuoijtlujjngvttym.supabase.co/storage/v1/object/public/assets/vendors/f1759998891915x509702204360202430/7760236c34d04f52996e95359fae17c9.avif)Kutana TechnologiesKutana Technologies\n\nGhana",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a2134e-823a-726a-a82e-7cc557056605"
+}

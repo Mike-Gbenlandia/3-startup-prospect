@@ -1,0 +1,38 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "markdown": "[Skip to main content](https://african-startups.com/news/funding/#brx-content) [Skip to footer](https://african-startups.com/news/funding/#brx-footer)\n\nPage not found\n\n# 404\n\nReturn to Front Page",
+    "metadata": {
+      "og:title": "",
+      "viewport": "width=device-width, initial-scale=1",
+      "generator": "WordPress 7.0.9",
+      "ogTitle": "",
+      "og:url": "https://african-startups.com/news/funding/",
+      "robots": "max-image-preview:large",
+      "og:type": "website",
+      "ogUrl": "https://african-startups.com/news/funding/",
+      "ogSiteName": "African-Startups",
+      "title": "Page not found – African-Startups",
+      "msapplication-TileImage": "https://african-startups.com/wp-content/uploads/2026/04/cropped-ASF_favicon-270x270.png",
+      "language": "en-US",
+      "og:site_name": "African-Startups",
+      "favicon": "https://african-startups.com/wp-content/uploads/2026/04/cropped-ASF_favicon-32x32.png",
+      "scrapeId": "01a21215-cb82-7718-8440-f9cb2a005c45",
+      "sourceURL": "https://african-startups.com/news/funding/",
+      "url": "https://african-startups.com/news/funding/",
+      "statusCode": 404,
+      "error": "Not Found",
+      "contentType": "text/html; charset=UTF-8",
+      "proxyUsed": "basic",
+      "cacheState": "hit",
+      "cachedAt": "2026-11-24T15:00:57.344Z",
+      "creditsUsed": 1,
+      "concurrencyLimited": false
+    },
+    "links": [
+      "https://african-startups.com/news/funding/#brx-content",
+      "https://african-startups.com/news/funding/#brx-footer"
+    ]
+  }
+}

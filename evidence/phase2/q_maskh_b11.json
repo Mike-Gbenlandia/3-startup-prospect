@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.facebook.com/EmpowerAfricaCo/posts/all-on-and-energise-africa-have-invested-4-million-in-maskh-nigeria-limited-to-d/1728988642568083/",
+        "title": "All On and Energise Africa invest $4 million in Maskh Nigeria's solar mini- ...",
+        "description": "All On and Energise Africa have invested $4 million in Maskh Nigeria Limited to develop solar-powered mini- grids. The project will provide more ...",
+        "position": 1
+      },
+      {
+        "url": "https://empowerafrica.com/all-on-and-energise-africa-invest-4-million-in-maskh-nigeria-solar-mini-grid-project/",
+        "title": "All On and Energise Africa Invest $4 Million in Maskh Nigeria Solar Mini- ...",
+        "description": "All On and Energise Africa have invested $4 million in Maskh Nigeria Limited to develop solar-powered mini-grids in 19 communities across Jigawa ...",
+        "position": 2
+      },
+      {
+        "url": "https://www.africaprivateequitynews.com/p/all-on-energise-africa-in-nigerian",
+        "title": "All On, Energise Africa in Nigerian mini-grid deal",
+        "description": "All On and Energise Africa have invested $4 million in Maskh Nigeria to support solar-powered mini-grids across 19 communities in Jigawa and ...",
+        "position": 3
+      },
+      {
+        "url": "https://www.linkedin.com/posts/empowerafrica_empowerafrica-africa-investinafrica-activity-7500527713062060032-X6cS",
+        "title": "All On Invests $4M in Maskh Nigeria for Solar-Powered Mini-Grids",
+        "description": "All On and Energise Africa have invested $4 million in Maskh Nigeria Limited to develop solar-powered mini-grids. The project will provide ...",
+        "position": 4
+      },
+      {
+        "url": "https://www.instagram.com/p/DcwQ5CbO1Ae/?__d=1*",
+        "title": "All On and Energise Africa have invested $4 million in Maskh ...",
+        "description": "All On and Energise Africa have invested $4 million in Maskh Nigeria Limited to develop solar-powered mini-grids. The project will provide more reliable ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a212a3-c273-7506-b484-0947dfead7c2"
+}

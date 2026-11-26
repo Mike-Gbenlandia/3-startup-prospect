@@ -1,0 +1,59 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "scrape_id": "01a20e0c-7c47-7169-a58a-12bd5a94fade",
+  "data": {
+    "alexandria": [
+      {
+        "provider": "fireround",
+        "capability": "companies/search",
+        "creditsCost": 5,
+        "data": {
+          "data": [],
+          "total": 0,
+          "next_page": null
+        },
+        "records": 0,
+        "upstreamStatus": 200,
+        "alexandriaId": "4a4140604e1db07a1887777a4b775629b02930f1b03d706ae249e426d77a0700",
+        "providerRequestId": "8a1657fa-f412-4bc2-9484-83b973bb71ab",
+        "feedbackToken": "v1.WyI0YTQxNDA2MDRlMWRiMDdhMTg4Nzc3N2E0Yjc3NTYyOWIwMjkzMGYxYjAzZDcwNmFlMjQ5ZTQyNmQ3N2EwNzAwIiwiZmlyZXJvdW5kIiwiY29tcGFuaWVzL3NlYXJjaCIsMTc5NTUzMjAyOV0.r9G62oO1Jai8dwHkfI6tww",
+        "nextStep": {
+          "instruction": "Next step: before you answer the user, rate this result with POST /v2/feedback (good, partial or bad, and what was missing). It refunds 1 credit, once per call, up to a daily limit.",
+          "request": "POST /v2/feedback",
+          "body": {
+            "endpoint": "alexandria",
+            "rating": "<good|partial|bad>",
+            "requestedWebsite": {
+              "url": "<website the data is about>",
+              "requestedFunctionality": "<what you needed from it>"
+            },
+            "objective": "<the underlying goal>",
+            "rationale": "<what was right, wrong or missing>",
+            "tokens": [
+              "<feedbackToken of each result you rate>"
+            ]
+          },
+          "ifNotFound": {
+            "note": "If you have already tried everything you could to find this data and still could not find it, you can report it with firecrawl/report-missing-data. It is free.",
+            "call": {
+              "provider": "firecrawl",
+              "capability": "report-missing-data",
+              "options": {
+                "need": "<exactly what data you needed>",
+                "tried": [
+                  {
+                    "used": "<what you used>",
+                    "input": "<exactly what you asked it>",
+                    "outcome": "<what came back, or how it failed>"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      }
+    ],
+    "creditsCost": 5
+  }
+}

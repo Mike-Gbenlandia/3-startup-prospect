@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.instagram.com/safeboxenergy/",
+        "title": "Safebox Energy | Energy Solutions (@safeboxenergy) · Bénin",
+        "description": "No matter where you are in Nigeria, Safebox Energy is ready to power you! ☀️ From the South to the East, West and North, we deliver our reliable solar ...",
+        "position": 1
+      },
+      {
+        "url": "https://www.safeboxenergy.com/",
+        "title": "Safebox Energy | Reliable Energy Starts Here",
+        "description": "Safebox Energy provides dependable clean energy solutions in Nigeria — including GreenBand solar subscriptions, standalone solar systems, portable power ...",
+        "position": 2
+      },
+      {
+        "url": "https://www.f6s.com/company/safebox-solutions",
+        "title": "Safebox Solutions",
+        "description": "Safebox Energy provides smart, affordable, and sustainable energy solutions to homes and businesses in Nigeria, with a special focus on healthcare ...",
+        "position": 3
+      },
+      {
+        "url": "https://www.facebook.com/safeboxenergy/posts/-no-matter-where-you-are-in-nigeria-safebox-energy-is-ready-to-power-you-%EF%B8%8Ffrom-t/1068520399066944/",
+        "title": "📍 No matter where you are in Nigeria, Safebox Energy is ready ...",
+        "description": "☀️ From the South to the East, West and North, we deliver our reliable solar energy solutions nationwide. At Safebox Energy, location is never a limit.",
+        "position": 4
+      },
+      {
+        "url": "https://www.facebook.com/safeboxenergy/",
+        "title": "Safebox Energy (@safeboxenergy)",
+        "description": "Safebox Energy. 159 followers · 2 talking about this. We manufacture smart solar generators • Deals on Solar Products • System monitoring/maintenance.",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a212a3-a4d2-72a8-bb6d-8ac2964db6f3"
+}

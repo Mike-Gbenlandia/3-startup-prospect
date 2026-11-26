@@ -1,0 +1,70 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://partners.circle.com/partner/minisend",
+        "title": "Minisend | Circle Alliance Directory",
+        "description": "Minisend is an onchain off-ramp platform built for traders and freelancers across Africa. Supporting 30+ banks in Nigeria, M-PESA in Kenya, ...",
+        "position": 1
+      },
+      {
+        "url": "https://www.startuplist.africa/startups/minisend",
+        "title": "Minisend: Company Profile, Funding & Investors",
+        "description": "Minisend is a FinTech and Blockchain company based in Nairobi, Kenya, founded by Chris Oketch. It has raised $100K across 1 round.",
+        "position": 2
+      },
+      {
+        "url": "https://www.instagram.com/p/DdTbecWo32k/",
+        "title": "Every transaction in the stablecoin economy needs a way to land ...",
+        "description": "Minisend has settled over $500K across Kenya, Nigeria, Uganda and Ghana and won Base Batches 002. Chris will be at ABF 2026 x WTS 4.0, bringing his experience ...",
+        "position": 3
+      },
+      {
+        "url": "https://technext24.com/crypto/minisend-chris-oketch-africa-pay-crypto/",
+        "title": "With MiniSend, Chris Oketch is rewiring Africa's mobile payments ...",
+        "description": "With MiniSend, Chris Oketch is building a better payment tool for Africa's creator economy ... Like most creators, Chris Oketch got tired of ...",
+        "position": 4
+      },
+      {
+        "url": "https://www.facebook.com/BusinessToday.Kenya/posts/a-digital-coin-platform-minisend-will-allow-users-and-businesses-to-receive-stab/1521523453332697/",
+        "title": "A digital coin platform, Minisend will allow users and businesses to ...",
+        "description": "A digital coin platform, Minisend will allow users and businesses to receive stablecoins such as USDC and USDT across supported blockchain ...",
+        "position": 5
+      },
+      {
+        "url": "https://www.linkedin.com/posts/minisend_our-interview-with-the-hustle-yangu-show-activity-7429082354708549632-hUTW",
+        "title": "Interview with Hustle Yangu Show on Minisend's African Creator ...",
+        "description": "View organization page for Minisend · Minisend. 328 followers. 8mo. Report this post; Close menu. Our interview with the Hustle Yangu Show is finally live We ...",
+        "position": 6
+      },
+      {
+        "url": "https://ke.linkedin.com/in/itschrisoketch",
+        "title": "Chris Oketch - Web3.0 | ex Devrel Base | Founder @Minisend",
+        "description": "Web3.0 | ex Devrel Base | Founder @Minisend · Hi, I'm Chris. I'm a Software Engineer and Blockchain Developer focused on building practical, ...",
+        "position": 7
+      },
+      {
+        "url": "https://devfolio.co/projects/minisend-42fb",
+        "title": "Minisend",
+        "description": "The problem Minisend solves. Minisend eliminates the last-mile friction preventing Base creators and builders from accessing their onchain ...",
+        "position": 8
+      },
+      {
+        "url": "https://liners.com/minisend",
+        "title": "Minisend: USDC to Cash Offramp in Africa - Liners",
+        "description": "## About Minisend\n### Minisend Facts\n[Kenya](https://liners.com/countries/kenya) [Ghana](https://liners.com/countries/ghana) [Nigeria](https://liners.com/countries/nigeria) +1 more",
+        "position": 9
+      },
+      {
+        "url": "https://citizen.digital/article/minisend-targets-kenyas-digital-payments-market-with-stablecoin-platform-n389656",
+        "title": "Minisend targets Kenya's digital payments market with stablecoin ...",
+        "description": "Minisend targets Kenya's digital payments market with stablecoin platform. Chris Oketch founder of MINISEND speaking at the Based Founders ...",
+        "position": 10
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a21794-68b1-71f1-ac5a-ca6687bc598e"
+}

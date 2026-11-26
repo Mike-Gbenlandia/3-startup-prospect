@@ -1,0 +1,67 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.instagram.com/p/DfkgLNhDYDL/",
+        "title": "Great businesses begin with bold ideas, but the real magic is in building ...",
+        "description": "Cutstruct Technology Limited emerged as the overall winner, taking home ₦35 million. Sproutly followed in second place (₦20 million), PharmaRun ...",
+        "position": 1
+      },
+      {
+        "url": "https://www.facebook.com/BeyondLimitsGlobal/posts/great-businesses-begin-with-bold-ideas-but-the-real-magic-is-in-building-them-to/1168698205558235/",
+        "title": "Zenith Bank Zecathon 6.0 top 5 startups 2026",
+        "description": "Sproutly followed in second place (₦20 million), PharmaRun in third place (₦15 million), AUI BRAND in fourth place (₦10 million), and ProDevs in ...",
+        "position": 2
+      },
+      {
+        "url": "https://www.instagram.com/reel/DfDTq-xt_m2/",
+        "title": "And we have our winners!  Congratulations to Team Solo ...",
+        "position": 3
+      },
+      {
+        "url": "https://beyondlimits.global/zecathon6/",
+        "title": "Zenith Bank Zecathon 6.0 - Sections",
+        "description": "About the Program. Zenith Bank Zecathon 6.0 brings together developers, entrepreneurs, and visionary innovators to drive Africa's digital transformation.",
+        "position": 4
+      },
+      {
+        "url": "https://www.instagram.com/reel/DRC0y1RDKTi/",
+        "title": "LIVE at the @zenithbankplc Zecathon 5.0 Hackathon pitch session",
+        "position": 5
+      },
+      {
+        "url": "https://www.linkedin.com/posts/nairametrics_zenith-bank-launches-zecathon-60-with-n190-activity-7513975772433260546-uFiC",
+        "title": "Zenith Bank Launches Zecathon 6.0 with N190 Million in Prizes for African ...",
+        "description": "Zenith Bank Launches Zecathon 6.0 with N190 Million in Prizes for African Startups and Developers - Free Applications close 13th October ...",
+        "position": 6
+      },
+      {
+        "url": "https://www.instagram.com/p/DfPrkFEEVgi/",
+        "title": "What a proud moment for Team Sproutly! We're thrilled to earn this ...",
+        "description": "Sproutly followed in second place (₦20 million), PharmaRun in third place (₦15 million), AUI BRAND in fourth place (₦10 million), and ProDevs in ...",
+        "position": 7
+      },
+      {
+        "url": "https://www.facebook.com/zenithbank/videos/you-are-invited-to-the-2026-zenith-tech-fair-future-forward-60-taking-place-virt/1661344218783125/",
+        "title": "Zenith Tech Fair Future Forward 6.0 Virtual Event November 5 2026",
+        "position": 8
+      },
+      {
+        "url": "https://www.facebook.com/BeyondLimitsGlobal/posts/several-years-in-zecathon-continues-to-create-a-platform-for-bold-ideas-ambitiou/1135648618863194/",
+        "title": "Zecathon 6.0 innovation challenge applications open 2026",
+        "description": "🏗️ Sproutly ... PharmaRun - ₦15 MILLION! Authentic medicines, delivered fast! 4th AUI BRAND - ₦10 MILLION! 5th ProDevs - ₦10 MILLION!",
+        "position": 9
+      },
+      {
+        "url": "https://www.thisdaylive.com/2026/11/19/zenith-bank-unveils-n190m-zecathon-6-0-winners/",
+        "title": "Zenith Bank Unveils N190m Zecathon 6.0 Winners",
+        "description": "# Zenith Bank Unveils N190m Zecathon 6.0 Winners\n[Life & Style](https://www.thisdaylive.com/2026/11/19/zenith-bank-unveils-n190m-zecathon-6-0-winners/#) | 6 days ago\n\n![](https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/pix-48.jpeg)\n\nIn a major push to accelerate Africa’s digital economy, Zenith Bank has wrapped up Zecathon 6.0, awarding a record N190 million in non-equity funding to standout startups and innovators.\n\nAdaora\n\nLekeeLekee\n\nSproutly secured second place with N20 million for its financial infrastructure solution for schools, while PharmaRun took third place with N15 million for its last-mile medication access network.\n\nMeanwhile, AUI BRAND and ProDevs rounded off the top five, each receiving N10 million for their respective solutions in deep-tech medical equipment and AI-powered HR platform streamlining global hiring.",
+        "position": 10
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a2178c-2b8b-73b4-bdf4-8163903b6026"
+}

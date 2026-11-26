@@ -1,0 +1,58 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "scrape_id": "01a20e0c-8020-7767-a67b-44b0ac45630f",
+  "data": {
+    "alexandria": [
+      {
+        "provider": "fireround",
+        "capability": "rounds/search",
+        "creditsCost": 5,
+        "data": {
+          "data": [],
+          "next_cursor": null
+        },
+        "records": 0,
+        "upstreamStatus": 200,
+        "alexandriaId": "3ecaf92046db4653c8322a96c310dd8fb3d10faa2d4233184cff0d285a1aefae",
+        "providerRequestId": "429122a2-d7c4-448d-b3b8-a8e4cc1dc40d",
+        "feedbackToken": "v1.WyIzZWNhZjkyMDQ2ZGI0NjUzYzgzMjJhOTZjMzEwZGQ4ZmIzZDEwZmFhMmQ0MjMzMTg0Y2ZmMGQyODVhMWFlZmFlIiwiZmlyZXJvdW5kIiwicm91bmRzL3NlYXJjaCIsMTc5NTUzMjAzMF0.tYnAVWT8IcQeG26oxJEBGg",
+        "nextStep": {
+          "instruction": "Next step: before you answer the user, rate this result with POST /v2/feedback (good, partial or bad, and what was missing). It refunds 1 credit, once per call, up to a daily limit.",
+          "request": "POST /v2/feedback",
+          "body": {
+            "endpoint": "alexandria",
+            "rating": "<good|partial|bad>",
+            "requestedWebsite": {
+              "url": "<website the data is about>",
+              "requestedFunctionality": "<what you needed from it>"
+            },
+            "objective": "<the underlying goal>",
+            "rationale": "<what was right, wrong or missing>",
+            "tokens": [
+              "<feedbackToken of each result you rate>"
+            ]
+          },
+          "ifNotFound": {
+            "note": "If you have already tried everything you could to find this data and still could not find it, you can report it with firecrawl/report-missing-data. It is free.",
+            "call": {
+              "provider": "firecrawl",
+              "capability": "report-missing-data",
+              "options": {
+                "need": "<exactly what data you needed>",
+                "tried": [
+                  {
+                    "used": "<what you used>",
+                    "input": "<exactly what you asked it>",
+                    "outcome": "<what came back, or how it failed>"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      }
+    ],
+    "creditsCost": 5
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.facebook.com/TechCabal/posts/data-entry-academy-a-lagos-based-edtech-platform-has-won-first-place-in-the-unit/1690197766448512/",
+        "title": "Data Entry Academy, a Lagos-based edtech platform, has won first place in ...",
+        "description": "... timbuktoo EdTech accelerator, taking home a $10,000 prize after topping a field of 1,429 applicants from across Africa. The startup, founded ...",
+        "position": 1
+      },
+      {
+        "url": "https://prodx.hadu.app/entities/mastercard-foundation",
+        "title": "Hadu - Africa Tech news, startups and discussions",
+        "description": "[Varsity Scape](https://prodx.hadu.app/entities/varsity-scape) [Mastercard Foundation](https://prodx.hadu.app/entities/mastercard-foundation) [timbuktoo](https://prodx.hadu.app/entities/timbuktoo) [Data Entry Academy](https://prodx.hadu.app/entities/data-entry-academy) [UNDP](https://prodx.hadu.app/entities/undp)",
+        "position": 2
+      },
+      {
+        "url": "https://www.linkedin.com/posts/techcabal_data-entry-academy-a-lagos-based-edtech-activity-7478824923038298112-Axzu",
+        "title": "Data Entry Academy Wins UNDP Get Ready 4 timbuktoo EdTech ...",
+        "description": "... timbuktoo EdTech accelerator, taking home a $10000 prize after topping a field of 1429 applicants from across Africa. The startup, founded ...",
+        "position": 3
+      },
+      {
+        "url": "https://www.linkedin.com/posts/co-creation-hub_mastercardfoundationedtechfellowship-cchub-activity-7394768942315171840-5ent",
+        "title": "Launching online academies for African youth in 60 minutes",
+        "position": 4
+      },
+      {
+        "url": "https://www.instagram.com/reel/DMKqgSaMsgQ/",
+        "title": "Building Startups That Become Sustainable Businesses”, featuring ...",
+        "position": 5
+      },
+      {
+        "url": "https://www.instagram.com/p/DL-QW8BIPyF/",
+        "title": "We had a Female-Focused Pitch Session this morning in conjunction ...",
+        "description": "... Varsity Scape @ ... Our partners @auroratechaward is the only global startup prize dedicated ...",
+        "position": 6
+      },
+      {
+        "url": "https://build.talenxify.com/",
+        "title": "Build With Oyo - Talenxify",
+        "description": "... Prize. Join Slack Community. SKILL DEVELOPMENT TRACK ... Varsity Scape. Safenet.",
+        "position": 7
+      },
+      {
+        "url": "https://www.facebook.com/WAFRICAwards/posts/startup-of-the-year-across-west-africa-a-new-generation-of-founders-is-building-/1564778729018842/",
+        "title": "WAFRIC Awards 2026: Celebrating West Africa's innovative ...",
+        "description": "... prize of $250,000. According to Lobe Lobe ... Top 30 Funding Opportunities for Women Startup Founders in Africa MAJOR GRANT PROGRAMS 1. ... Mastercard ...",
+        "position": 8
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a2134f-f0eb-74aa-9bfc-d20579616503"
+}

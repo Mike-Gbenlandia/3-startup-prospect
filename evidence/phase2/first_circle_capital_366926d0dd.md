@@ -1,0 +1,341 @@
+ADVERTISEMENT
+
+[![](https://techpoint.africa/wp-content/uploads/2025/03/Techpoint-logo-copy-2-1.svg)](https://techpoint.africa/)
+
+Monday, November 23
+
+[![Techpoint logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)](https://techpoint.africa/)
+
+- [X](https://x.com/TechpointAfrica)
+- [Facebook](https://web.facebook.com/TechpointAfrica)
+- [Instagram](https://www.instagram.com/techpointafrica/)
+- [LinkedIn](https://www.linkedin.com/company/techpointafrica/)
+
+Join 30,000 other smart people like you
+
+Get our fun 5-minute roundup of happenings in African and global tech, directly in your inbox every weekday, hours before everyone else.
+
+Digest Subscription (In-post)
+
+Notify
+
+First Name
+
+Email
+
+Join free
+
+[![Techpoint Africa](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2067%2020'%3E%3C/svg%3E)](https://techpoint.africa/)
+
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20640%20192'%3E%3C/svg%3E)](https://techpoint.africa/)
+
+Search
+
+[Subscribe](https://techpoint.africa/newsletters/)
+
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E)
+
+Point AI
+
+Powered by AI and perfected by seasoned editors. Every story blends AI speed with human judgment.
+
+[IN PARTNERSHIP WITH](https://techpoint.africa/insight/techpoint-digest-1479/)
+
+EXCLUSIVE
+
+# First Circle Capital closes $26 million fund for African fintech startups
+
+First Circle Capital launches $26 million fund targeting Africa’s next wave of fintech startups
+
+![First Circle Capital team](https://techpoint.africa/wp-content/uploads/2026/11/First-Circle-Capital.jpeg.webp)
+
+First Circle Capital
+
+- ![Victoria Fakiya](https://techpoint.africa/wp-content/uploads/2022/06/victoria-fakiya_avatar-35x35.jpg)
+
+
+
+
+
+
+
+
+
+[Victoria Fakiya](https://techpoint.africa/author/fakiyavictoria/ "Victoria Fakiya")
+
+
+- ![Victoria Fakiya](https://techpoint.africa/wp-content/uploads/2022/06/victoria-fakiya_avatar-35x35.jpg)
+
+
+
+
+
+
+
+
+
+[Victoria Fakiya](https://techpoint.africa/author/fakiyavictoria/ "Victoria Fakiya")
+
+
+Share this story
+
+Published:
+
+November 19, 2026
+
+Subject(s): [Techpoint Digest](https://techpoint.africa/subject/techpoint-digest/)
+
+Share this story
+
+![](https://techpoint.africa/wp-content/uploads/2025/04/Group-1000005701.png.webp)![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20408%20400'%3E%3C/svg%3E)
+
+Psst… you’re reading Techpoint Digest
+
+Every day, we handpick the biggest stories, skip the noise, and bring you a fun digest you can trust.
+
+Digest Subscription (In-post)
+
+Subscribe
+
+First Name
+
+Email
+
+Join free
+
+តាមរាបសួរ,
+
+Victoria from Techpoint here,
+
+Here’s what I’ve got for you today:
+
+- Nigeria moves to put OPay, Moniepoint under tighter CBN watch
+- Uber veteran to lead Zipline’s African expansion
+- X agrees to help South African publishers make money
+- First Circle Capital closes $26m fund for African fintech startups
+
+## Nigeria to put OPay, Moniepoint under tighter CBN watch
+
+![CBN building](https://techpoint.africa/wp-content/uploads/2023/06/CBN-1024x512.jpg.webp)The Central Bank of Nigeria, CBN. \[PHOTO CREDIT: Ehud Kaduna\]
+
+**Nigeria is** [**moving** to bring some of its biggest fintech companies](https://techpoint.africa/news/bofia-fintech-supervision-bill/https://techpoint.africa/news/bofia-fintech-supervision-bill/), including OPay, Moniepoint, PalmPay, and Kuda, under closer Central Bank of Nigeria (CBN) supervision. The House of Representatives passed an amendment to the Banks and Other Financial Institutions Act (BOFIA) 2020 on November 18, 2026, giving the apex bank powers to designate major fintechs and other non-bank financial institutions as Systemically Important Institutions (SIIs). The Senate had passed its version on November 10, and the bill now awaits presidential assent. If signed into law, it could subject qualifying fintechs to stricter oversight similar to what banks face.
+
+**This means the CBN** could decide that a fintech has become too important to Nigeria’s financial system to operate under ordinary regulatory requirements. Under the proposed new Section 62A, the CBN governor can designate an institution based on its size, market share, number of users, transaction value, or connections to banks and payment infrastructure. The governor can also make the designation in the public interest. Once classified, these companies would face additional corporate governance, cybersecurity, and technology-risk requirements, regular stress tests, data-integrity assessments, and more detailed regulatory reporting. The CBN would also have direct supervisory access to their operational systems.
+
+**If you’re wondering why you should care**, these fintechs are no longer small alternatives to traditional banks. They process enormous volumes of payments, hold sensitive customer data and serve millions of people and businesses. OPay, for instance, had about 50 million monthly active users as of July 31, 2026, and processed $358 billion in transactions in 2025, more than double the $166.2 billion it recorded in 2024. A major outage, cyberattack or failure at a company of that scale could affect far more than its own customers. The CBN wants to ensure that companies with this level of influence can withstand disruptions without putting the wider financial system at risk.
+
+**The debate has also brought OPay’s international ambitions** into the spotlight. In May 2026, the fintech [reportedly hired Citi, Deutsche Bank, and JPMorgan](https://techpoint.africa/insight/techpoint-digest-1336/) to manage a [proposed $304 million New York IPO](https://techpoint.africa/news/opay-336m-ipo-demand/), which would have valued it at about $4 billion. However, on October 30, 2026, it [called off the offering](https://techpoint.africa/news/opay-nyse-ipo/), citing a regulatory inquiry in an unnamed foreign jurisdiction. The company’s planned secondary listing on the Nigerian Exchange is now uncertain. During the House debate, bill sponsor Julius Ihonvbere specifically referenced OPay’s overseas listing plans, arguing that companies generating substantial revenue in Nigeria should remain accountable to the country’s regulators.
+
+**Related Story:** [MTN, Vodacom sue telecoms regulator ICASA over data rules](https://techpoint.africa/insight/techpoint-digest-1396/)
+
+**This is also part of a broader tightening** of fintech regulation in Nigeria. In January 2026, the CBN upgraded OPay, Moniepoint, PalmPay, Kuda and Paga to national microfinance bank status. Then, in June, it introduced limits on how much of the payments market a single institution can control and ordered payment operators to disclose their ultimate beneficial owners, with a December 31, 2026 compliance deadline. The BOFIA amendment builds on these measures by giving the CBN a clearer legal basis to supervise non-bank institutions whose operations could threaten financial stability. The bill also proposes a public register of designated institutions and penalties for non-compliance. It is worth noting, however, that passage by both chambers does not make it law yet. The President must still assent to it, and the CBN has not announced which companies it would designate first.
+
+## Uber veteran to lead Zipline’s African expansion
+
+![Anthony Le Roux](https://techpoint.africa/wp-content/uploads/2026/11/Anthony-le-Roux-955x682.jpg.webp)Anthony Le Roux; Image source: Supplied
+
+**Zipline is bringing in** a familiar name from Uber to lead its next big African expansion. The drone delivery company has appointed Anthony Le Roux, a 13-year Uber veteran, as its head of operations for Africa, starting in January 2027. He will oversee a two-year expansion that could see the company establish more than 20 new distribution centres, known as nests, across the continent. Zipline says the expansion could reach more than 130 million people, connect 20,000 health facilities and create over 800 skilled jobs.
+
+**The appointment is interesting** because Le Roux isn’t coming in to build an entirely new business. He helped Uber establish its Cape Town operations in 2013, later ran its Eastern European business from Warsaw and scaled its Middle East and Africa operations from Dubai. He also spent six years in Amsterdam managing a global business before deciding to return to Africa. At Zipline, he will be responsible for finding the people, securing government partnerships, and building the operational capacity needed to get those new distribution centres running.
+
+**Why should you care?** Many African hospitals, particularly those serving rural communities, still struggle with unreliable supply chains. A hospital may have patients who need blood, vaccines, or essential medicines but lack the supplies to treat them. Zipline’s model allows health facilities to order what they need and have it delivered from nearby distribution centres, rather than depending entirely on road transport. The company is now looking to build on its healthcare business by exploring deliveries of groceries, prepared food and other consumer goods, although medical supplies remain its immediate priority in Africa.
+
+**The expansion** also has some serious financial backing. On November 5, 2026, Zipline announced a $1.5 billion funding round at a $21.5 billion valuation, with Uber among the investors. The two companies have also been building a commercial relationship, with Uber targeting one million daily Zipline deliveries by the end of 2029 and plans to bring drone deliveries to Uber Eats. However, the funding announcement was primarily about expanding Zipline’s US manufacturing capacity and delivery network; the company says the African expansion will rely mainly on a separate $150 million pay-for-performance award from the US Department of State, alongside funding commitments from African governments.
+
+**The groundwork** for this expansion has been building for years. Zipline began commercial drone deliveries in Rwanda in 2016, initially transporting blood and medical supplies to hospitals. It entered Nigeria in 2022, where it now operates across Kaduna, Cross River and Bayelsa. In November 2025, the US Department of State announced up to $150 million in performance-based funding to support its expansion across five African countries: Rwanda, Ghana, Kenya, Nigeria and Côte d’Ivoire. Rwanda signed an expansion agreement in February 2026, while Côte d’Ivoire approved an eight-year partnership in September to grow its network from one distribution centre to 10, targeting more than 12 million people. Nigeria, meanwhile, plans to expand from three to 15 hubs by 2028.
+
+**The big test for Le Roux** will be turning these ambitious plans into sustainable operations. Zipline needs governments to sign long-term contracts, pay for ongoing services and provide the regulatory approvals required to operate in their airspace. Its experience in Ghana, where it suspended three distribution hubs in November 2025 over government payment arrears, shows that having the technology is only half the battle. Le Roux will also need to build strong local teams and make the economics work beyond government-funded healthcare deliveries. For now, the question is whether Zipline can turn Africa’s drone-delivery experiment into an everyday logistics network.
+
+PARTNER
+
+## X agrees to help South African publishers make money
+
+![Twitter logo](https://techpoint.africa/wp-content/uploads/2025/03/kelly-sikkema-OqtbMSPN7c-unsplash.jpg.webp)Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-black-cell-phone-laying-on-top-of-a-brown-surface--OqtbMSPN7c?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
+**Elon Musk’s X** has settled with South Africa’s Competition Commission, agreeing to help local news publishers make money from content shared on its platform. The November 18, 2026 agreement will see X introduce a monetisation support programme within six months, alongside training sessions to help qualifying publishers understand its revenue tools, audience analytics and content controls. Its AI company, SpaceX Super Intelligence, formerly known as xAI, has also signed a separate undertaking, covering how publishers can prevent their content from being used to train its Grok chatbot.
+
+**For South African publishers**, the agreement could open up another revenue stream at a time when news organisations are struggling to make money online. X will organise workshops twice a year over the next two years, with publishers required to attend at least one session and meet the platform’s eligibility and integrity requirements before accessing its monetisation programmes. It will also provide X Premium subscriptions for publishers who need them to qualify, at no cost for two years. The workshops will cover how publishers can manage their content on X, while digital literacy programmes will teach adults and children about media literacy, online safety and responsible platform use.
+
+**The AI component** is particularly interesting. SpaceX Super Intelligence will train publishers on Grok’s settings and the use of robots.txt, a file website owners can use to instruct automated crawlers about which parts of their websites they can access. This matters because AI companies increasingly rely on online content to train their models and generate answers, often without publishers receiving direct compensation. The training will help news organisations understand the available controls and how to restrict access to their content. However, neither X nor SpaceX Super Intelligence has committed to paying publishers for content already used by its AI systems.
+
+**The agreement follows** South Africa’s wider Media and Digital Platforms Market Inquiry, which began gathering evidence in 2023 to examine how global technology companies affect local journalism, advertising revenue and access to news. The Competition Commission’s final report, published in November 2025, found that major platforms were benefiting from news content while local publishers struggled to monetise their work. It also raised concerns about reduced referral traffic from social media and search platforms, as well as AI tools reproducing or summarising news without compensating the original publishers. Google and YouTube agreed to a R688 million media support package in November 2025, while Meta and TikTok also agreed to publisher support and training measures. X, however, initially challenged the commission’s findings and remedies.
+
+**That dispute has now been resolved**, with X and SpaceX Super Intelligence withdrawing their appeals to the Competition Tribunal following negotiations with the commission. In exchange, the commission amended X’s original requirements and replaced the remedies against SpaceX Super Intelligence with a voluntary undertaking. Unlike Google’s R688 million package, neither company has announced a financial contribution to South African media. The new commitments will run for two years rather than the three years originally required for X’s publisher support and digital literacy programmes. They will cover qualifying print, online, radio and video news organisations that report primarily on current affairs or public-interest issues and belong to the Press Council of South Africa or the Broadcasting Complaints Commission of South Africa. Whether the training and monetisation opportunities translate into meaningful revenue for publishers remains to be seen.
+
+## First Circle Capital closes $26m fund for African fintech startups
+
+![First Circle Capital team](https://techpoint.africa/wp-content/uploads/2026/11/First-Circle-Capital-1024x682.jpeg.webp)First Circle Capital
+
+**African fintech startups** looking for their first cheque have another potential source of capital to keep an eye on. First Circle Capital, a female-led venture capital firm focused on African financial technology, has closed its first Africa-focused fund at $26 million. Announced on November 18, 2026, in Kampala, the fund will back early-stage startups at the pre-seed and seed stages, particularly those building financial products and infrastructure to address gaps across the continent.
+
+**But First Circle** isn’t particularly interested in backing another generation of payment apps just because fintech has attracted plenty of attention over the years. Its investment strategy, which it calls _FinTech 2.0_, focuses on what comes after the first wave of African fintech businesses that made digital payments and lending more accessible. It is looking at six areas: insurance technology, alternative lending, financial infrastructure and interoperability, climate fintech, fintech software-as-a-service (SaaS), and regulatory technology. The firm is also particularly interested in AI-native startups using artificial intelligence and automation from the beginning to make financial services cheaper and easier to deliver.
+
+**The $26 million fund** has attracted backing from the International Finance Corporation (IFC), France’s Bpifrance, Egypt’s MSMEDA, Axian, the Dutch Good Growth Fund, Stellar Foundation and FSD Africa. First Circle has a pan-African investment mandate covering Kenya, Nigeria, South Africa, Egypt, Morocco, Uganda, Ghana and Francophone Africa. The firm was founded by Selma Ribica, a former M-Pesa executive and fintech investor; Agnes Aistleitner, an entrepreneur with emerging-market experience; and Robert Smith, a former strategy professional with experience in East Africa’s technology ecosystem. It operates from Kampala, Nairobi, Casablanca and Cape Town.
+
+**First Circle isn’t starting from scratch, either**. It has already invested in 18 companies across the continent, including Morocco’s WafR, which helps neighbourhood retailers digitise payments; South Africa’s TurnStay, which builds cross-border payment infrastructure for travel businesses; and Egypt’s Balad, which provides remittance infrastructure. Its other investments include Scale, a card infrastructure provider, and Orca Fraud, which uses AI to help financial institutions detect fraud. Beyond writing cheques, the firm says it helps founders secure follow-on funding, find strategic investors and build commercial partnerships.
+
+**The fund arrives at an interesting time** for African fintech. While the sector has produced major companies in payments and digital lending, access to credit, insurance, reliable financial infrastructure and affordable financial services remains a challenge in many markets. First Circle believes the next opportunity lies in backing businesses tackling these gaps, including those serving sectors such as agriculture and energy. Its $26 million fund gives it more room to find these founders early, although the real test will be how many of its investments can grow into sustainable businesses and attract larger funding rounds.
+
+**Related Story:** [PawaPay wins regulatory approval to expand in Mozambique](https://techpoint.africa/insight/techpoint-digest-1450/)
+
+## In case you missed them
+
+- NCC gives [MTN, Airtel, and other telcos until December 31](https://techpoint.africa/news/ncc-idle-spectrum-deadline/) to use idle spectrum or lose it
+- [Chude Jideonwo invests in media tech startup, Storipod](https://techpoint.africa/news/chude-jideonwo-invests-storipod/), as his content group moves into distribution
+- Paystack CEO says it [processes $15bn annually](https://techpoint.africa/news/paystack-15bn-solana-breakpoint/) for over 400,000 businesses
+
+## What I’m watching
+
+- [Russian Sex Spy](https://www.youtube.com/watch?v=1mDHHi398ig): I Was Trained To Control A Man’s Mind With Sex! \| John Kiriakou & Aliia Roza
+- How to [Rewire Your Brain](https://www.youtube.com/watch?v=B2SIsncgFi0) — and Find Your Flow \| Heather Berlin \| TED
+
+## Opportunities
+
+- Flutterwave is hiring for several roles. Apply [here](https://flutterwave.com/eu/careers/vacancies).
+- Moniepoint is hiring for over 100 roles. Apply [here](https://moniepoint.com/careers).
+- Follow Techpoint Africa’s WhatsApp channel to stay on top of the latest trends and news in the African tech space [here](https://whatsapp.com/channel/0029VaeazAKFHWq0v8WrKw1T).
+
+Have a superb Thursday!
+
+[Victoria Fakiya](https://x.com/latoria_ria) for Techpoint Africa
+
+Follow Techpoint Africa on WhatsApp!
+
+Never miss a beat on tech, startups, and business news from across Africa with the best of journalism.
+
+[Follow](https://whatsapp.com/channel/0029VaeazAKFHWq0v8WrKw1T)
+
+Events
+
+\|
+
+* * *
+
+\|
+
+* * *
+
+\|
+
+* * *
+
+No events for now. Check back soon.
+
+Join 30,000 other smart people like you
+
+Get our fun 5-minute roundup of happenings in African and global tech, directly in your inbox every weekday, hours before everyone else.
+
+Digest Subscription (In-post)
+
+Notify
+
+First Name
+
+Email
+
+Join free
+
+Read next
+
+[![Egypt reviews phone market as prices keep climbing](https://techpoint.africa/wp-content/uploads/2026/11/andrey-matveev-b7kuZqePwVU-unsplash.jpg.webp)](https://techpoint.africa/insight/techpoint-digest-1481/)
+
+EXCLUSIVE
+
+[Egypt reviews phone market as prices keep climbing](https://techpoint.africa/insight/techpoint-digest-1481/)
+
+On today’s Techpoint Digest, we discuss Egypt’s phone market as prices continue to rise, the CBN wants to keep a closer eye on Nigeria’s fintech behemoths, and the NCC may block London-based phones that fail new checks.
+
+[Follow the story](https://techpoint.africa/insight/techpoint-digest-1481/)
+
+* * *
+
+[![Zimbabwe targets phone smuggling with zero-duty proposal](https://techpoint.africa/wp-content/uploads/2026/11/andrey-matveev-b7kuZqePwVU-unsplash.jpg.webp)](https://techpoint.africa/insight/techpoint-digest-1480/)
+
+EXCLUSIVE
+
+[Zimbabwe targets phone smuggling with zero-duty proposal](https://techpoint.africa/insight/techpoint-digest-1480/)
+
+On today’s Techpoint Digest, we discuss Zimbabwe wants to make smartphones cheaper, Kuda putting 7.5% of its workforce at risk in a profit push, and ICASA is fighting a bid to scrap the 30% ownership rule for ISPs.
+
+[Follow the story](https://techpoint.africa/insight/techpoint-digest-1480/)
+
+* * *
+
+[![Meta faces fresh pressure over mental health of Kenyan moderators](https://techpoint.africa/wp-content/uploads/2023/02/meta.png.webp)](https://techpoint.africa/insight/techpoint-digest-1478/)
+
+EXCLUSIVE
+
+[Meta faces fresh pressure over mental health of Kenyan moderators](https://techpoint.africa/insight/techpoint-digest-1478/)
+
+On today’s Techpoint Digest, we discuss Meta facing new scrutiny over Nairobi content moderators, MTN closing its Syria chapter after a five-year dispute, and Dodai raising $3 million as Ethiopia promotes electric transportation.
+
+[Follow the story](https://techpoint.africa/insight/techpoint-digest-1478/)
+
+* * *
+
+[![MTN reopens talks to acquire South Africa’s Telkom, four years after failed takeover](https://techpoint.africa/wp-content/uploads/2022/11/mtn.webp)](https://techpoint.africa/insight/techpoint-digest-1477/)
+
+EXCLUSIVE
+
+[MTN reopens talks to acquire South Africa’s Telkom, four years after failed takeover](https://techpoint.africa/insight/techpoint-digest-1477/)
+
+On today’s Techpoint Digest, we discuss MTN reopening talks to acquire South Africa’s Telkom, crypto businesses in Kenya must now obtain licences, and MTN’s $2.2 billion acquisition of IHS Towers is delayed.
+
+[Follow the story](https://techpoint.africa/insight/techpoint-digest-1477/)
+
+* * *
+
+[![Guinea turns to Maroc Telecom to rescue its struggling telcos](https://techpoint.africa/wp-content/uploads/2026/11/mario-caruso-0C9VmZUqcT8-unsplash.jpg.webp)](https://techpoint.africa/insight/techpoint-digest-1476/)
+
+EXCLUSIVE
+
+[Guinea turns to Maroc Telecom to rescue its struggling telcos](https://techpoint.africa/insight/techpoint-digest-1476/)
+
+On today’s Techpoint Digest, we discuss Guinea looking to Morocco as state-owned telcos struggle, Ivory Coast cracking down on illegal Wi-Fi resellers, and the NCC considering 15-year spectrum licences for telcos.
+
+[Follow the story](https://techpoint.africa/insight/techpoint-digest-1476/)
+
+* * *
+
+More Stories
+
+[Jumia beats Q3 revenue forecasts with $60.7 million, then cuts outlook as Black Friday sales lag](https://techpoint.africa/news/jumia-q3-2026-results/)
+
+![Jumia](https://techpoint.africa/wp-content/uploads/2021/03/Jumia_s-Warehouse-in-Casablanca-Morocco-scaled.jpg.webp)
+
+* * *
+
+[Nigeria says it is watching armed groups’ Starlink use, but announces no curbs on the service](https://techpoint.africa/news/nigeria-starlink-militant-monitoring/)
+
+![Elon Musk Starlink](https://techpoint.africa/wp-content/uploads/2025/02/Musks-Starlink.webp)
+
+* * *
+
+[Kenyan court fight over Safaricom sale leaves Vodacom’s KSh9.1 billion dividend locked in Kenya](https://techpoint.africa/news/vodacom-safaricom-dividend-freeze/)
+
+![safaricom logo](https://techpoint.africa/wp-content/uploads/2023/05/safaricom.webp)
+
+* * *
+
+[Kenya and EU conclude talks on data adequacy deal, the first for an African country](https://techpoint.africa/news/kenya-eu-data-adequacy/)
+
+![Kenya–EU Flags in Digital Dialogue](https://techpoint.africa/wp-content/uploads/2026/11/Kenya%E2%80%93EU-Flags-in-Digital-Dialogue.png.webp)
+
+* * *
+
+[![](https://techpoint.africa/wp-content/uploads/2026/03/Techpoint-logo-copy-3.png)](https://techpoint.africa/)
+
+- [X](https://x.com/TechpointAfrica)
+- [Facebook](https://www.facebook.com/TechpointAfrica/)
+- [Instagram](https://www.instagram.com/techpointafrica)
+- [LinkedIn](https://www.linkedin.com/company/techpointafrica/)
+
+Explore
+
+Reach our audience
+
+Our publications
+
+© 2026,
+
+Businessfront. All rights reserved

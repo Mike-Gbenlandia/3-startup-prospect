@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.africaprivateequitynews.com/p/eha-impact-ventures-converts-3m-debt",
+        "title": "Eha Impact Ventures converts $3m debt into equity for EHA Clinics",
+        "description": "By transitioning debt into equity, EIV aims to bolster EHA Clinics' financial position ahead of its Series A funding round, facilitating access ...",
+        "position": 1
+      },
+      {
+        "url": "https://www.eha.ventures/post/eha-impact-ventures-converts-3m-debt-financing-into-equity-for-eha-clinics",
+        "title": "EHA Impact Ventures Converts $3M Debt Financing into Equity for ...",
+        "description": "By transitioning debt into equity, EIV aims to bolster EHA Clinics' financial position ahead of its Series A funding round, facilitating access to additional ...",
+        "position": 2
+      },
+      {
+        "url": "https://www.caplight.com/company/eha",
+        "title": "EHA Clinics Valuation & Funding History",
+        "description": "Demo · Demo. Grant, Jun 9, 2023. Demo · Demo · Demo · Demo · Book a demo to see all ... EHA Clinics's most recent funding round was VC Round on February 26, 2025.",
+        "position": 3
+      },
+      {
+        "url": "https://lucidityinsights.com/startups/eha-clinics-17515",
+        "title": "EHA Clinics Company Profile, Investors, & Funding",
+        "description": "EHA Clinics is a world-class, comprehensive healthcare service provider located in Nigeria ... Unknown Series Round. Seed. Debt Financing. Pre-Seed. Grant.",
+        "position": 4
+      },
+      {
+        "url": "https://www.facebook.com/punchnewspaper/posts/a-firm-eha-impact-ventures-has-announced-a-50000-pre-seed-funding-as-a-convertib/928864322611085/",
+        "title": "A firm, eha Impact Ventures, has announced ...",
+        "description": "... EHA Clinics and Blueroomcare, to improve access to in-person mental ... seed funding round. The funding was led by a group of local ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a212a3-1a20-7404-82f3-45f441ab75a2"
+}

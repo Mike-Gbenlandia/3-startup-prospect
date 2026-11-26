@@ -1,0 +1,39 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.linkedin.com/posts/techpointafrica_nucleusis-africa-is-now-rigo-incorporated-activity-7357085214478688257-4k2t",
+        "title": "RIGO Incorporated launches in Lagos, targets Nigeria's healthcare",
+        "description": "NucleusIS Africa is now RIGO Incorporated, and it is aiming to be more than just a lender. At its Lagos launch, RIGO unveiled a two-pronged ...",
+        "position": 1
+      },
+      {
+        "url": "https://techpoint.africa/brandpress/rigo-incorporated-launches-in-lagos-to-build-africas-healthcare-infrastructure-layer/",
+        "title": "RIGO Incorporated launches in Lagos to build Africa's healthcare ...",
+        "description": "RIGO Incorporated is an African technology company powering healthcare businesses through connected finance and technology. With a mission to ...",
+        "position": 2
+      },
+      {
+        "url": "https://www.instagram.com/reel/DL-GucMI3xS/",
+        "title": "Our story has always been one of passion and commitment to better, ...",
+        "position": 3
+      },
+      {
+        "url": "https://www.facebook.com/TechpointAfrica/posts/nucleusis-africa-has-rebranded-to-rigo-incorporated-launching-a-platform-that-br/1072417198351409/",
+        "title": "NucleusIS Africa has rebranded to RIGO Incorporated, launching a ...",
+        "description": "NucleusIS Africa has rebranded to RIGO Incorporated, launching a platform that brings together finance and tech for Nigeria's healthcare system.",
+        "position": 4
+      },
+      {
+        "url": "https://www.crunchbase.com/organization/rigo-incorporated",
+        "title": "Rigo Incorporated - Crunchbase Company Profile & Funding",
+        "description": "Rigo Incorporated is a global technology company powering healthcare businesses across Africa through accessible finance and technology.",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a2134a-cacc-7681-a278-f62aba6062b3"
+}

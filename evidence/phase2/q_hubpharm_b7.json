@@ -1,0 +1,39 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.ecowas.int/ecowas-celebrates-innovation-as-hubpharm-africa-wins-second-startup-awards/",
+        "title": "ECOWAS CELEBRATES INNOVATION AS HUBPHARM ...",
+        "description": "# ECOWAS CELEBRATES INNOVATION AS HUBPHARM AFRICA WINS SECOND STARTUP AWARDS\n**HubPharm Africa of Nigeria**, led by its Co-Founder and CEO, Mrs.",
+        "position": 1
+      },
+      {
+        "url": "https://x.com/ecowas_cedeao/status/2110662590661571004",
+        "title": "Ecowas - Cedeao",
+        "description": "ECOWAS CELEBRATES INNOVATION AS HUBPHARM AFRICA WINS 2ND STARTUP AWARDS The Economic Community of West African States (ECOWAS) Commission ...",
+        "position": 2
+      },
+      {
+        "url": "https://www.facebook.com/Ecowas.Cedeao/posts/ecowas-celebrates-innovation-as-hubpharm-africa-wins-2nd-startup-awardsthe-econo/1416958880609734/",
+        "title": "Ecowas - Cedeao",
+        "position": 3
+      },
+      {
+        "url": "https://www.instagram.com/p/Dd9KyYkDLpm/",
+        "title": "We just won the ECOWAS Startup Award... what a way to start the new ...",
+        "description": "A Nigerian health innovation company, HubPharm Africa, has emerged as the overall winner of the 2nd ECOWAS Startup Awards held in Abuja on ...",
+        "position": 4
+      },
+      {
+        "url": "https://hubpharmafrica.com/",
+        "title": "Online Pharmacy Nigeria: Chronic & Specialty Care | HubPharm",
+        "description": "# No Patient Should Die Because They Can't Access _Life-saving_ Medicines and Care\n## As Featured In\n[Arise News\\\nNigeria's HubPharm wins $30,000 ECOWAS Startup Award as Commission plans $50,000 top prize.\\\nRead story →](https://www.arise.tv/nigerias-hubpharm-wins-30000-ecowas-startup-award-as-commission-plans-50000-top-prize/) [The Guardian\\\nHubPharm Africa wins maiden 'The Gathering on 100' Pitchathon, receives N15M grant.\\\nRead story →](https://guardian.ng/sunday-magazine/cityfile/hubpharm-africa-wins-maiden-the-gathering-on-100-pitchathon-gets-n15m/) [BusinessDay\\\nHubPharm Africa wins N15m Pitchathon prize to scale life-saving drug access across Nigeria.\\\nRead story →](https://businessday.ng/health/article/hubpharm-africa-wins-n15m-pitchathon-prize-to-scale-life-saving-drug-access/) [ZAWYA\\\nECOWAS celebrates innovation as HubPharm Africa wins second Startup Awards.\\\nRead story →](https://www.zawya.com/en/press-release/africa-press-releases/economic-community-of-west-african-states-ecowas-celebrates-innovation-as-hubpharm-africa-wins-second-startup-awards-1493707) [Independent\\\nHubPharm launches Afiya, Africa's first AI health companion, now live.\\\nRead story →](https://independent.ng/hubpharm-launches-afiya-africas-first-ai-health-companion-goes-live/) [The Sun\\\nFirm launches free tools for early detection of chronic diseases.\\\nRead story →](https://thesun.ng/firm-launches-free-tools-for-early-detection-of-chronic-diseases-2/)",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a21299-9103-7291-aa5c-87b0c12b1532"
+}

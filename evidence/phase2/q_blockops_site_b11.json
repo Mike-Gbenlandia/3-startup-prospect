@@ -1,0 +1,41 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.blockops.network/",
+        "title": "Blockops — Institutional Blockchain Infrastructure Platform",
+        "description": "Run institutional blockchain infrastructure in production. Nodes, RPC, validators, MPC wallets, staking, and tokenization across 20+ networks.",
+        "position": 1
+      },
+      {
+        "url": "https://www.linkedin.com/company/blockopsnetwork",
+        "title": "Blockops Network",
+        "description": "Website: https://www.blockops.network/. External link for Blockops Network ; Industry: Blockchain Services ; Company size: 11-50 employees ; Headquarters: Dover, ...",
+        "position": 2
+      },
+      {
+        "url": "https://www.crunchbase.com/organization/blockops-network",
+        "title": "Blockops Network - Crunchbase Company Profile & Funding",
+        "description": "Legal Name Blockops Network Inc. ... Blockops is on a mission to democratize access to web3 infrastructure by simplifying the process of building and managing ...",
+        "position": 3
+      },
+      {
+        "url": "https://github.com/blockopsnetwork",
+        "title": "Blockops Network",
+        "description": "simplifying web3 node infrastructure. Blockops Network has 37 repositories available. Follow their code on GitHub.",
+        "position": 4,
+        "category": "github"
+      },
+      {
+        "url": "https://www.blockops.network/contact",
+        "title": "Contact Blockops — Talk to Our Infrastructure Team",
+        "description": "Blockops offers comprehensive support for setting up and managing your blockchain nodes. This includes technical assistance, detailed documentation, and ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a2133d-9f65-760d-9678-8cde3542c2a8"
+}

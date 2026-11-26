@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://bfaglobal.com/catalyst-fund/insights/why-we-invested-eight-medical/",
+        "title": "Why we invested: Eight Medical is providing on-demand urgent care for ...",
+        "description": "Why we invested: Eight Medical is providing on-demand urgent care for Nigerians when and where it is needed. Co-authored by: Keeya-Lee Ayre and ...",
+        "position": 1
+      },
+      {
+        "url": "https://www.crunchbase.com/organization/eight-medical",
+        "title": "Eight Medical - Crunchbase Company Profile & Funding",
+        "description": "Eight Medical is located in Ikate, Lagos, Nigeria . Who invested in Eight ... Eight Medical closed its last funding round on. obfuscated. obfuscation.",
+        "position": 2
+      },
+      {
+        "url": "https://www.thecatalystfund.com/portfolios/eight-medical",
+        "title": "Eight Medical",
+        "description": "Eight Medical ... A cloud-native Emergency Medical Services (EMS) platform that provides on-demand urgent care when and where it is needed. This “911 for Africa” ...",
+        "position": 3
+      },
+      {
+        "url": "https://au-startups.com/startups/eight-medical",
+        "title": "Eight Medical: $120K raised",
+        "description": "Since its launch, Eight Medical has handled over 12,705 calls. The company has raised a total of $320,000 in funding from investors including Catalyst Fund, ...",
+        "position": 4
+      },
+      {
+        "url": "https://ng.linkedin.com/company/eight-medical-ltd",
+        "title": "Eight Medical | Techstars '23",
+        "description": "Website: http://www.8medical.co. External link for Eight Medical | Techstars '23 ; Industry: Hospitals and Health Care ; Company size: 11-50 employees.",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a21299-bfae-758f-b990-5f46f44c6c1d"
+}

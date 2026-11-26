@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://techcrunch.com/2021/03/19/nigerias-termii-raises-1-4m-seed-led-by-future-africa-and-kepple-africa-ventures/",
+        "title": "Nigeria's Termii raises $1.4M seed led by Future Africa and Kepple Africa Ventures",
+        "description": "Nigeria's Termii raises $1.4M seed led by Future Africa and Kepple Africa Ventures. Tage Kene-Okafor. 4:00 AM PDT · March 19, 2021.",
+        "position": 1
+      },
+      {
+        "url": "https://afrotech.com/termii-seed-funding",
+        "title": "Nigeria-Based Communications Platform Termii Raises $1.4M in Seed Funding Round",
+        "description": "According to TechCrunch, the company — owned by Gbolade Emmanuel and Ayomide Awe — raised $1.4 million in their inaugural seed funding round.",
+        "position": 2
+      },
+      {
+        "url": "https://blog.termii.com/termii-raises-3.65m-funding-to-fuel-customer-engagement-innovation-in-africa",
+        "title": "Termii Raises $3.65M Funding to Fuel Customer Engagement Innovation in Africa",
+        "description": "Termii, an African communications-as-a-service startup has raised $1.4 Million in seed funds. 50% of the round was co-led by both Kepple Africa Ventures",
+        "position": 3
+      },
+      {
+        "url": "https://tracxn.com/d/companies/termii/__-HT2DU2NUdyfWA4WQH16vjHLtz3584fPcgMYA5w5MFo/funding-and-investors",
+        "title": "2026 Funding Rounds & List of Investors - Termii",
+        "description": "Termii has raised a total of $5.18M over 5 funding rounds: 4 Seed and 1 Early-Stage rounds. Termii's largest funding round so far was a Series A ...",
+        "position": 4
+      },
+      {
+        "url": "https://techpoint.africa/general/termii-raises-seed-fund/",
+        "title": "Termii, a Nigerian CaaS startup, secures $30000 seed fund from Transsion-backed incubator, Future Hub",
+        "description": "Termii, has raised $30,000 seed fund from Future Hub, a China-Africa early-stage startup investment and incubation plan backed by Transsion. ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a2128e-c170-7515-a1c9-66796edd491d"
+}

@@ -1,0 +1,237 @@
+![Revisit consent button](https://www.esi-africa.com/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg)
+
+We value your privacy
+
+We use cookies to enhance your browsing experience, serve personalized ads or content, and analyze our traffic. By clicking "Accept All", you consent to our use of cookies.
+
+CustomizeReject AllAccept All
+
+Customize Consent Preferences![](https://www.esi-africa.com/wp-content/plugins/cookie-law-info/lite/frontend/images/close.svg)
+
+We use cookies to help you navigate efficiently and perform certain functions. You will find detailed information about all cookies under each consent category below.
+
+The cookies that are categorized as "Necessary" are stored on your browser as they are essential for enabling the basic functionalities of the site. ... Show more
+
+NecessaryAlways Active
+
+Necessary cookies are required to enable the basic features of this site, such as providing secure log-in or adjusting your consent preferences. These cookies do not store any personally identifiable data.
+
+No cookies to display.
+
+Functional
+
+Functional cookies help perform certain functionalities like sharing the content of the website on social media platforms, collecting feedback, and other third-party features.
+
+No cookies to display.
+
+Analytics
+
+Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics such as the number of visitors, bounce rate, traffic source, etc.
+
+No cookies to display.
+
+Performance
+
+Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+
+No cookies to display.
+
+Advertisement
+
+Advertisement cookies are used to provide visitors with customized advertisements based on the pages you visited previously and to analyze the effectiveness of the ad campaigns.
+
+No cookies to display.
+
+Accept All  Save My Preferences  Reject All
+
+[Skip to content](https://www.esi-africa.com/renewable-energy/nigeria-fights-back-for-its-power-through-solar-technology/#primary)
+
+● BREAKING
+
+[Why do countries decide to electrify their transport?](https://www.esi-africa.com/news/why-do-countries-decide-to-electrify-their-transport/)
+
+[Future Energy](https://www.esi-africa.com/industry-sectors/future-energy/)
+
+[News](https://www.esi-africa.com/news/)
+
+[Renewable energy](https://www.esi-africa.com/renewable-energy/)
+
+[Solar](https://www.esi-africa.com/renewable-energy/solar/)
+
+[West Africa](https://www.esi-africa.com/west-africa/)
+
+# Nigeria fights back for its power through solar technology
+
+Thirteen Nigerian-owned enterprises have emerged as winners of the 2021 Nigeria off-grid energy challenge and will receive $100k funding.
+
+[![](https://www.esi-africa.com/wp-content/uploads/2021/10/pro-pic-100x100.jpeg)](https://www.esi-africa.com/author/anazi-z/)
+
+[Anazi Zote](https://www.esi-africa.com/author/anazi-z/)
+
+25 January 2022
+
+[Facebook](https://www.facebook.com/sharer/sharer.php?u=https://www.esi-africa.com/renewable-energy/nigeria-fights-back-for-its-power-through-solar-technology/) [X](https://www.twitter.com/share?url=https://www.esi-africa.com/renewable-energy/nigeria-fights-back-for-its-power-through-solar-technology/) [LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://www.esi-africa.com/renewable-energy/nigeria-fights-back-for-its-power-through-solar-technology/) [Email](mailto:?subject=&body=Check%20out:%20https://www.esi-africa.com/renewable-energy/nigeria-fights-back-for-its-power-through-solar-technology/) [Copy](https://www.esi-africa.com/renewable-energy/nigeria-fights-back-for-its-power-through-solar-technology/#)
+
+Image credit: \[auremar\]©123RF.com
+
+![Post thumbnail](https://www.esi-africa.com/wp-content/uploads/2021/03/solar-water-home-system.-clean-power.jpg)
+
+**Thirteen** **Nigerian-owned enterprises have emerged as winners of the 2021 Nigeria off-grid energy challenge and will receive $100k funding.**
+
+The annual Challenge is a multi-year partnership between USADF and All On to identify and scale innovative off-grid solutions to “power up” unserved and underserved areas in Nigeria.
+
+The winners of the fourth edition of the Challenge are A1 Power Technologies, Alabaster Agro-Allied Industries, Bols N Sels Technologies, CeeSolar Energy, Elvees Engineering, Enercity Smart Grid, First Electric, GreenPower Overseas, Manamuz Electric, Novel Integrated Services, PowerStove Off-Grid Electricity, Sendavis Nigeria Limited, and Uwana Energy.
+
+**Have you read?**
+
+**[Catalysing women entrepreneurs in sub-Saharan Africa for energy for all](https://www.esi-africa.com/industry-sectors/finance-and-policy/catalysing-women-entrepreneurs-in-sub-saharan-africa-for-energy-for-all/)**
+
+All 13 enterprises will be awarded $50,000 in convertible debt from All On, $25,000 in grant capital from USADF, and $25,000 in grant capital from All On via its support from the Rockefeller Foundation through the All On Hub. Additionally, the winners will receive technical assistance from USADF and the All On Hub and governance support from All On.
+
+All On is an independent impact investing company that seeded funding from Shell, and currently works with partners to increase access to commercial energy products and services for unserved and underserved off-grid energy markets in Nigeria.
+
+Wiebe Boer, CEO, All On said, “We remain extremely encouraged that the Challenge is still able to fund another cohort of strong winners in spite of a continued challenging COVID environment.”
+
+The Challenge is delivered through a five-year partnership between USADF, a founding member of the US-led Power Africa Initiative and an independent US Government agency established by Congress to support and invest in African-owned and led enterprises
+
+Travis Adkins, President and CEO, USADF congratulated the winners: “Congratulations to all the winners who have entered a unique club of innovative Nigerian enterprises that have come through this Challenge to make impactful contributions in the Nigerian renewable energy sector and Nigerian communities.”
+
+**Have you read?**
+
+**[Solar energy in Nigeria has powerful impact on socio-economic status](https://www.esi-africa.com/industry-sectors/generation/solar-energy-in-nigeria-has-powerful-impact-on-socio-economic-status/)**
+
+“These emerging indigenous companies have proven that they have what it takes to succeed, and we are confident that their innovations will contribute to solutions that will ultimately improve livelihoods and local economies in Nigeria,” says Boer.
+
+Eight of the 13 winning enterprises include women in leadership roles. Another key feature of the 2021 edition of the Challenge is a focus on integrating productive-use elements with cleaner energy access technologies to improve the quality of the lives and businesses in the selected communities the projects will serve.
+
+“We extended the Off-Grid Energy Challenge partnership till December 2022 and are happy to see that this cohort has the largest number of winners since the program was initiated and a tremendous opportunity to benefit an estimated 16,000 people, including 4,000 smallholder farmers, through clean energy,” says Adkins.
+
+[![](https://www.esi-africa.com/wp-content/uploads/2023/05/ESI-newsletter-subscribe.png)](https://www.esi-africa.com/join-the-esi-africa-community/)
+
+The 2021 Challenge has served to pivot many projects towards directly solving pain points and challenges rather than just providing energy. The clean energy projects to be financed from the Challenge include solar-powered mini-grids, solar and gas-powered agriculture processing, food preservation and transportation solutions, solar home systems distribution, cold storage, and the combination of cold storage with mini-grids to serve the agricultural and economic needs within communities, among others.
+
+**Have you read?**
+
+**[Power to the people: Off-grid solar solutions for 200,000 homes](https://www.esi-africa.com/industry-sectors/generation/power-to-the-people-off-grid-solar-solutions-for-200000-homes/)**
+
+## Let’s hear from the off-grid winners in Nigeria
+
+One of the prize winners was First Electric, a local renewable energy company that provides interconnected solar Okra pods and stand-alone home systems solutions. Bankole Komolafe, Chairman of awardee First Electric says: “First electric is pleased to have successfully secured funding to roll out an energy access project designed to ensure that underserved communities can enjoy sustainable and affordable power supply.”
+
+Damilola Asaleye, Co-Founder and Chief Operating Officer, Ashdam Solar, one of the winners of the 2020 Challenge, said winning has transformed her company.
+
+“Winning the Challenge meant product/service expansion and growth for us at Ashdam Solar…The funds made it possible for us to deploy our very first solar mini-grid which brought energy security and economic development to last-mile communities that have been living in darkness for over 40 years,” said Asaleye.
+
+[entrepreneurship](https://www.esi-africa.com/tag/entrepreneurship/) [Nigeria](https://www.esi-africa.com/tag/nigeria/) [off-grid](https://www.esi-africa.com/tag/off-grid/) [solar power](https://www.esi-africa.com/tag/solar-power/) [Technology](https://www.esi-africa.com/tag/technology/)
+
+[Previous](https://www.esi-africa.com/finance-and-policy/catalysing-women-entrepreneurs-in-sub-saharan-africa-for-energy-for-all/)
+
+[Next](https://www.esi-africa.com/industry-sectors/smart-technologies/digital-oilfield-solutions-power-africas-oil-gas-trajectory/)
+
+## Related Content
+
+[![Nuclear energy: The next space frontier](https://www.esi-africa.com/wp-content/uploads/2026/09/ipiccy_image-5-1024x768.jpg)](https://www.esi-africa.com/industry-sectors/future-energy/nuclear-energy-the-next-space-frontier/ "Nuclear energy: The next space frontier")
+
+[![Sustainable data centres: Endeavour’s vision for Africa](https://www.esi-africa.com/wp-content/uploads/2025/05/Edged-Madrid-Data-Center-1-1024x768.jpg)](https://www.esi-africa.com/industry-sectors/smart-technologies/sustainable-data-centres-endeavours-vision-for-africa/ "Sustainable data centres: Endeavour’s vision for Africa")
+
+[![In conversation with Princess Mthombeni: Appetite for nuclear energy grows across Africa](https://www.esi-africa.com/wp-content/uploads/2025/11/AAAA-reactor-MAIN-1024x768.jpg)](https://www.esi-africa.com/news/appetite-for-nuclear-energy-grows-across-africa/ "In conversation with Princess Mthombeni: Appetite for nuclear energy grows across Africa")
+
+[![How Western Cape is driving successful energy wheeling](https://www.esi-africa.com/wp-content/uploads/2025/03/city-of-cape-town-1024x768.jpg)](https://www.esi-africa.com/news/how-western-cape-is-driving-successful-energy-wheeling/ "How Western Cape is driving successful energy wheeling")
+
+[![Managing the water resource gap and getting the flow just right](https://www.esi-africa.com/wp-content/uploads/2023/03/ipiccy_image-1-1024x768.jpg)](https://www.esi-africa.com/industry-sectors/water/managing-water-resource-gap-getting-flow-right/ "Managing the water resource gap and getting the flow just right")
+
+[![Southern Africa needs a strategic roadmap for gas and growth to power its future](https://www.esi-africa.com/wp-content/uploads/2025/03/oil-and-gas-1024x768.jpg)](https://www.esi-africa.com/news/southern-africa-roadmap-gas-growth/ "Southern Africa needs a strategic roadmap for gas and growth to power its future")
+
+[![Mining solar and storage innovations to reduce carbon footprints](https://www.esi-africa.com/wp-content/uploads/2025/05/ipiccy_image-14-1024x768.jpg)](https://www.esi-africa.com/magazine-article/mining-innovations-to-reduce-carbon-footprints/ "Mining solar and storage innovations to reduce carbon footprints")
+
+[![Turning back to nature to grow Africa’s green economy](https://www.esi-africa.com/wp-content/uploads/2026/02/pre-event-ages-1.jpg)](https://www.esi-africa.com/news/turning-back-to-nature-to-grow-africas-green-economy/ "Turning back to nature to grow Africa’s green economy")
+
+[![What South Africa could achieve with green hydrogen and ammonia in shipping](https://www.esi-africa.com/wp-content/uploads/2026/02/259220665_m-1-1024x768.jpg)](https://www.esi-africa.com/industry-sectors/future-energy/what-south-africa-could-achieve-with-green-hydrogen-ammonia-shipping/ "What South Africa could achieve with green hydrogen and ammonia in shipping")
+
+[![NBI urges shift from planning to execution on energy, water and climate](https://www.esi-africa.com/wp-content/uploads/2025/04/Lesotho-South-Africa-water-1024x768.jpg)](https://www.esi-africa.com/industry-sectors/future-energy/nbi-urges-shift-execution-energy-water-climate/ "NBI urges shift from planning to execution on energy, water and climate")
+
+[![New continental water strategy aims to close Africa’s growing water gap](https://www.esi-africa.com/wp-content/uploads/2025/09/water-1024x768.jpg)](https://www.esi-africa.com/news/new-continental-water-strategy-close-africas-growing-water-gap/ "New continental water strategy aims to close Africa’s growing water gap")
+
+[![Africa: Tripartite pact to speed up nuclear energy development](https://www.esi-africa.com/wp-content/uploads/2026/02/AAA-AU-nuclear-1024x765.jpg)](https://www.esi-africa.com/business-and-markets/africa-pact-speed-up-nuclear-energy-development/ "Africa: Tripartite pact to speed up nuclear energy development")
+
+[**Trending**](https://www.esi-africa.com/trending)
+
+1
+
+[![Why South Africa will benefit from efficiency shaping its energy build](https://www.esi-africa.com/wp-content/uploads/2026/10/ipiccy_image-17-1024x768.jpg)](https://www.esi-africa.com/energy-efficiency/why-south-africa-will-benefit-from-efficiency-shaping-its-energy-build/)
+
+[Energy Efficiency](https://www.esi-africa.com/energy-efficiency/)
+
+29 October 2026
+
+2
+
+[![How CESI is helping shape Africa’s next-gen power grids](https://www.esi-africa.com/wp-content/uploads/2026/10/pexels-thekarachiguy-power-grid-pic-1024x768.jpg)](https://www.esi-africa.com/industry-sectors/transmission-and-distribution/how-cesi-is-helping-shape-africas-next-gen-power-grids/)
+
+[Transmission and Distribution](https://www.esi-africa.com/industry-sectors/transmission-and-distribution/)
+
+27 October 2026
+
+3
+
+[![From dump to grid: Giving South Africa’s landfills a second act](https://www.esi-africa.com/wp-content/uploads/2026/09/coastal-park-landfill-gas-park-1-1024x768.jpg)](https://www.esi-africa.com/business-and-markets/from-dump-to-grid-giving-south-africas-landfills-second-act/)
+
+[Bio-energy](https://www.esi-africa.com/renewable-energy/bio-energy/)
+
+24 September 2026
+
+4
+
+[![Supporting local manufacturers through infrastructure build programme](https://www.esi-africa.com/wp-content/uploads/2025/06/arc-welding-manufacturing-1024x768.jpg)](https://www.esi-africa.com/finance-and-policy/supporting-local-manufacturers-through-infrastructure-build-programme/)
+
+13 August 2026
+
+5
+
+[![Report: Children in Africa vulnerable and in need of climate financing](https://www.esi-africa.com/wp-content/uploads/2023/08/140002639_l_normal_none-1.jpg)](https://www.esi-africa.com/reports/report-children-in-africa-vulnerable-and-in-need-of-climate-financing/)
+
+[Reports](https://www.esi-africa.com/reports/)
+
+04 September 2023
+
+6
+
+[![Three community-owned renewable energy projects established in SA](https://www.esi-africa.com/wp-content/uploads/2023/08/ekhanan_extra_large.jpg)](https://www.esi-africa.com/renewable-energy/three-community-owned-renewable-energy-projects-established-in-sa/)
+
+[Renewable energy](https://www.esi-africa.com/renewable-energy/)
+
+16 August 2023
+
+7
+
+[![Onshore wave energy plant connects to the Israeli power grid](https://www.esi-africa.com/wp-content/uploads/2023/08/ipiccy_image-67.jpg)](https://www.esi-africa.com/industry-sectors/future-energy/onshore-wave-energy-plant-connects-to-the-israeli-power-grid/)
+
+[Future Energy](https://www.esi-africa.com/industry-sectors/future-energy/)
+
+16 August 2023
+
+8
+
+[![Recording: The South African Renewable Energy Masterplan](https://www.esi-africa.com/wp-content/uploads/2023/08/TIPS-Webinar-On-Demand-800x600-1.png)](https://www.esi-africa.com/renewable-energy/webinar-the-south-african-renewable-energy-masterplan-sarem/)
+
+[Renewable energy](https://www.esi-africa.com/renewable-energy/)
+
+02 August 2023
+
+9
+
+[![Angola to build PV electricity infrastructure across rural areas](https://www.esi-africa.com/wp-content/uploads/2023/05/190613059_l-1.jpg)](https://www.esi-africa.com/renewable-energy/angola-to-build-pv-electricity-infrastructure-across-rural-areas/)
+
+[Renewable energy](https://www.esi-africa.com/renewable-energy/)
+
+24 July 2023
+
+10
+
+[![Côte D’Ivoire: Biomass power station to be fuelled by palm tree leaves](https://www.esi-africa.com/wp-content/uploads/2021/06/biomass-palm-trees.jpg)](https://www.esi-africa.com/industry-sectors/future-energy/cote-divoire-biomass-power-station-to-be-fuelled-by-palm-tree-leaves/)
+
+[Bio-energy](https://www.esi-africa.com/renewable-energy/bio-energy/)
+
+21 July 2023
+
+FacebookTwitterEmail

@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://chipmango.com/",
+        "title": "ChipMango",
+        "description": "[![logo](https://chipmango.com/assets/images/new-logo.png)](https://chipmango.com/)\n\n[![logo](https://chipmango.com/assets/images/new-logo.png)](https://chipmango.com/)\n\n[Home](https://chipmango.com/)\n\n[Newsroom](https://chipmango.com/newsroom)\n\n[Join Us →](https://learn.chipmango.com/auth)\n\n# Microchip Design  Made Accessible\n[Get Started Today](https://learn.chipmango.com/auth)\n\n[Explore Logic Lab](https://chipmango.com/)\n\n###### Power the Future\n[Learn More](https://chipmango.com/arm)\n\n# Learn Microchip Design.  Build Smart Systems. Unlock Careers\n## Don't let    anything stop   your curiosity\n- [Home](https://chipmango.com/)\n- [About Us](https://chipmango.com/company)\n\n![Mango AI](https://chipmango.com/assets/images/chipmango-toggle-logo.svg)",
+        "position": 1
+      },
+      {
+        "url": "https://www.linkedin.com/company/chipmango1",
+        "title": "ChipMango",
+        "description": "Founded by Ola Fadiran, ChipMango is building semiconductor engineering talent while working on commercial chip design, verification, edge AI, and intelligent ...",
+        "position": 2
+      },
+      {
+        "url": "https://chipmango.com/newsroom/chipmango-engages-university-of-lagos-ieee-students-in-semiconductor-industry-workshop",
+        "title": "ChipMango Engages University of Lagos IEEE Students in ...",
+        "description": "The workshop forms part of ChipMango's broader efforts to raise awareness of semiconductor engineering, strengthen industry-academia ...",
+        "position": 3
+      },
+      {
+        "url": "https://www.instagram.com/chipmango_/",
+        "title": "ChipMango (@chipmango_) · Irvine, CA",
+        "description": "ChipMango is opening applications for the Train-the-Trainer Program designed to equip a select group of professionals to teach modern microchip design and ...",
+        "position": 4
+      },
+      {
+        "url": "https://techcabal.com/2025/05/19/chipmango-nitda-partner-to-power-nigerias-semiconductor-and-ai-workforce/",
+        "title": "ChipMango, NITDA partner to Power Nigeria's Semiconductor and AI ...",
+        "description": "In a bold move to catalyse Nigeria's emergence as Africa's semiconductor and AIpowerhouse, ChipMango, a leading semiconductor design and ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a212a2-948a-750b-9e97-167a5a1ff2c4"
+}

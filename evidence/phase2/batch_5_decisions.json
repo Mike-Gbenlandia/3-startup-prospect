@@ -1,0 +1,217 @@
+[
+  {
+    "name": "Helium Health",
+    "website": "https://heliumhealth.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Post-Seed / Series B stage startup ($10M Series A in 2020 and $30M Series B in June 2023); excluded per Series A+ rule despite Nov 2026 Google.org grant.",
+    "round_type_exact": "Grant (Google.org Impact Challenge) / Prior Series B",
+    "amount": "$2.5M grant",
+    "announced_date": "2026-11-04",
+    "investors": "Google.org",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/helium-health-grant-2-5m-usd-eb2ec25",
+      "https://heliumhealth.com/announcing-helium-healths-30m-series-b/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/helium_health_7eb99752d0.md",
+      "evidence/phase2/q_helium_stage.json"
+    ]
+  },
+  {
+    "name": "Fuelventa",
+    "website": "https://fuelventa.com/",
+    "tier": "A",
+    "status": "VERIFIED",
+    "round_type_exact": "Pre-seed",
+    "amount": "$45K ($44.7K)",
+    "announced_date": "2026-11-03",
+    "investors": "Not disclosed",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://www.trysignalbase.com/news/funding/fuelventa-raises-45k-in-pre-seed-round",
+      "https://fuelventa.com/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/fuelventa_6f49c83214.md",
+      "evidence/phase2/fuelventa_site.md",
+      "evidence/phase2/q_fuelventa.json"
+    ]
+  },
+  {
+    "name": "Polysmart Packaging",
+    "website": "https://polysmartgroup.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Established industrial company founded in 2013 with 570+ direct employees raising a growth equity round from Aruwa Capital; not an early-stage startup.",
+    "round_type_exact": "Growth equity round",
+    "amount": "Not disclosed",
+    "announced_date": "2026-11-03",
+    "investors": "Aruwa Capital",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://fireround.dev/companies/polysmart-packaging",
+      "https://au-startups.com/news/aruwa-capital-invests-in-polysmart-packaging"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/polysmart_packaging_8ea3899159.md"
+    ]
+  },
+  {
+    "name": "Koolboks",
+    "website": "https://www.koolboks.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Post-Seed / Series A stage company (founded 2018, ~400 employees, raised $2.5M Seed in 2022 and $11M Series A); excluded per Series A+ rule.",
+    "round_type_exact": "Debt Financing (TLG Capital credit facility) / Prior Series A",
+    "amount": "Not disclosed",
+    "announced_date": "2026-11-03",
+    "investors": "TLG Capital",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/koolboks-debt-financing-undisclosed-c05580a",
+      "https://disruptafrica.com/2026/11/09/nigerias-koolboks-secures-credit-facility-from-tlg-capital-to-fund-inventory-growth/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/koolboks_538f0b1e39.md",
+      "evidence/phase2/koolboks_da.md",
+      "evidence/phase2/q_koolboks_stage.json"
+    ]
+  },
+  {
+    "name": "Acecore",
+    "website": "https://acecore.tech/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Equity-free prize (TC Battlefield 2026 Grand Prize)",
+    "amount": "$10K",
+    "announced_date": "2026-10-30",
+    "investors": "TechCabal Moonshot / Yango Group (TC Battlefield)",
+    "hq_location": "Oyigbo, Rivers State, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/acecore-equity-free-prize-10k-usd-af0d5df",
+      "https://techcabal.beehiiv.com/p/acecore-wins-10-000-at-moonshot",
+      "https://liners.com/research/moonshot-2026-african-companies"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/acecore_19538575dd.md",
+      "evidence/phase1/hy_techcabal_moonshot_battlefield.md",
+      "evidence/phase1/hy_liners_moonshot_2026.md"
+    ]
+  },
+  {
+    "name": "Supplya",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Equity-free prize (TC Battlefield 2026 Runner-Up)",
+    "amount": "$5K",
+    "announced_date": "2026-10-30",
+    "investors": "TechCabal Moonshot / Yango Group (TC Battlefield)",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/supplya-equity-free-prize-5000-usd-d59d15a",
+      "https://techcabal.beehiiv.com/p/acecore-wins-10-000-at-moonshot",
+      "https://liners.com/research/moonshot-2026-african-companies"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/supplya_29047d52f6.md",
+      "evidence/phase1/hy_techcabal_moonshot_battlefield.md",
+      "evidence/phase1/hy_liners_moonshot_2026.md",
+      "evidence/phase2/q_supplya.json"
+    ]
+  },
+  {
+    "name": "Navidyn",
+    "website": "https://www.navidynrobotics.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Equity-free prize (TC Battlefield 2026 3rd Place)",
+    "amount": "$2.5K",
+    "announced_date": "2026-10-30",
+    "investors": "TechCabal Moonshot / Yango Group (TC Battlefield)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/navidyn-equity-free-prize-2500-usd-8fca81c",
+      "https://techcabal.beehiiv.com/p/acecore-wins-10-000-at-moonshot",
+      "https://techcabal.com/2026/11/10/acecore-supplya-and-navidyn-moonshot/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/navidyn_b061815746.md",
+      "evidence/phase1/hy_techcabal_moonshot_battlefield.md",
+      "evidence/phase2/q_navidyn.json"
+    ]
+  },
+  {
+    "name": "Fertitude",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Strategic/Seed funding announced 2026-02-27 (prior to 2026-07-01 window); TC Battlefield finalist on 2026-10-30 with no prize won (top 3 only); launched Mar 2024 (ineligible for Tier D).",
+    "round_type_exact": "TC Battlefield Finalist (prior Seed 2026-02-27)",
+    "amount": "$0 in window",
+    "announced_date": "2026-02-27",
+    "investors": "Nubia Capital (Feb 2026)",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/fertitude-seed-undisclosed-8440831",
+      "https://techcabal.beehiiv.com/p/acecore-wins-10-000-at-moonshot"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/fertitude_sl.md",
+      "evidence/phase1/hy_techcabal_moonshot_battlefield.md"
+    ]
+  },
+  {
+    "name": "Prado Power",
+    "website": "http://www.pradopower.org/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "SPV project-finance senior debt facility from Camco REPP 2 + World Bank DARES subsidy for solar mini-grid construction rather than early-stage startup equity/angel/accelerator funding.",
+    "round_type_exact": "Senior debt facility (SPV project finance)",
+    "amount": "Not disclosed",
+    "announced_date": "2026-10-01",
+    "investors": "REPP 2 (Camco)",
+    "hq_location": "Abuja, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://african-startups.com/countries/nigeria/nigerias-prado-power-secures-repp-2-debt-financing-to-develop-five-solar-mini-grids-with-battery-storage/",
+      "https://african-startups.com/news/funding/meet-the-african-startups-that-secured-funding-in-october-2026/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/prado_power_as.md",
+      "evidence/phase1/hy_as_oct_2026.md"
+    ]
+  },
+  {
+    "name": "Qiqi Farms",
+    "website": "https://qiqifarms.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Founded in 2020 and no funding rounds raised per Tracxn; TC Battlefield 2026 finalist (only top 3 won prizes); not eligible for Tier A/B/C or Tier D (2025/2026 launch).",
+    "round_type_exact": "TC Battlefield Finalist (no funding raised)",
+    "amount": "$0",
+    "announced_date": "NOT_FOUND",
+    "investors": "None",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://techcabal.beehiiv.com/p/acecore-wins-10-000-at-moonshot",
+      "https://liners.com/research/moonshot-2026-african-companies"
+    ],
+    "evidence_paths": [
+      "evidence/phase1/hy_techcabal_moonshot_battlefield.md",
+      "evidence/phase1/hy_liners_moonshot_2026.md",
+      "evidence/phase2/q_qiqi_farms.json"
+    ]
+  }
+]

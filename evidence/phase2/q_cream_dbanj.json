@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.facebook.com/shore.africa/posts/afreximbank-takes-stake-in-dbanjs-cream-platform-as-african-creative-industry-at/1652967966626623/",
+        "title": "Afreximbank takes stake in D'banj's CREAM platform",
+        "description": "The Afreximbank, through its Creative Africa Nexus (CANEX) acquired a equity of the platform owned by D'banj. The deal was formalised in a ...",
+        "position": 1
+      },
+      {
+        "url": "https://www.instagram.com/p/DfxGyrCCngp/",
+        "title": "Afreximbank takes stake in D'banj's CREAM platform as African creative ...",
+        "description": "Afreximbank takes stake in D'banj's CREAM platform as African creative industry attracts fresh investment. Nigerian music entrepreneur ...",
+        "position": 2
+      },
+      {
+        "url": "https://afreximbank.africa-newsroom.com/press/afreximbanks-creative-africa-nexus-canex-creations-incorporated-inc-completes-a-strategic-equity-investment-in-afrobeats-star-dbanjs-creative-reality-entertainment-arts-and-music-cream-platform?lang=en",
+        "title": "Afreximbank's CANEX Creations Inc. completes a strategic equity ...",
+        "description": "Afreximbank's CANEX Creations Inc. completes a strategic equity investment in Afrobeats star D'Banj's C.R.E.A.M. Platform.",
+        "position": 3
+      },
+      {
+        "url": "https://www.africainvestorreview.com/afreximbank-acquires-equity-stake-in-dbanjs-cream-platform/",
+        "title": "Afreximbank Acquires Equity Stake in D'banj's CREAM Platform",
+        "description": "Afreximbank Acquires Equity Stake in D'banj's CREAM Platform. The African Export-Import Bank, via CANEX Creations, secures an equity position in ...",
+        "position": 4
+      },
+      {
+        "url": "https://app.dealroom.co/news/note/afreximbank-arm-buys-into-d-banj-s-cream-to-monetise-african-creative-ip",
+        "title": "Afreximbank arm buys into D'banj's CREAM to monetise African creative IP",
+        "description": "# Afreximbank arm buys into D'banj's CREAM to monetise African creative IP\nCANEX Creations, a subsidiary of the [African Export-Import Bank](https://app.dealroom.co/investors/african_export_import_bank), has acquired an equity stake in [CREAM](https://app.dealroom.co/companies/creamplatform), the creator platform led by Afrobeats star Dapo Oyebanjo, known as D'banj. The parties did not disclose the size of the stake or the value of the investment.\n\nCREAM — Creative, Reality, Entertainment, Arts and Music — launched in 2016 with [MTN Nigeria](https://app.dealroom.co/companies/mtn_nigeria) and the [Bank of Industry](https://app.dealroom.co/companies/boi_1), and says it has signed up more than seven million subscribers through its USSD code, website, and app.\n\nThe deal reflects a shift in the bank's support for the sector from debt and grants toward equity in platforms that can monetise content at scale.\n\n[Creamplatform](https://app.dealroom.co/companies/creamplatform)",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a2128e-eebf-7258-be41-45e024816a46"
+}

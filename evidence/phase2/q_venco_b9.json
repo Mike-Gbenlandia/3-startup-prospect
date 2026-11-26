@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://venco.africa/",
+        "title": "Home - Venco | All-in-one Community Management Software",
+        "description": "Venco is an all-in-one community management solution for multi-unit residential and commercial communities. We provide best-in-class software for property ...",
+        "position": 1
+      },
+      {
+        "url": "https://www.startuplist.africa/startups/venco",
+        "title": "VENCO: Company Profile, Funding & Investors",
+        "description": "VENCO is a SaaS, Real Estate and PropTech company based in Lagos, Nigeria, founded in 2022 by Chude Kenneth Osiegbu. It has raised $670K across 1 round.",
+        "position": 2
+      },
+      {
+        "url": "https://www.preqin.com/data/profile/asset/venco-platforms-limited/520495",
+        "title": "Venco Platforms Limited Asset Profile",
+        "description": "In December 2022, Venco Platforms Limited raised USD 0. 67 million in venture funding led by Zrosk Investment Management, with participation from other ...",
+        "position": 3
+      },
+      {
+        "url": "https://www.crunchbase.com/organization/venco-platforms",
+        "title": "Venco Platforms - Crunchbase Company Profile & Funding",
+        "description": "Venco is a software platform that provides community management solution for multi-unit residential and commercial communities.",
+        "position": 4
+      },
+      {
+        "url": "https://cascador.org/blog/",
+        "title": "Blog - Cascador",
+        "description": "The selected companies are Venco, SunFi, ColdHubs, EHA Clinics, Beauty Hut Africa, BEYOND Fitness, Ziba Beach Resort, Tulay Africa, Maanj Agric and Finger Chops ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a2129e-5ac7-704f-99b7-20e5b7d4895b"
+}

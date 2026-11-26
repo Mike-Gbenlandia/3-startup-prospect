@@ -1,0 +1,69 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.regxta.com/about-us",
+        "title": "Our Vision",
+        "description": "[![logo](https://www.regxta.com/static/media/logo.8c9067258b5e2ea479c12234866aaac0.svg)](https://www.regxta.com/)\n\n# A Short Story\nIn 2021, this vision evolved into Regxta , a platform offering accessible financial solutions, including digital wallets, savings, payments, micro-insurance, pensions, health services, and mortgages.\n\n# Our Awards\n![advancio-award](https://www.regxta.com/static/media/advansio.2c3d7eeee2f9b778568471aac2da8158.svg)![get-equity-award](https://www.regxta.com/static/media/equity.b9f5c27c1ae91c09ab8c0ea09bf5f700.svg)![oasis-award](https://www.regxta.com/static/media/oasis.df9d519cdb227bf4e66996f772e7689d.svg)\n\n# Moses Obika\n![coo-image](https://www.regxta.com/static/media/ceo.ccf715884d1b3a541a8d660e32c59853.svg)",
+        "position": 1
+      },
+      {
+        "url": "https://ng.linkedin.com/company/regxta-global-services",
+        "title": "Regxta (MTN '25)",
+        "description": "Website: http://www.regxta.com. External link for Regxta (MTN '25) ; Industry: Financial Services ; Company size: 51-200 employees ; Headquarters: Delaware, United ...",
+        "position": 2
+      },
+      {
+        "url": "https://www.instagram.com/regxta_/?hl=en",
+        "title": "BANKING BEYOND BOUNDARIES (@regxta_) · Lagos",
+        "description": "Regxta is the first digital bank focusing on 600m underserved in Africa. Our products: Savings Loans Biz Incorporation Data reports Others.",
+        "position": 3
+      },
+      {
+        "url": "https://www.regxta.com/",
+        "title": "Regxta",
+        "description": "[![logo](https://www.regxta.com/static/media/logo.8c9067258b5e2ea479c12234866aaac0.svg)](https://www.regxta.com/)\n\n# Building a Financial System for the Everyday Hero\n![current](https://www.regxta.com/static/media/goals.48b2e8aab0003f7c2607.png)\n\n# Trusted by\n![providus](https://www.regxta.com/static/media/providus.e3d0d7540e07863219683f68f7c655a5.svg)![arm-logo](https://www.regxta.com/static/media/arm.cb07b87a6fd79e4c311e6cd63c1ec495.svg)![identity-pass](https://www.regxta.com/static/media/identity.042ec8d1d5dac71b3dd2855113f48de9.svg)![octamile](https://www.regxta.com/static/media/octamile.b5d319ee6410224c225246dce3a2aa6a.svg)![first-central](https://www.regxta.com/static/media/firstcentral.c9bd069503febfe2f1e8557f4d1b05ac.svg)![mizala](https://www.regxta.com/static/media/mizala.75426644a09ea102cad2915ca0d35729.svg)\n\n# Invest in a Brighter Future\n### ## What does Regxta do?\nRegxta offers digital financial solutions, including micro-loans, savings accounts, and business support services, aimed at empowering unbanked individuals and small businesses.",
+        "position": 4
+      },
+      {
+        "url": "https://www.facebook.com/RegXta/posts/some-of-nigerias-hardest-working-businesses-will-never-have-a-logo-on-the-door-w/1741192801350286/",
+        "title": "Regxta loans for Nigerian micro businesses",
+        "description": "We are Regxta – financial inclusion starts with us! Partner with us and be a part of this movement. Visit www.regxta.com #FinancialInclusion ...",
+        "position": 5
+      },
+      {
+        "url": "https://liners.com/regxta",
+        "title": "Regxta: Microloan App in Nigeria - Liners",
+        "description": "Regxta is a Nigerian fintech platform that provides digital financial services for unbanked individuals and micro-businesses, delivered through ...",
+        "position": 6
+      },
+      {
+        "url": "https://www.crunchbase.com/organization/regxta",
+        "title": "Regxta - Crunchbase Company Profile & Funding",
+        "description": "Regxta offers a platform designed to enhance financial inclusion by providing accessible online banking services and business loans tailored for ...",
+        "position": 7
+      },
+      {
+        "url": "https://www.startuplist.africa/startups/regxta",
+        "title": "Regxta: Company Profile, Funding & Investors",
+        "description": "Regxta is a Financial Services, FinTech and PaaS company based in Lagos, Nigeria, founded in 2018. It has raised $10K across 2 rounds.",
+        "position": 8
+      },
+      {
+        "url": "https://acad.learn2earn.ng/",
+        "title": "Talent Nation",
+        "description": "Talent Nation is Nigeria's AI Engineering Fellowship program. Apply, train, build, and graduate as an AI Engineer.",
+        "position": 9
+      },
+      {
+        "url": "https://www.facebook.com/learn2earnng/videos/5-days-of-the-learn2earn-trials-give-you-the-opportunity-to-demonstrate-how-you/4628721504007689/",
+        "title": "Learn2Earn Trials Nov 23–27, 2026: Team Challenges & Problem-Solving",
+        "position": 10
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a21795-48f5-729c-8c30-a9b40f12bf80"
+}

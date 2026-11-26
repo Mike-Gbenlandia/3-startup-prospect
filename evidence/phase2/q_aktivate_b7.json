@@ -1,0 +1,39 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://ng.linkedin.com/in/akasalu",
+        "title": "Akinbola Asalu - Building the Earnings OS for African content creators!",
+        "description": "Akinbola Asalu. Building the Earnings OS for African content creators! aktivate⚡️ Babcock University, Ilishan-Remo, Nigeria. Lagos State, Nigeria.",
+        "position": 1
+      },
+      {
+        "url": "https://about.me/akasalu",
+        "title": "Akinbola Asalu - Lagos, Nigeria, Aktivate, Babcock University",
+        "description": "Akinbola Asalu. CEO and Co-founder in Lagos, Nigeria. Read my articles. Howdy, I'm Akinbola. I'm a CEO at Aktivate living in Lagos, Nigeria. I am a fan of ...",
+        "position": 2
+      },
+      {
+        "url": "https://www.linkedin.com/posts/tom-fairburn-89957842_it-was-awesome-to-sit-down-with-akinbola-activity-7355883440757428224-3h4W",
+        "title": "Discussed creative economy with Akinbola Asalu, founder of aktivate.",
+        "position": 3
+      },
+      {
+        "url": "https://www.instagram.com/useaktivate/",
+        "title": "Aktivate | Get Paid as a Creator (@useaktivate)",
+        "description": "There are 2 ways to earn on Aktivate, and the creators who earn most use both Collaboration Hub: apply to paid brand campaigns. 🛍️ ShopLink: run your ...",
+        "position": 4
+      },
+      {
+        "url": "https://rocketreach.co/akinbola-asalu-email_103146892",
+        "title": "Akinbola Asalu Email & Phone Number | aktivate⚡️ Founder and ...",
+        "description": "Akinbola Asalu, based in Lagos, Nigeria, is currently a Founder and CEO at aktivate⚡️. Akinbola Asalu brings experience from previous roles at Bitmama, TAXI ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a21299-de3d-74f9-9665-939cd883ff3d"
+}

@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.instagram.com/p/DblCSVsjXp8/",
+        "title": "We are thrilled to share that EHA Clinics has received a $1.25 million ...",
+        "description": "We are thrilled to share that EHA Clinics has received a $1.25 million reinvestment from @ehaimpactventures! This was announced at the 2026 ...",
+        "position": 1
+      },
+      {
+        "url": "https://www.eha.ng/blog/eha-clinics-receives-1-25mllion-capital-reinvestment-from-eha-impact-ventures",
+        "title": "EHA Clinics Receives $1.25mllion Capital Reinvestment From ...",
+        "description": "On July 28, EHA Clinics received a $1.25 million reinvestment from EHA Impact Ventures (EIV) at the Insights Learning Forum 2026 held in Abuja.",
+        "position": 2
+      },
+      {
+        "url": "https://www.linkedin.com/posts/eha-clinics_ilf2026-primaryhealthcare-healthinvestment-activity-7501235961486352385-Dsap",
+        "title": "EHA Clinics Reinvestment in Primary Healthcare at ILF 2026",
+        "description": "... EHA Impact Ventures formalised a $1.25 million reinvestment in EHA Clinics. For us, that investment case reflects work already underway: more patients ...",
+        "position": 3
+      },
+      {
+        "url": "https://www.eha.ventures/post/eiv-reinvests-in-eha-clinics-to-strengthen-maternal-care-and-expand-healthcare-access-in-nigeria",
+        "title": "EIV Reinvests in EHA Clinics to Strengthen Maternal Care ...",
+        "description": "July 28, 2026 — EHA Impact Ventures (EIV), ... a $1.25 million reinvestment in EHA Clinics, a leading network of primary healthcare ...",
+        "position": 4
+      },
+      {
+        "url": "https://trustur.ai/news/ng/2026/07/31/eha-impact-ventures-reinvests-125m-in-eha-clinics-as-government-and-vc-debts-fil/7cd14aad-3738-4347-926f-89deb24ebe1e/",
+        "title": "EHA Impact Ventures Reinvests $1.25M in EHA Clinics as ...",
+        "description": "EHA Impact Ventures (EIV), a non-profit impact investing firm focused on women-led businesses, announced a $1.25 million reinvestment in EHA Clinics to ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a212a2-8391-766c-a93e-d351bfb851da"
+}

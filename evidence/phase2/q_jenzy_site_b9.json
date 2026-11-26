@@ -1,0 +1,39 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.jenzy.com/",
+        "title": "Jenzy - Reliable cross-border payments, built for African trade.",
+        "description": "# _Paymentsthat_ _arrive_ _._\n## The Inquiry:\n### To whom is this infrastructure directed?\nImporters, exporters, treasuries, and the fintechs embedding cross-border payouts where reliability outranks novelty.",
+        "position": 1
+      },
+      {
+        "url": "https://uk.linkedin.com/in/bonganimalaba",
+        "title": "Bongani Malaba - Building for Africa | Ex-Goldman Sachs",
+        "description": "Bongani Malaba. Building for Africa | Ex-Goldman Sachs. Jenzy The Manchester Metropolitan University. United Kingdom.",
+        "position": 2
+      },
+      {
+        "url": "https://www.linkedin.com/posts/jenzy-pay_fintech-startups-africa-activity-7383439288870309888-MLMP",
+        "title": "Fast Cross-Border Payments | Jenzy posted on the topic",
+        "position": 3
+      },
+      {
+        "url": "https://www.linkedin.com/company/jenzy-pay",
+        "title": "Jenzy",
+        "description": "eniola ajuwon built a cross-border talent ... Bongani Malaba built cross-border payment infrastructure at Goldman Sachs for African enterprises.",
+        "position": 4
+      },
+      {
+        "url": "https://voaventurepartners.com/bridging-borders-with-africa-navigating-africas-illiquid-currencies-with-jenzy/",
+        "title": "Navigating Africa's Illiquid Currencies with Jenzy",
+        "description": "## Bridging Borders with Africa: Navigating Africa’s Illiquid Currencies with Jenzy\n###### June 5, 2026\nWe also spotlight [**Jenzy**](https://www.jenzy.com/), a company transforming how money moves across some of Africa's most illiquid currency corridors by intelligently routing transactions across multiple payment rails to reduce payment failures and settlement delays, drawing on insights from CEO and Co-Founder, [Eniola Ajuwon](https://www.linkedin.com/in/ajuwon/).",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a2129f-378a-7523-aebe-38a3ff8348b8"
+}

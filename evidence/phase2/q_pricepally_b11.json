@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://mu.linkedin.com/company/five35-ventures",
+        "title": "Five35 Ventures",
+        "description": "This is one the first Pan-African Seed-to-Series A fund focused on the ... Carine Kalinda Fincart BuuPass - Bus, Train & Flight bookings Daleela PricePally ...",
+        "position": 1
+      },
+      {
+        "url": "https://allbusiness.africa/investors/five35-ventures",
+        "title": "Five35 Ventures",
+        "description": "Funding call assessment Pitch deck Business plan Financial model View open funding calls ... Venture CapitalSeedEarly StageSeries A. Five35 ... PricepallyStartup.",
+        "position": 2
+      },
+      {
+        "url": "https://www.facebook.com/sstnnigeria/posts/the-right-investment-starts-with-the-right-connection-for-investors-and-capital-/1507540531408982/",
+        "title": "Seed G3 2026 puts you face to face with Africa's next wave ...",
+        "description": "If you're an Africa-focused founder raising Pre-Seed, Seed, or Series A, repost and complete the form in the comments for a chance to pitch (selection based ...",
+        "position": 3
+      },
+      {
+        "url": "https://www.startuplist.africa/fundings/nigeria/funding-round",
+        "title": "Funding Round rounds in Nigeria",
+        "description": "- [Series A](https://www.startuplist.africa/fundings/nigeria/series-a)",
+        "position": 4
+      },
+      {
+        "url": "https://connectsafely.ai/investors/five35-ventures",
+        "title": "Five35 Ventures - Investors",
+        "description": "Early-stage (Seed and Series A); Focus on sectors improving quality ... PricePallyRxAllSusuBriefCoLocumbaseDigsConnectLNKO. Get the full ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a212a3-835f-715a-85f4-a47898aa145b"
+}

@@ -1,0 +1,217 @@
+[
+  {
+    "name": "EHA Clinics",
+    "website": "https://www.eha.ng/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Capital Reinvestment / Pre-Series A Impact Investment",
+    "amount": "$1.25M",
+    "announced_date": "2026-07-28",
+    "investors": "EHA Impact Ventures (EIV)",
+    "hq_location": "Abuja, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.eha.ng/blog/eha-clinics-receives-1-25mllion-capital-reinvestment-from-eha-impact-ventures",
+      "https://www.eha.ventures/post/eiv-reinvests-in-eha-clinics-to-strengthen-maternal-care-and-expand-healthcare-access-in-nigeria",
+      "https://trustur.ai/news/ng/2026/07/31/eha-impact-ventures-reinvests-125m-in-eha-clinics-as-government-and-vc-debts-fil/7cd14aad-3738-4347-926f-89deb24ebe1e/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/eha_clinics_b10.md",
+      "evidence/phase2/q_eha_clinics_b10.json",
+      "evidence/phase2/q_eha_stage_b10.json"
+    ],
+    "notes": "Received $1.25M capital reinvestment from EHA Impact Ventures on 2026-07-28 at Insights Learning Forum 2026 in Abuja; confirmed pre-Series A (no Series A closed yet)."
+  },
+  {
+    "name": "Beauty Hut Africa",
+    "website": "https://beautyhutafrica.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Selected for Cascador 2026 ScaleUp Cohort (2026-09-07), an unfunded 12-week mentorship programme for growth-stage firms (12 weeks ends ~Nov 30, after Nov 24 window). No in-window funding raised; grant.beautyhutafrica.com is an outbound grant run by Beauty Hut.",
+    "round_type_exact": "Accelerator Mentorship Cohort (Cascador ScaleUp 2026, unfunded)",
+    "amount": "Unfunded cohort",
+    "announced_date": "2026-09-07",
+    "investors": "Cascador (programme)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://disruptafrica.com/2026/09/07/cascador-picks-10-nigerian-startups-for-2026-scaleup-growth-programme/",
+      "https://grant.beautyhutafrica.com/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/venco_3e2fc994a8.md",
+      "evidence/phase2/q_cascador_7a_b10.json",
+      "evidence/phase2/q_cascador_others_b10.json"
+    ]
+  },
+  {
+    "name": "BEYOND Fitness",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Selected for Cascador 2026 ScaleUp Cohort (2026-09-07), an unfunded 12-week mentorship programme for growth-stage firms; no in-window funding found.",
+    "round_type_exact": "Accelerator Mentorship Cohort (Cascador ScaleUp 2026, unfunded)",
+    "amount": "Unfunded cohort",
+    "announced_date": "2026-09-07",
+    "investors": "Cascador (programme)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://disruptafrica.com/2026/09/07/cascador-picks-10-nigerian-startups-for-2026-scaleup-growth-programme/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/venco_3e2fc994a8.md",
+      "evidence/phase2/q_cascador_others_b10.json"
+    ]
+  },
+  {
+    "name": "Ziba Beach Resort",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Hospitality resort selected for Cascador 2026 ScaleUp Cohort (2026-09-07), an unfunded mentorship programme for established businesses; no in-window funding found.",
+    "round_type_exact": "Accelerator Mentorship Cohort (Cascador ScaleUp 2026, unfunded)",
+    "amount": "Unfunded cohort",
+    "announced_date": "2026-09-07",
+    "investors": "Cascador (programme)",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://disruptafrica.com/2026/09/07/cascador-picks-10-nigerian-startups-for-2026-scaleup-growth-programme/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/venco_3e2fc994a8.md",
+      "evidence/phase2/q_cascador_others_b10.json"
+    ]
+  },
+  {
+    "name": "Tulay Africa",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Selected for Cascador 2026 ScaleUp Cohort (2026-09-07), an unfunded mentorship programme; no in-window funding found.",
+    "round_type_exact": "Accelerator Mentorship Cohort (Cascador ScaleUp 2026, unfunded)",
+    "amount": "Unfunded cohort",
+    "announced_date": "2026-09-07",
+    "investors": "Cascador (programme)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://disruptafrica.com/2026/09/07/cascador-picks-10-nigerian-startups-for-2026-scaleup-growth-programme/",
+      "https://pitchbook.com/profiles/company/1489177-27"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/venco_3e2fc994a8.md",
+      "evidence/phase2/q_cascador_7b_b10.json"
+    ]
+  },
+  {
+    "name": "Maanj Agric",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Founded 2022 with no funding raised per Tracxn; Cascador 2026 ScaleUp Cohort (2026-09-07) is an unfunded mentorship programme.",
+    "round_type_exact": "Accelerator Mentorship Cohort (Cascador ScaleUp 2026, unfunded)",
+    "amount": "Unfunded cohort",
+    "announced_date": "2026-09-07",
+    "investors": "Cascador (programme)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://disruptafrica.com/2026/09/07/cascador-picks-10-nigerian-startups-for-2026-scaleup-growth-programme/",
+      "https://tracxn.com/d/companies/maanj-agric/__RI-V7o6gewqIRhJ_j3kLY2tmO7_TVsUEdzyKLMFySQ0"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/venco_3e2fc994a8.md",
+      "evidence/phase2/q_cascador_7b_b10.json"
+    ]
+  },
+  {
+    "name": "Finger Chops",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Selected for Cascador 2026 ScaleUp Cohort (2026-09-07), an unfunded mentorship programme for growth-stage businesses; no in-window funding found.",
+    "round_type_exact": "Accelerator Mentorship Cohort (Cascador ScaleUp 2026, unfunded)",
+    "amount": "Unfunded cohort",
+    "announced_date": "2026-09-07",
+    "investors": "Cascador (programme)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://disruptafrica.com/2026/09/07/cascador-picks-10-nigerian-startups-for-2026-scaleup-growth-programme/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/venco_3e2fc994a8.md",
+      "evidence/phase2/q_cascador_others_b10.json"
+    ]
+  },
+  {
+    "name": "Trade Lenda",
+    "website": "https://tradelenda.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Catalytic Early Financing (Village Capital Africa Ecosystem Catalysts Facility)",
+    "amount": "$300K",
+    "announced_date": "2026-09-03",
+    "investors": "Village Capital (Africa Ecosystem Catalysts Facility)",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/trade-lenda-funding-round-300k-usd-b683912",
+      "https://newsandviews.vilcap.com/press-releases/africa-ecosystem-catalysts-facility-expands-into-nigeria-with-usd-450k-in-first-investments",
+      "https://techcabal.com/2026/09/03/village-capital-nigeria-investments",
+      "https://tradelenda.com/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/trade_lenda_vc_b10.md",
+      "evidence/phase2/q_trade_lenda_stage_b10.json",
+      "evidence/phase2/q_tradelenda_site_b10.json"
+    ],
+    "notes": "Prior $520K Pre-seed (2023); $300K flexible catalytic financing from Village Capital on 2026-09-03 (separate $2M local debt facility excluded)."
+  },
+  {
+    "name": "AirSmat",
+    "website": "https://airsmat.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Catalytic Early Financing (Village Capital Africa Ecosystem Catalysts Facility)",
+    "amount": "$150K",
+    "announced_date": "2026-09-03",
+    "investors": "Village Capital (Africa Ecosystem Catalysts Facility)",
+    "hq_location": "Ikoyi, Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/airsmat-funding-round-150k-usd-c3fd5ed",
+      "https://disruptafrica.com/2026/09/07/2-nigerian-startups-secure-450k-from-africa-ecosystem-catalysts-facility",
+      "https://airsmat.com/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/airsmat_f4faa88065.md",
+      "evidence/phase2/q_airsmat_site_b10.json"
+    ]
+  },
+  {
+    "name": "ChipMango",
+    "website": "https://chipmango.com/",
+    "tier": "B",
+    "status": "VERIFIED",
+    "round_type_exact": "Seed",
+    "amount": "$1.9M",
+    "announced_date": "2026-09-01",
+    "investors": "Atlantica Ventures (lead), Madica, DFS Lab, Kaleo Ventures, Trilinear Technologies, Malta Venture Capital",
+    "hq_location": "Nigeria (Nigerian startup; Lagos university & NITDA programmes; global ops)",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/chipmango-seed-1-9m-usd-1506894",
+      "https://disruptafrica.com/2026/09/04/nigerias-chipmango-raises-1-9m-seed-round-to-expand-operations-globally/",
+      "https://chipmango.com/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/chipmango_b1046e6558.md",
+      "evidence/phase2/chipmango_da_b10.md",
+      "evidence/phase2/chipmango_company_b10.md",
+      "evidence/phase2/q_chipmango_site_b10.json"
+    ]
+  }
+]

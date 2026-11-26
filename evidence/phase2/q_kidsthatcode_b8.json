@@ -1,0 +1,39 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.kidsthatcode.co/",
+        "title": "KidsThatCode: Kids Coding Classes in Lagos & Online",
+        "description": "Kidsthatcode(KTC) teaches kids aged 5-19 to code. Live classes in Lagos and online, school code clubs, hackathons and summer bootcamps.",
+        "position": 1
+      },
+      {
+        "url": "https://x.com/kidsthatcodeNG",
+        "title": "KidsThatCode (@kidsthatcodeNG) / X",
+        "description": "KidsThatCode. @kidsthatcodeNG. An initiative that encourages kids to start coding early| Learn.Create.Share.",
+        "position": 2
+      },
+      {
+        "url": "https://www.instagram.com/kidsthatcodeng/",
+        "title": "Kidsthatcode (@kidsthatcodeng) • Instagram photos and videos",
+        "description": "Coding and AI, taught inside your school timetable. Since 2018, Kidsthatcode has partnered with schools to run code clubs where students build real projects ...",
+        "position": 3
+      },
+      {
+        "url": "https://ng.linkedin.com/company/kidsthatcode",
+        "title": "Kidsthatcode",
+        "description": "About us ; Website: http://kidsthatcode.com.ng. External link for Kidsthatcode ; Industry: Education Administration Programs ; Company size: 2-10 employees.",
+        "position": 4
+      },
+      {
+        "url": "https://www.instagram.com/reel/DZ-deaJtSho/",
+        "title": "Meet @jastrupgeeky Founder and CEO of @kidsthatcodeng and a ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a2129c-6a89-76cd-9318-35209ac065b2"
+}

@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Come Again Foods",
+    "website": "https://comeagainfoods.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "NSIA Prize for Innovation 4.0 (1st Place Cash & Equity) + Cascador Impact Award ($5K)",
+    "amount": "$100K (+ $5K Cascador Impact Award)",
+    "announced_date": "2026-10-26",
+    "investors": "Nigeria Sovereign Investment Authority (NSIA), Cascador",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://businessday.ng/news/article/nsia-awards-275000-to-nigerian-startups-come-again-foods-leads-winners/",
+      "https://african-startups.com/countries/nigeria/nigerias-nsia-awards-220k-in-cash-and-equity-to-three-winners-of-its-prize-for-innovation-4-0/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/nsia_bd_b7.md",
+      "evidence/phase2/come_again_foods_70ca297135.md",
+      "evidence/phase1/hy_as_nsia_4.md"
+    ]
+  },
+  {
+    "name": "Harthio",
+    "website": "https://harthio.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Grant (Wema Bank Hackaholics 7.0 3rd Place Social Impact) / Micro-seed",
+    "amount": "NGN 20M (+ $1.5K-$2K Signalbase micro-seed)",
+    "announced_date": "2026-11-06",
+    "investors": "Wema Bank",
+    "hq_location": "Akure, Ondo State, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/startups/harthio",
+      "https://www.trysignalbase.com/news/funding/harthio-raises-2k-in-seed-funding"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/harthio_sl_b7.md",
+      "evidence/phase2/harthio_a74cb0eb65.md"
+    ]
+  },
+  {
+    "name": "HubPharm Africa",
+    "website": "https://hubpharmafrica.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Equity-free Grand Prize (2nd ECOWAS Startup Awards)",
+    "amount": "$30K",
+    "announced_date": "2026-10-02",
+    "investors": "ECOWAS Commission",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.ecowas.int/ecowas-celebrates-innovation-as-hubpharm-africa-wins-second-startup-awards/",
+      "https://www.trysignalbase.com/news/funding/hubpharm-africa-raises-30k-to-expand-specialty-pharmacy-access"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/hubpharm_ecowas_b7.md",
+      "evidence/phase2/hubpharm_africa_6287e52a2c.md",
+      "evidence/phase2/q_hubpharm_b7.json"
+    ]
+  },
+  {
+    "name": "Teazy Tech",
+    "website": "https://teazytech.online/",
+    "tier": "A",
+    "status": "VERIFIED",
+    "round_type_exact": "Pre-seed (Orange Corners Innovation Fund Cohort 14)",
+    "amount": "$11.3K ($11K)",
+    "announced_date": "2026-10-05",
+    "investors": "Orange Corners Innovation Fund (OCIF) / FATE Foundation / Kingdom of the Netherlands",
+    "hq_location": "Lekki, Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.trysignalbase.com/news/funding/teazy-tech-raises-11k-pre",
+      "https://www.f6s.com/company/teazy-tech",
+      "https://www.facebook.com/OrangeCornersNigeria/posts/introducing-orange-corners-nigeria-lagos-cohort-14-incubateesjoin-us-in-welcomin/1422486406572278/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/teazy_tech_e5e215e135.md",
+      "evidence/phase2/q_teazy_b7.json"
+    ]
+  },
+  {
+    "name": "Tryctor",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Equity-free Prize (NSIA Prize for Innovation 4.0 Demo Day / Wema Bank)",
+    "amount": "$4K",
+    "announced_date": "2026-10-24",
+    "investors": "Wema Bank / NSIA Prize for Innovation 4.0",
+    "hq_location": "Ilorin, Kwara State, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/tryctor-equity-free-prize-4000-usd-7b459b4",
+      "https://businessday.ng/news/article/nsia-awards-275000-to-nigerian-startups-come-again-foods-leads-winners/",
+      "https://www.startuplist.africa/startups/tryctor"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/tryctor_7e78672e24.md",
+      "evidence/phase2/nsia_bd_b7.md",
+      "evidence/phase2/tryctor_sl_b7.md"
+    ]
+  },
+  {
+    "name": "Eight Medical",
+    "website": "https://www.8medical.co/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Equity-free Prizes (Cascador Cash Prize $15K + Wema Bank $4K at NPI 4.0 Demo Day)",
+    "amount": "$19K",
+    "announced_date": "2026-10-24",
+    "investors": "Cascador, Wema Bank (earlier: Techstars '23, Catalyst Fund)",
+    "hq_location": "Ikate, Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/eight-medical-equity-free-prize-19k-usd-16b7cf9",
+      "https://businessday.ng/news/article/nsia-awards-275000-to-nigerian-startups-come-again-foods-leads-winners/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/eight_medical_428484505b.md",
+      "evidence/phase2/nsia_bd_b7.md",
+      "evidence/phase2/q_eight_medical_b7.json"
+    ]
+  },
+  {
+    "name": "Uwana Energy",
+    "website": "https://www.uwanaconnect.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Equity-free Prize (Cascador Cash Prize at NPI 4.0 Demo Day)",
+    "amount": "$15K",
+    "announced_date": "2026-10-24",
+    "investors": "Cascador",
+    "hq_location": "Ikoyi, Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/uwana-energy-equity-free-prize-5000-usd-fdf3554",
+      "https://businessday.ng/news/article/nsia-awards-275000-to-nigerian-startups-come-again-foods-leads-winners/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/uwana_energy_fb1d550273.md",
+      "evidence/phase2/nsia_bd_b7.md",
+      "evidence/phase2/q_uwana_b7.json"
+    ]
+  },
+  {
+    "name": "Zendtrax",
+    "website": "https://www.zendtrax.co/",
+    "tier": "A",
+    "status": "VERIFIED",
+    "round_type_exact": "Pre-seed (MARL Accelerator 14th Cohort SAFE)",
+    "amount": "$50K",
+    "announced_date": "2026-10-21",
+    "investors": "MARL Accelerator",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/zendtrax-accelerator-50k-usd-55e3060",
+      "https://www.trysignalbase.com/news/funding/zendtrax-raises-50k-in-pre-seed-round"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/zendtrax_fa93d49a2b.md",
+      "evidence/phase2/solarcorp_8da3a99eb5.md"
+    ]
+  },
+  {
+    "name": "Circool",
+    "website": "https://solarcorptech.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Duplicate of Solarcorp (Batch 6): circool_82cd494349.md and q_solarcorp.json confirm Circool is the app/product of Solarcorp on solarcorptech.com, referencing the identical MARL 14th-cohort $50K accelerator selection.",
+    "round_type_exact": "Accelerator ($50K MARL 14th Cohort - duplicate of Solarcorp)",
+    "amount": "$50K",
+    "announced_date": "2026-10-21",
+    "investors": "MARL Accelerator",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/circool-accelerator-50k-usd-6cc60d2"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/circool_82cd494349.md",
+      "evidence/phase2/q_solarcorp.json"
+    ]
+  },
+  {
+    "name": "Aktivate",
+    "website": "https://useaktivate.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Early-stage Investment (round unspecified; initial Fund I portfolio)",
+    "amount": "Not disclosed",
+    "announced_date": "2026-10-21",
+    "investors": "Aries Media Ventures (Fund I)",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/aktivate-investment-round-not-specified-undisclosed-59af6f8",
+      "https://african-startups.com/news/funding/aries-media-ventures-launches-debut-fund-for-african-mediatech-startups-backs-first-three-companies/",
+      "https://useaktivate.com/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/aktivate_e48764fbae.md",
+      "evidence/phase1/hy_as_aries_mediatech.md",
+      "evidence/phase2/q_aktivate_b7.json",
+      "evidence/phase2/q_aktivate_site_b7.json"
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.startuplist.africa/startups/protein-kapital",
+        "title": "Protein Kapital: Company Profile, Funding & Investors",
+        "description": "Protein Kapital has raised $70K across 1 round. The latest is a $70K Equity-free prize announced 24 Oct 2026. Who has invested in Protein ...",
+        "position": 1
+      },
+      {
+        "url": "https://www.caplight.com/company/proteinkapital",
+        "title": "Protein Kapital Valuation & Funding History",
+        "description": "Protein Kapital has raised $100000. Last round: Grant (Oct 2026). Based in Lagos. Founded in 2016. Funding history on Caplight.",
+        "position": 2
+      },
+      {
+        "url": "https://www.instagram.com/p/DfCESzJlsDG/",
+        "title": "Nigerian innovation is solving problems across food, healthcare ...",
+        "description": "$70,000. Insect-based protein and biofertilisers produced using organic waste. Instant Rad Inc — $50,000. AI-enabled ...",
+        "position": 3
+      },
+      {
+        "url": "https://insectindustryreport.com/protein-kapital-nsia-award/",
+        "title": "Protein Kapital Wins $70K NSIA Innovation Prize | IIR",
+        "description": "Protein Kapital wins a $70000 NSIA award for turning organic waste into insect protein and fertilizer through black soldier fly farming.",
+        "position": 4
+      },
+      {
+        "url": "https://www.instagram.com/reel/DaKlu_0oNBG/",
+        "title": "🇳🇬 Nigerian startups now have a chance to compete for major funding. ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a2134a-9685-777d-934d-22b0c1207d14"
+}

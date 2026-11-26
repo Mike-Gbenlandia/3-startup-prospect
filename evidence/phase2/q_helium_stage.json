@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://heliumhealth.com/announcing-helium-healths-30m-series-b/",
+        "title": "Announcing Helium Health's $30M Series B",
+        "description": "Announcing Helium Health's $30M Series B ... LAGOS, 5 June 2023 — Helium Health (the Company), a Lagos-headquartered healthtech company providing Software-as-a- ...",
+        "position": 1
+      },
+      {
+        "url": "https://www.foley.com/news/2023/06/foley-represents-helium-health-30m-series-b/",
+        "title": "June 7, 2023",
+        "description": "Foley & Lardner LLP recently represented Helium Health in securing its $30 million Series B funding round. Helium Health is a Nigerian provider of ...",
+        "position": 2
+      },
+      {
+        "url": "https://techcrunch.com/2023/06/05/helium-health-gets-30m-backed-by-axa-im-and-23andmes-anne-wojcicki/",
+        "title": "Helium Health gets $30M, backed ...",
+        "description": "... Series B funding. The news is coming three years after the Lagos-headquartered health tech secured a $10 million Series A ... Helium Health ...",
+        "position": 3
+      },
+      {
+        "url": "https://www.linkedin.com/pulse/issue-65-helium-health-secures-30-million-series-b-while-haul247",
+        "title": "Issue #65: Helium Health secures ...",
+        "description": "Helium Health, a Nigerian healthtech startup, has successfully raised $30 million in a Series B funding round led by AXA IM Alts. The round also ...",
+        "position": 4
+      },
+      {
+        "url": "https://www.crunchbase.com/funding_round/helium-healthcare-series-b--d115a5da",
+        "title": "Series B - Helium Health",
+        "description": "Series B - Helium Health · Overview · Lead Investors · Investors · Recent News.",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a21293-556a-720a-82f8-8dfed0399702"
+}

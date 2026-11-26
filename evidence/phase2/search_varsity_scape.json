@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.facebook.com/TechCabal/posts/data-entry-academy-a-lagos-based-edtech-platform-has-won-first-place-in-the-unit/1690197766448512/",
+        "title": "Data Entry Academy, a Lagos-based edtech platform, has won first place in ...",
+        "description": "Another Nigerian startup, Varsity Scape, placed sixth among the top 10 winners. Get full details at the link below https://techcabal.com/2026 ...",
+        "position": 1
+      },
+      {
+        "url": "https://www.linkedin.com/posts/techcabal_data-entry-academy-a-lagos-based-edtech-activity-7478824923038298112-Axzu",
+        "title": "Data Entry Academy Wins UNDP Get Ready 4 timbuktoo EdTech ...",
+        "description": "... Varsity Scape, placed sixth among the top 10 winners. Get full details at the link below https://lnkd.in/eCx2xFxQ.",
+        "position": 2
+      },
+      {
+        "url": "https://www.hadu.app/entities/undp",
+        "title": "Hadu - Africa Tech news, startups and discussions",
+        "description": "... 2026. Data ... timbuktoo EdTech accelerator. The startup received a $10,000 prize after competing against 1,429 applicants from across Africa. Varsity Scape ...",
+        "position": 3
+      },
+      {
+        "url": "https://www.ngmorningreport.com/p/nigerian-edtech-startup-wins-10000",
+        "title": "Nigerian edtech startup wins $10,000 UNDP prize, beating 1,429 applicants",
+        "description": "Another Nigerian startup, Varsity Scape, placed sixth among the top 10 winners. According to UNDP, the 2026 accelerator attracted 1,429 ...",
+        "position": 4
+      },
+      {
+        "url": "https://www.linkedin.com/posts/techparley-africa_techtrends-instagood-fyi-activity-7472664803057221632-ujaO",
+        "title": "Mastercard Foundation EdTech Fellowship Selects 13 Startups ...",
+        "description": "Another Nigerian startup, Varsity Scape, placed sixth among the top 10 winners. Get full details at the link below https://lnkd.in/eCx2xFxQ. No ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a2134a-e4d6-732d-b1f5-fb32dc794cb7"
+}

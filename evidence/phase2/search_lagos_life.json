@@ -1,0 +1,39 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.facebook.com/thecableng/posts/vatar-raises-500000-funding-for-lagos-life-game-nine-days-after-launchvatar-the-/1431011659215136/",
+        "title": "Vatar raises $500000 funding for Lagos Life game nine days after",
+        "description": "Atiku made the pledge in a post on Monday, October 26, 2026, following reports that Vatar, the company behind Lagos Life, had raised $500,000 in ...",
+        "position": 1
+      },
+      {
+        "url": "https://www.startupresearcher.com/news/lagos-life-creator-vatar-closes-usd500-000-angel-round-at-usd10-million-valuation",
+        "title": "Lagos Life Creator Vatar Raises $500K Angel Round at $10M",
+        "description": "Lagos Life creator Vatar closed a $500000 angel round at a $10 million valuation days after launch, backed by Flutterwave CEO GB Agboola.",
+        "position": 2
+      },
+      {
+        "url": "https://www.instagram.com/p/DeRoOBXjUij/",
+        "title": "Vatar, the Nigerian company behind the viral browser-based game Lagos ...",
+        "description": "Vatar, the parent company behind viral browser game Lagos Life, has raised a $500,000 angel round led by AB Hassan of Mono, Nathan Nwachuku of ...",
+        "position": 3
+      },
+      {
+        "url": "https://www.vanguardngr.com/2026/10/atiku-pledges-gaming-support-after-lagos-life-raises-500000/",
+        "title": "Atiku pledges gaming support after Lagos Life raises $500000",
+        "description": "His comments followed a report by TechCabal that Vatar Inc., the company behind Lagos Life, had secured $500,000 in an angel funding round at a ...",
+        "position": 4
+      },
+      {
+        "url": "https://www.instagram.com/p/DfZU_ICID_r/",
+        "title": "AFRICAN TECH STARTUPS ARE BUILDING PRODUCTS WITH ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a2134a-7dbd-721e-9ec2-c06d38d685f4"
+}

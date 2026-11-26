@@ -1,0 +1,39 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://pewbeam.com/",
+        "title": "Pewbeam: AI Church Presentation Software & Sermon App",
+        "description": "# Keep your church engaged  all week long\nPewbeam is an AI agent that puts the right Scripture, lyrics, and slides on screen at the right moment, and Pewnote helps your members take the sermon home.\n\nPewbeam – Interactive main page\n\nPewbeam\n\n## Preview\nPewbeam\n\nPewbeam – Interactive main page\n\nPewbeam\n\nPewbeam\n\n## One message, from the service to the week ahead\n### Carry the message beyond Sunday\n- [Gift Pewbeam](https://pewbeam.com/gift)",
+        "position": 1
+      },
+      {
+        "url": "https://www.instagram.com/reel/DQjsD60j3Rp/?hl=en",
+        "title": "Nigerian developers are reimagining how the church and technology can ...",
+        "position": 2
+      },
+      {
+        "url": "https://pewbeam.com/blog",
+        "title": "Church Presentation & Worship Tech Blog",
+        "description": "See how Pewbeam uses AI to detect scripture, manage presentations, generate slides, and make church services more seamless. 6MINS READ. Blog.png. 5 Best Church ...",
+        "position": 3
+      },
+      {
+        "url": "https://x.com/pewbeam_ai?lang=en",
+        "title": "Pewbeam (@pewbeam_ai) / X",
+        "description": "Reintroducing Pewbeam Slides. You can now create beautifully designed slides for your church in seconds, without starting from scratch. Just type what you want, ...",
+        "position": 4
+      },
+      {
+        "url": "https://www.africaisbuilding.com/products/pewbeam",
+        "title": "Pewbeam | Africa Is Building",
+        "description": "Pewbeam is AI-powered church presentation software built in Ibadan by Dára Sobaloju. It listens as a pastor speaks, understands direct ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a212a3-7460-70fd-a578-7a464c9a68ea"
+}

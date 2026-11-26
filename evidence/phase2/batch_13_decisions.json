@@ -1,0 +1,203 @@
+[
+  {
+    "name": "Efiwe",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Equity-free Grant (Mastercard Foundation EdTech Fellowship Cohort 4)",
+    "amount": "Up to $100K",
+    "announced_date": "2026-08-04",
+    "investors": "CcHUB, Mastercard Foundation",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/efiwe-grant-100k-usd-413e53d",
+      "https://cchub.africa/the-mastercard-foundation-edtech-fellowship-backs-12-early-stage-nigerian-startups-advancing-inclusive-education-through-innovation-and-evidence/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/efiwe_1bb179f28d.md",
+      "evidence/phase1/hy_cchub_edtech_12.md"
+    ]
+  },
+  {
+    "name": "Talktu",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Equity-free Grant (Mastercard Foundation EdTech Fellowship Cohort 4)",
+    "amount": "Up to $100K",
+    "announced_date": "2026-08-04",
+    "investors": "CcHUB, Mastercard Foundation",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/talktu-grant-100k-usd-75ee33f",
+      "https://cchub.africa/the-mastercard-foundation-edtech-fellowship-backs-12-early-stage-nigerian-startups-advancing-inclusive-education-through-innovation-and-evidence/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/talktu_ad55227026.md",
+      "evidence/phase1/hy_cchub_edtech_12.md"
+    ]
+  },
+  {
+    "name": "Noma Services",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Pure debt financing ($650k working capital and capex loan from Sahel Capital SEFAA, 2026-07-14).",
+    "round_type_exact": "Debt Financing (Working Capital & Capex Loan)",
+    "amount": "$650K",
+    "announced_date": "2026-07-14",
+    "investors": "Sahel Capital (SEFAA)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://african-startups.com/news/funding/nigerian-agribusiness-noma-services-secures-650k-working-capital-and-capex-loan/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/noma_services_bd8bc629db.md"
+    ]
+  },
+  {
+    "name": "Choppaddi",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Grant (Stellar Community Fund #44 Build Award)",
+    "amount": "$80K",
+    "announced_date": "2026-07-24",
+    "investors": "Stellar Community Fund",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/choppaddi-grant-80k-usd-3cfb4cb",
+      "https://dealroom.co/news/145916-six-nigerian-startups-win-521-700-in-stellar-grants-led-by-yolats-110k"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/choppaddi_ba1ec8030d.md",
+      "evidence/phase2/scf44_dealroom_8584237347.md"
+    ]
+  },
+  {
+    "name": "Yolat",
+    "website": "https://www.yolat.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Grant (Stellar Community Fund #44 Build Award)",
+    "amount": "$110K",
+    "announced_date": "2026-07-24",
+    "investors": "Stellar Community Fund",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/yolat-grant-110k-usd-29f71fb",
+      "https://dealroom.co/news/145916-six-nigerian-startups-win-521-700-in-stellar-grants-led-by-yolats-110k"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/yolat_a7160b14c3.md",
+      "evidence/phase2/scf44_dealroom_8584237347.md"
+    ]
+  },
+  {
+    "name": "Blink Labs",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Grant (Stellar Community Fund #44 Build Award)",
+    "amount": "$75K",
+    "announced_date": "2026-07-24",
+    "investors": "Stellar Community Fund",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/blink-labs-grant-75k-usd-528abd3",
+      "https://dealroom.co/news/145916-six-nigerian-startups-win-521-700-in-stellar-grants-led-by-yolats-110k"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/blink_labs_d6d8bc05c2.md",
+      "evidence/phase2/scf44_dealroom_8584237347.md"
+    ]
+  },
+  {
+    "name": "Jumpa",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Grant (Stellar Community Fund #44 Build Award)",
+    "amount": "$89.7K",
+    "announced_date": "2026-07-24",
+    "investors": "Stellar Community Fund",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/jumpa-grant-89-7k-usd-015f1a4",
+      "https://dealroom.co/news/145916-six-nigerian-startups-win-521-700-in-stellar-grants-led-by-yolats-110k"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/jumpa_6abe705c87.md",
+      "evidence/phase2/scf44_dealroom_8584237347.md"
+    ]
+  },
+  {
+    "name": "useazza",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Grant (Stellar Community Fund #44 Build Award)",
+    "amount": "$89K",
+    "announced_date": "2026-07-24",
+    "investors": "Stellar Community Fund",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/useazza-grant-89k-usd-b17cb26",
+      "https://dealroom.co/news/145916-six-nigerian-startups-win-521-700-in-stellar-grants-led-by-yolats-110k"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/useazza_d6a81effaf.md",
+      "evidence/phase2/scf44_dealroom_8584237347.md"
+    ]
+  },
+  {
+    "name": "Paycashless",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Grant (Stellar Community Fund #44 Build Award)",
+    "amount": "$78K",
+    "announced_date": "2026-07-24",
+    "investors": "Stellar Community Fund",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/paycashless-grant-78k-usd-3fe4c9d",
+      "https://dealroom.co/news/145916-six-nigerian-startups-win-521-700-in-stellar-grants-led-by-yolats-110k"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/paycashless_sl_94a86de0e3.md",
+      "evidence/phase2/scf44_dealroom_8584237347.md"
+    ]
+  },
+  {
+    "name": "Codar Tech Africa",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Equity + Debt Funding Round",
+    "amount": "$1.5M",
+    "announced_date": "2026-07-17",
+    "investors": "KWE4 Africa Venture Studio",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/codar-tech-africa-funding-round-1-5m-usd-9109041",
+      "https://techcabal.com/2026/07/17/codar-raises-1-5-million-to-expand-ai-education-across-africa/",
+      "https://empowerafrica.com/codar-raises-1-5-million-to-expand-ai-and-digital-skills-training-across-africa/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/codar_tech_africa_55adc3b339.md",
+      "evidence/phase2/codar_tc_edc70a6164.md",
+      "evidence/phase2/codar_emp_393e1b59f6.md"
+    ]
+  }
+]

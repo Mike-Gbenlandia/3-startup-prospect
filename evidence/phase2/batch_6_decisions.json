@@ -1,0 +1,209 @@
+[
+  {
+    "name": "Solarcorp",
+    "website": "https://solarcorptech.com/",
+    "tier": "A",
+    "status": "VERIFIED",
+    "round_type_exact": "Pre-seed (MARL Accelerator 14th Cohort SAFE)",
+    "amount": "$50K",
+    "announced_date": "2026-10-30",
+    "investors": "MARL Accelerator",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://www.trysignalbase.com/news/funding/zendtrax-raises-50k-in-pre-seed-round",
+      "https://solarcorptech.com/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/solarcorp_8da3a99eb5.md",
+      "evidence/phase2/q_solarcorp.json",
+      "evidence/phase2/q_bravoo.json"
+    ]
+  },
+  {
+    "name": "Bravoo",
+    "website": "https://app.joinbravoo.com/",
+    "tier": "A",
+    "status": "VERIFIED",
+    "round_type_exact": "Pre-seed (MARL Accelerator 14th Cohort SAFE)",
+    "amount": "$50K",
+    "announced_date": "2026-10-30",
+    "investors": "MARL Accelerator",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.trysignalbase.com/news/funding/zendtrax-raises-50k-in-pre-seed-round",
+      "https://marlvc.com/portfolio/bravoo/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/solarcorp_8da3a99eb5.md",
+      "evidence/phase2/bravoo_marl.md",
+      "evidence/phase2/q_bravoo.json"
+    ]
+  },
+  {
+    "name": "Pullus",
+    "website": "https://pullusafrica.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Oct 30, 2026 announcement is undisclosed working-capital trade finance debt to buy poultry inventory; earlier $500K pre-seed was announced 2026-06-30 (prior to 2026-07-01 window) and backed by Acumen, elea, Livelihood Impact Fund, and Mulago.",
+    "round_type_exact": "Debt Financing (working capital trade finance) / Prior Pre-seed (2026-06-30)",
+    "amount": "Not disclosed",
+    "announced_date": "2026-10-30",
+    "investors": "Undisclosed debt provider (earlier: Acumen, elea, Livelihood Impact Fund, Mulago)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://african-startups.com/countries/nigeria/pullus-gets-first-debt-financing-to-buy-poultry-from-nigerian-smallholder-farmers/",
+      "https://www.trysignalbase.com/news/funding/pullus-africa-raises-500k-pre"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/pullus_3b6d4a7889.md",
+      "evidence/phase2/pullus_sb.md",
+      "evidence/phase2/q_pullus_stage.json"
+    ]
+  },
+  {
+    "name": "KrosAI",
+    "website": "https://krosai.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "iDICE Startup Bridge Growth Lab Equity ($100K, 2026-11-23) & Early Funding Round ($135K incl. INSEAD AI Venture Lab, 2026-10-29)",
+    "amount": "$100K + $135K",
+    "announced_date": "2026-11-23",
+    "investors": "Bank of Industry (BOI) / iDICE Startup Bridge; INSEAD AI Venture Lab, MARL Accelerator, Microsoft for Startups, NVIDIA Inception, Draper University",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://weetracker.com/2026/11/23/8-nigerian-startups-get-800000-idice-growth-lab/",
+      "https://weetracker.com/2026/11/04/krosai-raises-135k-ai-voice-infrastructure-africa",
+      "https://fireround.dev/companies/krosai"
+    ],
+    "evidence_paths": [
+      "evidence/phase1/hy_weetracker_idice_8.md",
+      "evidence/phase2/krosai_wt.md",
+      "evidence/phase2/krosai_6d365197ab.md"
+    ]
+  },
+  {
+    "name": "Okra Solar",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Raised $12M Series A in 2023 (excluded per Series A+ rule); founded in 2016 (Australian-founded); Oct 2026 $7M BII commitment is a working-capital debt facility.",
+    "round_type_exact": "Debt Financing ($7M BII facility) / Prior Series A ($12M, 2023)",
+    "amount": "$7M",
+    "announced_date": "2026-10-29",
+    "investors": "British International Investment (BII)",
+    "hq_location": "Australia-founded / Nigeria ops",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/okra-solar-debt-financing-7m-usd-61254cf",
+      "https://launchbaseafrica.com/2026/10/29/okra-solar/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/okra_solar_a1c05ea59d.md",
+      "evidence/phase2/okra_lb.md"
+    ]
+  },
+  {
+    "name": "Talent Nation",
+    "website": "https://trials.learn2earn.ng/login",
+    "tier": "A",
+    "status": "VERIFIED",
+    "round_type_exact": "Pre-seed",
+    "amount": "Not disclosed",
+    "announced_date": "2026-10-28",
+    "investors": "Enza Capital (co-lead), LocalGlobe (co-lead), Future Africa, Kaleo Ventures, Ajim Capital, Solving.org, Accelerate Africa",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/talent-nation-pre-seed-undisclosed-eb43a81",
+      "https://disruptafrica.com/2026/10/30/aboyeji-backed-ai-engineering-talent-platform-talent-nation-raises-pre-seed-funding/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/talent_nation_25a2762990.md",
+      "evidence/phase2/talent_nation_da.md"
+    ]
+  },
+  {
+    "name": "Maliyo Games",
+    "website": "https://www.maliyo.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Non-dilutive Grant (Google Play Indie Games Fund Africa 2026)",
+    "amount": "Not disclosed ($1M total fund across 10 studios)",
+    "announced_date": "2026-10-28",
+    "investors": "Google Play / Google",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/maliyo-games-grant-undisclosed-9c7899a",
+      "https://african-startups.com/news/funding/meet-the-10-african-gaming-studios-selected-for-google-plays-1-million-indie-games-fund/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/maliyo_games_9f6caa369a.md",
+      "evidence/phase1/hy_as_google_indie_games.md"
+    ]
+  },
+  {
+    "name": "Gazuntype",
+    "website": "https://gazuntype.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Non-dilutive Grant (Google Play Indie Games Fund Africa 2026)",
+    "amount": "Not disclosed ($1M total fund across 10 studios)",
+    "announced_date": "2026-10-28",
+    "investors": "Google Play / Google",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/gazuntype-grant-undisclosed-2826c91",
+      "https://african-startups.com/news/funding/meet-the-10-african-gaming-studios-selected-for-google-plays-1-million-indie-games-fund/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/gazuntype_d8aed51966.md",
+      "evidence/phase1/hy_as_google_indie_games.md"
+    ]
+  },
+  {
+    "name": "Fer Factor",
+    "website": "https://ferfactor.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Non-dilutive Grant (Google Play Indie Games Fund Africa 2026)",
+    "amount": "Not disclosed ($1M total fund across 10 studios)",
+    "announced_date": "2026-10-28",
+    "investors": "Google Play / Google",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/fer-factor-grant-undisclosed-ed25f85",
+      "https://african-startups.com/news/funding/meet-the-10-african-gaming-studios-selected-for-google-plays-1-million-indie-games-fund/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/fer_factor_9003517b61.md",
+      "evidence/phase1/hy_as_google_indie_games.md"
+    ]
+  },
+  {
+    "name": "Deluxe Entertainment Studios",
+    "website": "https://www.deluxecreation.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Non-dilutive Grant (Google Play Indie Games Fund Africa 2026)",
+    "amount": "Not disclosed ($1M total fund across 10 studios)",
+    "announced_date": "2026-10-28",
+    "investors": "Google Play / Google",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/deluxe-entertainment-studios-grant-undisclosed-4568457",
+      "https://african-startups.com/news/funding/meet-the-10-african-gaming-studios-selected-for-google-plays-1-million-indie-games-fund/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/deluxe_entertainment_studios_a4c6e7965d.md",
+      "evidence/phase1/hy_as_google_indie_games.md"
+    ]
+  }
+]

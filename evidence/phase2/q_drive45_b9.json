@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.linkedin.com/posts/africanstartupmetrics_africanstartupmetrics-drive45-mobility-activity-7505160032188133376-Oagv",
+        "title": "African Startup Metrics' Post",
+        "description": "Drive45 Mobility Limited Secures $3 Million to Expand Corporate Mobility Across Nigeria Drive45 Mobility Limited is scaling beyond Lagos and it is targeting ...",
+        "position": 1
+      },
+      {
+        "url": "https://www.facebook.com/afcdigest/posts/tlg-capitals-agif-ii-is-providing-drive45-mobility-limited-the-lagos-based-corpo/1706058021526497/",
+        "title": "TLG Capital's AGIF II is providing Drive45 Mobility Limited, the ...",
+        "description": "TLG Capital's AGIF II is providing Drive45 Mobility Limited, the Lagos-based corporate mobility provider, with a senior debt facility with a 5-year tenor...",
+        "position": 2
+      },
+      {
+        "url": "https://www.instagram.com/p/DdgR5zxoMkz/",
+        "title": "Nigerian mobility startup Drive45 Mobility has closed a $3 million ...",
+        "description": "Nigeria's mobility startup scene just got another major funding boost. Drive45 Mobility has secured a $3 million senior debt facility from TLG ...",
+        "position": 3
+      },
+      {
+        "url": "https://www.wearetech.africa/en/fils-uk/brief/brief-simple/nigeria-s-drive45-mobility-raises-3-million-to-expand-vehicle-fleet",
+        "title": "Nigeria's Drive45 Mobility Raises $3 Million to Expand Vehicle Fleet",
+        "description": "Nigerian company Drive45 Mobility has secured $3 million in financing from TLG Capital. The company offers a vehicle subscription service with an option to ...",
+        "position": 4
+      },
+      {
+        "url": "https://www.crunchbase.com/organization/drive45",
+        "title": "Drive45 - Crunchbase Company Profile & Funding",
+        "description": "Where is Drive45 's headquarters? Drive45 is located in Lagos, Lagos, Nigeria . Who invested in Drive45 ? Drive45 has 2 investors including TLG Capital and ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a2129e-47bf-74de-a83e-b2e455fa7c73"
+}

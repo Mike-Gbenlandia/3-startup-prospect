@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://fsdafrica.org/3-nigerian-tech-startups-secure-600000-in-pre-seed-from-catalyst-fund/",
+        "title": "3 Nigerian tech startups secure $600000 in pre-seed from Catalyst ...",
+        "description": "Three Nigerian tech startups, PaddyCover, Farmz2U, and Eight Medical, have secured a total of $600,000 from pre-seed venture capital and ...",
+        "position": 1
+      },
+      {
+        "url": "https://mohacafrica.org/startup-funding-opportunities-for-africans/",
+        "title": "Startup Funding Opportunities for Africans Between 2025–2026",
+        "description": "African startups raised between $597 million and $705 million in Q1 2026 alone, representing a 27% year-on-year increase over Q1 2025, according ...",
+        "position": 2
+      },
+      {
+        "url": "https://www.facebook.com/Nairametrics/posts/african-startups-seeking-pre-seed-funding-have-been-advised-to-set-more-realisti/1538759514962670/",
+        "title": "African startups seeking pre seed funding have been advised to set ...",
+        "description": "Flutterwave (Nigeria) raised multiple rounds, including $250 million at a $3 billion+ valuation, making it one of Africa's highest-valued ...",
+        "position": 3
+      },
+      {
+        "url": "https://www.techinafrica.com/african-startup-funding-crosses-2-billion-in-2026/",
+        "title": "African startup funding crosses $2 billion in 2026",
+        "description": "African startups have raised more than $2 billion in 2026, excluding exits, reaching the milestone several months earlier than last year.",
+        "position": 4
+      },
+      {
+        "url": "https://incubatorlist.com/top-vcs-in-nigeria",
+        "title": "Top VCs & Startup Programs in Nigeria (2026) — Open Deadlines & Funding",
+        "description": "# VCs and Startup Programs in Nigeria (2026)\n## 54 VCs found\n### Emergence Capital\nStage: Seed, Pre-Seed +6.\n\nSeed, Pre-Seed +6\n\n### Future Africa\nStage: Pre-Seed, Seed +1.\n\nPre-Seed, Seed +1\n\n### ODBA\nPre-Seed, Seed +1",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a20e0a-e7c3-7479-83ec-69ebc142b32c"
+}

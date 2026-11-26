@@ -1,0 +1,75 @@
+[Skip to content](https://techclout.africa/protegey-fraud-detection-african-banks/#main)
+
+[Facebook](http://facebook.com/techcloutafrica)[Linkedin](http://www.linkedin.com/company/techcloutafrica)[Instagram](http://www.instagram.com/techcloutafrica)[X-twitter](http://www.x.com/techcloutafrica)[Tiktok](http://www.tiktok.com/@techclout.africa)[Threads](http://thread.com/techcloutafrica)
+
+## Recent Posts
+
+### [NDPC Warns Nigerian Businesses Over Critical Data Protection Officer Failures](https://techclout.africa/ndpc-warns-nigerian-businesses/)
+
+November 24, 2026
+No Comments
+
+### [Nigeria Data Protection Sector Targets 500,000 New Jobs](https://techclout.africa/nigeria-data-protection-jobs/)
+
+November 24, 2026
+No Comments
+
+### [Africa Tech Festival 2026: 6 Major Trends Shaping Africa’s Digital Future](https://techclout.africa/africa-tech-festival-2026/)
+
+November 24, 2026
+No Comments
+
+### [South African Robotics Startup Lupa Robotics Raises $1.67 Million in Major Funding Boost](https://techclout.africa/south-african-robotics-startup/)
+
+November 24, 2026
+No Comments
+
+### [Nvidia Reinstates Jensen Huang as CEO in a Successful Leadership Comeback](https://techclout.africa/nvidia-reinstates-jensen-huang-ceo/)
+
+November 23, 2026
+No Comments
+
+### [MTN Telkom Acquisition Talks Signal Major Shift in South Africa’s Telecom Market](https://techclout.africa/mtn-telkom-acquisition-south-africa/)
+
+November 23, 2026
+No Comments
+
+# PROTEGEY Fraud Detection Targets African Financial Institutions With Powerful AI Tools in 2026
+
+By Nathaniel Ike \|\|
+
+November 17, 2026
+
+![](https://techclout.africa/wp-content/uploads/2026/11/IMG_6038.jpeg)
+
+PROTEGEY is developing AI-powered fraud detection and compliance tools for African banks and fintech companies after securing pre-seed funding from LvlUp Ventures and angel investors.
+
+PROTEGEY fraud detection is gaining attention as the African fintech startup develops artificial intelligence-powered tools to help banks, payment providers and other financial institutions identify suspicious activities and strengthen regulatory compliance.
+
+The company has secured pre-seed funding from LvlUp Ventures and angel investors to support the development and expansion of its fraud intelligence and compliance platform. The amount raised has not been publicly disclosed.
+
+Founded by Chief Executive Officer Amadou Diallo and Chief Technology Officer Ndeme Yvan, PROTEGEY is building technology that brings fraud prevention, identity verification, risk management and compliance functions into one platform. Its goal is to help financial institutions respond to threats that can move across different services, rather than relying only on information held within their own systems.
+
+Fraud remains a challenge for Africa’s expanding digital finance sector. As mobile money services, digital banks and online payment platforms reach more customers, criminals have more channels through which to attempt identity theft, account takeovers and suspicious transactions. These activities can involve several institutions, making it difficult for one organisation to see the full pattern.
+
+PROTEGEY fraud detection is designed to address this visibility gap through a shared fraud intelligence network. The platform aims to help participating institutions exchange relevant signals about suspicious activities without exposing customers’ raw personal data to one another. This could give banks and fintech companies a broader view of potential threats while supporting responsible data handling.
+
+The PROTEGEY fraud detection platform is also designed to support several operational needs. Its tools are intended to cover transaction monitoring, account protection and identity verification. Its compliance offering also covers areas such as anti-money laundering checks, sanctions screening, politically exposed person screening and suspicious activity reporting.
+
+For financial institutions, the value of PROTEGEY fraud detection will depend on how effectively its tools identify patterns that might otherwise go unnoticed. A suspicious transaction at one provider, for example, may be connected to activity reported by another institution. Shared intelligence could help participating organisations identify those links earlier and make better-informed decisions.
+
+The platform is aimed at a range of organisations across the financial ecosystem, including commercial and digital banks, mobile money operators, fintech companies, payment processors and regulators. These organisations have different operational needs, but all face pressure to protect customers, reduce financial losses and meet regulatory expectations.
+
+Beyond individual alerts, PROTEGEY fraud detection is intended to make collaboration between institutions more useful. The startup’s approach also reflects a wider shift in African fintech. As the sector matures, investment is extending beyond consumer-facing payment products to the infrastructure that supports trust, security and compliance.
+
+Tools for fraud monitoring, identity checks and risk management are becoming increasingly important as digital transactions grow. This creates an opportunity for companies developing technology that helps financial institutions manage security risks more effectively.
+
+The new funding gives PROTEGEY additional backing as it develops its product and pursues opportunities in African markets. However, the company has not publicly confirmed the amount raised or announced a detailed country-by-country expansion schedule. Its ability to establish partnerships with financial institutions will be an important factor in determining how widely the platform is adopted.
+
+PROTEGEY [fraud detection](https://techclout.africa/tech-news/) will also have to demonstrate that its shared intelligence model can work across different institutions, technologies and regulatory environments. Building confidence among potential partners, protecting sensitive information and delivering reliable alerts will be central to its progress.
+
+For now, the startup is positioning PROTEGEY fraud detection as a way for financial institutions to move beyond isolated fraud monitoring systems and work with a wider pool of relevant intelligence. If the model proves effective, it could offer banks and fintech companies another tool for identifying threats in an increasingly connected financial environment.
+
+As Africa’s digital finance ecosystem continues to expand, stronger fraud prevention and compliance capabilities are becoming essential to sustainable growth
+
+[Scroll to Top](https://techclout.africa/protegey-fraud-detection-african-banks/# "Scroll to Top")

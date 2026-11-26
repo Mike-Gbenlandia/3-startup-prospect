@@ -1,0 +1,201 @@
+[
+  {
+    "name": "SavvyBee",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "iDICE Startup Bridge Growth Lab Equity",
+    "amount": "$100K",
+    "announced_date": "2026-11-19",
+    "investors": "Bank of Industry (BOI) / iDICE Startup Bridge (AfDB, AFD, IsDB)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/savvybee-equity-investment-100k-usd-e237502",
+      "https://weetracker.com/2026/11/23/8-nigerian-startups-get-800000-idice-growth-lab/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/savvybee_1bbd207139.md",
+      "evidence/phase1/hy_weetracker_idice_8.md"
+    ]
+  },
+  {
+    "name": "Vantrace",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "iDICE Startup Bridge Growth Lab Equity",
+    "amount": "$100K",
+    "announced_date": "2026-11-19",
+    "investors": "Bank of Industry (BOI) / iDICE Startup Bridge (AfDB, AFD, IsDB)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/vantrace-equity-investment-100k-usd-776acf7",
+      "https://weetracker.com/2026/11/23/8-nigerian-startups-get-800000-idice-growth-lab/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/vantrace_f130a7db5c.md",
+      "evidence/phase1/hy_weetracker_idice_8.md"
+    ]
+  },
+  {
+    "name": "360GadgetsAfrica",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "iDICE Startup Bridge Growth Lab Equity",
+    "amount": "$100K",
+    "announced_date": "2026-11-19",
+    "investors": "Bank of Industry (BOI) / iDICE Startup Bridge (AfDB, AFD, IsDB)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/360gadgetsafrica-equity-investment-100k-usd-1c19c45",
+      "https://weetracker.com/2026/11/23/8-nigerian-startups-get-800000-idice-growth-lab/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/360gadgetsafrica_aa6cb63ecd.md",
+      "evidence/phase1/hy_weetracker_idice_8.md"
+    ]
+  },
+  {
+    "name": "GoDash",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "iDICE Startup Bridge Growth Lab Equity",
+    "amount": "$100K",
+    "announced_date": "2026-11-19",
+    "investors": "Bank of Industry (BOI) / iDICE Startup Bridge (AfDB, AFD, IsDB)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/godash-equity-investment-100k-usd-3c20a0d",
+      "https://weetracker.com/2026/11/23/8-nigerian-startups-get-800000-idice-growth-lab/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/godash_6410fa9d9a.md",
+      "evidence/phase1/hy_weetracker_idice_8.md"
+    ]
+  },
+  {
+    "name": "Brimble",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Angel",
+    "amount": "$15K",
+    "announced_date": "2026-11-19",
+    "investors": "Ayomide Oyekanmi",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/brimble-angel-15k-usd-6606092"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/brimble_201caca46a.md"
+    ]
+  },
+  {
+    "name": "Lenol",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "iDICE Startup Bridge Growth Lab Equity",
+    "amount": "$100K",
+    "announced_date": "2026-11-19",
+    "investors": "Bank of Industry (BOI) / iDICE Startup Bridge (AfDB, AFD, IsDB)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/lenol-equity-investment-100k-usd-21e9d21",
+      "https://weetracker.com/2026/11/23/8-nigerian-startups-get-800000-idice-growth-lab/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/lenol_810f52a23c.md",
+      "evidence/phase1/hy_weetracker_idice_8.md"
+    ]
+  },
+  {
+    "name": "Khaime",
+    "website": "https://khaime.com/",
+    "tier": "A",
+    "status": "VERIFIED",
+    "round_type_exact": "Pre-seed",
+    "amount": "$500K",
+    "announced_date": "2026-11-16",
+    "investors": "Launch Africa Ventures (lead), angel investors",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://fireround.dev/companies/khaime",
+      "https://african-startups.com/news/funding/khaime-raises-500k-pre-seed-to-build-commerce-infrastructure-for-ai-agents/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/khaime_838dd3c689.md"
+    ]
+  },
+  {
+    "name": "Vibe Jungle",
+    "website": "https://www.vibejungle.ai/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Founder-led funding round (early undisclosed package)",
+    "amount": "$400K",
+    "announced_date": "2026-11-16",
+    "investors": "Founder-led (undisclosed)",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://fireround.dev/companies/vibe-jungle",
+      "https://african-startups.com/news/funding/vibe-jungle-raises-400k-to-lower-production-costs-for-african-creators/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/vibe_jungle_2253e8b272.md",
+      "evidence/phase2/vibe_jungle_article_48cd48bf34.md"
+    ]
+  },
+  {
+    "name": "Storipod",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Early undisclosed investment",
+    "amount": "Not disclosed",
+    "announced_date": "2026-11-16",
+    "investors": "The FourthMainland Fund (Chude Jideonwo)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/storipod-undisclosed-investment-undisclosed-022fe5d"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/storipod_76368090c8.md"
+    ]
+  },
+  {
+    "name": "PROTEGEY",
+    "website": "https://www.protegey.com/en",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Not headquartered or primarily operating in Nigeria (LinkedIn HQ Newark, Delaware; product targets Francophone West/Central Africa GIM-UEMOA/GIMAC; founders Amadou Diallo & Yvan Ndeme)",
+    "round_type_exact": "Pre-seed",
+    "amount": "Not disclosed",
+    "announced_date": "2026-11-16",
+    "investors": "LvlUp Ventures, angel investors",
+    "hq_location": "Newark, Delaware / Francophone Africa",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://weetracker.com/2026/11/16/protegey-secures-pre-seed-funding-lvlup-ventures/",
+      "https://techclout.africa/protegey-fraud-detection-african-banks/",
+      "https://www.protegey.com/en"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/protegey_f41ae09869.md",
+      "evidence/phase2/protegey_techclout.md",
+      "evidence/phase2/protegey_hq_search2.json",
+      "evidence/phase2/protegey_site_81f3d48662.md"
+    ]
+  }
+]

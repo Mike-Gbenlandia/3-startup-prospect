@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://techcrunch.com/2022/08/18/paris-based-koolboks-closes-2-5m-seed-round-to-scale-solar-refrigeration-across-africa/",
+        "title": "Koolboks' $2.5M seed round to scale solar refrigeration across Africa",
+        "description": "Paris-based Koolboks closes $2.5M seed round to scale solar refrigeration across Africa.",
+        "position": 1
+      },
+      {
+        "url": "https://www.linkedin.com/posts/africa-private-equity-news-team-761875161_koolboks-an-africa-focused-renewable-energy-activity-7369735873887723520-zERR",
+        "title": "Koolboks raises $11m in Series A, backed by KawiSafi Ventures and ...",
+        "description": "... Series A funding round. Lead investors were KawiSafi Ventures and Aruwa Capital Management, which also led Koolboks' seed round in November ...",
+        "position": 2
+      },
+      {
+        "url": "https://www.africaprivateequitynews.com/p/refrigeration-company-raises-11m",
+        "title": "Refrigeration company raises $11m from Aruwa Capital, KawiSafi ...",
+        "description": "... Series A funding round. Lead investors were KawiSafi Ventures and Aruwa Capital, which also led Koolboks' seed round in November 2021.",
+        "position": 3
+      },
+      {
+        "url": "https://tracxn.com/d/companies/koolboks/__I_h425vYtWjZ13n8HMsEsayb1awLhLtGTtcY02izsxs",
+        "title": "Koolboks - 2026 Company Profile, Funding, Competitors & Financials",
+        "description": "All On Invests in Koolboks' $11m Series A for Clean Cooling in Nigeria ... Paris-based Koolboks closes $2.5M seed round to scale solar refrigeration ...",
+        "position": 4
+      },
+      {
+        "url": "https://empowerafrica.com/solar-startup-koolboks-raises-11-million-in-series-a-to-power-africas-cooling-revolution/",
+        "title": "Solar Startup Koolboks Raises $11 Million in Series A to Power Africa's ...",
+        "description": "... Series A ... seed round—with FFEM and Bpifrance supplying debt financing as part of the mix. Supplementing this equity and debt funding, Koolboks ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a21293-732a-7603-8e72-56c4c957e44b"
+}

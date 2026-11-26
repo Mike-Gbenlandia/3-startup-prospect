@@ -1,0 +1,722 @@
+Happily Authenticated! ×
+
+- [Features](https://techcabal.com/category/features/)
+
+
+
+# Nigeria’s petrol three-wheelers are going electric—with batteries powered by diesel
+
+
+
+
+
+By
+
+
+
+[Muktar Oladunmade](https://techcabal.com/author/muktar/)
+
+
+
+
+
+30th Jul, 2026
+
+
+
+
+
+[![Google](https://www.gstatic.com/images/branding/product/1x/googleg_32dp.png)Get TC updates in your Newsfeed](https://www.google.com/preferences/source?q=techcabal.com)
+
+
+
+
+
+[![Nigeria’s petrol three-wheelers are going electric—with batteries powered by diesel](https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/07/2-1.png)](https://techcabal.com/2026/07/30/nigerias-petrol-three-wheelers-are-going-electric-with-batteries/) _A Swap technician swapping batteries for a keke. Image Source: Wunmi Eunice/TechCabal_
+
+
+
+
+
+
+
+
+
+
+
+
+
+Share
+
+
+
+
+
+
+
+[Share on Facebook](https://www.facebook.com/dialog/share?app_id=252296078952383&display=popup&href=https%3A%2F%2Ftechcabal.com%2F2026%2F07%2F30%2Fnigerias-petrol-three-wheelers-are-going-electric-with-batteries%2F)[Share on Twitter](https://twitter.com/intent/tweet?url=https%3A%2F%2Ftechcabal.com%2F2026%2F07%2F30%2Fnigerias-petrol-three-wheelers-are-going-electric-with-batteries%2F&text=Nigeria%26%238217%3Bs%20petrol%20three-wheelers%20are%20going%20electric%E2%80%94with%20batteries%20powered%20by%20diesel)[Share on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Ftechcabal.com%2F2026%2F07%2F30%2Fnigerias-petrol-three-wheelers-are-going-electric-with-batteries%2F&title=Nigeria%26%238217%3Bs%20petrol%20three-wheelers%20are%20going%20electric%E2%80%94with%20batteries%20powered%20by%20diesel&summary=Swap%20converts%20Lagos%20petrol%20tricycles%20to%20electric%20at%20no%20upfront%20cost%2C%20but%20still%20relies%20on%20diesel%20generators%20to%20charge%20some%20of%20its%20batteries.)[Share on WhatsApp](https://api.whatsapp.com/send?text=https%3A%2F%2Ftechcabal.com%2F2026%2F07%2F30%2Fnigerias-petrol-three-wheelers-are-going-electric-with-batteries%2F)[Share on Email](mailto:?body=https%3A%2F%2Ftechcabal.com%2F2026%2F07%2F30%2Fnigerias-petrol-three-wheelers-are-going-electric-with-batteries%2F&subject=Nigeria%26%238217%3Bs%20petrol%20three-wheelers%20are%20going%20electric%E2%80%94with%20batteries%20powered%20by%20diesel)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Share
+
+
+
+
+
+
+
+[Share on Facebook](https://www.facebook.com/dialog/share?app_id=252296078952383&display=popup&href=https%3A%2F%2Ftechcabal.com%2F2026%2F07%2F30%2Fnigerias-petrol-three-wheelers-are-going-electric-with-batteries%2F)[Share on Twitter](https://twitter.com/intent/tweet?url=https%3A%2F%2Ftechcabal.com%2F2026%2F07%2F30%2Fnigerias-petrol-three-wheelers-are-going-electric-with-batteries%2F&text=Nigeria%26%238217%3Bs%20petrol%20three-wheelers%20are%20going%20electric%E2%80%94with%20batteries%20powered%20by%20diesel)[Share on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Ftechcabal.com%2F2026%2F07%2F30%2Fnigerias-petrol-three-wheelers-are-going-electric-with-batteries%2F&title=Nigeria%26%238217%3Bs%20petrol%20three-wheelers%20are%20going%20electric%E2%80%94with%20batteries%20powered%20by%20diesel&summary=Swap%20converts%20Lagos%20petrol%20tricycles%20to%20electric%20at%20no%20upfront%20cost%2C%20but%20still%20relies%20on%20diesel%20generators%20to%20charge%20some%20of%20its%20batteries.)[Share on WhatsApp](https://api.whatsapp.com/send?text=https%3A%2F%2Ftechcabal.com%2F2026%2F07%2F30%2Fnigerias-petrol-three-wheelers-are-going-electric-with-batteries%2F)[Share on Email](mailto:?body=https%3A%2F%2Ftechcabal.com%2F2026%2F07%2F30%2Fnigerias-petrol-three-wheelers-are-going-electric-with-batteries%2F&subject=Nigeria%26%238217%3Bs%20petrol%20three-wheelers%20are%20going%20electric%E2%80%94with%20batteries%20powered%20by%20diesel)
+
+
+
+
+
+
+
+
+
+
+
+Two years ago, Moses’ mechanic gave him advice that cost the mechanic his business. Moses was a regular, often bringing his commercial three-wheeler, popularly known as _keke_ in Nigeria _,_ to the workshop. Perhaps that frequency is what led the mechanic to suggest Moses rip the failing petrol engine out of his _keke_ and let a startup called Swap replace it with an electric motor.
+
+
+
+He told TechCabal he has not visited a mechanic since the replacement.
+
+
+
+“Since I started, I have not fixed my engine,” Moses said in an interview at a battery swapping station in Magodo run by Swap, a Nigerian startup that converts petrol _kekes_ to electric _kekes_ across its five stations in Lagos.
+
+
+
+He bought his _keke_ secondhand with its engine already failing. It had been worn down by Lagos traffic, bad fuel, bad roads, and compounding neglect. After his mechanic sent him to Swap, Moses registered, and Swap converted his vehicle for free.
+
+
+
+Now, twice a day, he rides to the battery station in Magodo, one of the most expensive high-income neighbourhoods in the city, and swaps a dead battery for a charged one. Within two minutes he’s back to work.
+
+
+
+Three-wheelers have been the last-mile replacement since the government [banned commercial motorcycles across most of Lagos](https://techcabal.com/2020/01/27/oride-maxng-gokada-banned-in-lagos/), Nigeria’s most populous city, in 2020. They ferry passengers through narrow roads buses cannot reach, and some cars would rather avoid. They also connect major roads and are affordable enough to remain an option for Lagosians.
+
+
+
+There are now just over 300 converted _kekes_ in Lagos, according to Swap, and the company says more than 100,000 tricycles are on a waitlist. There are many reasons for the gap between those two numbers, and that is what this story is about. Moses and the other drivers who have already switched, alongside the long waitlist, show the demand is real. What holds Swap back is the cost and difficulty of keeping batteries charged and the capital needed to meet the demand.
+
+
+
+## **Different stations, different realities**
+
+
+
+When I visited Swap’s station in Ikorodu, a fast-growing town on Lagos’s northeastern outskirts, in June, it had been without electricity since January 2026. To charge batteries, the station runs two generators that barely stop. As soon as a round of batteries is charged, the next batch goes on, and the generators keep burning diesel so that drivers keep working.
+
+
+
+The station serves 150 drivers and charges between 90 and 100 batteries, according to Victor Oguare, the station manager. Only two diesel generators carry that load.
+
+
+
+“If one generator runs for four hours, we shut one down and let it rest for one hour,” Oguare said. “Then we turn on the other one and shut that one down to rest for another hour. There’s a way we normally shuffle it so that it will not cause any overworking.”
+
+
+
+To keep batteries available, Swap buys diesel in bulk. “We purchase 1,000 litres for our drums, which serves us for three to four days,” he said. At the [current retail price of ₦1,750 ($1.28)](https://www.electenergyng.com/diesel-price-update/) per litre, that comes to ₦1.75 million ($1,280) every three to four days—roughly ₦487,500 ($363) a day just to keep the batteries charged.
+
+
+
+Over a 30-day month, buying at that rate runs about ₦14.6 million to ₦19.5 million ($10,900 to $14,500). Swap declined to comment on how much it spends on diesel.
+
+![](https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/07/SSWAP-PNG-8-1-1024x576.png)_Swap’s Magodo station. Image Source: Wunmi Eunice/TechCabal_.
+
+On generators, the station’s capacity to charge batteries drops sharply. The grid delivers far more power, so instead of 90 batteries at a time, the station manages 40 to 50, and each charge cycle stretches from 90 minutes to nearly two and a half hours. A generator-powered station runs at roughly a third of the output of a grid-connected one.
+
+
+
+Oguare told TechCabal the shortages caused by the reduced output are rare. But the drivers tell a different story.
+
+
+
+“We used to be there for some hours waiting for batteries,” said Paul, an Ikorodu-based _keke_ driver who operates on a hire-purchase arrangement and asked to be identified by his first name.
+
+
+
+Paul did not choose to go electric. His _keke_ belongs to a fleet owner, and he was handed the key and told where to swap. He pays ₦7,500 ($5.61) daily to the owner, plus the cost of each battery swap: ₦2,800 ($2.09) for the first, ₦2,800 ($2.09) for the second, and ₦2,200 ($1.65) for the third if he can get one.
+
+
+
+He told me he makes around ₦20,000 ($14.96) on a four-battery day. Subtract the ₦7,500 ($5.61) hire-purchase fee and roughly ₦10,000 ($7.48) in swap costs, and he takes home somewhere between ₦2,500 ($1.87) and ₦5,000 ($3.74).
+
+
+
+On days when batteries run short, when the generators cannot charge fast enough to meet demand, Paul gets two or three batteries instead of four. His earning window shrinks to a few hours. The ₦7,500 ($5.61) delivery fee does not shrink with it.
+
+
+
+“If I pay ₦7,500 \[$5.61\] for delivery, with the ticket money, everything that I paid, I will not take anything home,” Paul said. “It’s not easy.”
+
+
+
+He has run out of battery mid-route. When that happens, he pushes the _keke_. There is no jerrycan equivalent for an electric vehicle, no roadside solution. You either push or you ask someone to help you push. When I visited Swap’s Magodo station in June 2026, I saw drivers arriving on foot, carrying their dead batteries because the _kekes_ could not move.
+
+![](https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/07/vlcsnap-2026-07-09-13h49m44s074-3-1024x576.png)_A Swap technician preparing to swap a charged battery for a dead one. Image Source: Wunmi Eunice/TechCabal_.
+
+Despite the frustrations of an occasional battery shortage or a pack dying mid-trip, drivers still prefer Swap’s engines to petrol. “It’s better than fuel,” Paul said. When batteries are available, the economics work. He doesn’t need a mechanic. The ride is smoother. A petrol _keke_ driver on a similar route spends over ₦10,000 ($7.26) daily on fuel alone, he estimated, before repairs.
+
+
+
+Anthony Adiku has driven the same _keke_ since 2022. He converted it in December 2025, after the engine started costing him more than it earned. “I swapped it to Swap because the engine then was giving me issues,” he told TechCabal at Swap’s Magodo station.
+
+
+
+He uses two Swap batteries on a regular day, at ₦6,000 ($4.36) per pair, and makes around ₦15,000 ($10.89) working 12 hours daily. Three batteries, he said, cost him ₦10,000 to ₦11,000 ($7.26 to $7.99) and cover for any day he wants to run longer hours.
+
+
+
+For him, the biggest change Swap brought is not really about money. It is the ease it brings to his day. Before, a breakdown could take two hours out of his morning, and he would come back to the route already exhausted and behind his target.
+
+
+
+“Once I got into Swap, I woke up at my own convenient time because I know that I don’t have any problem,” he said. “The only problem I have is to face my customers. So once I wake up around nine, I close around seven; I’m okay.”
+
+
+
+## **Inside Swap**
+
+![](https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/07/SWAP-PNG2-2-1024x576.png)_A Swap technician swapping a dead battery in Swap’s Magodo station. Image Source: Wunmi Eunice/TechCabal_.
+
+Launched in May 2024, Swap is an early-stage Nigerian startup that removes petrol engines from Lagos’s commercial tricycles and replaces them with electric motors powered by swappable lithium batteries at no upfront cost to the driver.
+
+
+
+Founded by family friends Timilehin Odusina, Seyi Oguntunde, and Emmanuel Marchie, Swap describes itself as a battery-as-a-service provider. Drivers get the battery for free and pay per swap, often three times a day. A charged battery lasts two and a half to four and a half hours, depending on the battery’s generation and how it was charged.
+
+
+
+Swap’s batteries power some of the last-mile routes that connect Lagos’s 17 million residents from bus stops and junctions to their front gates. Only [recently digitised by ride-hailing giant Bolt](https://techcabal.com/2025/04/30/bolt-launches-ev-tricycles-lagos/), it is the segment of the city’s transport network that _kekes_ have l [argely controlled for the past five years.](https://www.instagram.com/reel/DWoxGaaDsO9/)
+
+
+
+The tricycle first gained national prominence in 2002, when President Olusegun Obasanjo’s administration [distributed 2,000 units](https://allafrica.com/stories/200211070572.html) through the National Poverty Eradication Programme (NAPEP), a scheme designed to give unemployed youth a source of income. The name stuck, and _Keke NAPEP_ was born.
+
+
+
+Swap is betting that this vast, fragmented fleet can be converted, vehicle by vehicle, from petrol to electric. It now operates swap stations in parts of Lagos such as Magodo, Ikorodu, Ketu, and Ogba. The company claims drivers can save up to ₦100,000 ($72.6) monthly, a figure it derives from fuel and engine repairs they no longer pay for.
+
+
+
+## **Price is what moves people**
+
+![](https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/07/swap-png-6-1-1024x576.png)_Swap batteries charging in its Magodo station. Image Source: Wunmi Eunice/TechCabal_.
+
+The Swap founding team did not always work on electrifying three-wheelers. Oguntunde’s first startup, Intellectric, sold inverters at a time when fuel prices were around ₦65 ($0.047) a litre, but they found out that very few Nigerians saw the point of alternative power when fuel was cheap.
+
+
+
+“People in Africa do not care as much about the climate,” Oguntunde, Swap’s chief executive, told TechCabal in an interview. “What they care about is how much it costs them to use power, whether it is for their fridge or car.”
+
+
+
+The experience from their previous startup taught the founders the lesson that now shapes everything Swap does: in Nigeria, price is what moves people.
+
+
+
+“We knew that power was going to get more expensive,” Oguntunde said. “We had various ideas, but it became clear to us that selling (inverter) batteries was not the way to solve this infrastructure problem.”
+
+
+
+The past three years have vindicated Swap’s decision, as the price of petrol in Nigeria has risen sixfold, from ₦185 ($0.13) on May 29, 2023 to today’s ₦1,310 ($0.95).  For a _keke_ driver, the daily cost of using Swap’s batteries, which are free to install, is lower than petrol costs.
+
+
+
+Still, the _keke_ was not the founders’ first option. Their first attempt was with motorbikes, but creating a battery that could power their engines and still balance on the two-wheelers posed a problem they could not afford to solve on a thin research budget.
+
+
+
+“Three-wheelers solved the balancing problem,” Oguntunde said. “I did not need to innovate around balance, which gave me enough room to innovate on the things that mattered.” The Lagos ban on commercial two-wheelers also reduced the market’s appeal.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The prototype was built during the COVID years, between 2020 and 2021, and the founders deliberately chose the worst _keke_ they could find: a rusted, dilapidated unit that had spent its life hauling cement.
+
+
+
+If the conversion worked on that vehicle, it would work on anything. “A few batteries exploded in the house or the garage while we were working,” Oguntunde said. By 2022, the tricycle ran at the speed and mileage they wanted, and the conversion kit worked.
+
+
+
+## **The Swap battery**
+
+
+
+The battery is where Swap believes its real advantage lives. Swap had to work with its battery manufacturing partner on materials suited to Nigerian conditions while building the battery management system, the software that controls how the battery charges, discharges, and protects itself, in-house.
+
+
+
+In our conversation, Oguntunde declined to speak extensively on the battery or its manufacturing partner, as the company treats its battery’s power rating as a trade secret out of concern that competitors would reverse-engineer it.
+
+
+
+What he did share was that Swap’s financial model assumes each battery lasts about five years. While its oldest battery in the field is roughly three years old, Oguntunde said it has shown no significant degradation.
+
+
+
+The batteries charge in roughly one and a half to two hours on grid electricity. A station with power can charge up to 90 batteries simultaneously on grid power, as the stations are designed for volume and speed. When drivers arrive, the attendant pulls the depleted battery out, slots a charged one in, and the driver is gone in two minutes.
+
+
+
+## **What a Swap driver pays**
+
+![](https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/07/1-1-1024x576.png)_A Swap battery. Image Source: Wunmi Eunice/TechCabal_.
+
+The prices drivers pay turned out to be one of the small mysteries of my reporting.
+
+
+
+Anthony pays ₦3,000 ($2.20) to charge a battery at Magodo. A driver in Swap’s station in Ikorodu pays ₦2,800 ($2); a technician told me ₦2,000 ($1.45). When I put the discrepancy to Oguntunde, the answer was capacity.
+
+
+
+Swap’s standard swap price is ₦3,000 ($2.18). But at stations still running an older generation of battery with less capacity, riders get a discount to reflect the difference. And at its highest-mileage location, where drivers swap most often, the pricing is tiered. Full price for the first swap, discounted rates once a driver crosses two swaps in a day, and a volume discount built for the people who use the most batteries.
+
+
+
+The company also offers loans to drivers with repayment folded into the swap fees. Every time a driver swaps a battery, an extra ₦1,000 ($0.73) is deducted until the loan is repaid.  There is no additional paperwork required beyond the initial application. Oguntunde declined to discuss the details of the credit arrangement, describing the system as still maturing.
+
+
+
+## **From petrol to batteries**
+
+
+
+When I visited Swap’s Magodo station in March, Emmanuel, a technician who asked to be identified only by his first name, was preparing to convert two _kekes_ in a single session. He told TechCabal he has converted over 50 _kekes_ since he started in September 2025.
+
+
+
+Two years ago, almost no one in Lagos knew how to wire an electric keke. Now there are several like Emmanuel who are building a career around electric _kekes_.
+
+
+
+The conversion process requires three people working in sequence. First, the old petrol engine is removed, and the _keke_‘s body is stripped down to its frame. Then the electrician wires in the new electric motor and installs a digital monitor that displays battery percentage and diagnostics. Finally, a welder secures the motor housing, and a mechanic sets the engine in place. If all three are present and ready, two _kekes_ can be converted in about 90 minutes, Emmanuel said.
+
+
+
+“The hardest part is the welder. Because even if the mechanic is here, if the welder is not there, there’s no need.” Emmanuel earns between ₦80,000 ($58) and ₦100,000 ($72.6) a month as a technician still learning on the job.
+
+
+
+## **Building the infrastructure**
+
+
+
+At its core, Swap’s business model is asset financing. The company absorbs the cost of converting each _keke_, then recovers it over time as drivers swap batteries. “Every time a rider comes to swap their battery, they are paying for the kit,” Oguntunde said. A driver averages about 2.5 swaps a day, while some now do up to 4.
+
+
+
+The savings pitch, according to Oguntunde, was never really about petrol. When the company spoke with drivers, fuel was a pain point, but maintenance costs were the main issue. Drivers told Swap they were spending between ₦50,000 ($36) and ₦90,000 ($65) a month keeping their engines alive before any major breakdown, he said.
+
+
+
+Swap says its conversion delivered around 50% savings per rider when petrol and maintenance were counted together, and with petrol at today’s prices, the gap has only widened. The startup added that it has converted just over 300 tricycles across its locations, with another 1,000 conversion kits ordered and expected around the middle of the year.
+
+
+
+One man travelled from Borno to tell the company he controlled a fleet of over 20,000 tricycles he wanted converted, Oguntunde said.
+
+![](https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/07/vlcsnap-2026-07-09-13h54m19s260-1-1024x576.png)_A row of Swap kekes waiting for charged batteries. Image Source: Wunmi Eunice/TechCabal_.
+
+Against a waitlist of 100,000, just 300 conversions are a rounding error. The reason for this wide gap, Oguntunde said, is capital, specifically debt capital, since every conversion is an asset that must be financed before it earns.
+
+
+
+The company’s plan for scale rests on a hub-and-spoke design. Some locations, like its Ikorodu station, will be depots, where batteries are recharged at scale; from there, charged batteries are distributed to smaller spoke stations, where only swapping happens. Swap wants 10 depots by the end of 2026, with a constellation of spokes around each one.
+
+
+
+Crucially, the spokes do not have to belong to Swap. Anyone can own one in the startup’s franchising model. Oguntunde compares the model to the early rollout of petrol stations: the infrastructure had to exist before the business could work, and only once operators saw it working did franchising and capital follow.
+
+
+
+“We think the real game-changer will be the infrastructure that allows everything to connect,” he told me.
+
+
+
+## **Why Swap matters**
+
+
+
+Swap is not the only company trying to electrify Lagos’s last-mile transport. In April 2025, [Bolt launched 25 electric _kekes_](https://www.google.com/search?q=.+In+April+2025%2C+Bolt+launched+25+electric+kekes&oq=.+In+April+2025%2C+Bolt+launched+25+electric+kekes&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzQzOGowajSoAgCwAgE&sourceid=chrome&ie=UTF-8#:~:text=Bolt%20launches%20electric%20tricycles%20in%20Lagos%20with%2015%25%20...,com%20%E2%80%BA%202025/04/30%20%E2%80%BA%20bolt%2Dlaunches%2Dev%2Dt...) with a lease-to-own model and battery swap stations, with plans to scale to 1,000. Electric vehicle startups like MAX, Spiro, Qoray, and Siltech are all building battery swap infrastructure in Nigeria. In 2020, the Nigerian government’s National Agency for Science and Engineering Infrastructure (NASENI) [developed](https://naseni.gov.ng/naseni-electric-keke/) its own electric _keke_ [prototype.](https://businessday.ng/news/article/nigeria-to-roll-out-tricycles-electronic-voting-device-and-transformers-haruna/)
+
+
+
+Most players in Nigeria’s electric _keke_ race sell or lease brand-new vehicles: Bolt at [₦3.2 million](https://techcabal.com/2025/04/30/bolt-launches-ev-tricycles-lagos/) ($2,324) on an 18-to-24-month lease and Ecowaka, an indigenous Nigerian electric vehicle company, from [₦2.6 million](https://ecowaka.io/ecowaka-launches-three-wheeled-electric-vehicles-to-boost-transportation-in-nigeria/) ($1,945).
+
+
+
+A few will convert a driver’s existing petrol _keke_, among them Ecowaka, Qore, and Mataji Express, which holds a National Automotive Design and Development Council (NADDC) licence to import and assemble electric vehicles. But those conversions are still a purchase. Of the operators TechCabal reviewed, only Swap asks for nothing upfront and recovers the cost through the swap itself.
+
+
+
+When the founders were designing their prototype, they priced brand-new electric tricycles and found them roughly twice the cost of a comparable petrol vehicle. Most _keke_ drivers in Lagos cannot afford a new vehicle at that price point.
+
+
+
+They often buy imported secondhand _kekes_ from other drivers or from whoever is selling. The machines are already old when they get them, carrying years of wear before the first day of ownership. Swap meet drivers where they are: ‘bring your ageing _keke_, and we will make it new in a different way.’
+
+
+
+The drivers have even given Swap’s _kekes_ a name of their own. They call it a “robot”—a robot _keke_, as in something out of the future.
+
+
+
+The reason this small company matters is beyond its 300 conversions. When Swap strips the petrol engine out of a _keke_, the driver crosses a threshold he cannot easily cross back. His vehicle no longer runs on fuel. It runs on Swap’s batteries, charged at Swap’s stations and paid for through Swap’s wallet. If the station has no batteries, he does not work that day. If the company stumbles, his _keke_, often his only asset, often bought secondhand with borrowed money, becomes a shell with wheels.
+
+
+
+Each of those 300 _kekes_ is a household. A _keke_ driver in Lagos rarely feeds only himself. He pays school fees and rent and funds his siblings and parents. Moses has driven his converted _keke_ for two years. Paul hands over ₦7,500 ($5.45) daily to a fleet owner before he earns a naira for his own family.
+
+
+
+The waitlist represents, by any conservative multiple, hundreds of thousands of people whose daily bread would come to depend on one startup’s battery.
+
+
+
+This is the burden Swap carries, and it is a different kind of weight from what most startups bear. A fintech app that fails inconveniences its users, and they can download a competitor. If Swap fails, it strands its drivers with vehicles that can no longer move. The drivers understood this before I did.
+
+
+
+It is why Paul, for all his frustration on scarcity days, would still go back and why his frustration matters so much. He is describing what it feels like when the vehicle you depend on for survival runs on two generators that must never stop.
+
+
+
+_**True scale demands moving beyond surface-level integrations to robust execution. We’ve filtered the noise out of Moonshot 2026, optimising the conference strictly for high-calibre connections between startup founders, global financial operators, enterprise leaders and individuals rewiring Africa’s technical frameworks. [Get 20% off Early Bird tickets for a limited time](https://mainstack.com/p/moonshot-by-techcabal-2026/tickets).**_
+
+![](https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/07/IMG_4259-3-1-1024x581.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## More from this Author
+
+
+
+  - [![Kuda cuts jobs for second time in 2026 as it targets 2027 profitability](https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2023/01/Kuda-240x160.jpg)](https://techcabal.com/2026/11/19/kuda-cut-jobs-again/)
+
+
+
+    [Startups](https://techcabal.com/category/startups/)
+
+
+
+    [Kuda cuts jobs for second time in 2026 as it targets 2027 profitability](https://techcabal.com/2026/11/19/kuda-cut-jobs-again/)
+
+  - [![Delayed salaries, leadership change: Inside Helium Health’s difficult year](https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/11/Helium-Health-Reception-Wall-240x160.webp)](https://techcabal.com/2026/11/19/inside-helium-healths-difficult-year/)
+
+
+
+    [Startups](https://techcabal.com/category/startups/)
+
+
+
+    [Delayed salaries, leadership change: Inside Helium Health’s difficult year](https://techcabal.com/2026/11/19/inside-helium-healths-difficult-year/)
+
+  - [![African investors are building exits and finding money in new places](https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/09/7V2N7ZIN45I2XBKY437OEP62XA-240x160.jpg)](https://techcabal.com/2026/11/16/african-investors-are-building-exits/)
+
+
+
+    [Ask An Investor](https://techcabal.com/category/techcabal-columns/ask-an-investor/)
+
+
+
+    [African investors are building exits and finding money in new places](https://techcabal.com/2026/11/16/african-investors-are-building-exits/)
+
+
+[![Wave’s 25 million-user blueprint: How low fees disrupted Francophone West Africa’s mobile money ‘cartels’](https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/11/image-194-300x200.webp)](https://techcabal.com/2026/11/25/wave-in-waemu-region/)
+
+[Features](https://techcabal.com/category/features/)
+
+[Wave’s 25 million-user blueprint: How low fees disrupted Francophone West Africa’s mobile money ‘cartels’](https://techcabal.com/2026/11/25/wave-in-waemu-region/)
+
+Godfrey George
+
+\|
+
+51 minutes ago
+
+  - ## Read Next
+
+
+    [![Four South African students want to make bursary money easier to access and spend](https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/11/CampusFit-new-main.webp)](https://techcabal.com/2026/11/25/sa-students-fintech-bursary-pay-problems/) _CampusFit’s four founders are building a fintech platform to help students access, manage and track their bursary allowances, bringing payments and financial insights into one place. Image source: TechCabal_
+
+
+
+    ## Read Next
+
+
+
+    [Features](https://techcabal.com/category/features/)
+
+
+
+    ### [Four South African students want to make bursary money easier to access and spend](https://techcabal.com/2026/11/25/sa-students-fintech-bursary-pay-problems/)
+
+
+
+
+
+    [Phathisani Moyo](https://techcabal.com/author/phathisani-moyo/)
+
+
+
+    25th Nov, 2026
+
+
+## Read more
+
+- [![He built a million-dollar business abroad. Now he wants to build Africa’s next generation of coders](https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/11/337319-1-1024x576.webp)](https://techcabal.com/2026/11/25/chizzy-nnamchi-built-a-career-continents/) _Chizzy Nnamchi, chief executive officer of Simvo Africa. Image source: Chizzy Nnamchi_
+
+
+
+[My Life In Tech](https://techcabal.com/category/techcabal-columns/my-life-in-tech/)
+
+
+
+## [He built a million-dollar business abroad. Now he wants to build Africa’s next generation of coders](https://techcabal.com/2026/11/25/chizzy-nnamchi-built-a-career-continents/)
+
+
+
+
+
+[John Adoyi](https://techcabal.com/author/john-adoyi/)
+
+25th Nov, 2026
+
+- [![Four South African students want to make bursary money easier to access and spend](https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/11/CampusFit-new-main-1024x768.webp)](https://techcabal.com/2026/11/25/sa-students-fintech-bursary-pay-problems/) _CampusFit’s four founders are building a fintech platform to help students access, manage and track their bursary allowances, bringing payments and financial insights into one place. Image source: TechCabal_
+
+
+
+[Features](https://techcabal.com/category/features/)
+
+
+
+## [Four South African students want to make bursary money easier to access and spend](https://techcabal.com/2026/11/25/sa-students-fintech-bursary-pay-problems/)
+
+
+
+
+
+
+
+Phathisani Moyo
+
+
+
+25th Nov, 2026
+
+- [![MTN’s proposed Telkom takeover comes with a competition cost](https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/08/MTN-new.jpg)](https://techcabal.com/2026/11/25/mtn-telkom-deal-sa-telecoms-market/) _MTN’s proposed acquisition of Telkom could reshape South Africa’s telecoms industry, raising questions about competition, network investment and consumer choice. Image Source: The Citizen_
+
+
+
+[Analysis](https://techcabal.com/category/analysis/), [Telecoms](https://techcabal.com/category/enterprise-policy/telecoms/)
+
+
+
+## [MTN’s proposed Telkom takeover comes with a competition cost](https://techcabal.com/2026/11/25/mtn-telkom-deal-sa-telecoms-market/)
+
+
+
+
+
+
+
+Phathisani Moyo
+
+
+
+25th Nov, 2026
+
+- [![Meta’s privacy scandal leaves Kenya chasing the wrong defendants ](https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/11/Mercy-Mutemi-Executive-Director-The-Oversight-Lab-1024x576.webp)](https://techcabal.com/2026/11/24/meta-and-sama-privacy-probe-kenya/) _Mercy Mutemi, Executive Director, The Oversight Lab. Image: BAKE_
+
+
+
+[Analysis](https://techcabal.com/category/analysis/)
+
+
+
+## [Meta’s privacy scandal leaves Kenya chasing the wrong defendants](https://techcabal.com/2026/11/24/meta-and-sama-privacy-probe-kenya/)
+
+
+
+
+
+
+
+Kenn Abuya
+
+
+
+24th Nov, 2026
+
+- [![Banks, card networks raid Safaricom, Airtel and MTN for top talent](https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/11/saf-alumni-1-1024x576.webp)](https://techcabal.com/2026/11/24/banks-card-raid-safaricom-airtel-talent/) _Stanbic Kenya CEO Michael Mutiga, Absa Group personal and private banking CEO Sitoyo Lopokoiyit, and Visa East and Southern Africa head Esther Masese Waititu. Image source: TC Design_
+
+
+
+[Companies](https://techcabal.com/category/enterprise-policy/companies/)
+
+
+
+## [Banks, card networks raid Safaricom, Airtel and MTN for top talent](https://techcabal.com/2026/11/24/banks-card-raid-safaricom-airtel-talent/)
+
+
+
+
+
+
+
+Adonijah Ndege
+
+
+
+24th Nov, 2026
+
+- [![In the DRC, Wave’s next pricing test is the franc](https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/11/54623364919_12dcce3c74_o-edited-1024x768.webp)](https://techcabal.com/2026/11/24/francophone-weekly-by-techcabal-049/) _A vegetable shop that accepts Wave mobile money in Dakar, Senegal. Image Source: Norfund._
+
+
+
+[Francophone Weekly](https://techcabal.com/category/newsletters/francophone-weekly-by-techcabal/), [Newsletters](https://techcabal.com/category/newsletters/)
+
+
+
+## [In the DRC, Wave’s next pricing test is the franc](https://techcabal.com/2026/11/24/francophone-weekly-by-techcabal-049/)
+
+
+
+
+
+
+
+Lina Kacyem
+
+
+
+24th Nov, 2026
+
+
+×
+
+Become an Insider to continue reading for free
+
+![](https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/09/tc-gate-general-img.png)
+
+## The smartest people in African tech are TC Insiders.
+
+Join other readers from across the continent.
+
+Continue with Google
+
+or
+
+Company
+
+Continue
+
+![TechCabal](https://c76c7bbc41.mjedge.net/wp-content/themes/tc3.0/assets/img/tc-icon.png)
+
+✉
+
+## Check your email
+
+We sent a secure sign-in link to
+
+Open the link on this device to continue. The link expires in 10 minutes.
+
+You can request another link in 5:00
+Resend sign-in link
+
+![TechCabal](https://c76c7bbc41.mjedge.net/wp-content/themes/tc3.0/assets/img/tc-icon.png)
+
+## Check your email
+
+Enter the 6 digit code sent to
+
+Company
+
+Incorrect code. Please try again.
+
+Continue
+
+Resend code in 40s
+Resend code
+
+![TechCabal](https://c76c7bbc41.mjedge.net/wp-content/themes/tc3.0/assets/img/tc-icon.png)
+
+## What kind of stories are you interested in?
+
+Choose the topics you'd like to see.
+
+Analysis🤖 Artificial IntelligenceBattlefieldBlogBuilding from Ground UpCabalCollectionsColumnsCorrectionsEast AfricaEnterprise & Policy📅 EventsExclusiveExplainersFactsheetFeaturesFructoseFundamentalsGuest PostKenyaLetter from the EditorLife & WorkLinked ListMoneyMoonshotMoonshot ConversationsNews📧 Newsletters💬 OpinionPress ReleasePress RoomQuick FireQuiz📊 ReportsResearchSouth AfricaSouthern Africa🚀 StartupsTC InsightsTech Like I'm FiveUncategorizedVideoVideosWeekly
+
+Done
+Skip
+
+## Get our newsletter delivered straight to your inbox.
+
+Techcabal keeps you in the loop on the latest updates in the African Tech ecosystem.
+
+or
+
+Company
+
+Become a TC Insider and get access to member-only content for free. Continue

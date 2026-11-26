@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.crunchbase.com/organization/vendy-inc",
+        "title": "Vendy - Crunchbase Company Profile & Funding",
+        "description": "Vendy is a marketplace on WhatsApp. Pre-Seed raised. How much funding has Vendy raised to date?",
+        "position": 1
+      },
+      {
+        "url": "https://lucidityinsights.com/startups/vendy-18389",
+        "title": "Vendy Company Profile, Investors, & Funding",
+        "description": "Vendy is Nigeria's first WhatsApp-based lifestyle concierge service, Fundraised$500K. Pre-Seed Latest Funds Raised (in USD)",
+        "position": 2
+      },
+      {
+        "url": "https://au-startups.com/news/google-africa-applied-ai-lab-nigerian-startups",
+        "title": "Google's Africa Applied AI Lab Selects Three Nigerian Startups for Inaugural Cohort",
+        "description": "Termii has raised $6.2 million across seven funding rounds, including a $3.6 million Seed round announced in June 2023. Vendy, founded in 2022 ...",
+        "position": 3
+      },
+      {
+        "url": "https://huntseed.com/startups/vendy",
+        "title": "Vendy: Funding & Investors - HuntSeed",
+        "description": "Vendy raised $500K (Venture Round), backed by Y Combinator. Funding $500K. Its most recent financing was a $500K round announced on Undisclosed. Raised $500K",
+        "position": 4
+      },
+      {
+        "url": "https://tracxn.com/d/companies/vendy/__vokSHX4Esp1blJwlGmU_vr1pGxlDnNBkpDAuKwIK7WU",
+        "title": "Vendy - 2026 Company Profile, Team, Funding & Competitors",
+        "description": "Vendy is a funded company based in Lagos (Nigeria), founded in 2022 by Kayode Disu and Peter Ekunkoya. It operates as a Chat-based payment ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a2128e-d86c-76af-9647-c584c6355c6f"
+}

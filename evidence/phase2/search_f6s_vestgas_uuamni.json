@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.facebook.com/61594861617236/posts/vestgas-was-proud-to-be-part-of-the-innovest-ignite-accelerator-cohort-5-in-nige/122099522517495387/",
+        "title": "Innovest Ignite Accelerator Cohort 5 startups Nigeria 2026",
+        "description": "VestGas was proud to be part of the Innovest Ignite Accelerator Cohort 5 in Nigeria, alongside a talented group of forward-thinking African ...",
+        "position": 1
+      },
+      {
+        "url": "https://www.linkedin.com/in/chumab",
+        "title": "Chuma B. - GPU compute · AI Data Ops · Agentic Operations",
+        "description": "UUAMNI. Aug 2025 - Present 1 year 4 months. Imo State, Nigeria. Building UUAMNI, a sovereign AI lab for West Africa: in-country GPU compute for regulated ...",
+        "position": 2
+      },
+      {
+        "url": "https://tracxn.com/d/companies/uuamni/__m_bzEd4_lSp066EaQ4I_g36mJT2a6Do47Pal12Mhayg",
+        "title": "UUAMNI - 2026 Company Profile & Competitors",
+        "description": "UUAMNI has not raised any funding yet. The company has 203 active competitors, including 14 funded and 2 that have exited. Its top competitors include companies ...",
+        "position": 3
+      },
+      {
+        "url": "https://www.f6s.com/companies/iot/nigeria/co",
+        "title": "13 Top Internet of Things Companies in Nigeria · November 2026",
+        "description": "VestGas is an AI-powered insurance and delivery platform that ensures households and businesses never run out of cooking gas. In Nigeria ...",
+        "position": 4
+      },
+      {
+        "url": "https://aic.hyrin.org/partners",
+        "title": "Partner with AIC — Data, Research & Institutional Partnerships",
+        "description": "Partnerships. Partner with AIC. African Intelligence Cloud is building continental infrastructure for turning African data into evidence.",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a2134f-cf54-7508-9800-e326c496101c"
+}

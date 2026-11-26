@@ -1,0 +1,75 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "scrape_id": "01a20e0c-7ae6-753f-8f8b-2b53a903d983",
+  "data": {
+    "alexandria": [
+      {
+        "provider": "fireround",
+        "capability": "companies/search",
+        "creditsCost": 5,
+        "data": {
+          "data": [
+            {
+              "id": "khaime",
+              "name": "Khaime",
+              "domain": "khaime.com",
+              "url": "https://fireround.dev/companies/khaime",
+              "description": "an AI-powered commerce platform designed to help businesses sell through AI agents and digital channels",
+              "sector": "ecommerce",
+              "headquarters": "Lagos",
+              "rounds_total": 1,
+              "total_raised_usd_millions": 0.5,
+              "latest_round": {
+                "stage": "pre_seed",
+                "stage_as_written": "pre-seed funding",
+                "announced_on": "2026-11-16"
+              }
+            },
+            {
+              "id": "vatar",
+              "name": "Vatar",
+              "domain": "vatar.com",
+              "url": "https://fireround.dev/companies/vatar",
+              "description": "Vatar builds social worlds inspired by real cities; its first, Lagos Life, is a free multiplayer browser game set in Lagos.",
+              "sector": "media and gaming",
+              "headquarters": "Nigerian",
+              "rounds_total": 1,
+              "total_raised_usd_millions": 0.5,
+              "latest_round": {
+                "stage": "pre_seed",
+                "stage_as_written": "Pre-seed",
+                "announced_on": "2026-10-09"
+              }
+            }
+          ],
+          "total": 2,
+          "next_page": null
+        },
+        "records": 2,
+        "upstreamStatus": 200,
+        "alexandriaId": "e9850a64a9a73b9e73153ee0593eb35dba7dcd692d1aae44b7a73aaf143a7cb4",
+        "providerRequestId": "6e84078e-b2a3-4c17-b344-20733159c8e9",
+        "feedbackToken": "v1.WyJlOTg1MGE2NGE5YTczYjllNzMxNTNlZTA1OTNlYjM1ZGJhN2RjZDY5MmQxYWFlNDRiN2E3M2FhZjE0M2E3Y2I0IiwiZmlyZXJvdW5kIiwiY29tcGFuaWVzL3NlYXJjaCIsMTc5NTUzMjAyOF0.bv39sQO-qUm2j3U5WRbd6Q",
+        "nextStep": {
+          "instruction": "Next step: before you answer the user, rate this result with POST /v2/feedback (good, partial or bad, and what was missing). It refunds 1 credit, once per call, up to a daily limit.",
+          "request": "POST /v2/feedback",
+          "body": {
+            "endpoint": "alexandria",
+            "rating": "<good|partial|bad>",
+            "requestedWebsite": {
+              "url": "<website the data is about>",
+              "requestedFunctionality": "<what you needed from it>"
+            },
+            "objective": "<the underlying goal>",
+            "rationale": "<what was right, wrong or missing>",
+            "tokens": [
+              "<feedbackToken of each result you rate>"
+            ]
+          }
+        }
+      }
+    ],
+    "creditsCost": 5
+  }
+}

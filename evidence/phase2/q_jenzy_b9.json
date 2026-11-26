@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://african-startups.com/news/funding/kili-ventures-makes-fourth-investment-backing-african-b2b-payments-startup-jenzy/",
+        "title": "Kili Ventures makes fourth investment, backing African B2B ...",
+        "description": "Kili Ventures, the venture capital firm, has made its fourth investment, backing Jenzy, the African B2B payments infrastructure startup. The investment amount ...",
+        "position": 1
+      },
+      {
+        "url": "https://www.startuplist.africa/startups/jenzy",
+        "title": "Jenzy: Company Profile, Funding & Investors",
+        "description": "Jenzy is a Cross-border Payments, FinTech and Payments Infrastructure company based in Ifo, Nigeria. Investors include Kili Ventures.",
+        "position": 2
+      },
+      {
+        "url": "https://www.propel.africa/org/kili-ventures",
+        "title": "Kili Ventures | Propel Africa",
+        "description": "Kili Ventures is an investment firm. Headquarters: Global. Investments or acquisitions. Jenzy · Venture Round · Sep 2026 ... NigeriaKenyaSouth AfricaEgyptGhana ...",
+        "position": 3
+      },
+      {
+        "url": "https://www.linkedin.com/company/jenzy-pay",
+        "title": "Jenzy",
+        "description": "Jenzy | 622 followers on LinkedIn. The reliability layer for cross ... Kili Ventures. Strategic Management Services. $ENIOLA. Blockchain Services. VOA ...",
+        "position": 4
+      },
+      {
+        "url": "https://capitalatlas.ai/funds/kili-ventures",
+        "title": "Kili Ventures: portfolio, investments and focus | Capital Atlas",
+        "description": "Kili Ventures is a private equity firm in Berlin ... Recent investments include Jenzy Systems Limited and Smartworks Coworking Spaces Private Limited.",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a2129e-26d6-722d-879f-883c24e32f5e"
+}

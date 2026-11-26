@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://slimepay.com/",
+        "title": "Slimepay Finance: crypto to naira payments",
+        "description": "Slimepay: The Now Solution Simplifying Cross-Border Payments, One Transaction at a Time. In Nigeria's fast-moving digital world, people are making moves across ...",
+        "position": 1
+      },
+      {
+        "url": "https://www.linkedin.com/company/slimepay-finance",
+        "title": "Slimepay Finance",
+        "description": "‎ ‎Our mission is simple: make getting paid in Africa instant, borderless, and reliable. Website: https://slimepay.com/. External link for Slimepay Finance.",
+        "position": 2
+      },
+      {
+        "url": "https://www.trustpilot.com/review/slimepay.com",
+        "title": "Read Customer Service Reviews of slimepay.com",
+        "description": "Contact info. Port Harcourt, Nigeria. support@slimepay.com · slimepay.com. 4.2. Great. TrustScore 4 out of 5. 9 reviews. 5-star. 4-star. 3-star.",
+        "position": 3
+      },
+      {
+        "url": "https://www.startuplist.africa/startups/slimepay",
+        "title": "Slimepay: Company Profile, Funding & Investors",
+        "description": "Slimepay is a FinTech and Blockchain company based in Nigeria, Nigeria ... Website: slimepay.com ↗. Sectors: Blockchain · FinTech. Status ...",
+        "position": 4
+      },
+      {
+        "url": "https://slimepay.com/legal/terms-and-conditions",
+        "title": "slimepay limited terms & conditions",
+        "description": "All transmission of digital assets and naira is assented by Slimepay Limited, a company incorporated under the laws of the Federal Republic of ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a2129e-05d9-7176-9927-c70778a624c2"
+}

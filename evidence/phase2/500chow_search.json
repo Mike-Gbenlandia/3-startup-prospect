@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.500chow.com/blog",
+        "title": "Our Blogs",
+        "description": "Nigeria's ChowCentral is one of three African startups in Y Combinator's Summer 2023 batch ... © 2025, 500chow Technologies Limited. Privacy policyTerms & ...",
+        "position": 1
+      },
+      {
+        "url": "https://pitchbook.com/profiles/company/512729-65",
+        "title": "500Chow 2026 Company Profile: Valuation, Funding & Investors",
+        "description": "Information on valuation, funding, cap tables, investors, and executives for 500Chow. Use the PitchBook Platform to explore the full profile.",
+        "position": 2
+      },
+      {
+        "url": "https://www.caplight.com/company/500chow",
+        "title": "Chow Central Inc Valuation & Funding History",
+        "description": "Chow Central Inc is a food and beverage company that operates delivery-centric quick-service restaurant chains, including the 500Chow brand, in Nigeria.",
+        "position": 3
+      },
+      {
+        "url": "https://www.ycombinator.com/companies/chow-central-inc",
+        "title": "Chow Central Inc: Asset Light Chipotle for Africa",
+        "description": "### Asset Light Chipotle for Africa\nChow Central has launched its first product \"500chow\".",
+        "position": 4
+      },
+      {
+        "url": "https://www.reveliolabs.com/companies/500chow/employees",
+        "title": "500Chow Number of Employees 2026",
+        "description": "500Chow had 35 employees as of March 2026, down 11 (-9.2%) from the prior year. Headcount, salary, location, and hiring trends from Revelio Labs.",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a21344-c16f-7119-9a78-4dd06dfcaf04"
+}

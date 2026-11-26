@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.hadu.app/articles/gpvn3PMrpsZFpGSZt",
+        "title": "Nigerian AI Startup Intron Health Secures USD 1.6 M Pre-Seed Round",
+        "description": "Intron Health raises USD 1.6 million in a pre-seed funding round led by Microtraction. · The startup provides speech-to-text transcription tools ...",
+        "position": 1
+      },
+      {
+        "url": "https://msmeafricaonline.com/intron-health-secures-1-6m-to-transform-african-healthcare-with-ai/",
+        "title": "Intron Health Secures $1.6M to Transform African Healthcare with AI",
+        "description": "... raised $1.6 million in pre-seed funding. The round was led by Microtraction, with contributions from Plug and Play Ventures, Jaza Rift Ventures,",
+        "position": 2
+      },
+      {
+        "url": "https://weetracker.com/2024/07/26/nigeria-healthtech-intron-health-1-6m-fundraise/intron/",
+        "title": "Nigerian AI Startup Intron Health Secures USD 1.6 M Pre-Seed Round",
+        "description": "Nigerian AI Startup Intron Health Secures USD 1.6 M Pre-Seed Round. By. WT Data Labs. | July 26, 2024. Nigerian AI Startup Intron Health ...",
+        "position": 3
+      },
+      {
+        "url": "https://www.hadu.app/articles/BJhFWcB3aud75XtZn",
+        "title": "Intron Health secures $1.6M in pre-seed funding to advance its AI tech - Hadu",
+        "description": "Intron Health raises $1.6 million in pre-seed funding to advance its AI technology. The funding will be used to enhance research efforts, ...",
+        "position": 4
+      },
+      {
+        "url": "https://techbuild.africa/intron-health-closes-1-6m-ai-global-health/",
+        "title": "Intron Health Closes $1.6M To Drive AI Capabilities For Global Health",
+        "description": "... raised $1.6M in a pre-seed funding round. The round was led by Microtraction, with participation from Plug and Play Ventures, Jaza Rift Ventures, Octopus ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a2128e-cf50-7617-b6ff-4969c745f9c3"
+}

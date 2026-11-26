@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://uwanaconnect.com/",
+        "title": "Uwana Energy",
+        "description": "Nigeria's most trusted solar marketplace. Tell us what you want to ... © 2026 Uwana Energy Nigeria Limited. RC 1653731. All rights reserved. Terms ...",
+        "position": 1
+      },
+      {
+        "url": "https://www.instagram.com/uwanaenergy/?hl=en",
+        "title": "Uwana Energy - Simplified Solar (@uwanaenergy) · Ikoyi",
+        "description": "Owning a solar system in Nigeria just got easier. With Uwana Energy, you don't ...",
+        "position": 2
+      },
+      {
+        "url": "https://www.startup-energy-transition.com/set100-database/uwana-energy-nigeria-ltd-uwana-energy-inc-u-s-parent/",
+        "title": "Uwana Energy Nigeria Ltd / Uwana Energy Inc. (U.S parent)",
+        "description": "Uwana Energy provides an ecosystem for clean energy installers and end users to thrive. We're building Africa's clean energy facilitator with UwanaConnect, ...",
+        "position": 3
+      },
+      {
+        "url": "https://ng.linkedin.com/company/uwana-energy",
+        "title": "Uwana Energy",
+        "description": "Website: https://www.uwanaconnect.com/. External link for Uwana Energy ; Industry: Climate Technology Product Manufacturing ; Company size: 2-10 employees.",
+        "position": 4
+      },
+      {
+        "url": "https://vc4a.com/ventures/uwana-energy/team/",
+        "title": "Uwana Energy",
+        "description": "Uwana Energy powers small businesses and residences with affordable solar power boxes, enabling customers to drastically reduce their time and money expend ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a21299-d03e-74e8-b534-01bcacccd119"
+}

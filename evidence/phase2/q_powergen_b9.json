@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.techinafrica.com/powergen-raises-50m-scale-renewable-energy-kenya/?ref=blackexecutivebrief.com",
+        "title": "PowerGen Raises $50M to Scale Renewable Energy in Kenya",
+        "description": "PowerGen's Plans to Expand Energy Access in Kenya. PowerGen ... This funding milestone positions PowerGen to ... LemFi's Series B follows a $33 million Series A ...",
+        "position": 1
+      },
+      {
+        "url": "https://powergen-renewable-energy.com/",
+        "title": "PowerGen Renewable Energy | Sustainable Power Solutions",
+        "description": "PowerGen Renewable Energy delivers reliable, sustainable power solutions, expanding access to clean energy for communities and businesses.",
+        "position": 2
+      },
+      {
+        "url": "https://www.africamda.org/one-on-one-with-alastair-smith-ceo-powergen-nigeria/",
+        "title": "One-on-One with Alastair Smith, CEO PowerGen Nigeria - AMDA",
+        "description": "How are you planning to use this financing and what is the role of PowerGen? ... Headquarters (HQ): Nairobi, Kenya · Regional Office: Abuja, ...",
+        "position": 3
+      },
+      {
+        "url": "https://www.dobequity.nl/dob-equity-powergen",
+        "title": "PowerGen — DOB Equity",
+        "description": "PowerGen completes first close of $4.5million Series A from DOB Equity. December 1, 2016. PowerGen completes first close of $4.5million Series A from DOB Equity.",
+        "position": 4
+      },
+      {
+        "url": "https://www.renewableenergyworld.com/power-grid/microgrid/shell-invests-in-african-microgrid-developer-powergen-renewable-energy/",
+        "title": "Shell invests in African microgrid developer PowerGen Renewable ...",
+        "description": "The company said the funds will strengthen PowerGen's position in ... This round of funding follows a Series A round closed in December ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a2129d-f4c2-7365-b0c8-7b776b0c3603"
+}

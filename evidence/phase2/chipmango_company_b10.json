@@ -1,0 +1,34 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "markdown": "[![logo](https://chipmango.com/assets/images/new-logo.png)](https://chipmango.com/)\n\n[![logo](https://chipmango.com/assets/images/new-logo.png)](https://chipmango.com/)\n\n[Home](https://chipmango.com/)\n\nPartners\n\nAbout Us\n\nOur Services\n\n[Newsroom](https://chipmango.com/newsroom)\n\n[Join Us →](https://learn.chipmango.com/auth)\n\n### We turn talent challenges into growth by scaling real-world skills with partners.\n\n200,000+300,000+\n\nTrained by 2030\n\n## Mission\n\nWe're on a mission to unlock access to microchip design and STEM learning, giving anyone, anywhere, the tools to build, innovate, and lead in the technologies that shape our world.\n\n## Vision\n\nTo build a world-class, connected talent ecosystem that bridges the gap between technical education and real-world application\n\n## Our leadership team\n\nAt ChipMango, we're builders and learners who believe continuous learning\n\nunlocks opportunity and drives real impact.\n\n![Ola Fadiran](https://chipmango.com/assets/images/ola.png)\n\nOla Fadiran\n\nCEO & FOUNDER\n\n![Jovan Andjelich](https://chipmango.com/assets/images/jovan.png)\n\nJovan Andjelich\n\nCOO & CO-FOUNDER\n\n## Senior Advisory Board\n\n![Mark DeGennaro](https://chipmango.com/assets/images/place.png)\n\nMark DeGennaro\n\n![logo](https://chipmango.com/assets/images/new-logo.png)\n\n- [Home](https://chipmango.com/)\n- [About Us](https://chipmango.com/company)\n- [Services](https://chipmangods.com/)\n- [Newsroom](https://chipmango.com/newsroom)\n- [Policies](https://chipmango.com/terms-conditions)\n\n[Terms & Conditions](https://chipmango.com/terms-conditions)\n\n[X](https://x.com/ChipMangoHQ)[LinkedIn](https://www.linkedin.com/company/chipmango1/)\n\n© 2026 ChipMango. All rights reserved.\n\n![Mango AI](https://chipmango.com/assets/images/chipmango-toggle-logo.svg)",
+    "metadata": {
+      "language": "en",
+      "viewport": "width=device-width, height=device-height,  initial-scale=1.0,user-scalable=0",
+      "title": "ChipMango",
+      "favicon": "https://chipmango.com/assets/images/favicon.svg",
+      "scrapeId": "01a212a3-2b26-7102-81c4-a9616be5d7d7",
+      "sourceURL": "https://chipmango.com/company",
+      "url": "https://chipmango.com/company",
+      "statusCode": 200,
+      "contentType": "text/html; charset=utf-8",
+      "timezone": "America/New_York",
+      "proxyUsed": "basic",
+      "cacheState": "miss",
+      "indexId": "8b65d7e9-f177-49f5-b1f4-b20bb6a2588d",
+      "creditsUsed": 1,
+      "concurrencyLimited": false
+    },
+    "links": [
+      "https://chipmango.com/",
+      "https://chipmango.com/newsroom",
+      "https://learn.chipmango.com/auth",
+      "https://chipmango.com/company",
+      "https://chipmangods.com/",
+      "https://chipmango.com/terms-conditions",
+      "https://x.com/ChipMangoHQ",
+      "https://www.linkedin.com/company/chipmango1/"
+    ]
+  }
+}

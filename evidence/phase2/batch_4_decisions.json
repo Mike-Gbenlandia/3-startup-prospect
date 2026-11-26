@@ -1,0 +1,196 @@
+[
+  {
+    "name": "Zannytecture",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "NiYA-Cascador Non-dilutive Grant",
+    "amount": "NGN 1M (~$742)",
+    "announced_date": "2026-11-10",
+    "investors": "Cascador / Nigerian Youth Academy (NiYA) / Federal Ministry of Youth Development",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/zannytecture-grant-1m-ngn-87be0fd"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/zannytecture_dfbc0fd5d8.md"
+    ]
+  },
+  {
+    "name": "Drych Digital",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "NiYA-Cascador Non-dilutive Grant",
+    "amount": "NGN 1M (~$742)",
+    "announced_date": "2026-11-10",
+    "investors": "Cascador / Nigerian Youth Academy (NiYA) / Federal Ministry of Youth Development",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/drych-digital-grant-1m-ngn-6acd88b"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/drych_digital_8c8790f64c.md"
+    ]
+  },
+  {
+    "name": "Craft Planet",
+    "website": "https://craftplanet.org/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "NiYA-Cascador Non-dilutive Grant",
+    "amount": "NGN 5M (~$3,711)",
+    "announced_date": "2026-11-10",
+    "investors": "Cascador / Nigerian Youth Academy (NiYA) / Federal Ministry of Youth Development",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/craft-planet-grant-5m-ngn-624c65a",
+      "https://techcabal.com/2026/11/10/cascador-niya-select-eight-founders/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/craft_planet_758423b5d5.md",
+      "evidence/phase2/shellify_7b972c7cf9.md"
+    ]
+  },
+  {
+    "name": "Rekool",
+    "website": "https://rekool.ng/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "NiYA-Cascador Non-dilutive Grant",
+    "amount": "NGN 5M (~$3,711)",
+    "announced_date": "2026-11-10",
+    "investors": "Cascador / Nigerian Youth Academy (NiYA) / Federal Ministry of Youth Development",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/rekool-grant-5m-ngn-7b3b0c8",
+      "https://techcabal.com/2026/11/10/cascador-niya-select-eight-founders/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/rekool_e64539bef1.md",
+      "evidence/phase2/shellify_7b972c7cf9.md"
+    ]
+  },
+  {
+    "name": "SewPro",
+    "website": "https://www.sewpro.app/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "NiYA-Cascador Non-dilutive Grant",
+    "amount": "NGN 5M (~$3,711)",
+    "announced_date": "2026-11-10",
+    "investors": "Cascador / Nigerian Youth Academy (NiYA) / Federal Ministry of Youth Development",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/sewpro-grant-5m-ngn-e0fa5fa",
+      "https://techcabal.com/2026/11/10/cascador-niya-select-eight-founders/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/sewpro_49d2a3a46c.md",
+      "evidence/phase2/shellify_7b972c7cf9.md"
+    ]
+  },
+  {
+    "name": "Shellify",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "NiYA-Cascador Non-dilutive Grant",
+    "amount": "NGN 5M (~$3,711)",
+    "announced_date": "2026-11-10",
+    "investors": "Cascador / Nigerian Youth Academy (NiYA) / Federal Ministry of Youth Development",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://techcabal.com/2026/11/10/cascador-niya-select-eight-founders/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/shellify_7b972c7cf9.md"
+    ],
+    "notes": "TechCabal links founder LinkedIn: https://www.linkedin.com/in/lpt-khuzaifa-aminu-92ab321b3/"
+  },
+  {
+    "name": "Agrosavvy Consult",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "NiYA-Cascador Non-dilutive Grant",
+    "amount": "NGN 5M (~$3,711)",
+    "announced_date": "2026-11-10",
+    "investors": "Cascador / Nigerian Youth Academy (NiYA) / Federal Ministry of Youth Development",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://techcabal.com/2026/11/10/cascador-niya-select-eight-founders/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/shellify_7b972c7cf9.md"
+    ],
+    "notes": "TechCabal links Facebook page: https://www.facebook.com/100070778739771/posts/agrosavvy-consults-is-your-one-stop-service-provider-for-all-your-farm-and-garde/829467216089229/"
+  },
+  {
+    "name": "UfarmX",
+    "website": "https://www.ufarmx.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Headquartered in Columbia, Maryland, USA per TEDCO press release (backed by Maryland's TEDCO Social Impact Funds for Maryland companies); multi-country Africa ops (Senegal, Kenya, Liberia, Nigeria) rather than Nigerian HQ.",
+    "round_type_exact": "Pre-Seed",
+    "amount": "$250K",
+    "announced_date": "2026-11-09",
+    "investors": "TEDCO Pre-Seed Builder Fund",
+    "hq_location": "Columbia, Maryland, USA",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.tedcomd.com/press-release/tedco-invests-ufarmx",
+      "https://liners.com/ufarmx"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/tedco_ufarmx_35f073d330.md",
+      "evidence/phase2/ufarmx_3c5d8b15dc.md"
+    ]
+  },
+  {
+    "name": "Pharmarun",
+    "website": "https://www.pharmarun.africa/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Non-equity Grant (Zenith Bank Zecathon 6.0 3rd place)",
+    "amount": "NGN 15M (~$11.2K)",
+    "announced_date": "2026-11-19",
+    "investors": "Zenith Bank (Zecathon 6.0 / Beyond Limits Global)",
+    "hq_location": "Lagos, Nigeria (25 Nigerian cities)",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://liners.com/pharmarun",
+      "https://www.thisdaylive.com/2026/11/19/zenith-bank-unveils-n190m-zecathon-6-0-winners/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/pharmarun_fc062df2d1.md",
+      "evidence/phase2/zecathon_thisday_c99da60436.md"
+    ]
+  },
+  {
+    "name": "Niteon",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Non-equity Grant (Wema Bank Hackaholics 7.0 Grand Prize)",
+    "amount": "NGN 60M",
+    "announced_date": "2026-11-06",
+    "investors": "Wema Bank",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/niteon-grant-60m-ngn-fdbdde3"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/niteon_sl_a4b50a5d2f.md"
+    ],
+    "notes": "Earlier pre-seed on 2025-08-08 (Tomi Davies, Seedstars); latest award NGN 60M grand prize on 2026-11-06."
+  }
+]

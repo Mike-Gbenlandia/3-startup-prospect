@@ -1,0 +1,39 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.linkedin.com/in/ola-fadiran",
+        "title": "Ola Fadiran - Advancing AI Microchip Design Workforce Development in ...",
+        "description": "Experience · Founder & CEO. ChipMango. Jul 2024 - Present 2 years 5 months · Various Roles. Boeing. Jul 2018 - Jul 2024 6 years 1 month · Various Roles. Intel ...",
+        "position": 1
+      },
+      {
+        "url": "https://blackbusinessreview.net/ola-fadiran-chipmango-semiconductor-funding/",
+        "title": "Ola Fadiran's Exclusive $1.9 Million Fight for African Talent",
+        "description": "Ola Fadiran Raises $1.9 Million to Build an African Semiconductor Talent Pipeline for the Global Chip Industry ... ChipMango's seed round could help position ...",
+        "position": 2
+      },
+      {
+        "url": "https://www.instagram.com/reel/DOYTNAhithI/",
+        "title": "Ola Fadiran, CEO, ChipMango At @gitexnigeria , this vision came alive. ...",
+        "position": 3
+      },
+      {
+        "url": "https://www.arm.com/partners/catalog/chipmango-company",
+        "title": "ChipMango Company",
+        "description": "# ChipMango Company\nChipMango is building scalable, future-ready semiconductor workforce, combining AI-enabled technical education with Arm's leading Cortex architecture.\n\n- ![](https://www.arm.com/-/media/arm-com/partner%20ecosystem/badgeicons/training.png?rev=adc1ba16c33c45aeb6fd64bb7d9c59bd&revision=adc1ba16-c33c-45ae-b6fd-64bb7d9c59bd&la=en&h=910&w=910&hash=D5C90C4134D5AD6782D8F4C86203FE6B)\n\n## Contacts at ChipMango Company\n![ChipMango Company contact: Ola Fadiran](https://www.arm.com/-/media/global/why%20arm/partner/partner%20ecosystem/catalog/chipmango-company/representatives/ola_hs_small.jpeg?rev=1369e5be708f478b8bb2d3261884d114&revision=1369e5be-708f-478b-8bb2-d3261884d114&la=en&h=64&w=44&hash=745187D2783275BBA4FBDABC2BBF3EC4)\n\nOla Fadiran",
+        "position": 4
+      },
+      {
+        "url": "https://www.instagram.com/p/DNxuXDuVNzj/",
+        "title": "Ola Fadiran Leading the charge in Africa's semiconductor revolution is ...",
+        "description": "Leading the charge in Africa's semiconductor revolution is Ola Fadiran, Founder & CEO of ChipMango. ... Digital Nigeria Pavilion, GITEX Nigeria ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a212a0-1e34-74d1-9c93-facd01fcace0"
+}

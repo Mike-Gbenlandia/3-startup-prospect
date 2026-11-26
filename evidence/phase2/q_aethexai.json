@@ -1,0 +1,39 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://uk.linkedin.com/company/www.aethexai.com",
+        "title": "AethexAI",
+        "description": "Website https://www.aethexai.com/ Lagos last week, alongside founders, Lagos, Lagos Model ML Technology, Information and Internet",
+        "position": 1
+      },
+      {
+        "url": "https://aethexai.com/",
+        "title": "Aethex AI | The Voice Stack for Emerging Markets",
+        "description": "Senegal",
+        "position": 2
+      },
+      {
+        "url": "https://www.linkedin.com/posts/ayooluwaodemuyiwa_a-closer-look-at-aethexais-enterprise-platform-activity-7468242554921295872-vwNF",
+        "title": "Ayooluwa Odemuyiwa's Post - AethexAI",
+        "position": 3
+      },
+      {
+        "url": "https://www.instagram.com/p/DZX4cWDk2yU/",
+        "title": "AethexAI has raised $3 million in pre-seed funding to build voice AI infrastructure for Africa ...",
+        "description": "Founded by Mariama Diallo and Ayooluwa Odemuyiwa. Ayooluwa Odemuyiwa, Co-founder and CTO of @aethexai . AethexAI is building conversational AI ...",
+        "position": 4
+      },
+      {
+        "url": "https://aethexai.com/blog",
+        "title": "Aethex AI | The Voice Stack for Emerging Markets",
+        "description": "AethexAI is ISO 27001 certified, follows GDPR-compliant practices, and is PCI DSS compliant. Moonshot 2026 Wrapped: two days in Lagos with the Aethex team.",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a2128e-e37d-76a8-ae7a-49aa85714c17"
+}

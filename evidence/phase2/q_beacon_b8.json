@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://partechpartners.com/news/beacon-power-services-secures-series-a-funding-to-accelerate-sustainable-data-driven-solutions-for-africas-power-sector",
+        "title": "Beacon Power Services Secures Series A Funding to Accelerate ...",
+        "description": "Beacon Power Services Secures Series A Funding to Accelerate Sustainable Data-Driven Solutions for Africa’s Power Sector\n\n# Beacon Power Services Secures Series A Funding to Accelerate Sustainable Data-Driven Solutions for Africa’s Power Sector\n##### Share\n**Accra, November 7, 2024** – Beacon Power Services (BPS), an energy tech company providing data and grid management solutions to help Africa’s power sector distribute electricity more efficiently, today announced the closing of a Series A financing round for an undisclosed amount.",
+        "position": 1
+      },
+      {
+        "url": "https://techpoint.africa/news/beacon-power-gets-funding-partech/",
+        "title": "Beacon Power gets Series A funding from Partech to expand into Eastern ...",
+        "description": "Beacon Power Services, a Nigerian energy startup, has raised undisclosed funds in a Series A financing round led by global VC firm Partech ...",
+        "position": 2
+      },
+      {
+        "url": "https://weetracker.com/2024/11/19/beacon-power-services-series-a-funding/",
+        "title": "Nigeria's Beacon Power Services Secures Series A Funding",
+        "description": "Beacon Power Services announces Series A funding led by Partech, with participation from global investors, to expand its energy solutions.",
+        "position": 3
+      },
+      {
+        "url": "https://www.crunchbase.com/organization/beacon-power-services",
+        "title": "Beacon Power Services - Crunchbase Company Profile & Funding",
+        "description": "Series A. obfuscated. OBF. in. obfuscated. obfuscation. View all 5 rounds. Key ... Beacon Power Services closed its last funding round on. obfuscated.",
+        "position": 4
+      },
+      {
+        "url": "https://www.finnfund.fi/en/hankkeet/beacon-power-services/",
+        "title": "Beacon Power Services",
+        "description": "Investment details. Name: Beacon Power Services. Project number: 80000500. Region: Africa. Country: Nigeria ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a2129c-1051-75f1-afb8-da102de18741"
+}

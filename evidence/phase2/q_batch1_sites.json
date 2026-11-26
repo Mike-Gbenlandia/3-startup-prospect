@@ -1,0 +1,39 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://ubuntuadvisorygroup.com/news/",
+        "title": "African Startup & Technology News | Ubuntu Advisory",
+        "description": "8 Nigerian Startups Get USD 800 K Through iDICE Growth Lab. GoDash, Telios, Vantrace, KrosAI, Leaflet, Lenol, 360gadgetsafrica, and SavvyBee have been selected ...",
+        "position": 1
+      },
+      {
+        "url": "https://360gadgetsafrica.com/?srsltid=AYCX9vJGEhLClOrHF5caNZ84_AJeJXRjcy0l9Vt8z4naRP3RJcPGVFbr",
+        "title": "360GadgetsAfrica: Buy, repair, trade-in & get gadgets with Gadget ...",
+        "description": "One platform to buy verified gadgets, book certified repairs, access Gadget Save and value added services in Nigeria. (302) 556-0604",
+        "position": 2
+      },
+      {
+        "url": "https://www.facebook.com/360gadgetsafrica/",
+        "title": "360gadgetsafrica | Ikeja",
+        "description": "Visit Website to Shop ☎️ 07057221476. Get your iPhone 15 from 360 Gadgets Africa, with nationwide delivery available. 💙 Shop now at at our website and app.",
+        "position": 3
+      },
+      {
+        "url": "https://www.trustpilot.com/review/360gadgetsafrica.com",
+        "title": "Read Customer Service Reviews of 360gadgetsafrica.com",
+        "description": "Contact info · No 11, Olufunmilayo Okikiolu Street, Off Toyin Street, Ikeja, Lagos State, Nigeria., 102272, Lagos, Nigeria · 07057221476 · Hello@360gadgetsafrica.",
+        "position": 4
+      },
+      {
+        "url": "https://www.facebook.com/360gadgetsafrica/videos/new-week-new-goals-new-gadgets-before-you-buy-your-next-phone-laptop-or-tech-acc/2496798480834766/",
+        "title": "New week. New goals. New gadgets?  Before you buy your next phone ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a2128e-f818-7508-b05f-b3162950cdbe"
+}

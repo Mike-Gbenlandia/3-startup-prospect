@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.startuplist.africa/startups/rise-of-fearless",
+        "title": "Rise of Fearless: Company Profile, Funding & Investors",
+        "description": "## Frequently asked about Rise of Fearless\nRise of Fearless is listed as Ethiopian-founded.",
+        "position": 1
+      },
+      {
+        "url": "https://www.bizcommunity.com/article/african-gaming-startup-rise-of-fearless-raises-r165m-to-scale-mobile-game-globally-528840a",
+        "title": "African gaming startup Rise of Fearless raises R16.5m to scale ...",
+        "description": "# African gaming startup Rise of Fearless raises R16.5m to scale mobile game globally\nIt has recorded more than 15,000 downloads, with its largest player communities in Nigeria, Ethiopia and South Africa.",
+        "position": 2
+      },
+      {
+        "url": "https://leadprysm.com/location/ethiopia",
+        "title": "Startups in Ethiopia that raised under $5M - LeadPrysm",
+        "description": "Media, Gaming & Creator · Ethiopia. $1 million. Nov 3, 2026. Rise of Fearless. Media, Gaming & Creator · Ethiopia. $1 million. Nov 3, 2026.",
+        "position": 3
+      },
+      {
+        "url": "https://nl.linkedin.com/company/epicedgescapital",
+        "title": "Epic Edges Capital",
+        "description": "Organisatiepagina weergeven voor Epic Edges Capital. Epic Edges Capital ... Ethiopia, we signed ... Rise Of Fearless. Mobiele gaming-apps · The Modern ...",
+        "position": 4
+      },
+      {
+        "url": "https://x.com/AfriFintech/status/2122251575758590097",
+        "title": "AFTS Welcomed Kigali International Financial Centre (KIFC) CEO as ...",
+        "description": "Rise of Fearless raises $1 million from Epic Edges Capital to strengthen its team, technology, and global ambitions. Nigeria: Okra Solar ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a2134b-0064-7298-9798-2182fa45836e"
+}

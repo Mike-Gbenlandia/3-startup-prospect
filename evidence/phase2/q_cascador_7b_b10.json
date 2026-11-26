@@ -1,0 +1,39 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://pitchbook.com/profiles/company/1489177-27",
+        "title": "Tulay Africa 2026 Company Profile: Valuation, Funding & Investors",
+        "description": "Information on valuation, funding, cap tables, investors, and executives for Tulay Africa. Use the PitchBook Platform to explore the full profile.",
+        "position": 1
+      },
+      {
+        "url": "https://tracxn.com/d/companies/maanj-agric/__RI-V7o6gewqIRhJ_j3kLY2tmO7_TVsUEdzyKLMFySQ0",
+        "title": "Maanj Agric - 2026 Company Profile & Competitors",
+        "description": "It operates as a Company that aims to build a sustainable food production and distribution network. Maanj Agric has not raised any funding yet ...",
+        "position": 2
+      },
+      {
+        "url": "https://www.linkedin.com/company/maanj-agric",
+        "title": "Maanj Agric",
+        "description": "Maanj Agric (founded 2022) builds efficient market systems to ensure ... Tulay Africa, Maanj Agric, and Finger Chops Ventures. Full press release ...",
+        "position": 3
+      },
+      {
+        "url": "https://www.instagram.com/p/Dcy0xcZDbJH/?__d=1impressum",
+        "title": "A Significant Milestone for Maanj Agric. We are pleased to announce that ...",
+        "description": "We are pleased to announce that Maanj Agric has been selected among the Top 10 businesses for the @cascador_africa 2026 Scale-Up Cohort, from ...",
+        "position": 4
+      },
+      {
+        "url": "https://www.linkedin.com/posts/cascadornigeria_cascador-scaleup2026-sitevisit-activity-7506288467656654848-Ib5A",
+        "title": "Tulay Africa builds Africa's critical minerals supply infrastructure",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a212a0-53c7-7346-846b-f51b04dd59ee"
+}

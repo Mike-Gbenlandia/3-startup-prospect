@@ -1,0 +1,296 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "scrape_id": "01a20e0c-7e07-749d-8245-629c1ad22501",
+  "data": {
+    "alexandria": [
+      {
+        "provider": "fireround",
+        "capability": "rounds/search",
+        "creditsCost": 5,
+        "data": {
+          "data": [
+            {
+              "id": "vatar:pre_seed:2026-10-09",
+              "url": "https://fireround.dev/companies/vatar",
+              "company": {
+                "name": "Vatar",
+                "domain": "vatar.com",
+                "website": "https://vatar.com",
+                "description": "Vatar builds social worlds inspired by real cities; its first, Lagos Life, is a free multiplayer browser game set in Lagos.",
+                "sector": "media and gaming",
+                "headquarters": "Nigerian"
+              },
+              "stage": "pre_seed",
+              "stage_as_written": "Pre-seed",
+              "amount": {
+                "usd_millions": 0.5,
+                "as_written": "$500,000",
+                "currency": "USD"
+              },
+              "valuation": "$10 million",
+              "valuation_disclosed": true,
+              "total_as_written": null,
+              "announced_on": "2026-10-09",
+              "date_precision": "day",
+              "certainty": "announced",
+              "verified": true,
+              "provisional": false,
+              "earlier_round": false,
+              "is_extension": false,
+              "lead_investors": [],
+              "other_investors": [
+                "Abdulhamid Hassan",
+                "Nathan Nwachuku",
+                "Oo Nwoye",
+                "Resilience17"
+              ],
+              "evidence": "Vatar Inc., the company behind the viral Nigerian browser game Lagos Life, has closed a $500,000 pre-seed round at a $10 million valuation three days after incorporation, according to a company statement.",
+              "primary_source": null,
+              "sources": [
+                {
+                  "url": "https://aidiscoveries.io/lagos-life-game-company-vatar-raises-500000-in-pre-seed-funding-at-10-million-valuation",
+                  "title": "Lagos Life Game Company Vatar Raises $500,000 in Pre-Seed Funding at $10 Million Valuation - AI Discoveries",
+                  "publisher": "aidiscoveries.io",
+                  "published": "2026-10-09"
+                },
+                {
+                  "url": "https://businessday.ng/technology/article/flutterwave-ceo-tech-founders-bet-500000-on-lagos-life-maker-as-viral-game-drives-10m-valuation/?amp",
+                  "title": "Flutterwave CEO, tech founders bet $500,000 on Lagos Life maker as viral game drives $10m valuation",
+                  "publisher": "businessday.ng",
+                  "published": "2026-10-09"
+                },
+                {
+                  "url": "https://businesspost.ng/technology/viral-lagos-life-developer-vatar-raises-500000-at-10m-valuation",
+                  "title": "Viral Lagos Life Developer Vatar Raises $500,000 at $10m Valuation |",
+                  "publisher": "businesspost.ng",
+                  "published": "2026-10-09"
+                }
+              ],
+              "source_count": 15,
+              "trending": null,
+              "previous_rounds": []
+            },
+            {
+              "id": "castelion:series_c:2026-08-19",
+              "url": "https://fireround.dev/companies/castelion",
+              "company": {
+                "name": "Castelion",
+                "domain": "castelion.com",
+                "website": "https://castelion.com",
+                "description": "a hypersonic missile company",
+                "sector": "defense",
+                "headquarters": "Torrance, California"
+              },
+              "stage": "series_c",
+              "stage_as_written": "Series C",
+              "amount": {
+                "usd_millions": 1000,
+                "as_written": "$1 billion",
+                "currency": "USD"
+              },
+              "valuation": "$13 billion",
+              "valuation_disclosed": true,
+              "total_as_written": "$1 billion",
+              "announced_on": "2026-08-19",
+              "date_precision": "day",
+              "certainty": "announced",
+              "verified": true,
+              "provisional": false,
+              "earlier_round": true,
+              "is_extension": false,
+              "lead_investors": [
+                "Andreessen Horowitz",
+                "global investment firm Carlyle",
+                "JPMorganChase's Strategic Investment Group"
+              ],
+              "other_investors": [
+                "Altimeter Capital",
+                "General Catalyst",
+                "Interlagos",
+                "Lavrock Ventures",
+                "Lightspeed",
+                "T. Rowe Price"
+              ],
+              "evidence": "Castelion, a cutting-edge defense technology company working to restore America’s conventional deterrence capability, today announced a $1 billion Series C fundraise.",
+              "primary_source": {
+                "url": "https://www.castelion.com/news/series-c",
+                "kind": "company"
+              },
+              "sources": [
+                {
+                  "url": "https://www.castelion.com/news/series-c",
+                  "title": "Castelion Raises $1B Series C to Scale Production of Low-Cost Hypersonic Weapons - Castelion",
+                  "publisher": "castelion.com",
+                  "published": "2026-08-19"
+                },
+                {
+                  "url": "https://spacenews.com/hypersonic-missile-startup-castelion-raises-1-billion",
+                  "title": "Hypersonic missile startup Castelion raises $1 billion",
+                  "publisher": "spacenews.com",
+                  "published": "2026-08-19"
+                },
+                {
+                  "url": "https://finance.yahoo.com/technology/articles/castelion-raises-1-billion-series-131046068.html",
+                  "title": "Castelion raises $1 billion Series C for hypersonic missiles",
+                  "publisher": "finance.yahoo.com",
+                  "published": "2026-09-18"
+                }
+              ],
+              "source_count": 4,
+              "trending": null,
+              "previous_rounds": [
+                {
+                  "id": "castelion:series_b:2025-12-05",
+                  "stage": "series_b",
+                  "stage_as_written": "Series B",
+                  "amount": {
+                    "usd_millions": 350,
+                    "as_written": "$350 million"
+                  },
+                  "announced_on": "2025-12-05",
+                  "lead_investors": [
+                    "Altimeter Capital",
+                    "Lightspeed"
+                  ],
+                  "url": "https://www.prnewswire.com/news-releases/castelion-closes-350-million-series-b-to-mass-produce-us-hypersonic-weapons-302633732.html"
+                },
+                {
+                  "id": "castelion:series_a:2025-01-29",
+                  "stage": "series_a",
+                  "stage_as_written": "Series A",
+                  "amount": {
+                    "usd_millions": 70,
+                    "as_written": "$70M"
+                  },
+                  "announced_on": "2025-01-29",
+                  "lead_investors": [
+                    "Lightspeed"
+                  ],
+                  "url": "https://www.castelion.com/news/castelion-announces-series-a-funding"
+                },
+                {
+                  "id": "castelion:seed:2023-10-05",
+                  "stage": "seed",
+                  "stage_as_written": "Series Seed",
+                  "amount": {
+                    "usd_millions": 14.2,
+                    "as_written": "$14.2 million"
+                  },
+                  "announced_on": "2023-10-05",
+                  "lead_investors": [
+                    "Andreessen Horowitz",
+                    "Lavrock Ventures"
+                  ],
+                  "url": "https://www.wsgr.com/en/insights/wilson-sonsini-advises-a16z-on-castelions-dollar142-million-series-seed-funding.html"
+                }
+              ]
+            },
+            {
+              "id": "neros:series_c:2026-08-11",
+              "url": "https://fireround.dev/companies/neros.tech",
+              "company": {
+                "name": "Neros Technologies",
+                "domain": "neros.tech",
+                "website": "https://neros.tech",
+                "description": "Neros sells robotic defense systems, including drones and associated ground control equipment, primarily for military applications.",
+                "sector": "defense",
+                "headquarters": "Torrance, California"
+              },
+              "stage": "series_c",
+              "stage_as_written": "Series C",
+              "amount": {
+                "usd_millions": 250,
+                "as_written": "$250M",
+                "currency": "USD"
+              },
+              "valuation": "$2.5B post-money",
+              "valuation_disclosed": true,
+              "total_as_written": null,
+              "announced_on": "2026-08-11",
+              "date_precision": "day",
+              "certainty": "announced",
+              "verified": true,
+              "provisional": false,
+              "earlier_round": true,
+              "is_extension": false,
+              "lead_investors": [
+                "American Strategic Technology Fund (ASTF)",
+                "Sequoia Capital"
+              ],
+              "other_investors": [
+                "Allen & Co",
+                "Dylan Field",
+                "Interlagos",
+                "Spark Capital",
+                "Thiel Capital",
+                "Valor Equity Partners"
+              ],
+              "evidence": "Neros Technologies has announced a $250M Series C at a post money valuation of $2.5B co-led by Sequoia Capital and American Strategic Technology Fund (ASTF)...",
+              "primary_source": {
+                "url": "https://www.neros.tech/articles/neros-raises-250m-series-c-at-2-5b-valuation-to-scale-autonomous-and-interceptor-drone-programs",
+                "kind": "company"
+              },
+              "sources": [
+                {
+                  "url": "https://www.neros.tech/articles/neros-raises-250m-series-c-at-2-5b-valuation-to-scale-autonomous-and-interceptor-drone-programs",
+                  "title": "Neros Raises $250M Series C at $2.5B Valuation to Scale Autonomous and Interceptor Drone Programs - Neros",
+                  "publisher": "neros.tech",
+                  "published": "2026-08-11"
+                },
+                {
+                  "url": "https://www.briefs.co/news/neros-raises-250m-triples-worth-to-2-5b",
+                  "title": "Neros Raises $250M, Triples Valuation to $2.5B",
+                  "publisher": "briefs.co",
+                  "published": "2026-08-11"
+                }
+              ],
+              "source_count": 2,
+              "trending": null,
+              "previous_rounds": [
+                {
+                  "id": "neros:series_b:2025-11-10",
+                  "stage": "series_b",
+                  "stage_as_written": "Series B",
+                  "amount": {
+                    "usd_millions": 75,
+                    "as_written": "$75M"
+                  },
+                  "announced_on": "2025-11-10",
+                  "lead_investors": [
+                    "Sequoia Capital"
+                  ],
+                  "url": "https://www.neros.tech/articles/neros-closes-75m-series-b-fundraise-led-by-sequoia-capital"
+                }
+              ]
+            }
+          ],
+          "next_cursor": null
+        },
+        "records": 3,
+        "upstreamStatus": 200,
+        "alexandriaId": "2f3550a85a13e286a690ca865595e62e4222f2b29c8741294955441314d83ed5",
+        "providerRequestId": "8bebb109-894f-4c42-8954-0e6289581560",
+        "feedbackToken": "v1.WyIyZjM1NTBhODVhMTNlMjg2YTY5MGNhODY1NTk1ZTYyZTQyMjJmMmIyOWM4NzQxMjk0OTU1NDQxMzE0ZDgzZWQ1IiwiZmlyZXJvdW5kIiwicm91bmRzL3NlYXJjaCIsMTc5NTUzMjAyOV0.l2GnHBDiUY16O6ObZ4WNKw",
+        "nextStep": {
+          "instruction": "Next step: before you answer the user, rate this result with POST /v2/feedback (good, partial or bad, and what was missing). It refunds 1 credit, once per call, up to a daily limit.",
+          "request": "POST /v2/feedback",
+          "body": {
+            "endpoint": "alexandria",
+            "rating": "<good|partial|bad>",
+            "requestedWebsite": {
+              "url": "<website the data is about>",
+              "requestedFunctionality": "<what you needed from it>"
+            },
+            "objective": "<the underlying goal>",
+            "rationale": "<what was right, wrong or missing>",
+            "tokens": [
+              "<feedbackToken of each result you rate>"
+            ]
+          }
+        }
+      }
+    ],
+    "creditsCost": 5
+  }
+}

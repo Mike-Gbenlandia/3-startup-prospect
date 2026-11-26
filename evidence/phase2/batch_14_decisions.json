@@ -1,0 +1,200 @@
+[
+  {
+    "name": "Mathesis Analytics",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Institutional Equity / Venture Investment",
+    "amount": "Undisclosed",
+    "announced_date": "2026-07-16",
+    "investors": "First Ally Capital, Sewa Capital",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/mathesis-analytics-first-ally-july-2026",
+      "https://techbuild.africa/mathesis-analytics-ai-infrastructure-nigeria/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/mathesis_analytics_b9d7630427.md",
+      "evidence/phase2/mathesis_tb_953db2efc6.md"
+    ]
+  },
+  {
+    "name": "Agriarche",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Announced 2026-06-03 (before 2026-07-01 window) and pure debt financing ($1.7M Cascador Pitch Day).",
+    "round_type_exact": "Debt Financing",
+    "amount": "$1.7M",
+    "announced_date": "2026-06-03",
+    "investors": "Cascador",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/agriarche-debt-financing-1-7m-usd-d0117f1"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/agriarche_sl_345f8bd9e9.md"
+    ]
+  },
+  {
+    "name": "Stabyl",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Originally announced 2026-06-04 (Technext 2026-06-05, stealth emergence 2026-06-26/29), before 2026-07-01 window.",
+    "round_type_exact": "Pre-Seed",
+    "amount": "$2.7M",
+    "announced_date": "2026-06-04",
+    "investors": "Konga",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/stabyl-seed-2-7m-usd-47be855"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/stabyl_sl_ca90e82fae.md"
+    ]
+  },
+  {
+    "name": "Sika Financial",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Announced 2026-06-08 / 2026-06-09 (Africa Private Equity News, Empower Africa, TechAfrica News), before 2026-07-01 window.",
+    "round_type_exact": "Seed Extension",
+    "amount": "$2M",
+    "announced_date": "2026-06-08",
+    "investors": "Aruwa Capital Management (Fund II)",
+    "hq_location": "Ghana / Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.africaprivateequitynews.com/p/aruwa-capital-invests-in-sika-financial",
+      "https://empowerafrica.com/aruwa-capital-backs-sika-financial-group-with-2-million-to-expand-cross-border-financial-infrastructure/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/sika_search.json",
+      "evidence/phase2/sika_financial_133ea19c17.md"
+    ]
+  },
+  {
+    "name": "Powerstove",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Announced 2026-06-03 (before 2026-07-01 window) and pure debt financing ($1.2M Cascador Pitch Day).",
+    "round_type_exact": "Debt Financing",
+    "amount": "$1.2M",
+    "announced_date": "2026-06-03",
+    "investors": "Cascador",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/powerstove-energy-debt-financing-1-2m-usd-33b8eb1"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/powerstove_sl.md"
+    ]
+  },
+  {
+    "name": "Eja-Ice",
+    "website": "NOT_FOUND",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Announced 2026-06-22 (before 2026-07-01 window).",
+    "round_type_exact": "Equity / Impact Investment",
+    "amount": "$1M",
+    "announced_date": "2026-06-22",
+    "investors": "All On",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://african-startups.com/countries/nigeria/nigerias-eja-ice-secures-1-million-from-all-on-to-scale-solar-powered-cold-chain-in-off-grid-communities/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/eja_ice_as_b9cd066c36.md"
+    ]
+  },
+  {
+    "name": "Regxta",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Undisclosed Venture Lab Investment (Renew Capital EmFi Series)",
+    "amount": "Undisclosed",
+    "announced_date": "2026-07-09",
+    "investors": "Renew Capital",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/regxta-emfi-series-undisclosed-6af29d2",
+      "https://thecondia.com/renew-capital-15-shiprazor-oze-regxta/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/regxta_bf0ab676cf.md",
+      "evidence/phase2/regxta_condia_9b411c5f3a.md"
+    ]
+  },
+  {
+    "name": "Timon",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Accelerator Investment (Alliance DAO)",
+    "amount": "Undisclosed",
+    "announced_date": "2026-07-08",
+    "investors": "Alliance DAO",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/timon-accelerator-undisclosed-321d41b",
+      "https://thecondia.com/timon-alliance-funding-kenya"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/timon_102b978f8a.md",
+      "evidence/phase2/timon_condia_ad72ca17a4.md"
+    ]
+  },
+  {
+    "name": "Data Entry Academy",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Grant (1st Place UNDP Get Ready 4 timbuktoo EdTech)",
+    "amount": "$10K",
+    "announced_date": "2026-07-01",
+    "investors": "UNDP timbuktoo",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/data-entry-academy-grant-10k-usd-ba0ba12",
+      "https://cchub.africa/nigerias-data-entry-academy-wins-first-place-at-undps-timbuktoo-edtech-competition"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/data_entry_academy_98e49c8607.md",
+      "evidence/phase2/data_entry_cchub_8b18c7e9d9.md"
+    ]
+  },
+  {
+    "name": "500Chow",
+    "website": "https://www.500chow.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Launched in 2023 (YC S23 Chow Central Inc.); no funding announced between 2026-07-01 and 2026-11-24.",
+    "round_type_exact": "NOT_FOUND",
+    "amount": "NOT_FOUND",
+    "announced_date": "NOT_FOUND",
+    "investors": "NOT_FOUND",
+    "hq_location": "Nigeria",
+    "funding_confidence": "UNCONFIRMED",
+    "source_urls": [
+      "https://liners.com/research/food-delivery-apps-nigeria-2026",
+      "https://www.500chow.com/blog"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/500chow_7ca7822c4f.md",
+      "evidence/phase2/500chow_search.json"
+    ]
+  }
+]

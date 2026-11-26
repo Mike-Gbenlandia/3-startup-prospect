@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.instagram.com/p/C7MTrcaCZ_S/",
+        "title": "your all-in-one solution! 📱 Proc360 helps you: ✅ Quickly find and connect with trusted suppliers ✅ Make secure payments right away ✅ Check and control th",
+        "description": "Proc360 combines everything into one simple dashboard. Take your small business to the next level using Proc360's smart features. Sign up today ...",
+        "position": 1
+      },
+      {
+        "url": "https://www.pressreader.com/nigeria/business-day-nigeria/20240623/282381224727324?srsltid=AYCX9vIJXiFhuUWLkBas5ha-HXD_TE7q3fRUG2PKx63_cCXGwveoY_19",
+        "title": "How Checkit is helping African businesses succeed – CEO | Business Day (Nigeria)",
+        "description": "Fara Popoola, CEO of Checkit, has disclosed how the supply chain and ... Proc360.' “Proc360 exempli es our commitment to innovation ...",
+        "position": 2
+      },
+      {
+        "url": "https://proc360.1879techhub.com/",
+        "title": "Proc360: 360° Procurement Operating Suite",
+        "description": "The 360° procurement suite that turns spend into a competitive advantage. Proc360 brings vendor master, performance scorecards, committee voting, contracts, ...",
+        "position": 3
+      },
+      {
+        "url": "https://www.startuplist.africa/people/fara-popoola",
+        "title": "Fara Popoola: bio, companies and investments",
+        "description": "Fara Popoola's companies, investments and career in the African startup ecosystem ... Roles1. —. PR. Co-Founder & CEO. Proc360. Current status not recorded. Cite ...",
+        "position": 4
+      },
+      {
+        "url": "https://www.linkedin.com/posts/godswilloerondu_africa-story-radar-nigerian-startup-proc360-activity-7516769599086956544-l0-t",
+        "title": "Nigerian Startup Proc360 Simplifies Cross-Border Trade with China | Godswill O. Erondu posted on the topic",
+        "description": "... Proc360 is developing a technology-driven solution to help ... Fara Popoola, a survey of 500 African traders revealed significant ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a2129c-7aaf-72ce-a6ad-8625104d3aef"
+}

@@ -1,0 +1,70 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.britannica.com/place/Nigeria",
+        "title": "Nigeria | Population, Religion, Flag, Country, Map ...",
+        "description": "# Nigeria\n## News •\n[Nigeria](https://cdn.britannica.com/24/183724-050-DCE6C708/World-Data-Locator-Map-Nigeria.jpg)(more)\n\n## Drainage\n[SUBSCRIBE NOW](https://premium.britannica.com/premium-membership/?utm_source=premium&utm_medium=inline-cta&utm_campaign=black-friday-2026)",
+        "position": 1
+      },
+      {
+        "url": "https://immigration.gov.ng/check-visa-status/",
+        "title": "Check Visa Status - Nigeria Immigration Service",
+        "description": "Umar Musa Yar Adu'a Express Way, Airport Road, Sauka, Abuja, FCT, Nigeria",
+        "position": 2
+      },
+      {
+        "url": "https://guardian.ng/",
+        "title": "The Guardian Nigeria News - Nigeria and World News",
+        "description": "The Guardian Nigeria News - Nigeria and World News Featured 51 days to polls, court orders, party failures disrupt 2027 candidate lists 6 hrs ago",
+        "position": 3
+      },
+      {
+        "url": "https://www.konga.com/",
+        "title": "Konga Nigeria | Online Shopping for Genuine Electronics ...",
+        "description": "Shop online in Nigeria on Konga for electronics, mobile phones, laptops, fashion, home appliances, groceries, beauty products and more. Enjoy competitive prices, secure payment and nationwide delivery..",
+        "position": 4
+      },
+      {
+        "url": "https://news.feedspot.com/nigeria_news_websites/",
+        "title": "Top 40 Nigeria News Websites in 2026",
+        "description": "The best Nigeria news websites from thousands of news websites on the web ranked by relevancy, authority, social media followers & freshness.",
+        "position": 5
+      },
+      {
+        "url": "https://www.legit.ng/",
+        "title": "Legit News - Latest Nigeria News, Naija News and Breaking ...",
+        "description": "# Nigeria breaking news\n## Latest\n[Nigeria](https://www.legit.ng/nigeria/)\n\n## Most shared\n[Nigeria](https://www.legit.ng/nigeria/)\n\n## Nigeria\n[Nigeria\\\n\\\nRead more](https://www.legit.ng/nigeria/)",
+        "position": 6
+      },
+      {
+        "url": "https://services.gov.ng/",
+        "title": "E-Government Portal",
+        "description": "Access all government services in one place #1: A land of over 200 million smiles Home to over 200 million inhabitants, Nigeria has one of the largest populations of youth, and is the sixth most populous country in the world.",
+        "position": 7
+      },
+      {
+        "url": "https://epdf.tips/using-italian-vocabulary.html",
+        "title": "Using Italian Vocabulary - PDF Free Download - EPDF.TIPS",
+        "description": "Using Italian Vocabulary is intended to provide the student of Italian with a comprehensive and structured approach to the learning of vocabulary. It can be used right from the outset in intermediate and advanced undergraduate courses, or as a supplementary manual at all levels – including the elementary one – to supplement the study of vocabulary. It is designed to provide the learner ...",
+        "position": 8
+      },
+      {
+        "url": "https://www.livingcost.net/nigeria",
+        "title": "Cost of Living in Nigeria - 2026 Prices.",
+        "description": "Latest cost of living data for Nigeria shows local prices for housing, food, bills, transport and daily needs.",
+        "position": 9
+      },
+      {
+        "url": "https://us-uk.bookimed.com/clinics/procedure=embryo-transfer/best/data.json",
+        "title": "us-uk.bookimed.com",
+        "description": "The clinic’s ISO 15189 accredited IVF laboratory – a first in Turkey and Asia – operates within Memorial Şişli Hospital, the first JCI-accredited facility in the country. A full IVF package for the first attempt may cost around €2,750, typically covering hormone tests, egg retrieval, anesthesia, lab procedures, and the embryo transfer. The clinic reports a 65% success rate and ...",
+        "position": 10
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a21794-b417-7609-ae94-1cbba6960782"
+}

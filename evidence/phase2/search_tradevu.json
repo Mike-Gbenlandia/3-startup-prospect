@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.tradevu.co/",
+        "title": "Tradevu",
+        "description": "Partner with Tradevu to embed credit directly into your business offerings, originate financing opportunities for your customers, and ...",
+        "position": 1
+      },
+      {
+        "url": "https://www.renewcapital.com/newsroom/renew-capital-narrows-500-african-companies-to-15-embedded-finance-investment-candidates",
+        "title": "Press Release: Renew Capital Narrows 500+ African Companies to ...",
+        "description": "# **Press Release: Renew Capital Narrows 500+ African Companies to 15 Embedded Finance Investment Candidates**\n|  |  |  |  |\n|-|-|-|-|\n| Tradevu | 🇳🇬 Nigeria | [Nkiru Amadi-Emina](https://www.linkedin.com/in/nkiru-amadi-emina/) | [tradevu.co](https://www.tradevu.co/) |",
+        "position": 2
+      },
+      {
+        "url": "https://pitchbook.com/profiles/company/680275-18",
+        "title": "Tradevu 2026 Company Profile: Valuation, Funding & Investors",
+        "description": "Information on valuation, funding, cap tables, investors, and executives for Tradevu. Use the PitchBook Platform to explore the full profile.",
+        "position": 3
+      },
+      {
+        "url": "https://thecondia.com/renew-capital-15-shiprazor-oze-regxta/",
+        "title": "Shiprazor, Oze, Regxta and 12 others get funding from Renew Capital",
+        "description": "# Shiprazor, Oze, Regxta and 12 others  get funding from Renew Capital\nAfrican early-stage investment firm Renew Capital has selected 15 companies for investment through its inaugural venture lab, EmFi Series.\n\n[Funding](https://thecondia.com/category/funding/)By [Justina Salami](https://thecondia.com/author/justina/)\n\nAfrican early-stage investment firm Renew Capital has selected 15 companies for investment through its inaugural venture lab, EmFi Series.\n\n⛶ Fullscreen\n\n← swipe to see more →\n\n| Company↕ | Country↕ | Founder↕ | Founding year↕ |\n|-|-|-|-|\n| Tradevu | Nigeria | Nkiru Amadi-Emina | 2024 |\n\n‹12›\n\n1–10 of 15\n\n## Oze\nThe startup turns sales and expense data into credit scores that banks can use to issue collateral-free loans, while also licensing its lending management software to financial institutions.\n\n## Rigo\nIt is a financial infrastructure startup focused on the healthcare industry. It offers collateral-free loans and insurance. It claims to have disbursed more than [₦10 billion](https://vc4a.com/ventures/rigo-incorporated/?lang=fr) in loans since 2019.\n\n## Tradevu\nTradevu is a fintech providing financial services tailored to businesses operating across the energy, manufacturing, minerals, and agriculture sectors. The company offers a suite of solutions, including business banking, payments, and trade finance, serving more than 200 businesses across four countries.\n\nTradevu helps businesses manage operations and access working capital more efficiently.\n\n## More from Condia\n2 days ago\n\n6 days ago\n\n1 week ago\n\n×",
+        "position": 4
+      },
+      {
+        "url": "https://www.linkedin.com/company/tradevu-technology",
+        "title": "Tradevu",
+        "description": "Tradevu is building the credit and financial infrastructure for global trade. We originate and underwrite trade finance for businesses engaged in global ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a2134a-af9d-72df-b792-10f97484a33e"
+}

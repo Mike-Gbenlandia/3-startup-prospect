@@ -1,0 +1,39 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.startuplist.africa/startups/tryctor",
+        "title": "Tryctor: Company Profile, Funding & Investors",
+        "description": "Tryctor is an AgriTech and Manufacturing company based in Ilorin, Nigeria. It has raised $4K across 1 round. Founders, funding, investors ...",
+        "position": 1
+      },
+      {
+        "url": "https://www.linkedin.com/posts/kamsiyochukwu-okonkwo-k_tryctor-madeinnigeria-agritech-activity-7478814203399774209-Yh02",
+        "title": "Nigerian Startup Tryctor Revolutionizes Agriculture with Low ...",
+        "description": "Nigerian Startup Tryctor Revolutionizes Agriculture with Low-Cost Mini Tractor. View profile for Kamsiyochukwu Okonkwo · Kamsiyochukwu Okonkwo.",
+        "position": 2
+      },
+      {
+        "url": "https://www.linkedin.com/posts/olufemi-odeleye_tryctor-agriculture-innovation-activity-7377294953582047232-uI5m",
+        "title": "Tryctor mini tractors for African farmers: A dream realized | Femi Odeleye ...",
+        "position": 3
+      },
+      {
+        "url": "https://autojosh.com/tryctor/",
+        "title": "Meet The Tryctor: A Motorbike-Turned-Tractor Targeting Farmers In Nigeria",
+        "description": "His invention, dubbed the Tryctor, has been adapted from the traditional motorcycle and caught the attention of the Nigerian government which is ...",
+        "position": 4
+      },
+      {
+        "url": "https://www.facebook.com/TRYCTOR.miniTRACTOR.forAFRICA/",
+        "title": "Tryctor | Ilorin",
+        "description": "Tryctor, Ilorin. 1934 followers. Tryctor is an award-winning, low maintenance 3-wheeled mini tractor for smallholder farmers in Africa.",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a21299-b003-7629-91aa-b3083887e293"
+}

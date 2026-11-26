@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://ng.linkedin.com/in/kazim-mahmood-07b08840",
+        "title": "Kazim Mahmood - managing director at maskh nigeria limited",
+        "description": "managing director at maskh nigeria limited · Experience: maskh nigeria limited · Location: Nigeria · 33 connections on LinkedIn.",
+        "position": 1
+      },
+      {
+        "url": "https://maskh.com.ng/",
+        "title": "Maskh Nigeria Limited – We build your visions, with perfection.",
+        "description": "About Maskh Nigeria Limited. Incorporated in 1991, Maskh Nigeria Limited boast of patriotic and hardworking professionals with vast ...",
+        "position": 2
+      },
+      {
+        "url": "https://www.startuplist.africa/startups/maskh-nigeria-limited",
+        "title": "Maskh Nigeria Limited: Company Profile, Funding & Investors",
+        "description": "Maskh Nigeria Limited is a Renewable Energy, Energy and Infrastructure company based in Abuja, Nigeria, founded in 1991.",
+        "position": 3
+      },
+      {
+        "url": "https://www.energiseafrica.com/invest/maskh-issue-1-8-0-bond",
+        "title": "Maskh Issue 1: 8.0% Bond",
+        "description": "Key Product Information. Issuer: Maskh Nigeria Limited. Issuing Country: Nigeria. Investment target: £600,000. Minimum investment: £50. Maximum investment: No ...",
+        "position": 4
+      },
+      {
+        "url": "https://maskh.com.ng/about-us/",
+        "title": "About us – Maskh Nigeria Limited",
+        "description": "The founders of Maskh Nigeria Limited are thorough bread Engineers with experiences spanning almost a ten decades combined; pioneering unique projects ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a2133d-8e2f-71f5-98ed-0a4cf6fe942f"
+}

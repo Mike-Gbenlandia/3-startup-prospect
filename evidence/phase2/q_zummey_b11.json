@@ -1,0 +1,39 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.startuplist.africa/startups/zummey-technologies",
+        "title": "Zummey Technologies: Company Profile, Funding & Investors",
+        "description": "Zummey Technologies is a Logistics, Delivery and Electric Mobility company based in Benin City, Nigeria. Investors include Edo State ...",
+        "position": 1
+      },
+      {
+        "url": "https://www.f6s.com/company/zummey-technologies",
+        "title": "Zummey Technologies",
+        "description": "Zummey Technologies is an inclusive, clean-tech last-mile delivery service designed to improve food security, empower smallholder farmers and SMEs, ...",
+        "position": 2
+      },
+      {
+        "url": "https://b2bhint.com/en/company/ng/zummey-technologies-limited--RC-7512237",
+        "title": "ZUMMEY TECHNOLOGIES limited - Nigeria company - RC-7512237",
+        "description": "ZUMMEY TECHNOLOGIES limited Nigeria company. Company number: RC-7512237, Officers: Aghedo Precious Osama. See directors, owners, financials & registration ...",
+        "position": 3
+      },
+      {
+        "url": "https://www.instagram.com/reel/DLjyOq1oAcB/",
+        "title": "Let Zummey handle your logistics while you focus on growing ...",
+        "position": 4
+      },
+      {
+        "url": "https://www.instagram.com/p/DA9ycerotC4/",
+        "title": "We are always at your service. Thank you for continually choosing ...",
+        "description": "Thank you for keeping us moving. Happy Customer Service Week from all of us at Zummey Technologies. #TheExtraMile #CustomerServiceWeek2026 # ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a212a3-9700-768a-add6-d45a6039ad27"
+}

@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://pitchbook.com/profiles/company/491824-18",
+        "title": "HeyFood 2026 Company Profile: Valuation, Funding & Investors",
+        "description": "# HeyFood\n## - Investors - 6\n### HeyFood General Information\n#### Contact Information\n##### Website\nVenture Capital-Backed\n\n## HeyFood FAQs\n- How much funding has HeyFood raised over time?",
+        "position": 1
+      },
+      {
+        "url": "https://tracxn.com/d/companies/heyfood/__yDf_qy8QceJG6mGB_sK3cz3xi2hj4zYQZV3gptWguzM",
+        "title": "HeyFood - 2026 Company Profile, Team, Funding & Competitors",
+        "description": "HeyFood has raised a total funding of $500K over 1 round. Its latest funding round was a Seed round on Jan 2022 for $*****. 1 investor ...",
+        "position": 2
+      },
+      {
+        "url": "https://www.facebook.com/allbiohub/videos/for-taiwo-akinropo-heyfood-wasnt-born-out-of-a-love-for-restaurants-it-began-wit/2963707427311702/",
+        "title": "For Taiwo Akinropo, HeyFood wasn't born out of a love ...",
+        "description": "HeyFood addressed inefficiencies in Nigeria's ... raised $2.5 million in seed funding. It intends ... Jul 30, 2026 · 3.3K views. This video is an ...",
+        "position": 3
+      },
+      {
+        "url": "https://africa.businessinsider.com/local/leaders/how-y-combinator-founder-taiwo-akinropo-built-a-multi-billion-naira-delivery-business/l8y53wk",
+        "title": "How Y Combinator founder Taiwo Akinropo built a multi-billion-naira ...",
+        "description": "Today, HeyFood has processed billions of naira in orders—many times more than it has raised in external funding. \"That ratio,\" Akinropo said, \" ...",
+        "position": 4
+      },
+      {
+        "url": "https://www.instagram.com/p/DAIjJ6YtnFI/?hl=en",
+        "title": "Heyfood, the Ibadan-based food delivery startup backed by Y ...",
+        "description": "Heyfood, the Ibadan-based food delivery startup backed by Y Combinator, is expanding to Abuja and Benin in the coming months.",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a2134a-28f1-723f-90b8-4dcc761f9ee8"
+}

@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.startuplist.africa/startups/nearpays",
+        "title": "Nearpays: Company Profile, Funding & Investors",
+        "description": "Founder and CEO Victor Daniyan. Nearpays funding1 round. The latest is an Investment (round not specified) announced 28 May 2025.",
+        "position": 1
+      },
+      {
+        "url": "https://aiforgood.itu.int/speaker/victor-daniyan/",
+        "title": "Victor Daniyan - AI for Good - ITU",
+        "description": "My name is Victor Daniyan, a passionate entrepreneur and the Founder & CEO of Nearpays, a fintech company redefining the way businesses process.",
+        "position": 2
+      },
+      {
+        "url": "https://www.plugandplaytechcenter.com/venture-capital/investment-announcements/nearpays-investment",
+        "title": "How Nearpays is Improving Digital Payments for Businesses in Africa",
+        "description": "# How Nearpays is Improving Digital Payments for Businesses in Africa\n## Making Payments Work Better With One Simple Solution\n**[Nearpays](https://www.nearpays.com/)**, based in Nigeria, solves this by offering an end-to-end payment platform that enables businesses to manage finances easily.",
+        "position": 3
+      },
+      {
+        "url": "https://www.linkedin.com/posts/thenextafrica_nearpays-victordaniyan-fintech-activity-7506248447071723520-CXP4",
+        "title": "Nearpays Wins Fintech for Good Award at MoneySurge Pitch ...",
+        "description": "Founded by Victor Daniyan, Nearpays develops an AI-powered SoftPOS platform that transforms compatible Android smartphones into ...",
+        "position": 4
+      },
+      {
+        "url": "https://www.genglobal.org/user/victordaniyan",
+        "title": "victordaniyan",
+        "description": "i am victor daniyan, the ceo and co-founder of yourrider and nearpays. based in abuja, nigeria, my companies focus on leveraging technology to address ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a2129e-3751-76e6-9e85-41cec184b5c1"
+}

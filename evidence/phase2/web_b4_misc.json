@@ -1,0 +1,69 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.pricepally.com/?srsltid=AYCX9vLs6E8IJlabhObgKJrXgy3y5y1Vfyg05CdrhmUKuJ7WJzI1iICp",
+        "title": "PricePally - Online grocery store",
+        "description": "We source from farms and deliver to your door. If something is out of stock, you get an instant refund to your wallet. ... At PricePally Nigeria Limited ( ...",
+        "position": 1
+      },
+      {
+        "url": "https://drychdigital.com/terms-conditions",
+        "title": "Terms & Conditions",
+        "description": "Drych Digital Limited (RC 8992375), operating under the brand name Drych or Drych Digital, is a company registered in Nigeria. References to “we ...",
+        "position": 2
+      },
+      {
+        "url": "https://www.pricepally.com/off-season?srsltid=AYCX9vIs63yCNfRJ0sSoeu-_XXS2XzEM__0_pILRKkTdYneH1A9k1WT0",
+        "title": "Online grocery store",
+        "description": "Shop from Nigeria's top-rated online grocery store and enjoy farm ... At PricePally Nigeria Limited (PricePally) we use cookies on our website to ...",
+        "position": 3
+      },
+      {
+        "url": "https://www.instagram.com/pricepally/?hl=en",
+        "title": "PricePally.com",
+        "description": "PricePally Gift Vouchers are NOW LIVE! Head to the PricePally app or website and get yours today. PricePally — Give the gift of choice #pricepally ...",
+        "position": 4
+      },
+      {
+        "url": "https://www.gsma.com/mobilefordevelopment/digital-grantees-portfolio/pricepally/",
+        "title": "Pricepally | Mobile for Development",
+        "description": "Pricepally is an e-commerce platform connecting consumers to affordable and fresh bulk food directly from farmers and wholesalers. Problem. In Nigeria, climate ...",
+        "position": 5
+      },
+      {
+        "url": "https://www.tryctor.com/",
+        "title": "Tryctor | affordable tractors in nigeria",
+        "description": "Tryctor is a tractor and agricultural equipment manufacturer headquartered in Nigeria, dedicated to enhancing the productivity of smallholder farmers across ...",
+        "position": 6
+      },
+      {
+        "url": "https://www.facebook.com/pricepally/videos/good-morning-pricepally-wrong-name-call-us-nigerias-leading-food-tech-brand-call/882273361409260/",
+        "title": "“Good morning, PricePally.”  Wrong name  Call us Nigeria's leading ...",
+        "position": 7
+      },
+      {
+        "url": "https://www.facebook.com/DrychDigital/",
+        "title": "Drych Digital | Lagos",
+        "description": "Drych Digital is a carbon-negative creative and digital agency. We use creativity and data to achieve your business goals and make you profit.",
+        "position": 8
+      },
+      {
+        "url": "https://www.pricepally.com/about?srsltid=AYCX9vLfnVE8dpbsT0wizYo2ab7zlTTN-BFDvXchLFR8Nte8n47PDlya",
+        "title": "Fixing Food Access For The Future",
+        "description": "PricePally began as a mission to close the gap between farmers and families, producers and businesses by cutting out inefficiencies and rebuilding trust in how ...",
+        "position": 9
+      },
+      {
+        "url": "https://femode.wixsite.com/tryctor",
+        "title": "Tryctor | made in nigeria tractor",
+        "description": "Tryctor is an award-winning, low maintenance 3-wheeled mini tractor for smallholder farmers in Africa.",
+        "position": 10
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a21791-4d1f-71f9-abb3-76e8ecb579ab"
+}

@@ -1,0 +1,210 @@
+[
+  {
+    "name": "CREAM",
+    "website": "https://creamplatform.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Launched in 2016 (10 years old) with 7M+ subscribers and owned by D'Kings Men Media Ltd; Afreximbank CANEX Creations took an undisclosed strategic equity stake in an established platform rather than an early-stage startup round.",
+    "round_type_exact": "Strategic equity investment",
+    "amount": "Not disclosed",
+    "announced_date": "2026-11-06",
+    "investors": "CANEX Creations Incorporated (Afreximbank)",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/cream-equity-investment-undisclosed-cfcbca8",
+      "https://www.premiumtimesng.com/entertainment/naija-fashion/924992-afreximbank-acquires-stake-in-dbanjs-cream-platform.html"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/cream_716498e93e.md",
+      "evidence/phase2/cream_pt_aa8e74b428.md"
+    ]
+  },
+  {
+    "name": "Intron",
+    "website": "https://intron.io/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Accelerator / AI Lab Cohort (Google Africa Applied AI Lab, managed by Google AI Futures Fund)",
+    "amount": "Undisclosed (AI Futures Fund & VC partner cohort access)",
+    "announced_date": "2026-11-11",
+    "investors": "Google AI Futures Fund / Google Research Africa (VC partners: 4DX Ventures, Norrsken22, Novastar Ventures, Ventures Platform)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://blog.google/intl/en-africa/company-news/outreach-and-initiatives/applied-ai-lab-cohort-2026/",
+      "https://au-startups.com/news/google-africa-applied-ai-lab-nigerian-startups"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/intron_3c3eae2a41.md",
+      "evidence/phase2/google_lab_au_e0217b3baa.md",
+      "evidence/phase2/intron_site_ff07001d4b.md"
+    ]
+  },
+  {
+    "name": "Termii",
+    "website": "https://termii.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Established post-Seed / Series A+ stage (founded 2014, raised $5.18M-$6.2M across 5-7 rounds including $3.65M/Series A; Google Accelerator Africa Techpoint article notes Series A cohort).",
+    "round_type_exact": "Google Africa Applied AI Lab Cohort (prior Series A / $6.2M raised)",
+    "amount": "Undisclosed",
+    "announced_date": "2026-11-11",
+    "investors": "Google AI Futures Fund / Google Research Africa",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://blog.google/intl/en-africa/company-news/outreach-and-initiatives/applied-ai-lab-cohort-2026/",
+      "https://au-startups.com/news/google-africa-applied-ai-lab-nigerian-startups",
+      "https://techpoint.africa/news/4-nigerian-startups-for-googles-accelerator/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/intron_3c3eae2a41.md",
+      "evidence/phase2/google_lab_au_e0217b3baa.md",
+      "evidence/phase2/termii_tp_1ba62ce5cf.md",
+      "evidence/phase2/q_termii_funding.json"
+    ]
+  },
+  {
+    "name": "Vendy",
+    "website": "https://vendy.ng/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Accelerator / AI Lab Cohort (Google Africa Applied AI Lab, managed by Google AI Futures Fund)",
+    "amount": "Undisclosed (AI Futures Fund & VC partner cohort access)",
+    "announced_date": "2026-11-11",
+    "investors": "Google AI Futures Fund / Google Research Africa (VC partners: 4DX Ventures, Norrsken22, Novastar Ventures, Ventures Platform)",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://blog.google/intl/en-africa/company-news/outreach-and-initiatives/applied-ai-lab-cohort-2026/",
+      "https://au-startups.com/news/google-africa-applied-ai-lab-nigerian-startups"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/intron_3c3eae2a41.md",
+      "evidence/phase2/google_lab_au_e0217b3baa.md",
+      "evidence/phase2/vendy_site_a373b2f27c.md"
+    ],
+    "notes": "vendy.ng currently displays Kleevar escrow marketplace branding."
+  },
+  {
+    "name": "AethexAI",
+    "website": "https://aethexai.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Listed as Pan-African by Google (London HQ per Soapbox VC / UK LinkedIn; Senegal demo focus); $3M pre-seed was announced in June 2026 (prior to 2026-07-01 window).",
+    "round_type_exact": "Google Africa Applied AI Lab Cohort / Pre-seed (June 2026)",
+    "amount": "$3M (Jun 2026)",
+    "announced_date": "2026-06-03",
+    "investors": "4DX Ventures, Enza Capital",
+    "hq_location": "London, UK / Pan-African",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://blog.google/intl/en-africa/company-news/outreach-and-initiatives/applied-ai-lab-cohort-2026/",
+      "https://finance.yahoo.com/technology/ai/articles/aethexai-full-stack-voice-ai-175757305.html"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/intron_3c3eae2a41.md",
+      "evidence/phase2/q_aethexai.json",
+      "evidence/phase2/q_aethexai_preseed.json",
+      "evidence/phase2/aethexai_site_e4ba19a025.md"
+    ]
+  },
+  {
+    "name": "Sparklean Station Nigeria",
+    "website": "https://sparkleanstation.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "NiYA-Cascador Non-dilutive Grant",
+    "amount": "NGN 5M (~$3,711)",
+    "announced_date": "2026-11-10",
+    "investors": "Cascador / Nigerian Youth Academy (NiYA) / Federal Ministry of Youth Development",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/sparklean-station-nigeria-grant-5m-ngn-3b1a496",
+      "https://techcabal.com/2026/11/10/cascador-niya-select-eight-founders/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/sparklean_station_nigeria_54a91c6da0.md",
+      "evidence/phase2/shellify_7b972c7cf9.md"
+    ]
+  },
+  {
+    "name": "Parakletus Hub Nigeria",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "NiYA-Cascador Non-dilutive Grant",
+    "amount": "NGN 1M (~$742)",
+    "announced_date": "2026-11-10",
+    "investors": "Cascador / Nigerian Youth Academy (NiYA) / Federal Ministry of Youth Development",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/parakletus-hub-nigeria-grant-1m-ngn-8a5eb1e"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/parakletus_hub_nigeria_72717f3274.md"
+    ],
+    "notes": "Also named ParaLearn (Parakletus Hub Nigeria)."
+  },
+  {
+    "name": "Biuda",
+    "website": "https://www.biudahq.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "NiYA-Cascador Non-dilutive Grant",
+    "amount": "NGN 5M (~$3,711)",
+    "announced_date": "2026-11-10",
+    "investors": "Cascador / Nigerian Youth Academy (NiYA) / Federal Ministry of Youth Development",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/biuda-grant-5m-ngn-e88c610",
+      "https://techcabal.com/2026/11/10/cascador-niya-select-eight-founders/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/biuda_09d6d55d3c.md",
+      "evidence/phase2/shellify_7b972c7cf9.md"
+    ]
+  },
+  {
+    "name": "Backel",
+    "website": "https://backel.co/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "NiYA-Cascador Non-dilutive Grant",
+    "amount": "NGN 5M (~$3,711)",
+    "announced_date": "2026-11-10",
+    "investors": "Cascador / Nigerian Youth Academy (NiYA) / Federal Ministry of Youth Development",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/backel-grant-5m-ngn-7e60b9c",
+      "https://techcabal.com/2026/11/10/cascador-niya-select-eight-founders/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/backel_ba37db82f2.md",
+      "evidence/phase2/shellify_7b972c7cf9.md"
+    ]
+  },
+  {
+    "name": "UpSmart Energies",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "NiYA-Cascador Non-dilutive Grant",
+    "amount": "NGN 1M (~$742)",
+    "announced_date": "2026-11-10",
+    "investors": "Cascador / Nigerian Youth Academy (NiYA) / Federal Ministry of Youth Development",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/upsmart-energies-grant-1m-ngn-59cb2af"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/upsmart_energies_b2ef2500a2.md"
+    ]
+  }
+]

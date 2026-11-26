@@ -1,0 +1,70 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://hrf.org/latest/hrfs-bitcoin-development-fund-announces-support-for-26-projects-worldwide/",
+        "title": "HRF's Bitcoin Development Fund Announces Support for 26 Projects Worldwide",
+        "description": "# HRF’s Bitcoin Development Fund Announces Support for 26 Projects Worldwide\n##### Written by\n**NEW YORK** (April 1, 2026) — The Human Rights Foundation (HRF) is pleased to announce grants totaling 1.5 billion satoshis from its [Bitcoin Development Fund (BDF).](https://hrf.org/devfund) This round of grants supports projects advancing open-source software development, Bitcoin research and educational initiatives, and financial privacy for the 6.2 billion people living under authoritarian regimes.\n\n#### Bitcoin Payments\n##### [**Tapnob**](https://www.tapnob.com/)\nAcross much of Africa, using bitcoin for everyday payments often requires high fees or complicated withdrawal processes. [Tapnob](https://www.tapnob.com/) addresses this by allowing users to buy bitcoin through local bank transfers and convert only the amount needed into local currency. This lets people cover daily expenses or send cross-border support in local currency, while preserving the value of their savings in bitcoin. HRF’s grant will support Tapnob’s expansion across the continent and the development of educational resources to help individuals use bitcoin to transact more freely.",
+        "position": 1
+      },
+      {
+        "url": "https://www.binance.com/en/square/post/307950311598225",
+        "title": "LIST | Here Are the 26 Projects Funded By Human Rights Foundation in Q1 2026 Across Africa, Asia,...",
+        "description": "The Human Rights Foundation (HRF) has allocated 1.5 billion satoshis through its Bitcoin Development Fund (BDF) to support 26 global projects focused on privacy, payments, open-source development, and education.\n\n- Tapnob\n\nFUNDING | Human Rights Foundation Awards 1.3 Billion Satoshis to 22 Global Bitcoin Projects, 2 Are African",
+        "position": 2
+      },
+      {
+        "url": "https://bitcoinke.io/2026/04/hrf-q1-2026-funding-list/",
+        "title": "LIST | Here Are the 26 Projects Funded by Human Rights Foundation in Q1 2026 Across Africa, Asia, LatAm",
+        "description": "Tapnob. Development. rawBit ... Bitcoin Development Fund Grants by Human Rights Foundation (HRF). Tags. 2026 ListingApril 2026BitcoinHRFQ1 2026.",
+        "position": 3
+      },
+      {
+        "url": "https://bitcoinmagazine.com/news/hrfs-bitcoin-development-fund-26-projects",
+        "title": "HRF's Bitcoin Development Fund Supports 26 Projects",
+        "description": "The Human Rights Foundation (HRF) announced 1.5 billion satoshis in new grants through its Bitcoin Development Fund (BDF).",
+        "position": 4
+      },
+      {
+        "url": "https://cryptorank.io/news/feed/a842f-hrfs-bitcoin-development-fund-26-projects",
+        "title": "HRF's Bitcoin Development Fund Announces Support for 26 Projects Worldwide",
+        "description": "# HRF’s Bitcoin Development Fund Announces Support for 26 Projects Worldwide\n[Bitcoin](https://cryptorank.io/news/tag/bitcoin) [Research](https://cryptorank.io/news/tag/research) [Human Rights Foundation](https://cryptorank.io/news/tag/human-rights-foundation) [Bitcoin Development](https://cryptorank.io/news/tag/bitcoin-development)\n\nApr 1, 2026\n\nHRF’s Bitcoin Development Fund awarded 1.5 billion satoshis (≈15 BTC) to 26 projects in Q1 2026, targeting open‑source Bitcoin infrastructure, privacy, payments and education across Asia, Africa, Latin America and the Caribbean.\n\n[HRF’s Bitcoin Development Fund Announces Support for 26 Projects Worldwide](https://bitcoinmagazine.com/news/hrfs-bitcoin-development-fund-26-projects)\n\nThe [Human Rights Foundation](https://bitcoinmagazine.com/tags/human-rights-foundation) (HRF) has announced 1.5 billion satoshis in new grants through its Bitcoin Development Fund (BDF), expanding support for projects focused on Bitcoin infrastructure, privacy, and education.",
+        "position": 5
+      },
+      {
+        "url": "https://www.bit.fan/en/news/list/hrf-bitcoin-development-fund-grants-26-projects-en-d0e50e8d-en-keyName-40bd0f8d",
+        "title": "HRF's Bitcoin Development Fund Announces 1.5 Billion Satoshis in Grants for 26 Projects Worldwide | Bit.Fan",
+        "description": "The Human Rights Foundation (HRF) has announced 1.5 billion satoshis in new grants through its Bitcoin Development Fund (BDF), supporting 26 ...",
+        "position": 6
+      },
+      {
+        "url": "https://bwp78wzy6.springkastelenvdw.be/",
+        "title": "national rifle association",
+        "description": "The Human Rights Foundation (HRF) has announced 1.5 billion satoshis in new grants through its Bitcoin Development Fund (BDF), expanding support for projects ...",
+        "position": 7
+      },
+      {
+        "url": "https://bitcoinmagazine.com/news/hrfs-bitcoin-development-fund-26-projects",
+        "title": "HRF’s Bitcoin Development Fund Supports 26 Projects",
+        "description": "The Human Rights Foundation (HRF) announced 1.5 billion satoshis in new grants through its Bitcoin Development Fund (BDF).",
+        "position": 8
+      },
+      {
+        "url": "https://www.f6s.com/companies/blockchain/nigeria/co",
+        "title": "67 Top Blockchain Companies in Nigeria · November 2026 | F6S",
+        "description": "Detailed info and reviews on 67 top Blockchain companies and startups in Nigeria in 2026. Get the latest updates on their products, jobs, funding, investors, founders and more.",
+        "position": 9
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Buffer_overflow",
+        "title": "Buffer overflow - Wikipedia",
+        "description": "A buffer overflow occurs when data written to a buffer also corrupts data values in memory addresses adjacent to the destination buffer due to insufficient bounds checking. [3]: 41 This can occur when copying data from one buffer to another without first checking that the data fits within the destination buffer.",
+        "position": 10
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a21790-593d-75ae-83a8-e7e9f793dfd7"
+}

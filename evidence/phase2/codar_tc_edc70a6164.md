@@ -1,0 +1,434 @@
+Happily Authenticated! ×
+
+- [Partner](https://techcabal.com/category/sponsored/partner/), [Press Room](https://techcabal.com/category/sponsored/)
+
+
+
+# Codar raises $1.5 million to expand AI education across Africa
+
+
+
+
+
+By
+
+[Partner](https://techcabal.com/author/eme-agbor/)
+
+
+
+17th Jul, 2026
+
+
+
+
+
+[![Google](https://www.gstatic.com/images/branding/product/1x/googleg_32dp.png)Get TC updates in your Newsfeed](https://www.google.com/preferences/source?q=techcabal.com)
+
+
+
+
+
+[![Codar raises $1.5 million to expand AI education across Africa](https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/07/PHOTO-2026-07-17-11-43-53.jpg)](https://techcabal.com/2026/07/17/codar-raises-1-5-million-to-expand-ai-education-across-africa/) _Source: TechCabal_
+
+
+
+
+
+
+
+
+
+
+
+
+
+Share
+
+
+
+
+
+
+
+[Share on Facebook](https://www.facebook.com/dialog/share?app_id=252296078952383&display=popup&href=https%3A%2F%2Ftechcabal.com%2F2026%2F07%2F17%2Fcodar-raises-1-5-million-to-expand-ai-education-across-africa%2F)[Share on Twitter](https://twitter.com/intent/tweet?url=https%3A%2F%2Ftechcabal.com%2F2026%2F07%2F17%2Fcodar-raises-1-5-million-to-expand-ai-education-across-africa%2F&text=Codar%20raises%20%241.5%20million%20to%20expand%20AI%20education%20across%20Africa)[Share on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Ftechcabal.com%2F2026%2F07%2F17%2Fcodar-raises-1-5-million-to-expand-ai-education-across-africa%2F&title=Codar%20raises%20%241.5%20million%20to%20expand%20AI%20education%20across%20Africa&summary=Codar%2C%20one%20of%20Africa%26%238217%3Bs%20fastest-growing%20professional%20training%20companies%20and%20a%20portfolio%20venture%20of%20KWE4%20Africa%20Venture%20Studio%2C%20has%20announced%20the%20successful%20close%20of%20a%20%241.5%20million%20funding%20round%2C%20a%20milestone%20that%20reflects%20its%20growing%20mission%20to%20build%20Africa%E2%80%99s%20next%20generation%20of%20tech%20professionals%20and%20digital%20innovators.%26nbsp%3B%20Codar%20continues%20to%20strengthen%20its%20position%20as%20a%20leading%20%5B%26hellip%3B%5D)[Share on WhatsApp](https://api.whatsapp.com/send?text=https%3A%2F%2Ftechcabal.com%2F2026%2F07%2F17%2Fcodar-raises-1-5-million-to-expand-ai-education-across-africa%2F)[Share on Email](mailto:?body=https%3A%2F%2Ftechcabal.com%2F2026%2F07%2F17%2Fcodar-raises-1-5-million-to-expand-ai-education-across-africa%2F&subject=Codar%20raises%20%241.5%20million%20to%20expand%20AI%20education%20across%20Africa)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Share
+
+
+
+
+
+
+
+[Share on Facebook](https://www.facebook.com/dialog/share?app_id=252296078952383&display=popup&href=https%3A%2F%2Ftechcabal.com%2F2026%2F07%2F17%2Fcodar-raises-1-5-million-to-expand-ai-education-across-africa%2F)[Share on Twitter](https://twitter.com/intent/tweet?url=https%3A%2F%2Ftechcabal.com%2F2026%2F07%2F17%2Fcodar-raises-1-5-million-to-expand-ai-education-across-africa%2F&text=Codar%20raises%20%241.5%20million%20to%20expand%20AI%20education%20across%20Africa)[Share on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Ftechcabal.com%2F2026%2F07%2F17%2Fcodar-raises-1-5-million-to-expand-ai-education-across-africa%2F&title=Codar%20raises%20%241.5%20million%20to%20expand%20AI%20education%20across%20Africa&summary=Codar%2C%20one%20of%20Africa%26%238217%3Bs%20fastest-growing%20professional%20training%20companies%20and%20a%20portfolio%20venture%20of%20KWE4%20Africa%20Venture%20Studio%2C%20has%20announced%20the%20successful%20close%20of%20a%20%241.5%20million%20funding%20round%2C%20a%20milestone%20that%20reflects%20its%20growing%20mission%20to%20build%20Africa%E2%80%99s%20next%20generation%20of%20tech%20professionals%20and%20digital%20innovators.%26nbsp%3B%20Codar%20continues%20to%20strengthen%20its%20position%20as%20a%20leading%20%5B%26hellip%3B%5D)[Share on WhatsApp](https://api.whatsapp.com/send?text=https%3A%2F%2Ftechcabal.com%2F2026%2F07%2F17%2Fcodar-raises-1-5-million-to-expand-ai-education-across-africa%2F)[Share on Email](mailto:?body=https%3A%2F%2Ftechcabal.com%2F2026%2F07%2F17%2Fcodar-raises-1-5-million-to-expand-ai-education-across-africa%2F&subject=Codar%20raises%20%241.5%20million%20to%20expand%20AI%20education%20across%20Africa)
+
+
+
+
+
+
+
+
+
+
+
+Codar, one of Africa’s fastest-growing professional training companies and a portfolio venture of KWE4 Africa Venture Studio, has announced the successful close of a $1.5 million funding round, a milestone that reflects its growing mission to build Africa’s next generation of tech professionals and digital innovators.
+
+
+
+Codar continues to strengthen its position as a leading provider of practical digital skills training by expanding its AI programmes alongside its broader offerings in software development, cybersecurity, data analytics, cloud computing, and other high-demand digital disciplines. The company is also enhancing its online learning platform, developing new learning hubs, and increasing access to scholarships for aspiring tech professionals in underserved communities. These initiatives will be further supported by the recent investment, raised through a combination of equity and debt financing.
+
+
+
+Codar currently serves more than 5,000 active learners and has reached over 70,000 students through its programs and initiatives. The company has built a reputation as a technology education platform focused on making high-quality digital skills training more accessible across the continent.
+
+![](https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/07/PHOTO-2026-07-17-11-43-42-2.jpg)
+
+“Our mission has always been bigger than teaching people how to code,” a company spokesperson said. “We’re building a generation of African innovators who will solve local problems with global technology. This investment validates our vision and gives us the resources to reach thousands more learners.”
+
+
+
+Founded by Sokefun David, Williams Olusegun, Oduoye John, and Asaolu Emmanuel with the vision of making world-class technology education accessible and affordable, Codar has emphasized practical, project-based training designed to prepare learners for real-world careers. Students gain hands-on experience through industry-relevant projects, collaborative learning, and portfolio development.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![](https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/07/PHOTO-2026-07-17-11-43-42.jpg)
+
+Codar is also deepening its focus on mentorship, industry partnerships, and career pathways that support learners as they transition into opportunities within the global digital economy. Through hands-on projects, industry-relevant coursework, and career-focused training, learners gain practical experience that prepares them for roles in AI engineering, data analysis, machine learning, software development, and other fast-growing digital fields.
+
+
+
+As demand for AI and digital talent continues to grow across Africa, Codar is positioning itself as a contributor to bridging the continent’s digital skills gap while supporting the development of the next generation of innovators. The company aims to expand its reach through multilingual learning opportunities and internationally relevant certification pathways.
+
+
+
+With the new funding, Codar is expected to accelerate its expansion, deepen its impact in AI education, and strengthen its role in Africa’s technology education landscape.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## More from this Author
+
+
+
+  - [![Lagos wants its innovation ecosystem to become a global leader](https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2023/06/Lagos-State-Assets-240x160.jpg)](https://techcabal.com/2023/06/26/lagos-wants-its-innovation-ecosystem-to-become-a-global-leader/)
+
+
+
+    [Government](https://techcabal.com/category/enterprise-policy/government/)
+
+
+
+    [Lagos wants its innovation ecosystem to become a global leader](https://techcabal.com/2023/06/26/lagos-wants-its-innovation-ecosystem-to-become-a-global-leader/)
+
+  - [![TechCabal and Moniepoint partner to discuss how tech is changing the informal economy](https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2022/08/twitter-240x160.jpg)](https://techcabal.com/2022/08/15/techcabal-and-moniepoint-partner-to-discuss-how-tech-is-changing-the-informal-economy/)
+
+
+
+    [Events](https://techcabal.com/category/events/)
+
+
+
+    [TechCabal and Moniepoint partner to discuss how tech is changing the informal economy](https://techcabal.com/2022/08/15/techcabal-and-moniepoint-partner-to-discuss-how-tech-is-changing-the-informal-economy/)
+
+  - [![ARM collaborates with TechCabal on the Future of Commerce partnership pitch session](https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2021/09/web-7-3-240x160.jpg)](https://techcabal.com/2021/09/22/arm-collaborates-with-techcabal-on-partnership-pitch-session-at-the-future-of-commerce/)
+
+
+
+    [Events](https://techcabal.com/category/events/)
+
+
+
+    [ARM collaborates with TechCabal on the Future of Commerce partnership pitch session](https://techcabal.com/2021/09/22/arm-collaborates-with-techcabal-on-partnership-pitch-session-at-the-future-of-commerce/)
+
+
+[![Nigerian founder Stephanie Divine is building Marketbrain OS around a different question: Are businesses ready to spend?](https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/11/IMG_2953-300x188.webp)](https://techcabal.com/2026/11/25/stephanie-divine-building-marketbrain-os/)
+
+[Partner](https://techcabal.com/category/sponsored/partner/)
+
+[Nigerian founder Stephanie Divine is building Marketbrain OS around a different question: Are businesses ready to spend?](https://techcabal.com/2026/11/25/stephanie-divine-building-marketbrain-os/)
+
+Adeola Olatunji
+
+\|
+
+43 minutes ago
+
+  - ## Read Next
+
+
+    [![Four South African students want to make bursary money easier to access and spend](https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/11/CampusFit-new-main.webp)](https://techcabal.com/2026/11/25/sa-students-fintech-bursary-pay-problems/) _CampusFit’s four founders are building a fintech platform to help students access, manage and track their bursary allowances, bringing payments and financial insights into one place. Image source: TechCabal_
+
+
+
+    ## Read Next
+
+
+
+    [Features](https://techcabal.com/category/features/)
+
+
+
+    ### [Four South African students want to make bursary money easier to access and spend](https://techcabal.com/2026/11/25/sa-students-fintech-bursary-pay-problems/)
+
+
+
+
+
+    [Phathisani Moyo](https://techcabal.com/author/phathisani-moyo/)
+
+
+
+    25th Nov, 2026
+
+
+## Read more
+
+- [![He built a million-dollar business abroad. Now he wants to build Africa’s next generation of coders](https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/11/337319-1-1024x576.webp)](https://techcabal.com/2026/11/25/chizzy-nnamchi-built-a-career-continents/) _Chizzy Nnamchi, chief executive officer of Simvo Africa. Image source: Chizzy Nnamchi_
+
+
+
+[My Life In Tech](https://techcabal.com/category/techcabal-columns/my-life-in-tech/)
+
+
+
+## [He built a million-dollar business abroad. Now he wants to build Africa’s next generation of coders](https://techcabal.com/2026/11/25/chizzy-nnamchi-built-a-career-continents/)
+
+
+
+
+
+[John Adoyi](https://techcabal.com/author/john-adoyi/)
+
+25th Nov, 2026
+
+- [![Four South African students want to make bursary money easier to access and spend](https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/11/CampusFit-new-main-1024x768.webp)](https://techcabal.com/2026/11/25/sa-students-fintech-bursary-pay-problems/) _CampusFit’s four founders are building a fintech platform to help students access, manage and track their bursary allowances, bringing payments and financial insights into one place. Image source: TechCabal_
+
+
+
+[Features](https://techcabal.com/category/features/)
+
+
+
+## [Four South African students want to make bursary money easier to access and spend](https://techcabal.com/2026/11/25/sa-students-fintech-bursary-pay-problems/)
+
+
+
+
+
+
+
+Phathisani Moyo
+
+
+
+25th Nov, 2026
+
+- [![MTN’s proposed Telkom takeover comes with a competition cost](https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/08/MTN-new.jpg)](https://techcabal.com/2026/11/25/mtn-telkom-deal-sa-telecoms-market/) _MTN’s proposed acquisition of Telkom could reshape South Africa’s telecoms industry, raising questions about competition, network investment and consumer choice. Image Source: The Citizen_
+
+
+
+[Analysis](https://techcabal.com/category/analysis/), [Telecoms](https://techcabal.com/category/enterprise-policy/telecoms/)
+
+
+
+## [MTN’s proposed Telkom takeover comes with a competition cost](https://techcabal.com/2026/11/25/mtn-telkom-deal-sa-telecoms-market/)
+
+
+
+
+
+
+
+Phathisani Moyo
+
+
+
+25th Nov, 2026
+
+- [![Meta’s privacy scandal leaves Kenya chasing the wrong defendants ](https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/11/Mercy-Mutemi-Executive-Director-The-Oversight-Lab-1024x576.webp)](https://techcabal.com/2026/11/24/meta-and-sama-privacy-probe-kenya/) _Mercy Mutemi, Executive Director, The Oversight Lab. Image: BAKE_
+
+
+
+[Analysis](https://techcabal.com/category/analysis/)
+
+
+
+## [Meta’s privacy scandal leaves Kenya chasing the wrong defendants](https://techcabal.com/2026/11/24/meta-and-sama-privacy-probe-kenya/)
+
+
+
+
+
+
+
+Kenn Abuya
+
+
+
+24th Nov, 2026
+
+- [![Banks, card networks raid Safaricom, Airtel and MTN for top talent](https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/11/saf-alumni-1-1024x576.webp)](https://techcabal.com/2026/11/24/banks-card-raid-safaricom-airtel-talent/) _Stanbic Kenya CEO Michael Mutiga, Absa Group personal and private banking CEO Sitoyo Lopokoiyit, and Visa East and Southern Africa head Esther Masese Waititu. Image source: TC Design_
+
+
+
+[Companies](https://techcabal.com/category/enterprise-policy/companies/)
+
+
+
+## [Banks, card networks raid Safaricom, Airtel and MTN for top talent](https://techcabal.com/2026/11/24/banks-card-raid-safaricom-airtel-talent/)
+
+
+
+
+
+
+
+Adonijah Ndege
+
+
+
+24th Nov, 2026
+
+- [![In the DRC, Wave’s next pricing test is the franc](https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/11/54623364919_12dcce3c74_o-edited-1024x768.webp)](https://techcabal.com/2026/11/24/francophone-weekly-by-techcabal-049/) _A vegetable shop that accepts Wave mobile money in Dakar, Senegal. Image Source: Norfund._
+
+
+
+[Francophone Weekly](https://techcabal.com/category/newsletters/francophone-weekly-by-techcabal/), [Newsletters](https://techcabal.com/category/newsletters/)
+
+
+
+## [In the DRC, Wave’s next pricing test is the franc](https://techcabal.com/2026/11/24/francophone-weekly-by-techcabal-049/)
+
+
+
+
+
+
+
+Lina Kacyem
+
+
+
+24th Nov, 2026
+
+
+×
+
+Become an Insider to continue reading for free
+
+![](https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/09/tc-gate-general-img.png)
+
+## The smartest people in African tech are TC Insiders.
+
+Join other readers from across the continent.
+
+Continue with Google
+
+or
+
+Company
+
+Continue
+
+![TechCabal](https://c76c7bbc41.mjedge.net/wp-content/themes/tc3.0/assets/img/tc-icon.png)
+
+✉
+
+## Check your email
+
+We sent a secure sign-in link to
+
+Open the link on this device to continue. The link expires in 10 minutes.
+
+You can request another link in 5:00
+Resend sign-in link
+
+![TechCabal](https://c76c7bbc41.mjedge.net/wp-content/themes/tc3.0/assets/img/tc-icon.png)
+
+## Check your email
+
+Enter the 6 digit code sent to
+
+Company
+
+Incorrect code. Please try again.
+
+Continue
+
+Resend code in 40s
+Resend code
+
+![TechCabal](https://c76c7bbc41.mjedge.net/wp-content/themes/tc3.0/assets/img/tc-icon.png)
+
+## What kind of stories are you interested in?
+
+Choose the topics you'd like to see.
+
+Analysis🤖 Artificial IntelligenceBattlefieldBlogBuilding from Ground UpCabalCollectionsColumnsCorrectionsEast AfricaEnterprise & Policy📅 EventsExclusiveExplainersFactsheetFeaturesFructoseFundamentalsGuest PostKenyaLetter from the EditorLife & WorkLinked ListMoneyMoonshotMoonshot ConversationsNews📧 Newsletters💬 OpinionPress ReleasePress RoomQuick FireQuiz📊 ReportsResearchSouth AfricaSouthern Africa🚀 StartupsTC InsightsTech Like I'm FiveUncategorizedVideoVideosWeekly
+
+Done
+Skip
+
+## Get our newsletter delivered straight to your inbox.
+
+Techcabal keeps you in the loop on the latest updates in the African Tech ecosystem.
+
+or
+
+Company
+
+Become a TC Insider and get access to member-only content for free. Continue

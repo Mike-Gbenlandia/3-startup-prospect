@@ -1,0 +1,88 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.startuplist.africa/funding/flutterwave-funding-round-undisclosed-0d348d1",
+        "title": "Flutterwave Funding Round",
+        "description": "... Jul 2026) · guardian.ng. Flutterwave expands USDC payments, secures investment from Circle Ventures - The Guardian Nigeria (7 Jul 2026).",
+        "position": 1
+      },
+      {
+        "url": "https://www.startuplist.africa/funding/elementpay-grant-90k-usd-24b9bd3",
+        "title": "ElementPay Grant Funding Round",
+        "description": "Award listed in the SCF #44 round recap published 24 Jul 2026 (round closed for submissions 14 Jun 2026); Stellar Nigeria / Dealroom / Technext ...",
+        "position": 2
+      },
+      {
+        "url": "https://www.startuplist.africa/funding/yolat-grant-110k-usd-29f71fb",
+        "title": "Yolat Grant Funding Round",
+        "description": "Award listed in the SCF #44 round recap published 24 Jul 2026 (round closed for submissions 14 Jun 2026); Stellar Nigeria / Dealroom / Technext ...",
+        "position": 3
+      },
+      {
+        "url": "https://www.startuplist.africa/funding/beacon-power-services-debt-financing-undisclosed-f4e6afa",
+        "title": "Beacon Power Services Debt Financing Funding Round",
+        "description": "About this round. Senior corporate loan of up to USD 10 million from the EBRD to Beacon Power Services Nigeria Limited (BPSN) and Beacon Power ...",
+        "position": 4
+      },
+      {
+        "url": "https://www.startuplist.africa/funding/jumpa-grant-89-7k-usd-015f1a4",
+        "title": "Jumpa Grant Funding Round",
+        "description": "Award listed in the SCF #44 round recap published 24 Jul 2026 (round closed for submissions 14 Jun 2026); Stellar Nigeria / Dealroom / Technext ...",
+        "position": 5
+      },
+      {
+        "url": "https://www.startuplist.africa/funding/useazza-grant-89k-usd-b17cb26",
+        "title": "useazza Grant Funding Round",
+        "description": "Award listed in the SCF #44 round recap published 24 Jul 2026 (round closed for submissions 14 Jun 2026); Stellar Nigeria / Dealroom / Technext ...",
+        "position": 6
+      },
+      {
+        "url": "https://www.startuplist.africa/funding/paycashless-grant-78k-usd-3fe4c9d",
+        "title": "Paycashless Grant Funding Round",
+        "description": "Award listed in the SCF #44 round recap published 24 Jul 2026 (round closed for submissions 14 Jun 2026); Stellar Nigeria / Dealroom / Technext ...",
+        "position": 7
+      },
+      {
+        "url": "https://www.startuplist.africa/funding/udu-technologies-seed-undisclosed-92f3436",
+        "title": "Udu Technologies Seed Funding Round",
+        "description": "20 Jul 2026: 3 months ago. Investors: 1. Investors in ... nairametrics.comNairametrics: Nigeria's startup funding crashes 96% in July ($300K)↗ ...",
+        "position": 8
+      },
+      {
+        "url": "https://www.startuplist.africa/funding/blink-labs-grant-75k-usd-528abd3",
+        "title": "Blink Labs Grant Funding Round",
+        "description": "Tranches $15,000 / $22,500 / $30,000. Award listed in the SCF #44 round recap published 24 Jul 2026 (round closed for submissions 14 Jun 2026); ...",
+        "position": 9
+      },
+      {
+        "url": "https://www.startuplist.africa/funding/data-entry-academy-grant-10k-usd-ba0ba12",
+        "title": "Data Entry Academy Grant Funding Round",
+        "description": "... Jul 2026) · cchub.africa. Nigeria's Data Entry Academy wins first place at UNDP's timbuktoo EdTech competition - CcHUB (6 Jul 2026).",
+        "position": 10
+      },
+      {
+        "url": "https://www.startuplist.africa/funding/choppaddi-grant-80k-usd-3cfb4cb",
+        "title": "Choppaddi Grant Funding Round",
+        "description": "Award listed in the SCF #44 round recap published 24 Jul 2026 (round closed for submissions 14 Jun 2026); Stellar Nigeria / Dealroom / Technext ...",
+        "position": 11
+      },
+      {
+        "url": "https://www.startuplist.africa/funding/kyosk-digital-services-funding-round-undisclosed-d411e4e",
+        "title": "Kyosk Digital Services Funding Round",
+        "description": "weetracker.comKenyan Startups Fuzu, Kyosk Secure Jobtech Alliance Investment - WeeTracker (6 Jul 2026)↗ · followict.newsAfrican Startup News ( ...",
+        "position": 12
+      },
+      {
+        "url": "https://www.startuplist.africa/funding/noma-services-consolidated-debt-financing-650k-usd-b26bcfd",
+        "title": "Noma Services Consolidated Debt Financing Funding Round",
+        "description": "africaSahel Capital backs Nigeria-based agribusiness company - AVCA↗ ... 13 Jul 2026. Investors: 1. Sources: 3. More on Noma Services ...",
+        "position": 13
+      }
+    ]
+  },
+  "creditsUsed": 4,
+  "id": "01a21350-0f13-701c-b93e-a04411586f02"
+}

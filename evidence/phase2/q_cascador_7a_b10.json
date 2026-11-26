@@ -1,0 +1,39 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://grant.beautyhutafrica.com/",
+        "title": "Beauty Hut Women's Grant powered by Busha",
+        "description": "# Beauty Hut Women’s Grantpowered by Busha\n**₦6,000,000** total in equity-free grants up for grabs to grow your business!\n\n## About the Grant\nWith a total grant pool of **₦6,000,000**, we are proud to support ambitious female entrepreneurs across Nigeria. The first prize winner will receive **₦3,000,000**, in funding to support and grow their business.\n\n## Welcome to the   Grant Application\nThis grant includes up to **₦3,000,000** in funding.",
+        "position": 1
+      },
+      {
+        "url": "https://www.instagram.com/p/DblCSVsjXp8/",
+        "title": "We are thrilled to share that EHA Clinics has received a $1.25 million ...",
+        "description": "We are thrilled to share that EHA Clinics has received a $1.25 million reinvestment from @ehaimpactventures! This was announced at the 2026 ...",
+        "position": 2
+      },
+      {
+        "url": "https://www.facebook.com/EHAClinics/posts/after-eha-clinics-selection-for-cascadors-2026-scaleup-program-the-cascador-team/2017299255883486/",
+        "title": "After EHA Clinics' selection for Cascador's 2026 ScaleUp ...",
+        "description": "The expansion aims to bridge critical healthcare gaps, ensuring more people—especially mothers and children—receive quality medical care. The CEO of EHA Clinics ...",
+        "position": 3
+      },
+      {
+        "url": "https://www.eha.ng/blog/eha-clinics-selected-for-cascadors-2026-scaleup-program",
+        "title": "EHA Clinics Selected for Cascador's 2026 ScaleUp Program",
+        "description": "... 2026 cohort includes companies such as Venco, SunFi, ColdHubs and Beauty Hut Africa, alongside EHA Clinics. Why Was EHA Clinics Selected? EHA Clinics was ...",
+        "position": 4
+      },
+      {
+        "url": "https://www.instagram.com/reel/DdEm-kUtJRC/",
+        "title": "Following EHA Clinics' selection for @cascador_africa 's 2026 ScaleUp ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a212a0-4353-77ec-8217-edfd3dade27b"
+}

@@ -1,0 +1,217 @@
+[
+  {
+    "name": "Pewbeam",
+    "website": "https://pewbeam.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Early Venture Equity (round stage unspecified)",
+    "amount": "Not disclosed",
+    "announced_date": "2026-09-01",
+    "investors": "Resilience17",
+    "hq_location": "Ibadan, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/pewbeam-funding-round-undisclosed-3faccfa",
+      "https://resilience17.com/blog/pewbeam-is-building-the-ai-layer-for-church-services",
+      "https://pewbeam.com/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/pewbeam_f11970c794.md",
+      "evidence/phase2/pewbeam_r17_b11.md",
+      "evidence/phase2/q_pewbeam_b11.json"
+    ],
+    "notes": "AI church presentation software built in Ibadan; R17 explicitly notes Pewbeam has grown without spending on marketing and plans to build its first dedicated marketing engine."
+  },
+  {
+    "name": "Odyssey Energy Solutions",
+    "website": "https://odysseyenergysolutions.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "US-headquartered startup (Launch Base Africa: 'The US Startup Controlling Nigeria's $1.1bn Clean Energy Pipeline') raising $74M ($27M equity + $47M debt) later-stage/debt financing.",
+    "round_type_exact": "Debt Financing ($47M) + Equity ($27M)",
+    "amount": "$47M debt ($74M total)",
+    "announced_date": "2026-09-01",
+    "investors": "British International Investment, Facility for Energy Inclusion, Energy Entrepreneurs Growth Fund, BIO",
+    "hq_location": "United States (operations in emerging markets incl. Nigeria)",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/odyssey-energy-solutions-debt-financing-47m-usd-9d7b1b9",
+      "https://odysseyenergysolutions.com/news-insights/odyssey-energy-solutions-raises-74-million-to-accelerate-distributed-renewable-energy-financing-in-emerging-markets"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/odyssey_energy_solutions_16a60d6d34.md"
+    ]
+  },
+  {
+    "name": "Maskh Nigeria Limited",
+    "website": "https://maskh.com.ng/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Incorporated in 1991 (mature 35-year-old engineering/infrastructure company, not a startup); $4M Sep 2026 deal is blended project finance including UK retail bond (GBP 600K) and REA results-based financing for mini-grid sites.",
+    "round_type_exact": "Blended Project Financing (All On DART / Energise Africa Bond / REA RBF)",
+    "amount": "$4M",
+    "announced_date": "2026-09-01",
+    "investors": "All On, Energise Africa, Rural Electrification Agency",
+    "hq_location": "Abuja, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/maskh-nigeria-limited-funding-round-4m-usd-7862d55",
+      "https://empowerafrica.com/all-on-and-energise-africa-invest-4-million-in-maskh-nigeria-solar-mini-grid-project/",
+      "https://maskh.com.ng/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/maskh_nigeria_limited_abe1e1e0c0.md",
+      "evidence/phase2/q_maskh_b11.json",
+      "evidence/phase2/q_maskh_site_b11.json"
+    ]
+  },
+  {
+    "name": "Thrive Agric",
+    "website": "https://thriveagric.com/",
+    "tier": "DROP",
+    "status": "DROPPED",
+    "drop_reason": "Debt financing (NGN 5.3B / $3.9M debut Commercial Paper issuance on 2026-08-25); excluded as debt financing.",
+    "round_type_exact": "Debt Financing (Commercial Paper)",
+    "amount": "$3.9M (NGN 5.3B)",
+    "announced_date": "2026-08-25",
+    "investors": "Commercial Paper investors",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/thrive-agric-commercial-paper-3-9m-usd-c67022c",
+      "https://techcabal.com/2026/08/25/thriveagric-commercial-paper-raise-5-3-billion-naira"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/thrive_agric_4256a89829.md"
+    ]
+  },
+  {
+    "name": "PricePally",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Follow-on Equity Investment (round stage unspecified)",
+    "amount": "Not disclosed",
+    "announced_date": "2026-08-19",
+    "investors": "Five35 Ventures (lead)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/pricepally-funding-round-undisclosed-4d74597",
+      "https://launchbaseafrica.com/2026/08/19/five35-ventures"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/pricepally_83d969846f.md",
+      "evidence/phase2/q_pricepally_b11.json",
+      "evidence/phase2/q_pricepally_stage_b11.json"
+    ],
+    "notes": "Prior $1.3M Seed in Nov 2023; Aug 2026 follow-on equity investment from Five35 Ventures (no Series A closed)."
+  },
+  {
+    "name": "Zummey Technologies",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Grant (Edo Youth Impact Forum 2.0)",
+    "amount": "Not disclosed",
+    "announced_date": "2026-08-18",
+    "investors": "Edo State Government",
+    "hq_location": "Benin City, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/zummey-technologies-grant-undisclosed-1513653",
+      "https://msmeafricaonline.com/edo-state-awards-%E2%82%A640m-grants-to-10-youth-led-ventures-to-support-business-growth",
+      "https://www.startuplist.africa/startups/zummey-technologies"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/zummey_technologies_348d756621.md",
+      "evidence/phase2/zummey_sl_b11.md",
+      "evidence/phase2/q_zummey_b11.json"
+    ]
+  },
+  {
+    "name": "Safebox Energy",
+    "website": "https://www.safeboxenergy.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Grant (Edo Youth Impact Forum 2.0)",
+    "amount": "Not disclosed",
+    "announced_date": "2026-08-18",
+    "investors": "Edo State Government",
+    "hq_location": "Benin City, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/safebox-energy-grant-undisclosed-4ad7402",
+      "https://msmeafricaonline.com/edo-state-awards-%E2%82%A640m-grants-to-10-youth-led-ventures-to-support-business-growth",
+      "https://www.safeboxenergy.com/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/safebox_energy_f8a3cb091e.md",
+      "evidence/phase2/q_safebox_b11.json"
+    ]
+  },
+  {
+    "name": "Terra Industries",
+    "website": "https://www.terraindustries.co/",
+    "tier": "B",
+    "status": "VERIFIED",
+    "round_type_exact": "Seed extension",
+    "amount": "$18M ($52M seed total)",
+    "announced_date": "2026-08-17",
+    "investors": "8VC, Silent Ventures, Nova Global, Belief Capital, SV Angel, Norleo Space Investments, Grant Gordon",
+    "hq_location": "Abuja, Nigeria (Pax-1 flagship; London office opened)",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://fireround.dev/companies/terra-industries",
+      "https://www.terraindustries.co/newsroom/funding-52m-london",
+      "https://www.finsmes.com/2026/08/terra-industries-raises-additional-18m-in-funding.html"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/terra_industries_e4a2975553.md",
+      "evidence/phase2/terra_pr_b11.md"
+    ]
+  },
+  {
+    "name": "Pouchers",
+    "website": "https://pouchers.io/",
+    "tier": "A",
+    "status": "VERIFIED",
+    "round_type_exact": "Pre-seed",
+    "amount": "$500K",
+    "announced_date": "2026-08-14",
+    "investors": "Stack Directory LLC (lead)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/pouchers-pre-seed-500k-usd-625e80e",
+      "https://pouchers.io/blog/500k-in-pre-seed-funding",
+      "https://techcabal.com/2026/08/17/pouchers-raises-500000-in-pre-seed-funding-and-exits-beta"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/pouchers_d040916b63.md",
+      "evidence/phase2/pouchers_site_b11.md"
+    ]
+  },
+  {
+    "name": "Blockops",
+    "website": "https://www.blockops.network/",
+    "tier": "A",
+    "status": "VERIFIED",
+    "round_type_exact": "Pre-seed",
+    "amount": "$250K",
+    "announced_date": "2026-08-12",
+    "investors": "Antler (lead)",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/blockops-pre-seed-250k-usd-2462cea",
+      "https://inforcapital.com/news/nigerias-blockops-network-secures-250000-pre-seed-funding-to-power-stablecoin-operations",
+      "https://www.blockops.network/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/blockops_89d1606b32.md",
+      "evidence/phase2/q_blockops_b11.json",
+      "evidence/phase2/q_blockops_site_b11.json"
+    ]
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://techcrunch.com/2023/11/17/pricepally-raises-seed-funding/",
+        "title": "Online grocery startup Pricepally to expand in Nigeria backed by $1.3M ...",
+        "description": "Pricepally, a Nigerian online grocery store for fresh produce and packaged food, has raised $1.3 million seed funding, backed by Samurai ...",
+        "position": 1
+      },
+      {
+        "url": "https://tracxn.com/d/companies/pricepally/__ArT51G0a7EeoW0X8v_-BtLY1SW3zcRySRwrR_Oynly0",
+        "title": "Pricepally - 2026 Company Profile, Team, Funding & Competitors",
+        "description": "News related to Pricepally. •. $1.3 M Seed funding raised by Nigerian food e-commerce startup PricepallyIncubees•Dec 18, 2023•Pricepally ...",
+        "position": 2
+      },
+      {
+        "url": "https://www.africaprivateequitynews.com/p/nigerian-e-commerce-platform-closes",
+        "title": "Nigerian e-commerce platform closes $1.3m seed funding",
+        "description": "Nigeria's Pricepally, a fresh and packaged food online platform, has concluded its seed round raise, securing $1.3 million in funding.",
+        "position": 3
+      },
+      {
+        "url": "https://www.preqin.com/data/profile/asset/pricepally-nigeria-limited/426309",
+        "title": "Pricepally Nigeria Limited Asset Profile",
+        "description": "In November 2023, Pricepally Nigeria Limited raised USD 1. 3 million in seed funding led by Samurai Incubate, with participation from Chui Venture, elea ...",
+        "position": 4
+      },
+      {
+        "url": "https://dabafinance.com/en/news/pricepally-raises-funding-to-expand-operations-in-nigeria",
+        "title": "Online grocery startup Pricepally raises $1.3m to expand in Nigeria",
+        "description": "Nigerian online grocery store Pricepally has secured $1.3 million in seed funding, with support from investors such as Samurai Incubate, ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a2133d-8587-71de-aa7e-e51202e6500f"
+}

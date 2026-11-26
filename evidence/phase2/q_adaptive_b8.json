@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.adaptiveatelier.com/",
+        "title": "Adaptive Atelier: Home",
+        "description": "From accessible tech tools to inclusive brand strategy consulting, Adaptive Atelier empower brands to build a more equitable world for disabled communities.",
+        "position": 1
+      },
+      {
+        "url": "https://www.instagram.com/adaptiveatelier/",
+        "title": "Adaptive Atelier (@adaptiveatelier)",
+        "description": "It's about building technology that people can actually use. Welcome to the Tech Side of Adaptive Atelier. #AdaptiveAtelier #Accessibility #InclusiveTechnology ...",
+        "position": 2
+      },
+      {
+        "url": "https://africabusinesscommunities.com/tech-24/nigerias-adaptive-atelier-bundles-tools-to-fix-web-access-gaps/",
+        "title": "Nigeria's Adaptive Atelier bundles tools to fix web access gaps",
+        "description": "Adaptive Atelier's system links its three tools into a single loop. AdaptiveTest, an AI-powered scanner, checks websites and digital products ...",
+        "position": 3
+      },
+      {
+        "url": "https://techcabal.com/2026/02/21/adaptive-atelier-is-ensuring-accessibility-on-websites/",
+        "title": "35 million Nigerians live with disabilities. This startup is building ...",
+        "description": "Adaptive Atelier combines AI tools with a network of disabled consultants to ensure lived experience remains central. As AI reshapes digital ...",
+        "position": 4
+      },
+      {
+        "url": "https://www.techfrontline.africa/news/adaptive-atelier-ai-digital-accessibility-disabled-professionals",
+        "title": "Nigerian Startup Adaptive Atelier Tackles Digital accessibility with AI ...",
+        "description": "Nigerian startup Adaptive Atelier is building a suite of technology tools designed to help businesses identify, fix and test accessibility problems across their ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a2129c-4d05-7605-87e9-5aece9928319"
+}

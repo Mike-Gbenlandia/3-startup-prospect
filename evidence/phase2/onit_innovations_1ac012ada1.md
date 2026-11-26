@@ -1,0 +1,62 @@
+[Close Menu](https://disruptafrica.com/2026/11/24/nigerias-onit-brings-structure-trust-to-africas-informal-service-economy/#)
+
+- [Home](https://disruptafrica.com/)
+  - [News](https://disruptafrica.com/category/news/)
+  - [Hubs](https://disruptafrica.com/category/hubs/)
+  - [Startups](https://disruptafrica.com/category/startups/)
+  - [Events](https://disruptafrica.com/category/events/)
+  - [Features](https://disruptafrica.com/category/features/)
+- [Southern Africa](https://disruptafrica.com/category/region/southern-africa/)
+- [West Africa](https://disruptafrica.com/category/region/west-africa/)
+- [East Africa](https://disruptafrica.com/category/region/east-africa/)
+- [North Africa](https://disruptafrica.com/category/region/north-africa/)
+
+[Facebook](https://disruptafrica.com/2026/11/24/nigerias-onit-brings-structure-trust-to-africas-informal-service-economy/#) [X (Twitter)](https://disruptafrica.com/2026/11/24/nigerias-onit-brings-structure-trust-to-africas-informal-service-economy/#) [Instagram](https://disruptafrica.com/2026/11/24/nigerias-onit-brings-structure-trust-to-africas-informal-service-economy/#)
+
+[![Disrupt Africa](https://disruptafrica.com/wp-content/uploads/2026/02/DA-logo-on-transparent-with-tag-small-e1414593297539.png)](https://disruptafrica.com/ "Disrupt Africa")
+
+[![Disrupt Africa](https://disruptafrica.com/wp-content/uploads/2026/02/DA-logo-on-transparent-with-tag-small-e1414593297539.png)](https://disruptafrica.com/ "Disrupt Africa")
+
+[Search](https://disruptafrica.com/2026/11/24/nigerias-onit-brings-structure-trust-to-africas-informal-service-economy/# "Search")
+
+**Nigerian startup OnIt Innovations is building trust and access within Africa’s informal service economy, making it easier for households and businesses to access reliable everyday services while creating more structured earning opportunities for informal service professionals.**
+
+Launched in Lagos in May 2024, [OnIt](https://www.onithq.com/) offers customers services including laundry, home cleaning, technical and repair services, procurement, grocery shopping and errands. Behind these services is a workforce infrastructure, with the startup recruiting, training, assessing and verifying “service associates” before deployment, then managing service delivery through defined operating standards, customer support and performance monitoring.
+
+“OnIt started from a very practical problem I encountered while working as a practice manager in Lagos. Managing a demanding career alongside family responsibilities made reliable household support extremely important. I began to see that the problem was much bigger than simply finding someone who could perform a task. The real challenge was trust, quality, accountability and consistency,” founder and CEO Dorcas Obeahon told Disrupt Africa.
+
+She said customers typically rely on referrals, social media or unverified workers, while capable service professionals often lack formal training, verified work records and predictable demand.
+
+“There are several companies operating within individual parts of the service economy. Our approach is broader because we are building the underlying service and workforce infrastructure rather than simply providing a directory where customers find workers,” Obeahon said.
+
+The startup has largely grown through founder capital, internally generated revenue and grants, and has been supported by programmes including the Women in Tech accelerator by Standard Chartered Bank and Village Capital, and Orange Corners Nigeria. Its workforce training arm, BlueVarsity, has trained more than 3,000 people, and OnIt now has a pool of more than 500 verified service associates, who have earned over N40 million (US$30,000) through the platform.
+
+OnIt has completed more than 7,000 service orders for over 500 customers, and has generated more than NGN100 million (US$75,000) in cumulative revenue, earned primarily through margins and commissions on services. It also offers recurring household service plans, B2B contracts and workforce training, and is developing employee-benefit products for organisations.
+
+“Customers who experience reliable service tend to use OnIt across different needs. A customer may initially come to us for laundry, and later use OnIt for cleaning, repairs, procurement or errands,” said Obeahon.
+
+OnIt is focused on deepening its model in Lagos before expanding to other major Nigerian cities, and eventually to selected African urban markets. Standardisation has been the biggest challenge.
+
+“We learned quite early that verification alone was not enough. We needed training, operating procedures, quality assurance, performance tracking and accountability after deployment,” Obeahon said.
+
+Share.[Facebook](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fdisruptafrica.com%2F2026%2F11%2F24%2Fnigerias-onit-brings-structure-trust-to-africas-informal-service-economy%2F "Share on Facebook") [Twitter](https://twitter.com/intent/tweet?url=https%3A%2F%2Fdisruptafrica.com%2F2026%2F11%2F24%2Fnigerias-onit-brings-structure-trust-to-africas-informal-service-economy%2F&text=Nigeria%E2%80%99s%20OnIt%20brings%20structure%2C%20trust%20to%20Africa%E2%80%99s%20informal%20service%20economy "Share on X (Twitter)") [Pinterest](https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fdisruptafrica.com%2F2026%2F11%2F24%2Fnigerias-onit-brings-structure-trust-to-africas-informal-service-economy%2F&media=https%3A%2F%2Fdisruptafrica.com%2Fwp-content%2Fuploads%2F2026%2F11%2FIMG_2168-scaled.jpeg&description=Nigeria%E2%80%99s%20OnIt%20brings%20structure%2C%20trust%20to%20Africa%E2%80%99s%20informal%20service%20economy "Share on Pinterest") [LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdisruptafrica.com%2F2026%2F11%2F24%2Fnigerias-onit-brings-structure-trust-to-africas-informal-service-economy%2F "Share on LinkedIn") [Tumblr](https://www.tumblr.com/share/link?url=https%3A%2F%2Fdisruptafrica.com%2F2026%2F11%2F24%2Fnigerias-onit-brings-structure-trust-to-africas-informal-service-economy%2F&name=Nigeria%E2%80%99s%20OnIt%20brings%20structure%2C%20trust%20to%20Africa%E2%80%99s%20informal%20service%20economy "Share on Tumblr") [Email](mailto:?subject=Nigeria%E2%80%99s%20OnIt%20brings%20structure%2C%20trust%20to%20Africa%E2%80%99s%20informal%20service%20economy&body=https%3A%2F%2Fdisruptafrica.com%2F2026%2F11%2F24%2Fnigerias-onit-brings-structure-trust-to-africas-informal-service-economy%2F "Share via Email")
+
+Previous Article[Francophone Africa-focused VC Saviu closes 2nd fund at $44m](https://disruptafrica.com/2026/11/23/francophone-africa-focused-vc-saviu-closes-2nd-fund-at-44m/)
+
+Next Article [12 startups named winners at 2026 South African Startup Awards](https://disruptafrica.com/2026/11/24/12-startups-named-winners-at-2026-south-african-startup-awards/)
+
+![](https://secure.gravatar.com/avatar/d9e3e607175b9643bc3c0bd10d970ce101ebea2b8bdfba93f9bdb78d24a5c3a0?s=95&d=mm&r=g)
+
+[Tom Jackson](https://disruptafrica.com/author/tomjackson/)
+
+- [Website](https://disruptafrica.com.www500.your-server.de/test-site "Website")
+- [X (Twitter)](https://www.twitter.com/tomjackson1988 "X (Twitter)")
+- [LinkedIn](https://www.linkedin.com/profile/view?id=73844858&trk=nav_responsive_tab_profile "LinkedIn")
+
+Passionate about the vibrant tech startups scene in Africa, Tom can usually be found sniffing out the continent's most exciting new companies and entrepreneurs, funding rounds and any other developments within the growing ecosystem.
+
+Comments are closed.
+
+Submit
+
+Type above and press _Enter_ to search. Press _Esc_ to cancel.

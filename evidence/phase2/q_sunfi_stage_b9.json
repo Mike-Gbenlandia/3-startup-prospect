@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://nextbillion.net/news/nigerian-clean-tech-startup-sunfi-raises-2-325-million-in-seed-funding/",
+        "title": "Nigerian Clean Tech Startup, SunFi, Raises $2.325 Million in Seed ...",
+        "description": "SunFi, a Nigerian clean tech startup, announced that it has raised $2.325 million in seed funding to grow its operations.",
+        "position": 1
+      },
+      {
+        "url": "https://businessday.ng/companies/article/nigerias-sunfi-raises-2-3m-in-seed-funding-for-expansion-of-solar-business/",
+        "title": "Nigeria's SunFi raises $2.3m in seed funding for expansion of solar ...",
+        "description": "Nigeria's SunFi raises $2.3m in seed funding for expansion of solar business. In a bid to connect people and businesses who want solar energy ...",
+        "position": 2
+      },
+      {
+        "url": "https://tracxn.com/d/companies/sunfi/__sFQkW8-toE7MdGpR5E4cl9H1hTSWgTOwc5y1VQmaVOw",
+        "title": "SunFi - 2026 Company Profile, Team, Funding & Competitors",
+        "description": "SunFi has raised a total funding of $2.35M over 1 round. Its latest funding round was a Seed round on Feb 07, 2023 for $*****. 6 investors ...",
+        "position": 3
+      },
+      {
+        "url": "https://au-startups.com/startups/sunfi",
+        "title": "SunFi: $4.6M raised · 2 rounds",
+        "description": "SunFi has raised $4.6M across 2 rounds since 2023. When was SunFi's most recent funding round? SunFi's most recent disclosed round was a Seed round of $2.3M, ...",
+        "position": 4
+      },
+      {
+        "url": "https://news.fintech.io/post/102i78l/sunfi-raises-2-3m-in-seed-funding",
+        "title": "SunFi raises $2.3m in Seed funding, Zein Dayekh",
+        "description": "Nigeria based solar energy financing and management startup raised $2.3m in Seed funding co-led by Factor[e] and SCM Capital Asset Management. “SunFi also ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a2129e-fd2d-72a8-9491-b6b09400d632"
+}
