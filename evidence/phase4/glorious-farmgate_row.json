@@ -1,0 +1,70 @@
+{
+  "slug": "glorious-farmgate",
+  "name": "Glorious Farmgate",
+  "website": "https://www.gloriousfarmgate.com/",
+  "industry": "Agritech / Poultry Automation",
+  "city": "Owerri",
+  "what_they_do": "Owerri-based agritech hardware startup building solar-powered automated poultry feeding and watering systems (₦300K–₦1.2M packages) with real-time monitoring to cut labor costs and feed waste.",
+  "recent_activity": "2026-11-23: Selected among 12 startups for Her Startup 2nd Accelerator Cohort with convertible revenue-based financing (https://disruptafrica.com/2026/11/23/her-startup-selects-12-women-led-startups-for-2nd-accelerator-cohort/); 2026-10-22: Showcased at MSME Conference 2026 / SMEDAN Pitch Competition (https://www.instagram.com/reel/Dey_aJ7qcPX/)",
+  "tier": "C",
+  "round_type": "Her Startup 2nd Accelerator Cohort (convertible revenue-based financing)",
+  "amount": "Undisclosed (convertible RBF)",
+  "funding_date": "2026-11-23",
+  "investors": "Her Startup (KSH Foundation, Tomorrow Foundation, EHA Impact Ventures, Founder Institute Morocco)",
+  "funding_sources": "https://disruptafrica.com/2026/11/23/her-startup-selects-12-women-led-startups-for-2nd-accelerator-cohort/",
+  "funding_confidence": "CONFIRMED_1_SOURCE",
+  "founder_or_marketing_contact": "Glory Okere (Co-Founder, https://ng.linkedin.com/in/glory-okere-1707a8180) | gloriousfarmgate@gmail.com | +234 813 053 6416",
+  "instagram_url": "https://www.instagram.com/gloriousfarmgate/",
+  "ig_status": "OK",
+  "ig_followers": "15",
+  "ig_post_1": {
+    "raw_timestamp_text": "2026-11-18",
+    "absolute_date": "2026-11-18",
+    "type": "Carousel",
+    "url": "https://www.instagram.com/p/Df42eBtissW/"
+  },
+  "ig_post_2": {
+    "raw_timestamp_text": "2026-10-22",
+    "absolute_date": "2026-10-22",
+    "type": "Reel",
+    "url": "https://www.instagram.com/reel/Dey_aJ7qcPX/"
+  },
+  "ig_post_3": {
+    "raw_timestamp_text": "2026-07-04",
+    "absolute_date": "2026-07-04",
+    "type": "Reel",
+    "url": "https://www.instagram.com/reel/DaXpncAK0b_/"
+  },
+  "ig_post_4": {
+    "raw_timestamp_text": "2025-11-05",
+    "absolute_date": "2025-11-05",
+    "type": "Reel",
+    "url": "https://www.instagram.com/reel/DQrhgdzCjTL/"
+  },
+  "ig_post_5": {
+    "raw_timestamp_text": "2025-02-20",
+    "absolute_date": "2025-02-20",
+    "type": "Photo",
+    "url": "https://www.instagram.com/p/DGT5ZbNqVHC/"
+  },
+  "ig_days_since_latest": 9,
+  "ig_median_gap_days": 175.5,
+  "ig_screenshot_path": "screenshots/glorious-farmgate_instagram.png",
+  "blog_url": "NOT_FOUND",
+  "blog_last_post_date": "NOT_FOUND",
+  "blog_posts_last_90_days": "NOT_FOUND",
+  "marketing_titles_found": "NONE_FOUND (single-page site has no public team section or marketing/growth roles)",
+  "hiring_marketing_role": "NO (no careers page on gloriousfarmgate.com)",
+  "need_score": 7,
+  "score_flags": "IG_MEDIAN_GAP_14D (+2) | IG_IRREGULAR_GAP (+1) | NO_OR_STALE_BLOG_90D (+2) | NO_MARKETING_TITLE_ON_TEAM (+2)",
+  "qualified": true,
+  "signal_categories": [
+    "Instagram",
+    "blog",
+    "team"
+  ],
+  "unique_offer": "Solar-powered automated poultry feeding and watering hardware tiers priced in naira (₦300K–₦1.2M) tailored for small-to-commercial Nigerian poultry farms.",
+  "closest_overlap": "TBD_PHASE_5",
+  "pitch_hook": "Glorious Farmgate reports 50+ farmers and ₦5M savings and joined Her Startup Cohort 2 on 2026-11-23, yet its site still displays /placeholder.svg customer case-study images, has no blog or team page, and its @gloriousfarmgate Instagram has only 15 followers with a 175.5-day median posting gap.",
+  "evidence_paths": "evidence/phase2/kadosh_mechatronics_e5b58210ed.md | evidence/phase4/glorious-farmgate_site_search.json | evidence/phase4/glorious-farmgate_site_search_2.json | evidence/phase4/glorious-farmgate_home.md | evidence/phase4/glorious-farmgate_ig_scrape.md | evidence/phase4/glorious-farmgate_ig_interact.json | screenshots/glorious-farmgate_instagram.png"
+}

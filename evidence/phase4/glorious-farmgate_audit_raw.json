@@ -1,0 +1,64 @@
+{
+  "retrievalDate": "2026-11-27",
+  "slug": "glorious-farmgate",
+  "poolEntry": {
+    "name": "Glorious Farmgate",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Her Startup 2nd Accelerator Cohort (convertible revenue-based financing)",
+    "amount": "Undisclosed (convertible RBF)",
+    "announced_date": "2026-11-23",
+    "investors": "Her Startup (KSH Foundation, Tomorrow Foundation, EHA Impact Ventures, Founder Institute Morocco)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://disruptafrica.com/2026/11/23/her-startup-selects-12-women-led-startups-for-2nd-accelerator-cohort/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/kadosh_mechatronics_e5b58210ed.md"
+    ],
+    "batch_number": 1
+  },
+  "resolvedWebsite": "NOT_FOUND",
+  "searchCandidates": [
+    {
+      "url": "https://ng.linkedin.com/company/glorious-farmgate",
+      "title": "Glorious Farmgate",
+      "description": "Glorious Farmgate | 26 followers on LinkedIn. A business focused on providing high quality, sustainable and organic agricultural products to consumers."
+    },
+    {
+      "url": "https://www.facebook.com/serena.dickson.1/posts/we-at-glorious-farmgate-are-thrilled-to-take-part-in-the-ifair-build-it-competit/4189085524637504/",
+      "title": "We at Glorious Farmgate are thrilled to take part in the iFAIR Build-It ...",
+      "description": "We at Glorious Farmgate are thrilled to take part in the iFAIR Build-It Competition by Innov8! Our innovative Automated Poultry Cage System ..."
+    },
+    {
+      "url": "https://www.facebook.com/GENNIGERIA/videos/congratulations-to-the-winners-of-agrohack-2024winner-ally-green-ivy-limited-1st/2336686410038188/",
+      "title": "Congratulations to the winners of Agrohack 2024! Winner-Ally green ..."
+    },
+    {
+      "url": "https://www.instagram.com/p/Df42eBtissW/",
+      "title": "We are excited and honoured to be selected for HerStartup Cohort 2.0! ...",
+      "description": "This is another important milestone in our journey at Glorious Farmgate, and we are looking forward to the opportunities, valuable mentorship, ..."
+    },
+    {
+      "url": "https://ng.linkedin.com/in/glory-okere-1707a8180",
+      "title": "Glory Okere - Agricultural Engineer | Farmer | Sustainability Advocate",
+      "description": "Okere Glory co-founded Glorious Farmgate an agribusiness which deals on delivering healthy, organic farm produce to consumers. She has worked as a marketer and ..."
+    }
+  ],
+  "scrapedPages": {},
+  "socialLinksFoundOnSite": {
+    "instagram": [],
+    "linkedin": [],
+    "twitter": []
+  },
+  "instagramAudit": {
+    "status": "NO_IG_FOUND",
+    "url": "NOT_FOUND"
+  },
+  "evidencePaths": [
+    "evidence/phase2/kadosh_mechatronics_e5b58210ed.md",
+    "evidence/phase4/glorious-farmgate_site_search.json"
+  ]
+}

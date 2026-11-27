@@ -1,0 +1,39 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.linkedin.com/company/costgraphai",
+        "title": "CostGraph",
+        "description": "The AI that finds, explains and fixes cloud waste. Website: https://costgraph.ai. External link for CostGraph. Industry: Software Development.",
+        "position": 1
+      },
+      {
+        "url": "https://thecondia.com/costgraph-cloud-ai-infrastructure-cost/",
+        "title": "CostGraph makes cloud costs easier to understand and manage. Now it ...",
+        "description": "CostGraph helps businesses optimise cloud and AI infrastructure costs with real-time usage tracking, insights and recommendations.",
+        "position": 2
+      },
+      {
+        "url": "https://www.facebook.com/yateghteghsolomon/videos/a-well-funded-nigerian-startup-shut-down-okra-one-of-the-pioneers-of-open-bankin/1835821273774937/",
+        "title": "A well-funded Nigerian startup… shut down. Okra, one of the pioneers ...",
+        "position": 3
+      },
+      {
+        "url": "https://www.startuplist.africa/",
+        "title": "Discover African Startups, Investors and Market Intelligence",
+        "description": "Aeon. Cybersecurity · Nigeria. $1 ; Lipa Later. Lending · Kenya. Undisclosed ; Axmed. Health Care · Nigeria. $4.3 ; CostGraph. Cloud Infrastructure · Nigeria. $10 ...",
+        "position": 4
+      },
+      {
+        "url": "https://cencori.com/newsroom",
+        "title": "Newsroom",
+        "description": "Newsroom ; Introducing Tensor · Nov 18, 2026 ; Cencori partners with CostGraph · Nov 6, 2026 ; Cencori Commits to Building Energy-Efficient Inference Infrastructure ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a21d33-d071-7235-8ce0-964c8ca6e134"
+}

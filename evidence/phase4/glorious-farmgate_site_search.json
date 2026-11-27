@@ -1,0 +1,39 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://ng.linkedin.com/company/glorious-farmgate",
+        "title": "Glorious Farmgate",
+        "description": "Glorious Farmgate | 26 followers on LinkedIn. A business focused on providing high quality, sustainable and organic agricultural products to consumers.",
+        "position": 1
+      },
+      {
+        "url": "https://www.facebook.com/serena.dickson.1/posts/we-at-glorious-farmgate-are-thrilled-to-take-part-in-the-ifair-build-it-competit/4189085524637504/",
+        "title": "We at Glorious Farmgate are thrilled to take part in the iFAIR Build-It ...",
+        "description": "We at Glorious Farmgate are thrilled to take part in the iFAIR Build-It Competition by Innov8! Our innovative Automated Poultry Cage System ...",
+        "position": 2
+      },
+      {
+        "url": "https://www.facebook.com/GENNIGERIA/videos/congratulations-to-the-winners-of-agrohack-2024winner-ally-green-ivy-limited-1st/2336686410038188/",
+        "title": "Congratulations to the winners of Agrohack 2024! Winner-Ally green ...",
+        "position": 3
+      },
+      {
+        "url": "https://www.instagram.com/p/Df42eBtissW/",
+        "title": "We are excited and honoured to be selected for HerStartup Cohort 2.0! ...",
+        "description": "This is another important milestone in our journey at Glorious Farmgate, and we are looking forward to the opportunities, valuable mentorship, ...",
+        "position": 4
+      },
+      {
+        "url": "https://ng.linkedin.com/in/glory-okere-1707a8180",
+        "title": "Glory Okere - Agricultural Engineer | Farmer | Sustainability Advocate",
+        "description": "Okere Glory co-founded Glorious Farmgate an agribusiness which deals on delivering healthy, organic farm produce to consumers. She has worked as a marketer and ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a21d2e-aa91-7326-aa48-b4aadaf55a3a"
+}

@@ -1,0 +1,90 @@
+{
+  "ok": true,
+  "blocked": false,
+  "blockReason": "",
+  "evidencePaths": [
+    "evidence/phase4/glorious-farmgate_ig_scrape.json",
+    "evidence/phase4/glorious-farmgate_ig_scrape.md",
+    "evidence/phase4/glorious-farmgate_ig_interact.json",
+    "evidence/phase4/glorious-farmgate_ig_stop.json"
+  ],
+  "screenshotPath": "screenshots/glorious-farmgate_instagram.png",
+  "mdText": "# Glorious Farmgate (@gloriousfarmgate)\n\nRevolutionizing farming in Nigeria\n\n15 followers · 23 following\n\n## Recent posts\n\n- [We are excited and honoured to be selected for HerStartup Cohort 2.0! This is another important milestone in our journe…](https://instagram.com/p/Df42eBtissW) · 2026-11-18 · 12 likes · 2 comments\n- [#MSMEConference2026 #SMEDANPitchCompetition #GrowNigerian](https://instagram.com/p/Dey_aJ7qcPX) · 2026-10-22 · 2 likes · 0 comments · 29 views\n- [We are excited to share the successful deployment of the our Automated Feeder for Poultry Farms. The system consists of…](https://instagram.com/p/DaXpncAK0b_) · 2026-07-04 · 1 likes · 0 comments · 133 views\n- [We at Glorious Farmgate are thrilled to take part in the iFAIR Build-It Competition by Innov8! Our innovative Automated…](https://instagram.com/p/DQrhgdzCjTL) · 2025-11-05 · 30 likes · 6 comments · 273 views\n- [Congratulations to Glorious Farmgate for emerging as the first runner-up for the Agrohack Challenge 2024, a prestigious…](https://instagram.com/p/DGT5ZbNqVHC) · 2025-02-20 · 2 likes · 0 comments\n- [The AgroHack 2024 National Final has officially concluded, and what an inspiring journey it has been! Today, we witness…](https://instagram.com/p/DF_ANl3OpiL) · 2025-02-12 · 82 likes · 2 comments\n- [Glorious Farmgate came into existence with two questions, \"Why are farm products from Nigeria expensive\" and \"What can…](https://instagram.com/p/DBcRQnFqDEq) · 2024-10-22 · 4 likes · 0 comments\n",
+  "interactParsed": {
+    "title": "Glorious Farmgate (@gloriousfarmgate) • Instagram photos and videos",
+    "url": "https://www.instagram.com/gloriousfarmgate/",
+    "bodyText": "Log In\nSign Up\ngloriousfarmgate\n15 followers\n23 following\nGlorious Farmgate\nRevolutionizing farming in Nigeria\nShow more posts from gloriousfarmgate\nMeta\nAbout\nBlog\nJobs\nHelp\nAPI\nPrivacy\nConsumer Health Privacy\nTerms\nLocations\nPopular\nInstagram Lite\nMeta AI\nMuse\nThreads\nContact Uploading & Non-Users\nMeta Verified\nEnglish\nAfrikaans\nالعربية\nČeština\nDansk\nDeutsch\nΕλληνικά\nEnglish\nEnglish (UK)\nEspañol (España)\nEspañol\nفارسی\nSuomi\nFrançais\nעברית\nBahasa Indonesia\nItaliano\n日本語\n한국어\nBahasa Melayu\nNorsk\nNederlands\nPolski\nPortuguês (Brasil)\nPortuguês (Portugal)\nРусский\nSvenska\nภาษาไทย\nFilipino\nTürkçe\n中文(简体)\n中文(台灣)\nবাংলা\nગુજરાતી\nहिन्दी\nHrvatski\nMagyar\nಕನ್ನಡ\nമലയാളം\nमराठी\nनेपाली\nਪੰਜਾਬੀ\nසිංහල\nSlovenčina\nதமிழ்\nతెలుగు\nاردو\nTiếng Việt\n中文(香港)\nБългарски\nFrançais (Canada)\nRomână\nСрпски\nУкраїнська\n© 2026 Instagram from Meta\nSee photos, videos and more from gloriousfarmgate\nSign up and never miss a post from gloriousfarmgate.\nSign up\nLog in",
+    "domData": {
+      "posts": [
+        {
+          "href": "/gloriousfarmgate/p/Df42eBtissW/",
+          "imgAlt": "Photo by Glorious Farmgate on November 18, 2026.",
+          "svgs": [
+            "Carousel"
+          ],
+          "isPinned": false,
+          "isReel": false,
+          "isCarousel": true
+        },
+        {
+          "href": "/gloriousfarmgate/reel/Dey_aJ7qcPX/",
+          "imgAlt": "Video by Glorious Farmgate on October 22, 2026. May be an image of one or more people, people smiling and text.",
+          "svgs": [
+            "Clip"
+          ],
+          "isPinned": false,
+          "isReel": true,
+          "isCarousel": false
+        },
+        {
+          "href": "/gloriousfarmgate/reel/DaXpncAK0b_/",
+          "imgAlt": "Video by Glorious Farmgate on July 04, 2026.",
+          "svgs": [
+            "Clip"
+          ],
+          "isPinned": false,
+          "isReel": true,
+          "isCarousel": false
+        },
+        {
+          "href": "/gloriousfarmgate/reel/DQrhgdzCjTL/",
+          "imgAlt": "Video by Glorious Farmgate on November 05, 2025.",
+          "svgs": [
+            "Clip"
+          ],
+          "isPinned": false,
+          "isReel": true,
+          "isCarousel": false
+        },
+        {
+          "href": "/gloriousfarmgate/p/DGT5ZbNqVHC/",
+          "imgAlt": "Photo by Glorious Farmgate on February 20, 2025.",
+          "svgs": [],
+          "isPinned": false,
+          "isReel": false,
+          "isCarousel": false
+        },
+        {
+          "href": "/gennigeria/p/DF_ANl3OpiL/",
+          "imgAlt": "Photo by GlobalEntrepreneurshipNigeria on February 12, 2025.",
+          "svgs": [
+            "Carousel"
+          ],
+          "isPinned": false,
+          "isReel": false,
+          "isCarousel": true
+        },
+        {
+          "href": "/gloriousfarmgate/p/DBcRQnFqDEq/",
+          "imgAlt": "Photo by Glorious Farmgate on October 22, 2024.",
+          "svgs": [],
+          "isPinned": false,
+          "isReel": false,
+          "isCarousel": false
+        }
+      ],
+      "extLinks": [],
+      "loginWall": false
+    }
+  }
+}

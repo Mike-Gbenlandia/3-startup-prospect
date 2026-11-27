@@ -1,0 +1,208 @@
+{
+  "retrievalDate": "2026-11-27",
+  "slug": "fuse-varsity",
+  "poolEntry": {
+    "name": "Fuse Varsity",
+    "website": "https://www.fusevarsity.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Her Startup 2nd Accelerator Cohort (convertible revenue-based financing)",
+    "amount": "Undisclosed (convertible RBF)",
+    "announced_date": "2026-11-23",
+    "investors": "Her Startup (KSH Foundation, Tomorrow Foundation, EHA Impact Ventures, Founder Institute Morocco)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://disruptafrica.com/2026/11/23/her-startup-selects-12-women-led-startups-for-2nd-accelerator-cohort/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/kadosh_mechatronics_e5b58210ed.md",
+      "evidence/phase2/web_b1_idice.json"
+    ],
+    "batch_number": 1
+  },
+  "resolvedWebsite": "https://www.fusevarsity.com/",
+  "searchCandidates": [],
+  "scrapedPages": {
+    "home": {
+      "url": "https://www.fusevarsity.com/",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/fuse-varsity_home.md",
+      "jsonPath": "evidence/phase4/fuse-varsity_home.json"
+    },
+    "about": {
+      "url": "https://www.fusevarsity.com/about",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/fuse-varsity_about.md",
+      "jsonPath": "evidence/phase4/fuse-varsity_about.json"
+    },
+    "blog": {
+      "url": "https://www.fusevarsity.com/blog",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/fuse-varsity_blog.md",
+      "jsonPath": "evidence/phase4/fuse-varsity_blog.json"
+    }
+  },
+  "socialLinksFoundOnSite": {
+    "instagram": [
+      "https://www.instagram.com/thefusevarsity/"
+    ],
+    "linkedin": [
+      "https://ng.linkedin.com/company/fuse-varsity"
+    ],
+    "twitter": [
+      "https://x.com/FuseVarsity"
+    ]
+  },
+  "instagramAudit": {
+    "status": "OK",
+    "url": "https://www.instagram.com/thefusevarsity/",
+    "screenshotPath": "screenshots/fuse-varsity_instagram.png",
+    "mdText": "# FUSE Varsity (@thefusevarsity) ✓\n\nIntersection of technology, personal development & career growth. Learn the skills you need to thrive in the future of work! Community @trybebyfuse\n\n770 followers · 2 following\n\nLinks: https://www.fusevarsity.com/bootcamps\n\n## Recent posts\n\n- [Not sure what skill to learn next? 👀 You’re not alone. With so many career paths, courses and skills to choose from, s…](https://instagram.com/p/DcgMu9QIl_l) · 2026-08-26 · 9 likes · 0 comments\n- [Millions of opportunities are emerging across Africa, and digital skills are becoming the bridge between people and the…](https://instagram.com/p/DYeS-mfCJfA) · 2026-05-18 · 11 likes · 0 comments\n- [What if you could start building a new skill right from where you are? 👀 Meet FUSELearn, our self-paced e-learning pla…](https://instagram.com/p/DeZIuOmx7_A) · 2026-10-12 · 38 likes · 1 comments · 2,193 views\n- [As a Learning Partner to Hult Prize KWASU for the 2026/2027 Innovation Cycle, FUSE Varsity is supporting the developmen…](https://instagram.com/p/DgMy4sPEfVg) · 2026-11-26 · 10 likes · 0 comments\n- [In 2026, being good at what you do is one thing. Knowing how to communicate your value is another. 👀 Your skills matte…](https://instagram.com/p/DgHvamIt81g) · 2026-11-24 · 10 likes · 0 comments · 186 views\n- [Your career is about to get a serious upgrade! 💼✨ The Stride Conference 2026 will feature a career workshop with Husse…](https://instagram.com/p/DgHbWA9OIAV) · 2026-11-24 · 20 likes · 0 comments\n- [A digital skill can take you further than you might think. 💡 It could help you qualify for a new role, work with clien…](https://instagram.com/p/DgE_MXcEZUj) · 2026-11-23 · 8 likes · 1 comments\n- [Big news🤝✨ We are thrilled to announce our Community Partnership with FUSE VARSITY for The Stride Conference 2026! Fus…](https://instagram.com/p/DgALTCdOtLh) · 2026-11-21 · 13 likes · 1 comments\n- [One more accelerator before the year ends, and this one is a big deal! 🚀 Out of over 400 applications, FUSE @thefuseva…](https://instagram.com/p/Df4KKL-jiYz) · 2026-11-18 · 39 likes · 8 comments\n- [To every FUSE Scholar, we see you! 💙 To the ones learning something new, making time to grow, practising through the d…](https://instagram.com/p/Df17hQ_kboe) · 2026-11-17 · 9 likes · 0 comments\n- [The FUSE Cohort 10’s first bonus session is here! 🎉 As part of our commitment to helping our Scholars build skills tha…](https://instagram.com/p/Dfr9lupEWoD) · 2026-11-13 · 70 likes · 5 comments\n- [Spoke on Ideation and Solution Architecture to Kwara State University students as the Co-founder, CTO at @thefusevarsit…](https://instagram.com/p/DfpfMr4kfSs) · 2026-11-12 · 72 likes · 11 comments\n",
+    "interactParsed": {
+      "title": "FUSE Varsity (@thefusevarsity) • Instagram photos and videos",
+      "url": "https://www.instagram.com/thefusevarsity/",
+      "bodyText": "Log In\nSign Up\nthefusevarsity\n770 followers\n2 following\nFUSE Varsity\nIntersection of technology, personal development & career growth. Learn the skills you need to thrive in the future of... \nmore\nfusevarsity.com/bootcamps and 3 more\nPartnerships\nSuccess Stories\nBootcamps\nOur Events\nFUSE@1\nAbout Us\nFAQs\nContact Us\nShow more posts from thefusevarsity\nMeta\nAbout\nBlog\nJobs\nHelp\nAPI\nPrivacy\nConsumer Health Privacy\nTerms\nLocations\nPopular\nInstagram Lite\nMeta AI\nMuse\nThreads\nContact Uploading & Non-Users\nMeta Verified\nEnglish\nAfrikaans\nالعربية\nČeština\nDansk\nDeutsch\nΕλληνικά\nEnglish\nEnglish (UK)\nEspañol (España)\nEspañol\nفارسی\nSuomi\nFrançais\nעברית\nBahasa Indonesia\nItaliano\n日本語\n한국어\nBahasa Melayu\nNorsk\nNederlands\nPolski\nPortuguês (Brasil)\nPortuguês (Portugal)\nРусский\nSvenska\nภาษาไทย\nFilipino\nTürkçe\n中文(简体)\n中文(台灣)\nবাংলা\nગુજરાતી\nहिन्दी\nHrvatski\nMagyar\nಕನ್ನಡ\nമലയാളം\nमराठी\nनेपाली\nਪੰਜਾਬੀ\nසිංහල\nSlovenčina\nதமிழ்\nతెలుగు\nاردو\nTiếng Việt\n中文(香港)\nБългарски\nFrançais (Canada)\nRomână\nСрпски\nУкраїнська\n© 2026 Instagram from Meta\nSee photos, videos and more from thefusevarsity\nSign up and never miss a post from thefusevarsity.\nSign up\nLog in",
+      "domData": {
+        "posts": [
+          {
+            "href": "/thefusevarsity/p/DcgMu9QIl_l/",
+            "imgAlt": "Photo by FUSE Varsity on August 26, 2026.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/thefusevarsity/p/DYeS-mfCJfA/",
+            "imgAlt": "Photo by FUSE Varsity on May 18, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/thefusevarsity/reel/DeZIuOmx7_A/",
+            "imgAlt": "Video by FUSE Varsity on October 12, 2026. May be a graphic of poster, card, crossword puzzle and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/thefusevarsity/p/DgMy4sPEfVg/",
+            "imgAlt": "Photo by FUSE Varsity on November 26, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/trybebyfuse/reel/DgHvamIt81g/",
+            "imgAlt": "Video by TrybebyFUSE on November 24, 2026. May be an image of one or more people, braids, magazine, poster and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/4herfrika/p/DgHbWA9OIAV/",
+            "imgAlt": "Photo by 4Herfrika on November 23, 2026. May be a graphic of one or more people, magazine, poster and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/thefusevarsity/p/DgE_MXcEZUj/",
+            "imgAlt": "Photo by FUSE Varsity on November 23, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/4herfrika/p/DgALTCdOtLh/",
+            "imgAlt": "Photo by 4Herfrika on November 21, 2026. May be a graphic of poster, banner, magazine and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/thehusseinahkehindeabubakar/p/Df4KKL-jiYz/",
+            "imgAlt": "Photo by HKA - Husseinah Kehinde Abubakar on November 18, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/thefusevarsity/p/Df17hQ_kboe/",
+            "imgAlt": "Photo by FUSE Varsity on November 17, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/thefusevarsity/p/Dfr9lupEWoD/",
+            "imgAlt": "Photo by FUSE Varsity on November 13, 2026. May be an image of text.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/isaac0yeniyi/p/DfpfMr4kfSs/",
+            "imgAlt": "Photo by Oyeniyi Isaac Inioluwa on November 12, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          }
+        ],
+        "extLinks": [],
+        "loginWall": false
+      }
+    },
+    "allIgLinksFound": [
+      "https://www.instagram.com/thefusevarsity/"
+    ]
+  },
+  "evidencePaths": [
+    "evidence/phase2/kadosh_mechatronics_e5b58210ed.md",
+    "evidence/phase2/web_b1_idice.json",
+    "evidence/phase4/fuse-varsity_home.json",
+    "evidence/phase4/fuse-varsity_home.md",
+    "evidence/phase4/fuse-varsity_about.json",
+    "evidence/phase4/fuse-varsity_about.md",
+    "evidence/phase4/fuse-varsity_blog.json",
+    "evidence/phase4/fuse-varsity_blog.md",
+    "evidence/phase4/fuse-varsity_ig_scrape.json",
+    "evidence/phase4/fuse-varsity_ig_scrape.md",
+    "evidence/phase4/fuse-varsity_ig_interact.json",
+    "evidence/phase4/fuse-varsity_ig_stop.json"
+  ]
+}

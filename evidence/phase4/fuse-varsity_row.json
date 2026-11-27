@@ -1,0 +1,68 @@
+{
+  "slug": "fuse-varsity",
+  "name": "Fuse Varsity",
+  "website": "https://www.fusevarsity.com/",
+  "industry": "EdTech",
+  "city": "Nigeria (NOT_FOUND exact city)",
+  "what_they_do": "Nigerian e-learning and talent pipeline platform offering ₦40K–₦50K live skill bootcamps (Digital Marketing, Data Analysis, Cybersecurity, Product Management) and self-paced courses on FUSELearn (8,500+ learners trained).",
+  "recent_activity": "2026-11-26: Announced learning partnership with Hult Prize KWASU 2026/2027 Innovation Cycle (https://www.instagram.com/p/DgMy4sPEfVg/); 2026-11-23: Selected among 12 startups for Her Startup 2nd Accelerator Cohort (https://disruptafrica.com/2026/11/23/her-startup-selects-12-women-led-startups-for-2nd-accelerator-cohort/); 2026-10-12: Launched FUSELearn self-paced learning platform (https://www.instagram.com/reel/DeZIuOmx7_A/)",
+  "tier": "C",
+  "round_type": "Her Startup 2nd Accelerator Cohort (convertible revenue-based financing)",
+  "amount": "Undisclosed (convertible RBF)",
+  "funding_date": "2026-11-23",
+  "investors": "Her Startup (KSH Foundation, Tomorrow Foundation, EHA Impact Ventures, Founder Institute Morocco)",
+  "funding_sources": "https://disruptafrica.com/2026/11/23/her-startup-selects-12-women-led-startups-for-2nd-accelerator-cohort/",
+  "funding_confidence": "CONFIRMED_1_SOURCE",
+  "founder_or_marketing_contact": "Husseinah Kehinde Abubakar (Founder, https://www.instagram.com/p/Df4KKL-jiYz/) | Isaac Inioluwa Oyeniyi (Co-founder & CTO, https://www.instagram.com/p/DfpfMr4kfSs/) | info@fusevarsity.com | +234 810 556 7788",
+  "instagram_url": "https://www.instagram.com/thefusevarsity/",
+  "ig_status": "OK",
+  "ig_followers": "770",
+  "ig_post_1": {
+    "raw_timestamp_text": "2026-11-26",
+    "absolute_date": "2026-11-26",
+    "type": "Carousel",
+    "url": "https://www.instagram.com/p/DgMy4sPEfVg/"
+  },
+  "ig_post_2": {
+    "raw_timestamp_text": "2026-11-24",
+    "absolute_date": "2026-11-24",
+    "type": "Reel",
+    "url": "https://www.instagram.com/reel/DgHvamIt81g/"
+  },
+  "ig_post_3": {
+    "raw_timestamp_text": "2026-11-24",
+    "absolute_date": "2026-11-24",
+    "type": "Photo",
+    "url": "https://www.instagram.com/p/DgHbWA9OIAV/"
+  },
+  "ig_post_4": {
+    "raw_timestamp_text": "2026-11-23",
+    "absolute_date": "2026-11-23",
+    "type": "Carousel",
+    "url": "https://www.instagram.com/p/DgE_MXcEZUj/"
+  },
+  "ig_post_5": {
+    "raw_timestamp_text": "2026-11-21",
+    "absolute_date": "2026-11-21",
+    "type": "Photo",
+    "url": "https://www.instagram.com/p/DgALTCdOtLh/"
+  },
+  "ig_days_since_latest": 1,
+  "ig_median_gap_days": 1.5,
+  "ig_screenshot_path": "screenshots/fuse-varsity_instagram.png",
+  "blog_url": "https://www.fusevarsity.com/blog",
+  "blog_last_post_date": "2026-09-24",
+  "blog_posts_last_90_days": 2,
+  "marketing_titles_found": "NONE_FOUND (about page shows mission/impact only; no team roster or marketing/growth title)",
+  "hiring_marketing_role": "NO (no careers page on fusevarsity.com)",
+  "need_score": 2,
+  "score_flags": "NO_MARKETING_TITLE_ON_TEAM (+2)",
+  "qualified": false,
+  "signal_categories": [
+    "team"
+  ],
+  "unique_offer": "Accessible ₦40K–₦50K cohort bootcamps paired with FUSELearn self-paced e-learning and AI skill-assessment onboarding (Jola).",
+  "closest_overlap": "NOT_QUALIFIED",
+  "pitch_hook": "Not qualified (need_score 2): active Instagram (@thefusevarsity posted 2026-11-26, 1.5-day median gap) and blog updated within 90 days (2026-09-24, 2 posts); only lacks a public team/marketing roster.",
+  "evidence_paths": "evidence/phase2/kadosh_mechatronics_e5b58210ed.md | evidence/phase4/fuse-varsity_home.md | evidence/phase4/fuse-varsity_about.md | evidence/phase4/fuse-varsity_blog.md | evidence/phase4/fuse-varsity_ig_scrape.md | evidence/phase4/fuse-varsity_ig_interact.json | screenshots/fuse-varsity_instagram.png"
+}

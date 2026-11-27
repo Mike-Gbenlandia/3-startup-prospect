@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "markdown": "Domain and hosting by [HOSTAFRICA](https://www.hostafrica.co.za/)\n\nIf you are the website owner:Please get in touch with our support or billing department.\n\n# SERVICES SUSPENDED\n\n### tesaglobalsolutions.com\n\n![](<Base64-Image-Removed>)",
+    "metadata": {
+      "language": "en",
+      "description": "Default web hosting page",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "title": "Website coming soon",
+      "author": "HOSTAFRICA.CO.ZA",
+      "scrapeId": "01a21d35-0d9e-71df-b41d-5a5e0b110080",
+      "sourceURL": "https://tesaglobalsolutions.com/",
+      "url": "https://tesaglobalsolutions.com/",
+      "statusCode": 200,
+      "contentType": "text/html",
+      "timezone": "America/New_York",
+      "proxyUsed": "basic",
+      "cacheState": "miss",
+      "indexId": "fe815d94-a596-4809-9e40-7094c7628ef1",
+      "creditsUsed": 1,
+      "concurrencyLimited": false
+    },
+    "links": [
+      "https://www.hostafrica.co.za/"
+    ]
+  }
+}

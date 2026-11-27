@@ -1,0 +1,38 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://ng.linkedin.com/company/tesa-global-solutions",
+        "title": "TESA Global Solutions",
+        "description": "TESA Global Solutions. Business Consulting and Services. Ikeja, Lagos 787 followers. Helping businesses scale and empowering young Africans through marketing, ...",
+        "position": 1
+      },
+      {
+        "url": "https://rocketreach.co/tesa-global-solutions-email-format_b6951829c960825b",
+        "title": "TESA Global Solutions Email Format",
+        "description": "TESA Global Solutions uses 9 email formats: 1. first '.' last@tesaglobalsolutions.com (40.0%). Enter a name to find & verify an email >>>",
+        "position": 2
+      },
+      {
+        "url": "https://www.instagram.com/p/Df4SGjRjaqB/",
+        "title": "Some milestones are worth celebrating not just because of the ...",
+        "description": "I am excited to announce that TESA Global Solutions has been selected as one of the 12 businesses for the second cohort of @herstartup_africa",
+        "position": 3
+      },
+      {
+        "url": "https://www.facebook.com/esther.adeleke.3954/videos/every-business-has-a-beginning-this-is-oursin-2021-there-was-no-tesa-global-solu/1485855903309903/",
+        "title": "Every business has a beginning. This is ours. In 2021, there was no TESA ...",
+        "position": 4
+      },
+      {
+        "url": "https://www.tiktok.com/@tesaglobalsolutions/video/7685489961273003284",
+        "title": "From strategy to execution, we've got you covered. Marketing. Branding...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a21d33-7ce9-7551-a67b-9ba4e83a2506"
+}

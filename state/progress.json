@@ -8,9 +8,9 @@
     },
     "audit": {
       "DROPPED": 270,
-      "DONE": 20,
+      "DONE": 25,
       "BLOCKED": 1,
-      "PENDING": 101
+      "PENDING": 96
     },
     "total_candidates": 392
   },
@@ -19,6 +19,6 @@
     "step": null,
     "open_session_ids": []
   },
-  "next_action": "Audit glorious-farmgate and continue Tier C batch",
-  "last_updated": "2026-11-27T13:25:05.950Z"
+  "next_action": "Audit savvybee, vantrace, 360gadgetsafrica, godash, brimble.",
+  "last_updated": "2026-11-27T13:33:41.459Z"
 }

@@ -1,0 +1,62 @@
+{
+  "retrievalDate": "2026-11-27",
+  "slug": "costgraph",
+  "poolEntry": {
+    "name": "CostGraph",
+    "website": "https://costgraph.ai/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Angel",
+    "amount": "$10K",
+    "announced_date": "2026-11-20",
+    "investors": "Ayomide Oyekanmi",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/costgraph-angel-10k-usd-c9f3456",
+      "https://startupnews.africa/2026/11/20/ayomide-oyekanmi-brimble-costgraph-angel-investments/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/costgraph_5750aff0a7.md"
+    ],
+    "batch_number": 1
+  },
+  "resolvedWebsite": "https://costgraph.ai/",
+  "searchCandidates": [],
+  "scrapedPages": {
+    "home": {
+      "url": "https://costgraph.ai/",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/costgraph_home.md",
+      "jsonPath": "evidence/phase4/costgraph_home.json"
+    },
+    "blog": {
+      "url": "https://costgraph.ai/blog",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/costgraph_blog.md",
+      "jsonPath": "evidence/phase4/costgraph_blog.json"
+    }
+  },
+  "socialLinksFoundOnSite": {
+    "instagram": [],
+    "linkedin": [
+      "https://www.linkedin.com/company/costgraphai"
+    ],
+    "twitter": [
+      "https://x.com/costgraphai"
+    ]
+  },
+  "instagramAudit": {
+    "status": "NO_IG_FOUND",
+    "url": "NOT_FOUND"
+  },
+  "evidencePaths": [
+    "evidence/phase2/costgraph_5750aff0a7.md",
+    "evidence/phase4/costgraph_home.json",
+    "evidence/phase4/costgraph_home.md",
+    "evidence/phase4/costgraph_blog.json",
+    "evidence/phase4/costgraph_blog.md"
+  ]
+}

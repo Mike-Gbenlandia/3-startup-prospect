@@ -1,0 +1,65 @@
+{
+  "retrievalDate": "2026-11-27",
+  "slug": "tesa-global-solutions",
+  "poolEntry": {
+    "name": "TESA Global Solutions",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Her Startup 2nd Accelerator Cohort (convertible revenue-based financing)",
+    "amount": "Undisclosed (convertible RBF)",
+    "announced_date": "2026-11-23",
+    "investors": "Her Startup (KSH Foundation, Tomorrow Foundation, EHA Impact Ventures, Founder Institute Morocco)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://disruptafrica.com/2026/11/23/her-startup-selects-12-women-led-startups-for-2nd-accelerator-cohort/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/kadosh_mechatronics_e5b58210ed.md"
+    ],
+    "batch_number": 1
+  },
+  "resolvedWebsite": "NOT_FOUND",
+  "searchCandidates": [
+    {
+      "url": "https://www.instagram.com/p/Df4SGjRjaqB/",
+      "title": "Some milestones are worth celebrating not just because of the ...",
+      "description": "At TESA Global Solutions, we help tech-startups and SMEs grow through strategic digital marketing, brand positioning, content creation, lead ..."
+    },
+    {
+      "url": "https://www.facebook.com/esther.adeleke.3954/posts/some-milestones-are-worth-celebrating-not-just-because-of-the-recognition-they-b/2171217903477622/",
+      "title": "Esther Adeleke TESA Global Solutions joins HER Startup cohort 2.0",
+      "description": "I am excited to announce that TESA Global Solutions has been selected as one of the 12 businesses for the second cohort of Her Startup ..."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/tesa-global-solutions_tesaglobalsolutions-techlabcareeraccelerator-activity-7497555939907158017-o74y",
+      "title": "TESA Global Partners with Smart Gate for Career Opportunities",
+      "description": "TESA Global Solutions is proud to partner with Smart Gate Technologies and Consulting to create stronger pathways from skills development to ..."
+    },
+    {
+      "url": "https://www.facebook.com/esther.adeleke.3954/videos/because-its-exactly-18-days-to-my-birthday-may-8-save-the-dateelegant-american-d/1283730783933441/",
+      "title": "Because it's exactly 18 days to my birthday- May 8. Save the date ...",
+      "description": "Esther Adeleke, the founder of TESA Global Solutions, introduces her company, which offers digital marketing, media, and business development services. The ..."
+    },
+    {
+      "url": "https://www.instagram.com/p/DfbypItjUzy/",
+      "title": "Six Months of Growth! A Bigger Vision! A New Chapter for TESA Global ...",
+      "description": "At TESA Global Solutions, we help tech-startups and SMEs grow through strategic digital marketing, brand positioning, content creation, lead ..."
+    }
+  ],
+  "scrapedPages": {},
+  "socialLinksFoundOnSite": {
+    "instagram": [],
+    "linkedin": [],
+    "twitter": []
+  },
+  "instagramAudit": {
+    "status": "NO_IG_FOUND",
+    "url": "NOT_FOUND"
+  },
+  "evidencePaths": [
+    "evidence/phase2/kadosh_mechatronics_e5b58210ed.md",
+    "evidence/phase4/tesa-global-solutions_site_search.json"
+  ]
+}

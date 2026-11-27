@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.gloriousfarmgate.com/",
+        "title": "glorious-farmgate-reveal",
+        "description": "The Future of Poultry Farming, Join the Poultry Revolution with Smart, Solar-Powered Automation.",
+        "position": 1
+      },
+      {
+        "url": "https://ng.linkedin.com/company/glorious-farmgate",
+        "title": "Glorious Farmgate",
+        "description": "Glorious Farmgate | 26 followers on LinkedIn. A business focused on providing high quality, sustainable and organic agricultural products to consumers.",
+        "position": 2
+      },
+      {
+        "url": "https://www.youtube.com/@GloriousFarmgate",
+        "title": "Glorious Farmgate",
+        "description": "Glorious Farmgate. Home. Shorts. Library. Glorious Farmgate. @GloriousFarmgate. 3 videos. More about this channel ...more. More about this channel ...more",
+        "position": 3
+      },
+      {
+        "url": "https://www.instagram.com/gloriousfarmgate/?hl=en",
+        "title": "Glorious Farmgate (@gloriousfarmgate) · Owerri",
+        "description": "Congratulations to Glorious Farmgate for emerging as the ...",
+        "position": 4
+      },
+      {
+        "url": "https://www.facebook.com/serena.dickson.1/posts/we-at-glorious-farmgate-are-thrilled-to-take-part-in-the-ifair-build-it-competit/4189085524637504/",
+        "title": "We at Glorious Farmgate are thrilled to take part in the iFAIR Build-It ...",
+        "description": "We at Glorious Farmgate are thrilled to take part in the iFAIR Build-It Competition by Innov8! Our innovative Automated Poultry Cage System ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a21d2f-0ab5-763f-84d3-c0b0d8c296b7"
+}
