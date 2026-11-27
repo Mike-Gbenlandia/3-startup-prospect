@@ -1,0 +1,41 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.facebook.com/dparakletus/",
+        "title": "Parakletus Hub Nigeria (@dparakletus)",
+        "description": "Parakletus Hub Nigeria. 349 followers. Democratising quality education in ... Details. Official Website. Links. parakletus_ng + 2. +234 814 887 6125.",
+        "position": 1
+      },
+      {
+        "url": "https://ng.linkedin.com/in/evander-ikechukwu-371904202",
+        "title": "Evander Ikechukwu - Driving growth at Parakletus Hub Nigeria",
+        "description": "As the founder of Parakletus Hub Nigeria, I leverage my skills in business development and strategy to create impactful solutions in the evolving edtech ...",
+        "position": 2
+      },
+      {
+        "url": "https://rocketreach.co/parakletus-hub-nigeria-profile_b711bb60c4a68416",
+        "title": "Parakletus Hub Nigeria Information",
+        "description": "Parakletus Hub Nigeria is an E-Learning company located in NG with 11 employees ... Website, https://www.parakletusng.com. Employees, 11 (8 on RocketReach).",
+        "position": 3
+      },
+      {
+        "url": "https://github.com/parakletus-hub-nigeria/usemymedic",
+        "title": "parakletus-hub-nigeria/usemymedic",
+        "description": "Contribute to parakletus-hub-nigeria/usemymedic development by creating an account on GitHub.",
+        "position": 4,
+        "category": "github"
+      },
+      {
+        "url": "https://www.facebook.com/dparakletus/?locale=gl_ES",
+        "title": "Parakletus Hub Nigeria",
+        "description": "Parakletus Hub Nigeria · Save this for tomorrow morning. · The gap between where you are and where you want to be is not closed in one big move. · It's here. · It's ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a21d67-b47f-707c-b4a9-623b0271d77b"
+}

@@ -1,0 +1,39 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.facebook.com/61573538037155/posts/-we-are-proud-to-announce-that-our-ceo-moses-a-nweke-of-upsmart-energies-has-bee/122182776686784601/",
+        "title": "UpSmart Energies",
+        "description": "We are proud to announce that our CEO, Moses A Nweke, of UpSmart Energies, has been recognized as the winner of the 2026 DBN Entrepreneurship Training...",
+        "position": 1
+      },
+      {
+        "url": "https://www.instagram.com/p/Df4t_XrEayt/",
+        "title": "Our CEO had the opportunity to pitch UpSmart Energies during the NiYA × ...",
+        "description": "Our CEO had the opportunity to pitch UpSmart Energies during the NiYA × Cascador Programme, in a room filled with highly distinguished ...",
+        "position": 2
+      },
+      {
+        "url": "https://ng.linkedin.com/in/moses-nweke",
+        "title": "Moses Nweke - Social Entrepreneur | Inventor | Global Leader",
+        "description": "UpSmart Energies provides individuals, small businesses, refugees, and communities with renewable lighting and energy solutions leveraging local manufacturing.",
+        "position": 3
+      },
+      {
+        "url": "https://www.facebook.com/busayokorrecthomes/posts/-the-grant-portal-is-live-the-federal-governments-niya-cascador-founders-program/1575980514539420/",
+        "title": "THE GRANT PORTAL IS LIVE!  The Federal Government's NiYA ...",
+        "position": 4
+      },
+      {
+        "url": "https://www.startuplist.africa/fundings/renewable-energy/grant",
+        "title": "Grant rounds for Renewable Energy startups in Africa",
+        "description": "Investors, Amount, Date. 1. UE. UpSmart EnergiesRenewable Energy · JosGrant · Nigeria. Grant, Nigeria, Cascador, Not disclosed10 Nov 2026, 10 ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a21d6c-cc94-71ac-bb6b-39c1508f18a6"
+}

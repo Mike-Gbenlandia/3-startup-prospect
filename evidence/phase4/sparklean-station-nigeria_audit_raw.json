@@ -1,0 +1,53 @@
+{
+  "retrievalDate": "2026-11-27",
+  "slug": "sparklean-station-nigeria",
+  "poolEntry": {
+    "name": "Sparklean Station Nigeria",
+    "website": "https://sparkleanstation.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "NiYA-Cascador Non-dilutive Grant",
+    "amount": "NGN 5M (~$3,711)",
+    "announced_date": "2026-11-10",
+    "investors": "Cascador / Nigerian Youth Academy (NiYA) / Federal Ministry of Youth Development",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/sparklean-station-nigeria-grant-5m-ngn-3b1a496",
+      "https://techcabal.com/2026/11/10/cascador-niya-select-eight-founders/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/fmyd_cascador_8_1d72fb117c.md",
+      "evidence/phase1/hy_techcabal_cascador_niya_8.md",
+      "evidence/phase1/hy_sl_ng_grant.md"
+    ],
+    "batch_number": 3
+  },
+  "resolvedWebsite": "https://sparkleanstation.com/",
+  "searchCandidates": [],
+  "scrapedPages": {
+    "home": {
+      "url": "https://sparkleanstation.com/",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/sparklean-station-nigeria_home.md",
+      "jsonPath": "evidence/phase4/sparklean-station-nigeria_home.json"
+    }
+  },
+  "socialLinksFoundOnSite": {
+    "instagram": [],
+    "linkedin": [],
+    "twitter": []
+  },
+  "instagramAudit": {
+    "status": "NO_IG_FOUND",
+    "url": "NOT_FOUND"
+  },
+  "evidencePaths": [
+    "evidence/phase2/fmyd_cascador_8_1d72fb117c.md",
+    "evidence/phase1/hy_techcabal_cascador_niya_8.md",
+    "evidence/phase1/hy_sl_ng_grant.md",
+    "evidence/phase4/sparklean-station-nigeria_home.json",
+    "evidence/phase4/sparklean-station-nigeria_home.md"
+  ]
+}

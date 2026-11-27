@@ -1,0 +1,42 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "markdown": "![Sparklean Station Nigeria Limited logo](https://sparkleanstation.com/logo.png)\n\nSparklean Accounts\n\n## Sign in\n\nEmail\n\nPassword\n\nSign inForgot password?\n\nAccounts are created by invitation from the Owner.",
+    "metadata": {
+      "application-name": "Sparklean Accounts",
+      "title": "Sign in — Sparklean Accounts",
+      "twitter:title": "Sparklean Accounts",
+      "description": "Sign in to Sparklean Accounts.",
+      "ogImage": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/lovp_7x9daxz0gf8hfbmx9s0x2seskz/6c734a49c83b9bd19b47d3204e166257_1794134044409.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-title": "Sparklean Accounts",
+      "twitter:card": "summary_large_image",
+      "og:image": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/lovp_7x9daxz0gf8hfbmx9s0x2seskz/6c734a49c83b9bd19b47d3204e166257_1794134044409.png",
+      "twitter:description": "Bookkeeping for Sparklean Station Nigeria Limited.",
+      "og:title": "Sign in — Sparklean Accounts",
+      "ogTitle": "Sign in — Sparklean Accounts",
+      "mobile-web-app-capable": "yes",
+      "language": "en",
+      "twitter:image": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/lovp_7x9daxz0gf8hfbmx9s0x2seskz/6c734a49c83b9bd19b47d3204e166257_1794134044409.png",
+      "og:description": "Sign in to Sparklean Accounts.",
+      "theme-color": "#FF671E",
+      "ogDescription": "Sign in to Sparklean Accounts.",
+      "apple-mobile-web-app-capable": "yes",
+      "og:type": "website",
+      "favicon": "https://sparkleanstation.com/favicon.png",
+      "scrapeId": "01a21d65-42be-7124-8388-200b3bf5ede9",
+      "sourceURL": "https://sparkleanstation.com/",
+      "url": "https://sparkleanstation.com/auth",
+      "statusCode": 200,
+      "contentType": "text/html; charset=utf-8",
+      "timezone": "America/New_York",
+      "proxyUsed": "basic",
+      "cacheState": "miss",
+      "indexId": "f2d5870d-52f9-408d-81ae-4af3301b7808",
+      "creditsUsed": 1,
+      "concurrencyLimited": false
+    },
+    "links": []
+  }
+}

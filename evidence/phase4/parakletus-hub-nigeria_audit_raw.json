@@ -1,0 +1,66 @@
+{
+  "retrievalDate": "2026-11-27",
+  "slug": "parakletus-hub-nigeria",
+  "poolEntry": {
+    "name": "Parakletus Hub Nigeria",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "NiYA-Cascador Non-dilutive Grant",
+    "amount": "NGN 1M (~$742)",
+    "announced_date": "2026-11-10",
+    "investors": "Cascador / Nigerian Youth Academy (NiYA) / Federal Ministry of Youth Development",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/parakletus-hub-nigeria-grant-1m-ngn-8a5eb1e"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/parakletus_hub_nigeria_72717f3274.md"
+    ],
+    "notes": "Also named ParaLearn (Parakletus Hub Nigeria).",
+    "batch_number": 3
+  },
+  "resolvedWebsite": "NOT_FOUND",
+  "searchCandidates": [
+    {
+      "url": "https://www.facebook.com/dparakletus/",
+      "title": "Parakletus Hub Nigeria (@dparakletus)",
+      "description": "Parakletus Hub Nigeria. 349 followers. Democratising quality education in ... Details. Official Website. Links. parakletus_ng + 2. +234 814 887 6125."
+    },
+    {
+      "url": "https://ng.linkedin.com/in/evander-ikechukwu-371904202",
+      "title": "Evander Ikechukwu - Driving growth at Parakletus Hub Nigeria",
+      "description": "As the founder of Parakletus Hub Nigeria, I leverage my skills in business development and strategy to create impactful solutions in the evolving edtech ..."
+    },
+    {
+      "url": "https://rocketreach.co/parakletus-hub-nigeria-profile_b711bb60c4a68416",
+      "title": "Parakletus Hub Nigeria Information",
+      "description": "Parakletus Hub Nigeria is an E-Learning company located in NG with 11 employees ... Website, https://www.parakletusng.com. Employees, 11 (8 on RocketReach)."
+    },
+    {
+      "url": "https://github.com/parakletus-hub-nigeria/usemymedic",
+      "title": "parakletus-hub-nigeria/usemymedic",
+      "description": "Contribute to parakletus-hub-nigeria/usemymedic development by creating an account on GitHub."
+    },
+    {
+      "url": "https://www.facebook.com/dparakletus/?locale=gl_ES",
+      "title": "Parakletus Hub Nigeria",
+      "description": "Parakletus Hub Nigeria · Save this for tomorrow morning. · The gap between where you are and where you want to be is not closed in one big move. · It's here. · It's ..."
+    }
+  ],
+  "scrapedPages": {},
+  "socialLinksFoundOnSite": {
+    "instagram": [],
+    "linkedin": [],
+    "twitter": []
+  },
+  "instagramAudit": {
+    "status": "NO_IG_FOUND",
+    "url": "NOT_FOUND"
+  },
+  "evidencePaths": [
+    "evidence/phase2/parakletus_hub_nigeria_72717f3274.md",
+    "evidence/phase4/parakletus-hub-nigeria_site_search.json"
+  ]
+}
