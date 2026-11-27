@@ -1,0 +1,69 @@
+{
+  "slug": "teazy-tech",
+  "name": "Teazy Tech",
+  "website": "https://www.teazytech.org/",
+  "industry": "EdTech",
+  "city": "Lekki, Lagos",
+  "what_they_do": "Teazy Tech is a Nigerian EdTech company that trains K-12 teachers to transition from traditional teaching to digital pedagogies through workshops, an online LMS (teazytech.online), Teazy AI tools (ai.teazytech.online), and classroom resources.",
+  "recent_activity": "2026-11-23: Published blog guide 'Technology For Learners with Learning Differences' (https://www.teazytech.org/blog/BzdJRzKU9AQ582ObO3zf) | 2026-11-04: Announced Online Teaching Mastery course launch on Instagram (https://www.instagram.com/teazy_tech/p/DfUaC3Ko3JJ/) | 2026-10-05: Selected for Orange Corners Nigeria Lagos Cohort 14 with $11.3K pre-seed OCIF backing (https://www.trysignalbase.com/news/funding/teazy-tech-raises-11k-pre)",
+  "tier": "A",
+  "round_type": "Pre-seed (Orange Corners Innovation Fund Cohort 14)",
+  "amount": "$11.3K ($11K)",
+  "funding_date": "2026-10-05",
+  "investors": "Orange Corners Innovation Fund (OCIF) / FATE Foundation / Kingdom of the Netherlands",
+  "funding_sources": "https://www.trysignalbase.com/news/funding/teazy-tech-raises-11k-pre | https://www.f6s.com/company/teazy-tech | https://www.facebook.com/OrangeCornersNigeria/posts/introducing-orange-corners-nigeria-lagos-cohort-14-incubateesjoin-us-in-welcomin/1422486406572278/",
+  "funding_confidence": "CONFIRMED_2_SOURCES",
+  "founder_or_marketing_contact": "Princess Natasha Balogun-Momoh (Founder); hello@teazytech.org; +234 906 826 7461 (https://www.teazytech.org/about)",
+  "instagram_url": "https://www.instagram.com/teazy_tech/",
+  "ig_status": "OK",
+  "ig_followers": "898",
+  "ig_post_1": {
+    "raw_timestamp_text": "November 11, 2026",
+    "absolute_date": "2026-11-11",
+    "type": "Carousel",
+    "url": "https://www.instagram.com/teazy_tech/p/DfmICaFiHib/"
+  },
+  "ig_post_2": {
+    "raw_timestamp_text": "November 04, 2026",
+    "absolute_date": "2026-11-04",
+    "type": "Photo",
+    "url": "https://www.instagram.com/teazy_tech/p/DfUaC3Ko3JJ/"
+  },
+  "ig_post_3": {
+    "raw_timestamp_text": "November 03, 2026",
+    "absolute_date": "2026-11-03",
+    "type": "Reel/Video",
+    "url": "https://www.instagram.com/teazy_tech/reel/DfRjIrQIn7k/"
+  },
+  "ig_post_4": {
+    "raw_timestamp_text": "October 29, 2026",
+    "absolute_date": "2026-10-29",
+    "type": "Reel/Video",
+    "url": "https://www.instagram.com/teazy_tech/reel/DfFfKr-oCWx/"
+  },
+  "ig_post_5": {
+    "raw_timestamp_text": "October 19, 2026",
+    "absolute_date": "2026-10-19",
+    "type": "Carousel",
+    "url": "https://www.instagram.com/princessnatashabm/p/Dert7GeiCrC/"
+  },
+  "ig_days_since_latest": 16,
+  "ig_median_gap_days": 6,
+  "ig_screenshot_path": "screenshots/teazy-tech_instagram.png",
+  "blog_url": "https://www.teazytech.org/blog",
+  "blog_last_post_date": "2026-11-23",
+  "blog_posts_last_90_days": 10,
+  "marketing_titles_found": "NONE_FOUND (about page names founder Princess Natasha with no marketing/growth titles; blog authored by Igho-Uloho Divine)",
+  "hiring_marketing_role": "NO (no careers page linked on teazytech.org or teazytech.online)",
+  "need_score": 3,
+  "score_flags": "IG_STALE_14D (+1) | NO_MARKETING_TITLE_ON_TEAM (+2)",
+  "qualified": false,
+  "signal_categories": [
+    "Instagram",
+    "team"
+  ],
+  "unique_offer": "Practical EdTech workshops, AI teaching tools (Teazy AI), and online courses for Nigerian K-12 educators.",
+  "closest_overlap": "NOT_QUALIFIED_LOW_NEED_SCORE",
+  "pitch_hook": "Teazy Tech publishes frequent blog content (latest 2026-11-23) and has no visible marketing title on its site, while Instagram (@teazy_tech, 898 followers) has been quiet for 16 days.",
+  "evidence_paths": "evidence/phase2/q_teazy_b7.json | evidence/phase1/hy_signalbase_zendtrax.md | evidence/phase4/teazy-tech_home.md | evidence/phase4/teazy-tech_org.md | evidence/phase4/teazy-tech_about.md | evidence/phase4/teazy-tech_blog.md | evidence/phase4/teazy-tech_ig_scrape.md | evidence/phase4/teazy-tech_ig_interact.json | screenshots/teazy-tech_instagram.png"
+}

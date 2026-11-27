@@ -1,0 +1,201 @@
+{
+  "retrievalDate": "2026-11-27",
+  "slug": "solarcorp",
+  "poolEntry": {
+    "name": "Solarcorp",
+    "website": "https://solarcorptech.com/",
+    "tier": "A",
+    "status": "VERIFIED",
+    "round_type_exact": "Pre-seed (MARL Accelerator 14th Cohort SAFE)",
+    "amount": "$50K",
+    "announced_date": "2026-10-30",
+    "investors": "MARL Accelerator",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://www.trysignalbase.com/news/funding/zendtrax-raises-50k-in-pre-seed-round",
+      "https://solarcorptech.com/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/q_solarcorp.json",
+      "evidence/phase2/q_bravoo.json",
+      "evidence/phase1/hy_signalbase_zendtrax.md"
+    ],
+    "batch_number": 6
+  },
+  "resolvedWebsite": "https://solarcorptech.com/",
+  "searchCandidates": [],
+  "scrapedPages": {
+    "home": {
+      "url": "https://solarcorptech.com/",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/solarcorp_home.md",
+      "jsonPath": "evidence/phase4/solarcorp_home.json"
+    },
+    "about": {
+      "url": "https://solarcorptech.com/about-us",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/solarcorp_about.md",
+      "jsonPath": "evidence/phase4/solarcorp_about.json"
+    },
+    "blog": {
+      "url": "https://solarcorptech.com/blog",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/solarcorp_blog.md",
+      "jsonPath": "evidence/phase4/solarcorp_blog.json"
+    }
+  },
+  "socialLinksFoundOnSite": {
+    "instagram": [
+      "https://www.instagram.com/solarcorp.energy/"
+    ],
+    "linkedin": [],
+    "twitter": [
+      "https://x.com/Solarcorpenergy"
+    ]
+  },
+  "instagramAudit": {
+    "status": "OK",
+    "url": "https://www.instagram.com/solarcorp.energy/",
+    "screenshotPath": "screenshots/solarcorp_instagram.png",
+    "mdText": "# Solarcorp (@solarcorp.energy)\n\nSolarcorp is transforming Families and Businesses with access to affordable and reliable Solar Energy Solution.\n\n1,131 followers · 260 following\n\nLinks: https://www.solarcorptech.com/\n\n## Recent posts\n\n- [Solar panels are STRESS FREE . Don’t you think? . There’s no additional hassle, just the occasional tinkering and maint…](https://instagram.com/p/C34neHiMp5M) · 2024-02-28 · 34 likes · 3 comments\n- [Imagine never having to worry about NEPA's next move. Let Solarcorp help you switch to solar seamlessly Click the link…](https://instagram.com/p/DgMvPw6oNHN) · 2026-11-26 · 3 likes · 0 comments\n- [Earn up to ₦500k this December by just referring people who need solar Join Solarcorp Remote Sales Agent Community and…](https://instagram.com/p/DgIJ2u_ID2n) · 2026-11-24 · 5 likes · 0 comments\n- [When a customer wants to pay for solar upfront? That’s the scenario of the best case😂 Sign up on circool and start sav…](https://instagram.com/p/DgICUHroTtG) · 2026-11-24 · 6 likes · 1 comments · 60 views\n- [Another successful installation of the 6kVA Lithium Compact Plan Pay just ₦1,080,000 (30% deposit) for immediate instal…](https://instagram.com/p/DgH8N4ZIJQV) · 2026-11-24 · 4 likes · 0 comments\n- [Generator wahala and rising fuel prices? It's time for a change! Switch to solar with Solarcorp and enjoy a smarter, mo…](https://instagram.com/p/Df6zM5-oePG) · 2026-11-19 · 3 likes · 0 comments\n- [Power your pumping machine with our 6kVA lithium solar plan. Get water and light at home, with or without NEPA. Pay jus…](https://instagram.com/p/Df1cWxmIZc3) · 2026-11-17 · 3 likes · 0 comments\n- [Solarcorp is looking for Solar Engineers to partner with.👷 We want professionals who prioritize quality, precision, an…](https://instagram.com/p/DfrN_e1IXes) · 2026-11-13 · 5 likes · 0 comments\n- [You don't have to keep depending on the grid or spending on fuel to enjoy reliable electricity. Solar gives you more co…](https://instagram.com/p/DfmRZE8FsHJ) · 2026-11-11 · 1 likes · 0 comments\n- [Another successful installation! ☀️ This time, we delivered a 6kVA solar system to a happy client, bringing them one st…](https://instagram.com/p/DfW7TwWgCzV) · 2026-11-05 · 9 likes · 0 comments · 112 views\n- [The heat is already enough to deal with. Power shouldn't add to the stress. This season, keep your home cool and your a…](https://instagram.com/p/DfUp0UPFgDB) · 2026-11-04 · 2 likes · 0 comments\n- [The heat is here, and comfort shouldn't depend on the grid. Keep your home cool and your power steady with solar energy…](https://instagram.com/p/DfPQ6AzFkIY) · 2026-11-02 · 5 likes · 0 comments\n",
+    "interactParsed": {
+      "title": "Solarcorp (@solarcorp.energy) • Instagram photos and videos",
+      "url": "https://www.instagram.com/solarcorp.energy/",
+      "bodyText": "Log In\nSign Up\nsolarcorp.energy\n1,131 followers\n260 following\nSolarcorp\nSolarcorp is transforming Families and Businesses with access to affordable and reliable Solar Energy Solution.\nwww.solarcorptech.com\nReviews\nInstallations\nFAQs\nProducts\nAbout Us\nTiktok\nInstallation\n2.5kva inver\nHighlights\n3.5kva\nShow more posts from solarcorp.energy\nMeta\nAbout\nBlog\nJobs\nHelp\nAPI\nPrivacy\nConsumer Health Privacy\nTerms\nLocations\nPopular\nInstagram Lite\nMeta AI\nMuse\nThreads\nContact Uploading & Non-Users\nMeta Verified\nEnglish\nAfrikaans\nالعربية\nČeština\nDansk\nDeutsch\nΕλληνικά\nEnglish\nEnglish (UK)\nEspañol (España)\nEspañol\nفارسی\nSuomi\nFrançais\nעברית\nBahasa Indonesia\nItaliano\n日本語\n한국어\nBahasa Melayu\nNorsk\nNederlands\nPolski\nPortuguês (Brasil)\nPortuguês (Portugal)\nРусский\nSvenska\nภาษาไทย\nFilipino\nTürkçe\n中文(简体)\n中文(台灣)\nবাংলা\nગુજરાતી\nहिन्दी\nHrvatski\nMagyar\nಕನ್ನಡ\nമലയാളം\nमराठी\nनेपाली\nਪੰਜਾਬੀ\nසිංහල\nSlovenčina\nதமிழ்\nతెలుగు\nاردو\nTiếng Việt\n中文(香港)\nБългарски\nFrançais (Canada)\nRomână\nСрпски\nУкраїнська\n© 2026 Instagram from Meta\nSee photos, videos and more from solarcorp.energy\nSign up and never miss a post from solarcorp.energy.\nSign up\nLog in",
+      "domData": {
+        "posts": [
+          {
+            "href": "/solarcorp.energy/p/C34neHiMp5M/",
+            "imgAlt": "Photo by Solarcorp on February 28, 2024.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/solarcorp.energy/p/DgMvPw6oNHN/",
+            "imgAlt": "Photo by Solarcorp on November 26, 2026. May be an image of poster and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/solarcorp.energy/p/DgIJ2u_ID2n/",
+            "imgAlt": "Photo by Solarcorp on November 24, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/solarcorp.energy/reel/DgICUHroTtG/",
+            "imgAlt": "Video by Solarcorp on November 24, 2026. May be a meme of standing, screen and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/solarcorp.energy/p/DgH8N4ZIJQV/",
+            "imgAlt": "Photo by Solarcorp on November 24, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/solarcorp.energy/p/Df6zM5-oePG/",
+            "imgAlt": "Photo by Solarcorp on November 19, 2026. May be an image of generator and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/solarcorp.energy/p/Df1cWxmIZc3/",
+            "imgAlt": "Photo by Solarcorp on November 16, 2026. May be an image of water heater, lighting, generator and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/solarcorp.energy/p/DfrN_e1IXes/",
+            "imgAlt": "Photo by Solarcorp on November 13, 2026. May be an image of generator, magazine and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/solarcorp.energy/p/DfmRZE8FsHJ/",
+            "imgAlt": "Photo by Solarcorp on November 11, 2026. May be an image of lighting and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/solarcorp.energy/reel/DfW7TwWgCzV/",
+            "imgAlt": "Video by Solarcorp on November 05, 2026. May be an image of speaker, water heater, printer, auto part, capacitor, thermostat, stereo, battery, generator and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/solarcorp.energy/p/DfUp0UPFgDB/",
+            "imgAlt": "Photo by Solarcorp on November 04, 2026. May be an image of water heater, thermostat, air conditioner and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/solarcorp.energy/p/DfPQ6AzFkIY/",
+            "imgAlt": "Photo by Solarcorp on November 02, 2026. May be a graphic of magazine, thermostat, poster, newspaper, air conditioner and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          }
+        ],
+        "extLinks": [],
+        "loginWall": false
+      }
+    },
+    "allIgLinksFound": [
+      "https://www.instagram.com/solarcorp.energy/"
+    ]
+  },
+  "evidencePaths": [
+    "evidence/phase2/q_solarcorp.json",
+    "evidence/phase2/q_bravoo.json",
+    "evidence/phase1/hy_signalbase_zendtrax.md",
+    "evidence/phase4/solarcorp_home.json",
+    "evidence/phase4/solarcorp_home.md",
+    "evidence/phase4/solarcorp_about.json",
+    "evidence/phase4/solarcorp_about.md",
+    "evidence/phase4/solarcorp_blog.json",
+    "evidence/phase4/solarcorp_blog.md",
+    "evidence/phase4/solarcorp_ig_scrape.json",
+    "evidence/phase4/solarcorp_ig_scrape.md",
+    "evidence/phase4/solarcorp_ig_interact.json",
+    "evidence/phase4/solarcorp_ig_stop.json"
+  ]
+}

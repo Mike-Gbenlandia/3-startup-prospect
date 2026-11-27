@@ -1,0 +1,66 @@
+{
+  "slug": "khaime",
+  "name": "Khaime",
+  "website": "https://khaime.com/",
+  "industry": "E-commerce / AI Commerce",
+  "city": "Lagos",
+  "what_they_do": "AI-powered commerce and multi-currency payments platform that builds online stores and provides Khai, an AI sales assistant for WhatsApp, Instagram, and Messenger. Sellers set prices in their local currency while global buyers pay in 120+ currencies.",
+  "recent_activity": "2026-11-16: Raised $500K pre-seed led by Launch Africa Ventures (https://khaime.com/blog/khaime-preseed-round) | 2026-11-04: Published article on AI-agent commerce trust (https://khaime.com/blog/how-ai-agents-choose-who-to-buy-from) | 2026-10-17: Selected for Visa Africa FinTech Accelerator (https://khaime.com/blog/khaime-selected-visa-africa-fintech-accelerator)",
+  "tier": "A",
+  "round_type": "Pre-seed",
+  "amount": "$500K",
+  "funding_date": "2026-11-16",
+  "investors": "Launch Africa Ventures (lead), angel investors",
+  "funding_sources": "https://fireround.dev/companies/khaime | https://african-startups.com/news/funding/khaime-raises-500k-pre-seed-to-build-commerce-infrastructure-for-ai-agents/",
+  "funding_confidence": "CONFIRMED_2_SOURCES",
+  "founder_or_marketing_contact": "Gabriel Olokunwolu (Founder & CEO); support@khaime.ai; https://www.linkedin.com/company/khaime/",
+  "instagram_url": "https://www.instagram.com/khaime.ai/",
+  "ig_status": "OK",
+  "ig_followers": "9,864",
+  "ig_post_1": {
+    "raw_timestamp_text": "November 26, 2026 (2026-11-27 UTC in scrape)",
+    "absolute_date": "2026-11-26",
+    "type": "Reel/Video",
+    "url": "https://www.instagram.com/khaime.ai/reel/DgO00-PBDka/"
+  },
+  "ig_post_2": {
+    "raw_timestamp_text": "November 26, 2026",
+    "absolute_date": "2026-11-26",
+    "type": "Reel/Video",
+    "url": "https://www.instagram.com/uzodinmaesther/reel/DgNl6Yiu-fI/"
+  },
+  "ig_post_3": {
+    "raw_timestamp_text": "November 26, 2026",
+    "absolute_date": "2026-11-26",
+    "type": "Reel/Video",
+    "url": "https://www.instagram.com/khaime.ai/reel/DgNV7QMBBR8/"
+  },
+  "ig_post_4": {
+    "raw_timestamp_text": "November 24, 2026",
+    "absolute_date": "2026-11-24",
+    "type": "Carousel",
+    "url": "https://www.instagram.com/khaime.ai/p/DgIQ0OdCIgf/"
+  },
+  "ig_post_5": {
+    "raw_timestamp_text": "November 23, 2026",
+    "absolute_date": "2026-11-23",
+    "type": "Carousel",
+    "url": "https://www.instagram.com/khaime.ai/p/DgGSZsalXU7/"
+  },
+  "ig_days_since_latest": 1,
+  "ig_median_gap_days": 0.5,
+  "ig_screenshot_path": "screenshots/khaime_instagram.png",
+  "blog_url": "https://khaime.com/blogs",
+  "blog_last_post_date": "2026-11-16",
+  "blog_posts_last_90_days": 4,
+  "marketing_titles_found": "NONE_FOUND (no public team page on khaime.com; Fireround lists Founder & CEO Gabriel Olokunwolu; IG pinned post notes 3-person team)",
+  "hiring_marketing_role": "NO (no careers page on khaime.com)",
+  "need_score": 2,
+  "score_flags": "NO_MARKETING_TITLE_ON_TEAM (+2)",
+  "qualified": false,
+  "signal_categories": ["team"],
+  "unique_offer": "AI-built multi-currency storefronts and WhatsApp/DM sales agent Khai tailored for African SME merchants selling globally.",
+  "closest_overlap": "NOT_QUALIFIED_LOW_NEED_SCORE",
+  "pitch_hook": "Khaime posts daily on Instagram (9,864 followers) and actively maintains its blog, showing strong outbound marketing with only a missing public marketing lead on its site.",
+  "evidence_paths": "evidence/phase2/khaime_838dd3c689.md | evidence/phase3/khaime_home_full.json | evidence/phase3/khaime_blog.md | evidence/phase3/khaime_ig_scrape.md | evidence/phase3/khaime_ig_interact.json | screenshots/khaime_instagram.png"
+}

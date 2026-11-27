@@ -1,0 +1,37 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "markdown": "[Need help? Contact support](https://support.learn2earn.ng/)\n\n[![Talent Nation](https://trials.learn2earn.ng/logo.png)](https://trials.learn2earn.ng/)\n\n$ account gate\n\n# Login\n\nContinue with your Learn2Earn account or sign in with your Talent Nation email and password.\n\nContinue with SSO Continue with Email",
+    "metadata": {
+      "og:image": "/favicon/favicon-black.png",
+      "ogTitle": "Talent Nation",
+      "language": "en",
+      "description": "Talent Nation is Nigeria's AI Engineering Fellowship program. Apply, train, build, and graduate as an AI Engineer.",
+      "ogDescription": "Nigeria's AI Engineering Fellowship Program for top student engineers.",
+      "author": "Talent Nation",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "title": "Talent Nation",
+      "ogImage": "/favicon/favicon-black.png",
+      "og:description": "Nigeria's AI Engineering Fellowship Program for top student engineers.",
+      "og:type": "website",
+      "og:title": "Talent Nation",
+      "favicon": "https://trials.learn2earn.ng/favicon/favicon-black.png",
+      "scrapeId": "01a21c39-03d1-774c-b835-4431a09b6420",
+      "sourceURL": "https://trials.learn2earn.ng/login",
+      "url": "https://trials.learn2earn.ng/login",
+      "statusCode": 200,
+      "contentType": "text/html",
+      "timezone": "America/New_York",
+      "proxyUsed": "basic",
+      "cacheState": "miss",
+      "indexId": "e462c330-bfdc-454f-9614-b933b1eda1a9",
+      "creditsUsed": 1,
+      "concurrencyLimited": false
+    },
+    "links": [
+      "https://support.learn2earn.ng/",
+      "https://trials.learn2earn.ng/"
+    ]
+  }
+}

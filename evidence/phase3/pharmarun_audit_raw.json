@@ -1,0 +1,215 @@
+{
+  "retrievalDate": "2026-11-27",
+  "slug": "pharmarun",
+  "poolEntry": {
+    "name": "Pharmarun",
+    "website": "https://www.pharmarun.africa/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Non-equity Grant (Zenith Bank Zecathon 6.0 3rd place)",
+    "amount": "NGN 15M (~$11.2K)",
+    "announced_date": "2026-11-19",
+    "investors": "Zenith Bank (Zecathon 6.0 / Beyond Limits Global)",
+    "hq_location": "Lagos, Nigeria (25 Nigerian cities)",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://liners.com/pharmarun",
+      "https://www.thisdaylive.com/2026/11/19/zenith-bank-unveils-n190m-zecathon-6-0-winners/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/pharmarun_fc062df2d1.md",
+      "evidence/phase2/zecathon_thisday_c99da60436.md",
+      "evidence/phase2/search_zecathon_2nd.json"
+    ],
+    "batch_number": 4,
+    "notes": "Also won NGN 15M 3rd place at Zenith Bank Zecathon 6.0 (2026-11-19)."
+  },
+  "resolvedWebsite": "https://www.pharmarun.africa/",
+  "scrapedPages": {
+    "home": {
+      "url": "https://www.pharmarun.africa/",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase3/pharmarun_home.md",
+      "jsonPath": "evidence/phase3/pharmarun_home.json"
+    },
+    "about": {
+      "url": "https://www.pharmarun.africa/about-us",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase3/pharmarun_about.md",
+      "jsonPath": "evidence/phase3/pharmarun_about.json"
+    },
+    "blog": {
+      "url": "https://www.pharmarun.africa/blog",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase3/pharmarun_blog.md",
+      "jsonPath": "evidence/phase3/pharmarun_blog.json"
+    },
+    "careers": {
+      "url": "https://www.pharmarun.africa/careers",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase3/pharmarun_careers.md",
+      "jsonPath": "evidence/phase3/pharmarun_careers.json"
+    }
+  },
+  "socialLinksFoundOnSite": {
+    "instagram": [
+      "https://www.instagram.com/pharmarun/"
+    ],
+    "linkedin": [
+      "https://www.linkedin.com/company/pharmarun/about/",
+      "https://www.linkedin.com/company/pharmarun/jobs/"
+    ],
+    "twitter": [
+      "https://x.com/Pharmarun_?s=20"
+    ]
+  },
+  "instagramAudit": {
+    "status": "OK",
+    "url": "https://www.instagram.com/pharmarun/",
+    "screenshotPath": "screenshots/pharmarun_instagram.png",
+    "mdText": "# Supporting your health goals (@pharmarun)\n\nThe largest medication inventory in Africa.\nOrder your medications, travel kit & we deliver straight to your doorstep.\nChat with a pharmacist for free\n\n4,979 followers · 129 following\n\nLinks: https://www.linktr.ee/pharmarun\n\n## Recent posts\n\n- [We didn’t just celebrate World Pharmacist Day 2025… We made it unforgettable. 💜🔥 Meet Pharm Eunice @eunireal1 , our P…](https://instagram.com/p/DSW6BYWiD7X) · 2025-12-17 · 45 likes · 18 comments · 954 views\n- [Good partnerships don’t just happen; they’re built, strengthened, and celebrated. We brought our HMO partners together…](https://instagram.com/p/DXOiXpugCG4) · 2026-04-17 · 37 likes · 0 comments · 848 views\n- [If getting your medications always feels like stress, here’s an easier way. Pharmarun connects you to trusted pharmacis…](https://instagram.com/p/DRCN5bZiDaL) · 2025-11-14 · 21 likes · 0 comments\n- [Planning for a baby is a journey couples take together. We’ve curated a bundle of supplements for couples planning for…](https://instagram.com/p/DgNIiZmAr0S) · 2026-11-27 · 0 likes · 0 comments\n- [Gentlemen, don’t forget your everyday wellness and grooming essentials. We’ve put together Wellman, Ashwagandha, afters…](https://instagram.com/p/DgNHf_RgbTl) · 2026-11-26 · 3 likes · 0 comments\n- [Ladies, if you’ve been meaning to replenish your wellness essentials, this is a good time. We’ve put together Wellwoman…](https://instagram.com/p/DgNHFtoAOCc) · 2026-11-26 · 2 likes · 0 comments\n- [Black Friday is here! And we’ve put together some really good deals for you. We have health and wellness bundles at dis…](https://instagram.com/p/DgNALzWgOpd) · 2026-11-26 · 4 likes · 0 comments · 74 views\n- [Busy days can take a lot out of you. Wellman Original Plus provides over 30 nutrients to help maintain your health and…](https://instagram.com/p/Df9gwSngTg_) · 2026-11-20 · 1 likes · 0 comments\n- [The future is everyone, and everyone has a part to play in shaping it. To the men at Pharmarun, thank you for the ideas…](https://instagram.com/p/Df6egUBgbjK) · 2026-11-19 · 17 likes · 0 comments\n- [Support your gut health and help maintain a healthy balance of good bacteria in your digestive system with Norite Probi…](https://instagram.com/p/DfzMu4XgvA9) · 2026-11-16 · 2 likes · 0 comments\n- [You made it to the middle of the week. That calls for a few high-fives from Pharmarunners. #pharmarun #onlinepharmacy #…](https://instagram.com/p/Dfmcnu_gkDR) · 2026-11-11 · 29 likes · 2 comments · 683 views\n- [A little extra care for the woman who does it all. Wellwoman Original provides 24 nutrients to support her everyday hea…](https://instagram.com/p/DfmPsnNgsNz) · 2026-11-11 · 2 likes · 0 comments\n",
+    "interactParsed": {
+      "title": "Supporting your health goals (@pharmarun) • Instagram photos and videos",
+      "url": "https://www.instagram.com/pharmarun/",
+      "bodyText": "Log In\nSign Up\npharmarun\n4,979 followers\n129 following\nSupporting your health goals\npharmarun\nThe largest medication inventory in Africa.\nOrder your medications, travel kit & we deliver straight to your doorstep... \nmore\nlinktr.ee/pharmarun and 4 more\nPharmastar 2026\nBlog\nDeliveries\nEvent\nIWD’26\nKit Highlight\nPharmastar✨\nLife@Pharmarun\nFirst aid kit\nPeriod Box\nShow more posts from pharmarun\nMeta\nAbout\nBlog\nJobs\nHelp\nAPI\nPrivacy\nConsumer Health Privacy\nTerms\nLocations\nPopular\nInstagram Lite\nMeta AI\nMuse\nThreads\nContact Uploading & Non-Users\nMeta Verified\nEnglish\nAfrikaans\nالعربية\nČeština\nDansk\nDeutsch\nΕλληνικά\nEnglish\nEnglish (UK)\nEspañol (España)\nEspañol\nفارسی\nSuomi\nFrançais\nעברית\nBahasa Indonesia\nItaliano\n日本語\n한국어\nBahasa Melayu\nNorsk\nNederlands\nPolski\nPortuguês (Brasil)\nPortuguês (Portugal)\nРусский\nSvenska\nภาษาไทย\nFilipino\nTürkçe\n中文(简体)\n中文(台灣)\nবাংলা\nગુજરાતી\nहिन्दी\nHrvatski\nMagyar\nಕನ್ನಡ\nമലയാളം\nमराठी\nनेपाली\nਪੰਜਾਬੀ\nසිංහල\nSlovenčina\nதமிழ்\nతెలుగు\nاردو\nTiếng Việt\n中文(香港)\nБългарски\nFrançais (Canada)\nRomână\nСрпски\nУкраїнська\n© 2026 Instagram from Meta\nSee photos, videos and more from pharmarun\nSign up and never miss a post from pharmarun.\nSign up\nLog in",
+      "domData": {
+        "posts": [
+          {
+            "href": "/pharmarun/reel/DSW6BYWiD7X/",
+            "imgAlt": "Video by Supporting your health goals on December 17, 2025.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/pharmarun/reel/DXOiXpugCG4/",
+            "imgAlt": "Video by Supporting your health goals on April 17, 2026.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/pharmarun/p/DRCN5bZiDaL/",
+            "imgAlt": "Photo by Supporting your health goals on November 14, 2025.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/pharmarun/p/DgNIiZmAr0S/",
+            "imgAlt": "Photo by Supporting your health goals on November 27, 2026. May be an image of card and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/pharmarun/p/DgNHf_RgbTl/",
+            "imgAlt": "Photo by Supporting your health goals on November 26, 2026. May be an image of text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/pharmarun/p/DgNHFtoAOCc/",
+            "imgAlt": "Photo by Supporting your health goals on November 26, 2026. May be an image of medicine, hair product and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/pharmarun/reel/DgNALzWgOpd/",
+            "imgAlt": "Video by Supporting your health goals on November 26, 2026. May be a black-and-white image of text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/pharmarun/p/Df9gwSngTg_/",
+            "imgAlt": "Photo by Supporting your health goals on November 20, 2026. May be an image of medicine, poster and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/pharmarun/p/Df6egUBgbjK/",
+            "imgAlt": "Photo by Supporting your health goals on November 18, 2026. May be a graphic of one or more people, beard, magazine, poster, card and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/pharmarun/p/DfzMu4XgvA9/",
+            "imgAlt": "Photo by Supporting your health goals on November 16, 2026. May be an image of medicine and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/pharmarun/reel/Dfmcnu_gkDR/",
+            "imgAlt": "Video by Supporting your health goals on November 11, 2026. May be a selfie of one or more people, fingernails, people smiling and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/pharmarun/p/DfmPsnNgsNz/",
+            "imgAlt": "Photo by Supporting your health goals on November 11, 2026. May be an image of one or more people, magazine, poster and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          }
+        ],
+        "extLinks": [
+          "https://www.threads.com/@pharmarun?xmt=AQG0eZran2Pz-5jCxsB5GDmFxSMciu2OTXhzuDXPzyha1Q4"
+        ],
+        "loginWall": false
+      }
+    },
+    "allIgLinksFound": [
+      "https://www.instagram.com/pharmarun/"
+    ]
+  },
+  "evidencePaths": [
+    "evidence/phase2/pharmarun_fc062df2d1.md",
+    "evidence/phase2/zecathon_thisday_c99da60436.md",
+    "evidence/phase2/search_zecathon_2nd.json",
+    "evidence/phase3/pharmarun_home.json",
+    "evidence/phase3/pharmarun_home.md",
+    "evidence/phase3/pharmarun_about.json",
+    "evidence/phase3/pharmarun_about.md",
+    "evidence/phase3/pharmarun_blog.json",
+    "evidence/phase3/pharmarun_blog.md",
+    "evidence/phase3/pharmarun_careers.json",
+    "evidence/phase3/pharmarun_careers.md",
+    "evidence/phase3/pharmarun_ig_scrape.json",
+    "evidence/phase3/pharmarun_ig_scrape.md",
+    "evidence/phase3/pharmarun_ig_interact.json",
+    "evidence/phase3/pharmarun_ig_stop.json"
+  ]
+}

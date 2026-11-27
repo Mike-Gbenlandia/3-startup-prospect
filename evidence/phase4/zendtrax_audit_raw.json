@@ -1,0 +1,51 @@
+{
+  "retrievalDate": "2026-11-27",
+  "slug": "zendtrax",
+  "poolEntry": {
+    "name": "Zendtrax",
+    "website": "https://www.zendtrax.co/",
+    "tier": "A",
+    "status": "VERIFIED",
+    "round_type_exact": "Pre-seed (MARL Accelerator 14th Cohort SAFE)",
+    "amount": "$50K",
+    "announced_date": "2026-10-21",
+    "investors": "MARL Accelerator",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/zendtrax-accelerator-50k-usd-55e3060",
+      "https://www.trysignalbase.com/news/funding/zendtrax-raises-50k-in-pre-seed-round"
+    ],
+    "evidence_paths": [
+      "evidence/phase1/hy_signalbase_zendtrax.md",
+      "evidence/phase1/hy_sl_ng_accelerator_2026.md"
+    ],
+    "batch_number": 7
+  },
+  "resolvedWebsite": "https://www.zendtrax.co/",
+  "searchCandidates": [],
+  "scrapedPages": {
+    "home": {
+      "url": "https://www.zendtrax.co/",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/zendtrax_home.md",
+      "jsonPath": "evidence/phase4/zendtrax_home.json"
+    }
+  },
+  "socialLinksFoundOnSite": {
+    "instagram": [],
+    "linkedin": [],
+    "twitter": []
+  },
+  "instagramAudit": {
+    "status": "NO_IG_FOUND",
+    "url": "NOT_FOUND"
+  },
+  "evidencePaths": [
+    "evidence/phase1/hy_signalbase_zendtrax.md",
+    "evidence/phase1/hy_sl_ng_accelerator_2026.md",
+    "evidence/phase4/zendtrax_home.json",
+    "evidence/phase4/zendtrax_home.md"
+  ]
+}

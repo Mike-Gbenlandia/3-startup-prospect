@@ -1,0 +1,77 @@
+{
+  "retrievalDate": "2026-11-27",
+  "slug": "chipmango",
+  "poolEntry": {
+    "name": "ChipMango",
+    "website": "https://chipmango.com/",
+    "tier": "B",
+    "status": "VERIFIED",
+    "round_type_exact": "Seed",
+    "amount": "$1.9M",
+    "announced_date": "2026-09-01",
+    "investors": "Atlantica Ventures (lead), Madica, DFS Lab, Kaleo Ventures, Trilinear Technologies, Malta Venture Capital",
+    "hq_location": "Nigeria (Nigerian startup; Lagos university & NITDA programmes; global ops)",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/chipmango-seed-1-9m-usd-1506894",
+      "https://disruptafrica.com/2026/09/04/nigerias-chipmango-raises-1-9m-seed-round-to-expand-operations-globally/",
+      "https://chipmango.com/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/chipmango_b1046e6558.md",
+      "evidence/phase2/chipmango_da_b10.md",
+      "evidence/phase2/chipmango_company_b10.md",
+      "evidence/phase2/q_chipmango_site_b10.json"
+    ],
+    "batch_number": 10
+  },
+  "resolvedWebsite": "https://chipmango.com/",
+  "scrapedPages": {
+    "home": {
+      "url": "https://chipmango.com/",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase3/chipmango_home.md",
+      "jsonPath": "evidence/phase3/chipmango_home.json"
+    },
+    "about": {
+      "url": "https://chipmango.com/company",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase3/chipmango_about.md",
+      "jsonPath": "evidence/phase3/chipmango_about.json"
+    },
+    "blog": {
+      "url": "https://chipmango.com/newsroom",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase3/chipmango_blog.md",
+      "jsonPath": "evidence/phase3/chipmango_blog.json"
+    }
+  },
+  "socialLinksFoundOnSite": {
+    "instagram": [],
+    "linkedin": [
+      "https://www.linkedin.com/company/chipmango1/"
+    ],
+    "twitter": [
+      "https://x.com/ChipMangoHQ"
+    ]
+  },
+  "instagramAudit": {
+    "status": "NO_IG_FOUND",
+    "url": "NOT_FOUND"
+  },
+  "evidencePaths": [
+    "evidence/phase2/chipmango_b1046e6558.md",
+    "evidence/phase2/chipmango_da_b10.md",
+    "evidence/phase2/chipmango_company_b10.md",
+    "evidence/phase2/q_chipmango_site_b10.json",
+    "evidence/phase3/chipmango_home.json",
+    "evidence/phase3/chipmango_home.md",
+    "evidence/phase3/chipmango_about.json",
+    "evidence/phase3/chipmango_about.md",
+    "evidence/phase3/chipmango_blog.json",
+    "evidence/phase3/chipmango_blog.md"
+  ]
+}

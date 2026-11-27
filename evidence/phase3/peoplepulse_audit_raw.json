@@ -1,0 +1,192 @@
+{
+  "retrievalDate": "2026-11-27",
+  "slug": "peoplepulse",
+  "poolEntry": {
+    "name": "PeoplePulse",
+    "website": "https://www.peoplepulseafrica.com/",
+    "tier": "D",
+    "status": "VERIFIED",
+    "round_type_exact": "Pre-funding / Commercial Revenue (Bootstrapped + Friends & Family)",
+    "amount": "NOT_FOUND",
+    "announced_date": "2026-11-19",
+    "investors": "Founders and friends-and-family; Women in Tech Accelerator Nigeria Cycle 7 top 11 finalist",
+    "hq_location": "Nigeria",
+    "funding_confidence": "TIER_D_REVENUE",
+    "source_urls": [
+      "https://disruptafrica.com/2026/11/19/how-nigerian-startup-peoplepulse-is-helping-smes-digitise-hr-with-ai/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/peoplepulse_83a35729ce.md"
+    ],
+    "notes": "Founded June 2025; piloted May-Jul 2026 with ~280 employees across 8 companies, all 8 converted into paying SME customers at NGN 2,000-3,500/employee/month.",
+    "batch_number": 16
+  },
+  "resolvedWebsite": "https://www.peoplepulseafrica.com/",
+  "scrapedPages": {
+    "home": {
+      "url": "https://www.peoplepulseafrica.com/",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase3/peoplepulse_home.md",
+      "jsonPath": "evidence/phase3/peoplepulse_home.json"
+    },
+    "careers": {
+      "url": "https://www.peoplepulseafrica.com/careers",
+      "status": 500,
+      "ok": false,
+      "mdPath": "evidence/phase3/peoplepulse_careers.md",
+      "jsonPath": "evidence/phase3/peoplepulse_careers.json"
+    }
+  },
+  "socialLinksFoundOnSite": {
+    "instagram": [
+      "https://www.instagram.com/peoplepulseafrica/"
+    ],
+    "linkedin": [
+      "https://www.linkedin.com/company/peoplepulse-africa/"
+    ],
+    "twitter": [
+      "https://x.com/PeoplePulse_A"
+    ]
+  },
+  "instagramAudit": {
+    "status": "OK",
+    "url": "https://www.instagram.com/peoplepulseafrica/",
+    "screenshotPath": "screenshots/peoplepulse_instagram.png",
+    "mdText": "# People Pulse (@peoplepulseafrica)\n\nPowering people, simplifying HR✨\nOne platform for smarter people operations and management\nHR Tech • Payroll • Teams\n\n129 followers · 2 following\n\nLinks: https://www.bit.ly/3WLqXxk\n\n## Recent posts\n\n- [Another feature, another opportunity to share our story! 🎉 PeoplePulse Africa has been featured on Disrupt Africa! The…](https://instagram.com/p/DgKQx-7ueh3) · 2026-11-25 · 0 comments\n- [HR THEN VS. NOW. People management has evolved, and the way businesses handle HR should evolve too. Manual HR processes…](https://instagram.com/p/DgHsReOTq7W) · 2026-11-24 · 2 comments · 1,009 views\n- [More features don't always mean better HR software. What matters is finding a system that solves your everyday people m…](https://instagram.com/p/Df9aKeHO4t4) · 2026-11-20 · 0 comments\n- [It's a beautiful day to remind you of the benefits you can enjoy when you switch to PeoplePulse. PeoplePulse gives Nige…](https://instagram.com/p/Df4fQ98uYOQ) · 2026-11-18 · 0 comments · 360 views\n- [The future of work isn't just about doing things faster. It's about doing them smarter. From artificial intelligence to…](https://instagram.com/p/DfrHoHfObsW) · 2026-11-13 · 0 comments\n- [At SMEDAN's National MSME Conference '26, the GROW MSME trade fair, we put PeoplePulse in front of the people who run g…](https://instagram.com/p/DfrJzLADsjL) · 2026-11-13 · 0 comments\n- [A new week is another opportunity to do things better. 💙 As you set your goals and plan your priorities, remember that…](https://instagram.com/p/DfhM_LcOaNN) · 2026-11-09 · 0 comments\n- [Your business is growing. Is your HR system keeping up? 👀 From spreadsheets to WhatsApp leave requests, managing your…](https://instagram.com/p/Dfb-YQlOxhY) · 2026-11-07 · 0 comments · 75 views\n- [We are so happy to announce that PeoplePulse Africa is going to the National MSME Conference '26! Find us at the GROW M…](https://instagram.com/p/DfXPNGROV1P) · 2026-11-05 · 1 comments · 572 views\n- [Setting up an account on a HR management software shouldn't feel like a project of its own. With PeoplePulse, you can g…](https://instagram.com/p/DfR89p_DszV) · 2026-11-03 · 0 comments\n- [Everybody's talking about the outfits... But who's holding the whole thing together while the cameras are on the runway…](https://instagram.com/p/DfHZMflDjek) · 2026-10-30 · 0 comments\n- [Courage to grow. Conviction to build better. As Day 2 of @moonshotbytc 2026 explores the future of African tech, one th…](https://instagram.com/p/DfExZr6Oads) · 2026-10-29 · 0 comments\n",
+    "interactParsed": {
+      "title": "People Pulse (@peoplepulseafrica) • Instagram photos and videos",
+      "url": "https://www.instagram.com/peoplepulseafrica/",
+      "bodyText": "Log In\nSign Up\npeoplepulseafrica\n129 followers\n2 following\nPeople Pulse\nPowering people, simplifying HR✨\nOne platform for smarter people operations and management\nHR Tech • Payroll • Teams\nbit.ly/3WLqXxk and 2 more\nShow more posts from peoplepulseafrica\nMeta\nAbout\nBlog\nJobs\nHelp\nAPI\nPrivacy\nConsumer Health Privacy\nTerms\nLocations\nPopular\nInstagram Lite\nMeta AI\nMuse\nThreads\nContact Uploading & Non-Users\nMeta Verified\nEnglish\nAfrikaans\nالعربية\nČeština\nDansk\nDeutsch\nΕλληνικά\nEnglish\nEnglish (UK)\nEspañol (España)\nEspañol\nفارسی\nSuomi\nFrançais\nעברית\nBahasa Indonesia\nItaliano\n日本語\n한국어\nBahasa Melayu\nNorsk\nNederlands\nPolski\nPortuguês (Brasil)\nPortuguês (Portugal)\nРусский\nSvenska\nภาษาไทย\nFilipino\nTürkçe\n中文(简体)\n中文(台灣)\nবাংলা\nગુજરાતી\nहिन्दी\nHrvatski\nMagyar\nಕನ್ನಡ\nമലയാളം\nमराठी\nनेपाली\nਪੰਜਾਬੀ\nසිංහල\nSlovenčina\nதமிழ்\nతెలుగు\nاردو\nTiếng Việt\n中文(香港)\nБългарски\nFrançais (Canada)\nRomână\nСрпски\nУкраїнська\n© 2026 Instagram from Meta\nSee photos, videos and more from peoplepulseafrica\nSign up and never miss a post from peoplepulseafrica.\nSign up\nLog in",
+      "domData": {
+        "posts": [
+          {
+            "href": "/peoplepulseafrica/p/DgKQx-7ueh3/",
+            "imgAlt": "Photo by People Pulse on November 25, 2026. May be a Twitter screenshot of poster, magazine and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/peoplepulseafrica/reel/DgHsReOTq7W/",
+            "imgAlt": "Video by People Pulse on November 24, 2026. May be an image of studying, screen, computer keyboard, desk, laptop, office and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/peoplepulseafrica/p/Df9aKeHO4t4/",
+            "imgAlt": "Photo by People Pulse on November 20, 2026. May be an image of screen and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/peoplepulseafrica/reel/Df4fQ98uYOQ/",
+            "imgAlt": "Video by People Pulse on November 18, 2026. May be an image of one or more people, makeup, newsroom, office and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/peoplepulseafrica/p/DfrHoHfObsW/",
+            "imgAlt": "Photo by People Pulse on November 13, 2026. May be an image of magazine, poster and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/peoplepulseafrica/p/DfrJzLADsjL/",
+            "imgAlt": "Photo by People Pulse on November 13, 2026. May be an image of text.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/peoplepulseafrica/p/DfhM_LcOaNN/",
+            "imgAlt": "Photo by People Pulse on November 09, 2026. May be a graphic of poster, office and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/peoplepulseafrica/reel/Dfb-YQlOxhY/",
+            "imgAlt": "Video by People Pulse on November 07, 2026. May be an image of magazine, poster and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/peoplepulseafrica/reel/DfXPNGROV1P/",
+            "imgAlt": "Video by People Pulse on November 05, 2026. May be an image of text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/peoplepulseafrica/p/DfR89p_DszV/",
+            "imgAlt": "Photo by People Pulse on November 03, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/peoplepulseafrica/p/DfHZMflDjek/",
+            "imgAlt": "Photo by People Pulse on October 30, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/peoplepulseafrica/p/DfExZr6Oads/",
+            "imgAlt": "Photo by People Pulse on October 29, 2026. May be a graphic of poster and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          }
+        ],
+        "extLinks": [],
+        "loginWall": false
+      }
+    },
+    "allIgLinksFound": [
+      "https://www.instagram.com/peoplepulseafrica/"
+    ]
+  },
+  "evidencePaths": [
+    "evidence/phase2/peoplepulse_83a35729ce.md",
+    "evidence/phase3/peoplepulse_home.json",
+    "evidence/phase3/peoplepulse_home.md",
+    "evidence/phase3/peoplepulse_careers.json",
+    "evidence/phase3/peoplepulse_ig_scrape.json",
+    "evidence/phase3/peoplepulse_ig_scrape.md",
+    "evidence/phase3/peoplepulse_ig_interact.json",
+    "evidence/phase3/peoplepulse_ig_stop.json"
+  ]
+}

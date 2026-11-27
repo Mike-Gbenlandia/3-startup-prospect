@@ -1,0 +1,48 @@
+{
+  "retrievalDate": "2026-11-27",
+  "slug": "friendnpal",
+  "poolEntry": {
+    "name": "FriendnPal",
+    "website": "https://friendnpal.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Her Startup 2nd Accelerator Cohort (convertible revenue-based financing)",
+    "amount": "Undisclosed (convertible RBF)",
+    "announced_date": "2026-11-23",
+    "investors": "Her Startup (KSH Foundation, Tomorrow Foundation, EHA Impact Ventures, Founder Institute Morocco)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://disruptafrica.com/2026/11/23/her-startup-selects-12-women-led-startups-for-2nd-accelerator-cohort/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/kadosh_mechatronics_e5b58210ed.md",
+      "evidence/phase2/web_b1_idice.json"
+    ],
+    "batch_number": 1
+  },
+  "resolvedWebsite": "https://friendnpal.com/",
+  "scrapedPages": {
+    "home": {
+      "url": "https://friendnpal.com/",
+      "status": 500,
+      "ok": false,
+      "mdPath": "evidence/phase3/friendnpal_home.md",
+      "jsonPath": "evidence/phase3/friendnpal_home.json"
+    }
+  },
+  "socialLinksFoundOnSite": {
+    "instagram": [],
+    "linkedin": [],
+    "twitter": []
+  },
+  "instagramAudit": {
+    "status": "NO_IG_FOUND",
+    "url": "NOT_FOUND"
+  },
+  "evidencePaths": [
+    "evidence/phase2/kadosh_mechatronics_e5b58210ed.md",
+    "evidence/phase2/web_b1_idice.json",
+    "evidence/phase3/friendnpal_home.json"
+  ]
+}

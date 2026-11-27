@@ -1,0 +1,11 @@
+{
+  "ok": false,
+  "blocked": true,
+  "blockReason": "IG scrape failed HTTP 404: The requested Exchange record was not found.",
+  "evidencePaths": [
+    "evidence/phase4/bravoo_ig_scrape.json"
+  ],
+  "screenshotPath": null,
+  "mdText": "",
+  "interactParsed": null
+}

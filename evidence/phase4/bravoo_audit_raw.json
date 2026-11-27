@@ -1,0 +1,51 @@
+{
+  "retrievalDate": "2026-11-27",
+  "slug": "bravoo",
+  "poolEntry": {
+    "name": "Bravoo",
+    "website": "https://app.joinbravoo.com/",
+    "tier": "A",
+    "status": "VERIFIED",
+    "round_type_exact": "Pre-seed (MARL Accelerator 14th Cohort SAFE)",
+    "amount": "$50K",
+    "announced_date": "2026-10-30",
+    "investors": "MARL Accelerator",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.trysignalbase.com/news/funding/zendtrax-raises-50k-in-pre-seed-round",
+      "https://marlvc.com/portfolio/bravoo/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/bravoo_marl.md",
+      "evidence/phase2/q_bravoo.json"
+    ],
+    "batch_number": 6
+  },
+  "resolvedWebsite": "https://app.joinbravoo.com/",
+  "searchCandidates": [],
+  "scrapedPages": {
+    "home": {
+      "url": "https://app.joinbravoo.com/",
+      "status": 404,
+      "ok": false,
+      "mdPath": "evidence/phase4/bravoo_home.md",
+      "jsonPath": "evidence/phase4/bravoo_home.json"
+    }
+  },
+  "socialLinksFoundOnSite": {
+    "instagram": [],
+    "linkedin": [],
+    "twitter": []
+  },
+  "instagramAudit": {
+    "status": "NO_IG_FOUND",
+    "url": "NOT_FOUND"
+  },
+  "evidencePaths": [
+    "evidence/phase2/bravoo_marl.md",
+    "evidence/phase2/q_bravoo.json",
+    "evidence/phase4/bravoo_home.json",
+    "evidence/phase4/bravoo_home.md"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "slug": "peoplepulse",
+  "name": "PeoplePulse",
+  "website": "https://www.peoplepulseafrica.com/",
+  "industry": "HR Tech / Workforce SaaS",
+  "city": "Lagos",
+  "what_they_do": "AI-powered HRIS and payroll automation platform helping African SMEs manage employee records, onboarding, leave, attendance, statutory PAYE tax compliance, and performance reviews. Incubated out of Bridgemead Consulting, it offers subscription tiers from NGN 2,000 to NGN 3,500 per employee/month.",
+  "recent_activity": "2026-11-25: Highlighted Disrupt Africa feature on Instagram (https://www.instagram.com/peoplepulseafrica/p/DgKQx-7ueh3/) | 2026-11-19: Profiled by Disrupt Africa after converting all 8 pilot companies (~280 employees) into paying SME customers and reaching top 11 of Women in Tech Accelerator Nigeria Cycle 7 (https://disruptafrica.com/2026/11/19/how-nigerian-startup-peoplepulse-is-helping-smes-digitise-hr-with-ai/) | 2026-11-13: Exhibited at SMEDAN National MSME Conference '26 GROW MSME trade fair (https://www.instagram.com/peoplepulseafrica/p/DfrJzLADsjL/)",
+  "tier": "D",
+  "round_type": "Pre-funding / Commercial Revenue (Bootstrapped + Friends & Family)",
+  "amount": "NOT_FOUND",
+  "funding_date": "2026-11-19",
+  "investors": "Founders and friends-and-family; Women in Tech Accelerator Nigeria Cycle 7 top 11 finalist",
+  "funding_sources": "https://disruptafrica.com/2026/11/19/how-nigerian-startup-peoplepulse-is-helping-smes-digitise-hr-with-ai/ | https://www.peoplepulseafrica.com/",
+  "funding_confidence": "TIER_D_REVENUE",
+  "founder_or_marketing_contact": "Adetola Abolarinwa (Co-founder & Chief Product Officer); support@peoplepulseafrica.com; +234 803 619 1421; https://www.linkedin.com/company/peoplepulse-africa/",
+  "instagram_url": "https://www.instagram.com/peoplepulseafrica/",
+  "ig_status": "OK",
+  "ig_followers": "129",
+  "ig_post_1": {
+    "raw_timestamp_text": "November 25, 2026",
+    "absolute_date": "2026-11-25",
+    "type": "Photo",
+    "url": "https://www.instagram.com/peoplepulseafrica/p/DgKQx-7ueh3/"
+  },
+  "ig_post_2": {
+    "raw_timestamp_text": "November 24, 2026",
+    "absolute_date": "2026-11-24",
+    "type": "Reel/Video",
+    "url": "https://www.instagram.com/peoplepulseafrica/reel/DgHsReOTq7W/"
+  },
+  "ig_post_3": {
+    "raw_timestamp_text": "November 20, 2026",
+    "absolute_date": "2026-11-20",
+    "type": "Photo",
+    "url": "https://www.instagram.com/peoplepulseafrica/p/Df9aKeHO4t4/"
+  },
+  "ig_post_4": {
+    "raw_timestamp_text": "November 18, 2026",
+    "absolute_date": "2026-11-18",
+    "type": "Reel/Video",
+    "url": "https://www.instagram.com/peoplepulseafrica/reel/Df4fQ98uYOQ/"
+  },
+  "ig_post_5": {
+    "raw_timestamp_text": "November 13, 2026",
+    "absolute_date": "2026-11-13",
+    "type": "Photo",
+    "url": "https://www.instagram.com/peoplepulseafrica/p/DfrHoHfObsW/"
+  },
+  "ig_days_since_latest": 2,
+  "ig_median_gap_days": 3,
+  "ig_screenshot_path": "screenshots/peoplepulse_instagram.png",
+  "blog_url": "NOT_FOUND",
+  "blog_last_post_date": "NOT_FOUND",
+  "blog_posts_last_90_days": "NOT_FOUND",
+  "marketing_titles_found": "NONE_FOUND (no public team page on peoplepulseafrica.com; Disrupt Africa names Co-founder & CPO Adetola Abolarinwa across an 11-strong team)",
+  "hiring_marketing_role": "BLOCKED: https://www.peoplepulseafrica.com/careers returned HTTP 500 SCRAPE_ALL_ENGINES_FAILED (logged in problems.md)",
+  "need_score": 4,
+  "score_flags": "NO_OR_STALE_BLOG_90D (+2), NO_MARKETING_TITLE_ON_TEAM (+2)",
+  "qualified": true,
+  "signal_categories": ["blog", "team"],
+  "unique_offer": "Affordable NGN 2,000-3,500/employee/month AI-assisted HRIS with Nigerian PAYE compliance built out of Bridgemead Consulting's SME HR advisory practice.",
+  "closest_overlap": "TBD_PHASE_5",
+  "pitch_hook": "PeoplePulse converts pilots into paying SMEs and posts consistently on Instagram, yet its site has no blog, displays broken negative hero stats, and links to a broken careers page with no visible marketing lead.",
+  "evidence_paths": "evidence/phase2/peoplepulse_83a35729ce.md | evidence/phase3/peoplepulse_home.md | evidence/phase3/peoplepulse_careers.json | evidence/phase3/peoplepulse_ig_scrape.md | evidence/phase3/peoplepulse_ig_interact.json | screenshots/peoplepulse_instagram.png"
+}

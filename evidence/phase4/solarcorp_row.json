@@ -1,0 +1,68 @@
+{
+  "slug": "solarcorp",
+  "name": "Solarcorp",
+  "website": "https://solarcorptech.com/",
+  "industry": "Energy / Solar & Clean Energy",
+  "city": "Lagos",
+  "what_they_do": "Solar energy and energy-financing platform enabling Nigerian homes and businesses to access 24-hour electricity through outright solar installations, interest-free/installment savings via its Circool app, and commercial solar-and-storage systems.",
+  "recent_activity": "2026-11-24: Published guide for Nigerian Remote Sales Agents and 4.2kVA solar system post on blog (https://solarcorptech.com/blog/how-to-make-money-online-in-nigeria-in-2027-as-a-remote-sales-agent) | 2026-11-12: Announced launch of the Circool savings-to-solar app (https://solarcorptech.com/blog/the-circool-app-is-here-start-saving-towards-solar-today) | 2026-10-30: Selected for MARL Accelerator 14th Cohort with $50K pre-seed SAFE (https://www.trysignalbase.com/news/funding/zendtrax-raises-50k-in-pre-seed-round)",
+  "tier": "A",
+  "round_type": "Pre-seed (MARL Accelerator 14th Cohort SAFE)",
+  "amount": "$50K",
+  "funding_date": "2026-10-30",
+  "investors": "MARL Accelerator",
+  "funding_sources": "https://www.trysignalbase.com/news/funding/zendtrax-raises-50k-in-pre-seed-round | https://solarcorptech.com/",
+  "funding_confidence": "CONFIRMED_1_SOURCE",
+  "founder_or_marketing_contact": "hello@solarcorptech.com; +234 815 143 5518; 15 Fubara Dublin Green St, Lekki Phase 1, Lagos (https://solarcorptech.com/about-us)",
+  "instagram_url": "https://www.instagram.com/solarcorp.energy/",
+  "ig_status": "OK",
+  "ig_followers": "1,131",
+  "ig_post_1": {
+    "raw_timestamp_text": "November 26, 2026",
+    "absolute_date": "2026-11-26",
+    "type": "Photo",
+    "url": "https://www.instagram.com/solarcorp.energy/p/DgMvPw6oNHN/"
+  },
+  "ig_post_2": {
+    "raw_timestamp_text": "November 24, 2026",
+    "absolute_date": "2026-11-24",
+    "type": "Carousel",
+    "url": "https://www.instagram.com/solarcorp.energy/p/DgIJ2u_ID2n/"
+  },
+  "ig_post_3": {
+    "raw_timestamp_text": "November 24, 2026",
+    "absolute_date": "2026-11-24",
+    "type": "Reel/Video",
+    "url": "https://www.instagram.com/solarcorp.energy/reel/DgICUHroTtG/"
+  },
+  "ig_post_4": {
+    "raw_timestamp_text": "November 24, 2026",
+    "absolute_date": "2026-11-24",
+    "type": "Carousel",
+    "url": "https://www.instagram.com/solarcorp.energy/p/DgH8N4ZIJQV/"
+  },
+  "ig_post_5": {
+    "raw_timestamp_text": "November 19, 2026",
+    "absolute_date": "2026-11-19",
+    "type": "Photo",
+    "url": "https://www.instagram.com/solarcorp.energy/p/Df6zM5-oePG/"
+  },
+  "ig_days_since_latest": 1,
+  "ig_median_gap_days": 1,
+  "ig_screenshot_path": "screenshots/solarcorp_instagram.png",
+  "blog_url": "https://solarcorptech.com/blog",
+  "blog_last_post_date": "2026-11-24",
+  "blog_posts_last_90_days": 9,
+  "marketing_titles_found": "NONE_FOUND (no public team page or named personnel on solarcorptech.com/about-us)",
+  "hiring_marketing_role": "NO (no careers page linked on solarcorptech.com)",
+  "need_score": 2,
+  "score_flags": "NO_MARKETING_TITLE_ON_TEAM (+2)",
+  "qualified": false,
+  "signal_categories": [
+    "team"
+  ],
+  "unique_offer": "Installment-based residential and commercial solar installations paired with the Circool solar-savings mobile app in Lagos.",
+  "closest_overlap": "NOT_QUALIFIED_LOW_NEED_SCORE",
+  "pitch_hook": "Solarcorp posts regularly on Instagram (1,131 followers) and published 9 blog articles in 90 days, though no marketing leader is visible on its site.",
+  "evidence_paths": "evidence/phase2/q_solarcorp.json | evidence/phase1/hy_signalbase_zendtrax.md | evidence/phase4/solarcorp_home.md | evidence/phase4/solarcorp_about.md | evidence/phase4/solarcorp_blog.md | evidence/phase4/solarcorp_ig_scrape.md | evidence/phase4/solarcorp_ig_interact.json | screenshots/solarcorp_instagram.png"
+}

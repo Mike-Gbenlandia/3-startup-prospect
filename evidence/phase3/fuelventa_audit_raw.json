@@ -1,0 +1,74 @@
+{
+  "retrievalDate": "2026-11-27",
+  "slug": "fuelventa",
+  "poolEntry": {
+    "name": "Fuelventa",
+    "website": "https://fuelventa.com/",
+    "tier": "A",
+    "status": "VERIFIED",
+    "round_type_exact": "Pre-seed",
+    "amount": "$45K ($44.7K)",
+    "announced_date": "2026-11-03",
+    "investors": "Not disclosed",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://www.trysignalbase.com/news/funding/fuelventa-raises-45k-in-pre-seed-round",
+      "https://fuelventa.com/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/fuelventa_6f49c83214.md",
+      "evidence/phase2/fuelventa_site.md",
+      "evidence/phase2/q_fuelventa.json"
+    ],
+    "batch_number": 5
+  },
+  "resolvedWebsite": "https://fuelventa.com/",
+  "scrapedPages": {
+    "home": {
+      "url": "https://fuelventa.com/",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase3/fuelventa_home.md",
+      "jsonPath": "evidence/phase3/fuelventa_home.json"
+    },
+    "about": {
+      "url": "https://fuelventa.com/about",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase3/fuelventa_about.md",
+      "jsonPath": "evidence/phase3/fuelventa_about.json"
+    },
+    "blog": {
+      "url": "https://fuelventa.com/news",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase3/fuelventa_blog.md",
+      "jsonPath": "evidence/phase3/fuelventa_blog.json"
+    }
+  },
+  "socialLinksFoundOnSite": {
+    "instagram": [],
+    "linkedin": [
+      "https://www.linkedin.com/company/fuelventa"
+    ],
+    "twitter": [
+      "https://twitter.com/fuelventa"
+    ]
+  },
+  "instagramAudit": {
+    "status": "NO_IG_FOUND",
+    "url": "NOT_FOUND"
+  },
+  "evidencePaths": [
+    "evidence/phase2/fuelventa_6f49c83214.md",
+    "evidence/phase2/fuelventa_site.md",
+    "evidence/phase2/q_fuelventa.json",
+    "evidence/phase3/fuelventa_home.json",
+    "evidence/phase3/fuelventa_home.md",
+    "evidence/phase3/fuelventa_about.json",
+    "evidence/phase3/fuelventa_about.md",
+    "evidence/phase3/fuelventa_blog.json",
+    "evidence/phase3/fuelventa_blog.md"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "httpStatus": 404,
+  "success": false,
+  "code": "THIRD_PARTY_DATA_NOT_FOUND",
+  "error": "The requested Exchange record was not found.",
+  "jobId": "01a21c3e-f9b3-73ab-849d-c2b22cd84558"
+}

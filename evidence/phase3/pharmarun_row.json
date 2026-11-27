@@ -1,0 +1,66 @@
+{
+  "slug": "pharmarun",
+  "name": "Pharmarun",
+  "website": "https://www.pharmarun.africa/",
+  "industry": "Healthtech / Online Pharmacy",
+  "city": "Lagos",
+  "what_they_do": "On-demand online pharmacy platform connecting Nigerian consumers, pharmacies (2,000+ network), hospitals, and insurers for medication ordering, doorstep delivery within 3 hours in major cities, pharmacist consultations, and automated refills.",
+  "recent_activity": "2026-11-19: Won 3rd place and NGN 15M (~$11.2K) non-equity grant at Zenith Bank Zecathon 6.0 (https://www.thisdaylive.com/2026/11/19/zenith-bank-unveils-n190m-zecathon-6-0-winners/) | 2026-10-27: Published breast lump health guide on Pharmarun blog (https://www.pharmarun.africa/blog-posts/found-a-breast-lump-your-guide-to-getting-it-checked) | 2026-09-23: Posted Pharmaceutical Operations Manager job opening in Lagos (https://liners.com/pharmarun)",
+  "tier": "C",
+  "round_type": "Non-equity Grant (Zenith Bank Zecathon 6.0 3rd place)",
+  "amount": "NGN 15M (~$11.2K)",
+  "funding_date": "2026-11-19",
+  "investors": "Zenith Bank (Zecathon 6.0 / Beyond Limits Global)",
+  "funding_sources": "https://www.thisdaylive.com/2026/11/19/zenith-bank-unveils-n190m-zecathon-6-0-winners/ | https://liners.com/pharmarun",
+  "funding_confidence": "CONFIRMED_2_SOURCES",
+  "founder_or_marketing_contact": "Teniola Adedeji (Co-founder & Pharmacist), Funmilola Aderemi (Co-founder & Chief Products Officer); experience@pharmarun.africa; +234 913 289 1193; https://www.linkedin.com/company/pharmarun/about/",
+  "instagram_url": "https://www.instagram.com/pharmarun/",
+  "ig_status": "OK",
+  "ig_followers": "4,979",
+  "ig_post_1": {
+    "raw_timestamp_text": "November 27, 2026",
+    "absolute_date": "2026-11-27",
+    "type": "Photo",
+    "url": "https://www.instagram.com/pharmarun/p/DgNIiZmAr0S/"
+  },
+  "ig_post_2": {
+    "raw_timestamp_text": "November 26, 2026",
+    "absolute_date": "2026-11-26",
+    "type": "Photo",
+    "url": "https://www.instagram.com/pharmarun/p/DgNHf_RgbTl/"
+  },
+  "ig_post_3": {
+    "raw_timestamp_text": "November 26, 2026",
+    "absolute_date": "2026-11-26",
+    "type": "Photo",
+    "url": "https://www.instagram.com/pharmarun/p/DgNHFtoAOCc/"
+  },
+  "ig_post_4": {
+    "raw_timestamp_text": "November 26, 2026",
+    "absolute_date": "2026-11-26",
+    "type": "Reel/Video",
+    "url": "https://www.instagram.com/pharmarun/reel/DgNALzWgOpd/"
+  },
+  "ig_post_5": {
+    "raw_timestamp_text": "November 20, 2026",
+    "absolute_date": "2026-11-20",
+    "type": "Photo",
+    "url": "https://www.instagram.com/pharmarun/p/Df9gwSngTg_/"
+  },
+  "ig_days_since_latest": 0,
+  "ig_median_gap_days": 0.5,
+  "ig_screenshot_path": "screenshots/pharmarun_instagram.png",
+  "blog_url": "https://www.pharmarun.africa/blog",
+  "blog_last_post_date": "2026-10-27",
+  "blog_posts_last_90_days": 1,
+  "marketing_titles_found": "NONE_FOUND (/about-us does not list individual marketing staff; Liners lists Co-founders Teniola Adedeji & Funmilola Aderemi)",
+  "hiring_marketing_role": "YES (SEO Marketing Manager open on https://www.pharmarun.africa/careers)",
+  "need_score": 3,
+  "score_flags": "NO_MARKETING_TITLE_ON_TEAM (+2), HIRING_MARKETING_ROLE (+1)",
+  "qualified": false,
+  "signal_categories": ["team", "hiring"],
+  "unique_offer": "On-demand consumer and B2B2C pharmacy aggregator delivering medications across 25 Nigerian cities within 3 hours with BNPL and automated chronic refills.",
+  "closest_overlap": "NOT_QUALIFIED_LOW_NEED_SCORE",
+  "pitch_hook": "Pharmarun is actively posting on Instagram (0 days since latest) and hiring an SEO Marketing Manager on its careers page, leaving only a missing senior marketing leader on its public team profile.",
+  "evidence_paths": "evidence/phase2/pharmarun_fc062df2d1.md | evidence/phase2/zecathon_thisday_c99da60436.md | evidence/phase3/pharmarun_home.md | evidence/phase3/pharmarun_about.md | evidence/phase3/pharmarun_blog.md | evidence/phase3/pharmarun_careers.md | evidence/phase3/pharmarun_ig_scrape.md | evidence/phase3/pharmarun_ig_interact.json | screenshots/pharmarun_instagram.png"
+}

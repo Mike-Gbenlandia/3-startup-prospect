@@ -1,0 +1,70 @@
+{
+  "slug": "talent-nation",
+  "name": "Talent Nation",
+  "website": "https://talentnation.ai/",
+  "industry": "HR / AI Engineering Talent & EdTech",
+  "city": "Lagos",
+  "what_they_do": "AI engineering talent platform that trains and certifies developers across Nigeria via its zero-upfront-tuition Learn2Earn academy and deploys them to enterprise clients through project delivery, embedded teams, direct hiring, or internships.",
+  "recent_activity": "2026-11-20: Hosted Learn2Earn Infrastructure Partners Summit in Lagos (https://www.instagram.com/learn2earnng_/p/Df4xeaOIFlO/) | 2026-10-28: Raised undisclosed pre-seed round co-led by Enza Capital and LocalGlobe (https://disruptafrica.com/2026/10/30/aboyeji-backed-ai-engineering-talent-platform-talent-nation-raises-pre-seed-funding/) | 2026-07-01: Welcomed 800+ new fellows into Learn2Earn across Nigerian campuses (https://www.instagram.com/kesiahvalkin/p/DaQEajMMQUk/)",
+  "tier": "A",
+  "round_type": "Pre-seed",
+  "amount": "Not disclosed",
+  "funding_date": "2026-10-28",
+  "investors": "Enza Capital (co-lead), LocalGlobe (co-lead), Future Africa, Kaleo Ventures, Ajim Capital, Solving.org, Accelerate Africa",
+  "funding_sources": "https://www.startuplist.africa/funding/talent-nation-pre-seed-undisclosed-eb43a81 | https://disruptafrica.com/2026/10/30/aboyeji-backed-ai-engineering-talent-platform-talent-nation-raises-pre-seed-funding/",
+  "funding_confidence": "CONFIRMED_2_SOURCES",
+  "founder_or_marketing_contact": "Kesiah Valkin (Co-founder & CEO), Iyinoluwa Aboyeji (Co-founder & Executive Chairman); https://www.linkedin.com/company/talentnation-ai/; https://talentnation.ai/contact/",
+  "instagram_url": "https://www.instagram.com/talentnation.ai/",
+  "ig_status": "OK",
+  "ig_followers": "193",
+  "ig_post_1": {
+    "raw_timestamp_text": "November 18, 2026",
+    "absolute_date": "2026-11-18",
+    "type": "Photo",
+    "url": "https://www.instagram.com/learn2earnng_/p/Df4xeaOIFlO/"
+  },
+  "ig_post_2": {
+    "raw_timestamp_text": "October 30, 2026",
+    "absolute_date": "2026-10-30",
+    "type": "Reel/Video",
+    "url": "https://www.instagram.com/talentnation.ai/reel/DfILWmSOpan/"
+  },
+  "ig_post_3": {
+    "raw_timestamp_text": "October 24, 2026 (October 23, 2026 in DOM)",
+    "absolute_date": "2026-10-24",
+    "type": "Carousel",
+    "url": "https://www.instagram.com/kesiahvalkin/p/De3fu21DFa1/"
+  },
+  "ig_post_4": {
+    "raw_timestamp_text": "September 30, 2026",
+    "absolute_date": "2026-09-30",
+    "type": "Carousel",
+    "url": "https://www.instagram.com/learn2earnng_/p/Dd6z-CXiBNg/"
+  },
+  "ig_post_5": {
+    "raw_timestamp_text": "July 01, 2026",
+    "absolute_date": "2026-07-01",
+    "type": "Photo",
+    "url": "https://www.instagram.com/kesiahvalkin/p/DaQEajMMQUk/"
+  },
+  "ig_days_since_latest": 9,
+  "ig_median_gap_days": 21.5,
+  "ig_screenshot_path": "screenshots/talent-nation_instagram.png",
+  "blog_url": "NOT_FOUND",
+  "blog_last_post_date": "NOT_FOUND",
+  "blog_posts_last_90_days": "NOT_FOUND",
+  "marketing_titles_found": "NONE_FOUND (talentnation.ai/about/ and learn2earn.ng/about name only Co-founders Kesiah Valkin & Iyinoluwa Aboyeji)",
+  "hiring_marketing_role": "NO (no careers page on talentnation.ai or learn2earn.ng)",
+  "need_score": 7,
+  "score_flags": "IG_MEDIAN_GAP_14D (+2) | IG_IRREGULAR_GAP (+1) | NO_OR_STALE_BLOG_90D (+2) | NO_MARKETING_TITLE_ON_TEAM (+2)",
+  "qualified": true,
+  "signal_categories": [
+    "Instagram",
+    "blog",
+    "team"
+  ],
+  "unique_offer": "Zero-upfront-tuition Nigerian AI engineering academy (Learn2Earn across 9 campuses) feeding enterprise AI project delivery, embedded teams, and direct hires.",
+  "closest_overlap": "TBD_PHASE_5",
+  "pitch_hook": "Talent Nation raised an Enza/LocalGlobe pre-seed on 2026-10-28, yet talentnation.ai shows unfilled '[Quote from IHS Towers]' placeholder copy and negative broken metric counters, lacks a blog or marketing lead, and posts irregularly on IG (21.5d median gap, 193 followers).",
+  "evidence_paths": "evidence/phase2/talent_nation_da.md | evidence/phase2/web_rem_6_misc.json | evidence/phase4/talent-nation_home.md | evidence/phase4/talent-nation_root.md | evidence/phase4/talent-nation_about.md | evidence/phase4/talent-nation_ai.md | evidence/phase4/talent-nation_ai_about.md | evidence/phase4/talent-nation_whatwedo.md | evidence/phase4/talent-nation_ig_scrape.md | evidence/phase4/talent-nation_ig_summary.json | screenshots/talent-nation_instagram.png"
+}

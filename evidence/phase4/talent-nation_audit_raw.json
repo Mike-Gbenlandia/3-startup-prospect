@@ -1,0 +1,51 @@
+{
+  "retrievalDate": "2026-11-27",
+  "slug": "talent-nation",
+  "poolEntry": {
+    "name": "Talent Nation",
+    "website": "https://trials.learn2earn.ng/login",
+    "tier": "A",
+    "status": "VERIFIED",
+    "round_type_exact": "Pre-seed",
+    "amount": "Not disclosed",
+    "announced_date": "2026-10-28",
+    "investors": "Enza Capital (co-lead), LocalGlobe (co-lead), Future Africa, Kaleo Ventures, Ajim Capital, Solving.org, Accelerate Africa",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/talent-nation-pre-seed-undisclosed-eb43a81",
+      "https://disruptafrica.com/2026/10/30/aboyeji-backed-ai-engineering-talent-platform-talent-nation-raises-pre-seed-funding/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/talent_nation_da.md",
+      "evidence/phase2/web_rem_6_misc.json"
+    ],
+    "batch_number": 6
+  },
+  "resolvedWebsite": "https://trials.learn2earn.ng/login",
+  "searchCandidates": [],
+  "scrapedPages": {
+    "home": {
+      "url": "https://trials.learn2earn.ng/login",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/talent-nation_home.md",
+      "jsonPath": "evidence/phase4/talent-nation_home.json"
+    }
+  },
+  "socialLinksFoundOnSite": {
+    "instagram": [],
+    "linkedin": [],
+    "twitter": []
+  },
+  "instagramAudit": {
+    "status": "NO_IG_FOUND",
+    "url": "NOT_FOUND"
+  },
+  "evidencePaths": [
+    "evidence/phase2/talent_nation_da.md",
+    "evidence/phase2/web_rem_6_misc.json",
+    "evidence/phase4/talent-nation_home.json",
+    "evidence/phase4/talent-nation_home.md"
+  ]
+}

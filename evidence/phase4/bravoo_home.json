@@ -1,0 +1,31 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "markdown": "# This page doesn’t exist\n\nIt may have been moved, removed, or never existed.\n\nGo back\n\n404 DEPLOYMENT\\_NOT\\_FOUND\n\niad1::mzk5v-1795769822118-98d62d40d229\n\n[View Documentation](https://vercel.com/docs/errors/deployment_not_found)Copy Debug Prompt",
+    "metadata": {
+      "title": "404: NOT_FOUND",
+      "viewport": "width=device-width,initial-scale=1",
+      "theme-color": [
+        "#0a0a0a",
+        "#ffffff"
+      ],
+      "language": "en",
+      "scrapeId": "01a21c38-ea84-733c-8ce6-1e3f13a37339",
+      "sourceURL": "https://app.joinbravoo.com/",
+      "url": "https://app.joinbravoo.com/",
+      "statusCode": 404,
+      "error": "Not Found",
+      "contentType": "text/html; charset=utf-8",
+      "timezone": "America/New_York",
+      "proxyUsed": "basic",
+      "cacheState": "miss",
+      "indexId": "dabaa1f2-cc59-4b57-90ed-ac51e321adb7",
+      "creditsUsed": 1,
+      "concurrencyLimited": false
+    },
+    "links": [
+      "https://vercel.com/docs/errors/deployment_not_found"
+    ]
+  }
+}

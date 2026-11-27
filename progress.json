@@ -1,12 +1,25 @@
 {
-  "phase": "PHASE_2",
-  "batch_number": 17,
-  "done": 104,
-  "remaining": 96,
-  "phase0_verified": true,
-  "phase1_candidates_raw": 373,
-  "starting_credits": 1400,
-  "current_credits": 680,
-  "notes": "Phase 2 Batch 17 recorded: 104 verified in pool (170 screened).",
-  "screened_total": 170
+  "phase": "PHASE_4",
+  "phase_status": "IN_PROGRESS",
+  "counts": {
+    "funding": {
+      "REJECTED": 270,
+      "VERIFIED": 122
+    },
+    "audit": {
+      "DROPPED": 270,
+      "PENDING": 110,
+      "BLOCKED": 1,
+      "DONE": 10,
+      "IN_PROGRESS": 1
+    },
+    "total_candidates": 392
+  },
+  "current": {
+    "slug": "vatar",
+    "step": "3c_ig_scrape",
+    "open_session_ids": []
+  },
+  "next_action": "Finish auditing vatar and inspect evidence/screenshot before marking DONE.",
+  "last_updated": "2026-11-27T09:06:20.496Z"
 }

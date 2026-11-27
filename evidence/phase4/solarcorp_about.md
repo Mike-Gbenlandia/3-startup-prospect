@@ -1,0 +1,89 @@
+[Chat with us on WhatsApp](https://wa.me/2347011121696 "Chat with us on WhatsApp")
+
+![Logo](https://solarcorptech.com/logo.png)[About Us](https://solarcorptech.com/about-us) [Blog](https://solarcorptech.com/blog) [Catalogue](https://solarcorptech.com/catalogue) [Circool](https://solarcorptech.com/circool)[Log in](https://solarcorptech.com/login) [Get Started](https://solarcorptech.com/circool/create-account)
+
+![menu](data:image/svg+xml,%3csvg%20width='20'%20height='14'%20viewBox='0%200%2020%2014'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20d='M1%207H19M1%201H19M7%2013H19'%20stroke='%23262ACC'%20stroke-width='2'%20stroke-linecap='round'%20stroke-linejoin='round'/%3e%3c/svg%3e)
+
+# Empowering Freedom,   One Solar Panel at a Time
+
+At Solarcorp, we believe that electricity is more than just a basic need it's a fundamental right. And we're on a mission to bring freedom and empowerment to families and businesses across Africa through access to reliable, affordable, and sustainable solar energy solutions.
+
+![solar panels](https://solarcorptech.com/assets/rectangle1-DX3a38gw.png)
+
+### Our Story
+
+Solarcorp was founded by a team of passionate individuals who saw the impact that traditional energy sources was having on our businesses and finances, and how Solar Energy was perceived as an expensive solution. We knew that there had to be a better way, and we set out to make a difference. With years of experience in the solar industry, we've developed a range of affordable solutions that make solar energy accessible to everyone.
+
+![solar panels](https://solarcorptech.com/assets/rectangle2-CBLayaJA.png)![solar panels](https://solarcorptech.com/assets/rectangle3-D5mBElnx.png)
+
+![eye icon](data:image/svg+xml,%3csvg%20width='32'%20height='32'%20viewBox='0%200%2032%2032'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20d='M3.22683%2016.9509C3.04525%2016.6633%202.95446%2016.5196%202.90363%2016.2978C2.86546%2016.1313%202.86546%2015.8686%202.90363%2015.7021C2.95446%2015.4803%203.04525%2015.3366%203.22683%2015.0491C4.72737%2012.6731%209.19387%206.66663%2016.0005%206.66663C22.8072%206.66663%2027.2737%2012.6731%2028.7742%2015.0491C28.9558%2015.3366%2029.0466%2015.4803%2029.0974%2015.7021C29.1356%2015.8686%2029.1356%2016.1313%2029.0974%2016.2978C29.0466%2016.5196%2028.9558%2016.6633%2028.7742%2016.9509C27.2737%2019.3268%2022.8072%2025.3333%2016.0005%2025.3333C9.19387%2025.3333%204.72737%2019.3268%203.22683%2016.9509Z'%20stroke='%23101828'%20stroke-width='2.58333'%20stroke-linecap='round'%20stroke-linejoin='round'/%3e%3cpath%20d='M16.0005%2020C18.2097%2020%2020.0005%2018.2091%2020.0005%2016C20.0005%2013.7908%2018.2097%2012%2016.0005%2012C13.7914%2012%2012.0005%2013.7908%2012.0005%2016C12.0005%2018.2091%2013.7914%2020%2016.0005%2020Z'%20stroke='%23101828'%20stroke-width='2.58333'%20stroke-linecap='round'%20stroke-linejoin='round'/%3e%3c/svg%3e)
+
+### Our Vision
+
+Our vision is a world where every family and business has access to clean, reliable, and affordable energy. We believe that solar energy has the power to transform lives, and we're committed to making that a reality
+
+### Our Values
+
+![icon](data:image/svg+xml,%3csvg%20width='65'%20height='65'%20viewBox='0%200%2065%2065'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3ccircle%20cx='32.8'%20cy='32.5'%20r='32'%20fill='%23171BBD'%20fill-opacity='0.1'/%3e%3cg%20clip-path='url(%23clip0_1760_6354)'%3e%3cpath%20d='M42.1334%2029.8333L32.8%2020.5L20.8%2032.5H23.4667V41.8333C23.4667%2042.5406%2023.7477%2043.2189%2024.2478%2043.719C24.7479%2044.219%2025.4261%2044.5%2026.1334%2044.5H36.1334'%20stroke='%23171BBD'%20stroke-width='2'%20stroke-linecap='round'%20stroke-linejoin='round'/%3e%3cpath%20d='M28.8%2044.5V36.5C28.8%2035.7928%2029.081%2035.1145%2029.5811%2034.6144C30.0812%2034.1143%2030.7595%2033.8334%2031.4667%2033.8334H34.1334C35.0147%2033.8334%2035.7974%2034.26%2036.2827%2034.92'%20stroke='%23171BBD'%20stroke-width='2'%20stroke-linecap='round'%20stroke-linejoin='round'/%3e%3cpath%20d='M42.1332%2035.1666L39.4666%2040.5H44.7999L42.1332%2045.8333'%20stroke='%23171BBD'%20stroke-width='2'%20stroke-linecap='round'%20stroke-linejoin='round'/%3e%3c/g%3e%3cdefs%3e%3cclipPath%20id='clip0_1760_6354'%3e%3crect%20width='32'%20height='32'%20fill='white'%20transform='translate(16.8%2016.5)'/%3e%3c/clipPath%3e%3c/defs%3e%3c/svg%3e)
+
+#### Empowerment
+
+We believe in empowering individuals, communities, and businesses to take control of their energy needs and unlock their full potential
+
+![icon](data:image/svg+xml,%3csvg%20width='65'%20height='65'%20viewBox='0%200%2065%2065'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3ccircle%20cx='32.4001'%20cy='32.5'%20r='32'%20fill='%23171BBD'%20fill-opacity='0.1'/%3e%3cg%20clip-path='url(%23clip0_1760_6346)'%3e%3cpath%20d='M20.4001%2032.5C20.4001%2034.0759%2020.7105%2035.6363%2021.3136%2037.0922C21.9166%2038.5481%2022.8006%2039.871%2023.9149%2040.9853C25.0292%2042.0996%2026.352%2042.9835%2027.8079%2043.5866C29.2639%2044.1896%2030.8243%2044.5%2032.4001%2044.5C33.976%2044.5%2035.5364%2044.1896%2036.9923%2043.5866C38.4483%2042.9835%2039.7711%2042.0996%2040.8854%2040.9853C41.9997%2039.871%2042.8836%2038.5481%2043.4867%2037.0922C44.0898%2035.6363%2044.4001%2034.0759%2044.4001%2032.5C44.4001%2030.9241%2044.0898%2029.3637%2043.4867%2027.9078C42.8836%2026.4519%2041.9997%2025.129%2040.8854%2024.0147C39.7711%2022.9004%2038.4483%2022.0165%2036.9923%2021.4134C35.5364%2020.8104%2033.976%2020.5%2032.4001%2020.5C30.8243%2020.5%2029.2639%2020.8104%2027.8079%2021.4134C26.352%2022.0165%2025.0292%2022.9004%2023.9149%2024.0147C22.8006%2025.129%2021.9166%2026.4519%2021.3136%2027.9078C20.7105%2029.3637%2020.4001%2030.9241%2020.4001%2032.5Z'%20stroke='%23171BBD'%20stroke-width='2'%20stroke-linecap='round'%20stroke-linejoin='round'/%3e%3cpath%20d='M28.4001%2028.5H28.4143'%20stroke='%23171BBD'%20stroke-width='2'%20stroke-linecap='round'%20stroke-linejoin='round'/%3e%3cpath%20d='M36.4001%2028.5H36.4143'%20stroke='%23171BBD'%20stroke-width='2'%20stroke-linecap='round'%20stroke-linejoin='round'/%3e%3cpath%20d='M27.0667%2033.8333C27.0667%2035.2477%2027.6286%2036.6043%2028.6287%2037.6045C29.6289%2038.6047%2030.9855%2039.1666%2032.4%2039.1666C33.8145%2039.1666%2035.171%2038.6047%2036.1712%2037.6045C37.1714%2036.6043%2037.7333%2035.2477%2037.7333%2033.8333H27.0667Z'%20stroke='%23171BBD'%20stroke-width='2'%20stroke-linecap='round'%20stroke-linejoin='round'/%3e%3c/g%3e%3cdefs%3e%3cclipPath%20id='clip0_1760_6346'%3e%3crect%20width='32'%20height='32'%20fill='white'%20transform='translate(16.4001%2016.5)'/%3e%3c/clipPath%3e%3c/defs%3e%3c/svg%3e)
+
+#### Freedom
+
+We're committed to providing access to reliable, affordable, and sustainable energy, freeing people from the constraints of energy insecurity.
+
+![icon](data:image/svg+xml,%3csvg%20width='64'%20height='65'%20viewBox='0%200%2064%2065'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3ccircle%20cx='32'%20cy='32.5'%20r='32'%20fill='%23171BBD'%20fill-opacity='0.1'/%3e%3cg%20clip-path='url(%23clip0_1760_6339)'%3e%3cpath%20d='M26.6665%2025.8333C26.6665%2027.2478%2027.2284%2028.6044%2028.2286%2029.6046C29.2288%2030.6048%2030.5853%2031.1667%2031.9998%2031.1667C33.4143%2031.1667%2034.7709%2030.6048%2035.7711%2029.6046C36.7713%2028.6044%2037.3332%2027.2478%2037.3332%2025.8333C37.3332%2024.4188%2036.7713%2023.0623%2035.7711%2022.0621C34.7709%2021.0619%2033.4143%2020.5%2031.9998%2020.5C30.5853%2020.5%2029.2288%2021.0619%2028.2286%2022.0621C27.2284%2023.0623%2026.6665%2024.4188%2026.6665%2025.8333Z'%20stroke='%23171BBD'%20stroke-width='2'%20stroke-linecap='round'%20stroke-linejoin='round'/%3e%3cpath%20d='M24%2044.5V41.8333C24%2040.4188%2024.5619%2039.0623%2025.5621%2038.0621C26.5623%2037.0619%2027.9188%2036.5%2029.3333%2036.5H30'%20stroke='%23171BBD'%20stroke-width='2'%20stroke-linecap='round'%20stroke-linejoin='round'/%3e%3cpath%20d='M39.7336%2044.256L36.8377%2045.7733C36.7517%2045.818%2036.655%2045.838%2036.5584%2045.831C36.4618%2045.8239%2036.369%2045.7902%2036.2904%2045.7335C36.2119%2045.6768%2036.1506%2045.5993%2036.1135%2045.5098C36.0764%2045.4203%2036.0649%2045.3223%2036.0803%2045.2266L36.6337%2042.012L34.291%2039.736C34.2211%2039.6684%2034.1715%2039.5825%2034.1481%2039.4881C34.1247%2039.3937%2034.1282%2039.2946%2034.1584%2039.2022C34.1886%2039.1097%2034.2441%2039.0276%2034.3187%2038.9652C34.3933%2038.9028%2034.484%2038.8626%2034.5803%2038.8493L37.8177%2038.38L39.2656%2035.456C39.309%2035.3689%2039.3757%2035.2956%2039.4584%2035.2444C39.5411%2035.1932%2039.6364%2035.166%2039.7336%2035.166C39.8309%2035.166%2039.9262%2035.1932%2040.0089%2035.2444C40.0916%2035.2956%2040.1583%2035.3689%2040.2016%2035.456L41.6496%2038.38L44.887%2038.8493C44.983%2038.8631%2045.0733%2038.9035%2045.1476%2038.966C45.2219%2039.0284%2045.2772%2039.1104%2045.3073%2039.2027C45.3374%2039.2949%2045.3411%2039.3938%2045.3179%2039.488C45.2948%2039.5823%2045.2457%2039.6682%2045.1763%2039.736L42.8337%2042.012L43.3856%2045.2253C43.4022%2045.3211%2043.3916%2045.4197%2043.355%2045.5098C43.3183%2045.5998%2043.2572%2045.6778%2043.1784%2045.7349C43.0997%2045.792%2043.0065%2045.8258%2042.9095%2045.8326C42.8125%2045.8394%2042.7156%2045.8189%2042.6297%2045.7733L39.7336%2044.256Z'%20stroke='%23171BBD'%20stroke-width='2'%20stroke-linecap='round'%20stroke-linejoin='round'/%3e%3c/g%3e%3cdefs%3e%3cclipPath%20id='clip0_1760_6339'%3e%3crect%20width='32'%20height='32'%20fill='white'%20transform='translate(16%2016.5)'/%3e%3c/clipPath%3e%3c/defs%3e%3c/svg%3e)
+
+#### Excellence
+
+We strive for excellence in everything we do, from our products to our customer service.
+
+![icon](data:image/svg+xml,%3csvg%20width='65'%20height='65'%20viewBox='0%200%2065%2065'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3ccircle%20cx='32.6001'%20cy='32.5'%20r='32'%20fill='%23171BBD'%20fill-opacity='0.1'/%3e%3cg%20clip-path='url(%23clip0_1760_6332)'%3e%3cpath%20d='M20.6001%2032.5C20.6001%2034.0759%2020.9105%2035.6363%2021.5135%2037.0922C22.1166%2038.5481%2023.0005%2039.871%2024.1148%2040.9853C25.2291%2042.0996%2026.552%2042.9835%2028.0079%2043.5866C29.4638%2044.1896%2031.0242%2044.5%2032.6001%2044.5C34.176%2044.5%2035.7364%2044.1896%2037.1923%2043.5866C38.6482%2042.9835%2039.9711%2042.0996%2041.0854%2040.9853C42.1997%2039.871%2043.0836%2038.5481%2043.6867%2037.0922C44.2897%2035.6363%2044.6001%2034.0759%2044.6001%2032.5C44.6001%2030.9241%2044.2897%2029.3637%2043.6867%2027.9078C43.0836%2026.4519%2042.1997%2025.129%2041.0854%2024.0147C39.9711%2022.9004%2038.6482%2022.0165%2037.1923%2021.4134C35.7364%2020.8104%2034.176%2020.5%2032.6001%2020.5C31.0242%2020.5%2029.4638%2020.8104%2028.0079%2021.4134C26.552%2022.0165%2025.2291%2022.9004%2024.1148%2024.0147C23.0005%2025.129%2022.1166%2026.4519%2021.5135%2027.9078C20.9105%2029.3637%2020.6001%2030.9241%2020.6001%2032.5Z'%20stroke='%23171BBD'%20stroke-width='2'%20stroke-linecap='round'%20stroke-linejoin='round'/%3e%3cpath%20d='M29.9334%2038.5L32.6001%2034.5M32.6001%2034.5L35.2668%2038.5M32.6001%2034.5V31.8333M32.6001%2031.8333L36.6001%2030.5M32.6001%2031.8333L28.6001%2030.5'%20stroke='%23171BBD'%20stroke-width='2'%20stroke-linecap='round'%20stroke-linejoin='round'/%3e%3cpath%20d='M32.6007%2027.1665C32.9689%2027.1665%2033.2674%2026.868%2033.2674%2026.4998C33.2674%2026.1316%2032.9689%2025.8331%2032.6007%2025.8331C32.2326%2025.8331%2031.9341%2026.1316%2031.9341%2026.4998C31.9341%2026.868%2032.2326%2027.1665%2032.6007%2027.1665Z'%20fill='black'%20stroke='%23171BBD'%20stroke-width='2'%20stroke-linecap='round'%20stroke-linejoin='round'/%3e%3c/g%3e%3cdefs%3e%3cclipPath%20id='clip0_1760_6332'%3e%3crect%20width='32'%20height='32'%20fill='white'%20transform='translate(16.6001%2016.5)'/%3e%3c/clipPath%3e%3c/defs%3e%3c/svg%3e)
+
+#### Accessibilty
+
+We believe that everyone deserves access to affordable and reliable energy.
+
+![icon](data:image/svg+xml,%3csvg%20width='65'%20height='65'%20viewBox='0%200%2065%2065'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3ccircle%20cx='32.1997'%20cy='32.5'%20r='32'%20fill='%23171BBD'%20fill-opacity='0.1'/%3e%3cg%20clip-path='url(%23clip0_1760_6327)'%3e%3cpath%20d='M33.5329%2020.5V29.8333H41.5329L30.8662%2044.5V35.1667H22.8662L33.5329%2020.5Z'%20stroke='%23171BBD'%20stroke-width='2'%20stroke-linecap='round'%20stroke-linejoin='round'/%3e%3c/g%3e%3cdefs%3e%3cclipPath%20id='clip0_1760_6327'%3e%3crect%20width='32'%20height='32'%20fill='white'%20transform='translate(16.1997%2016.5)'/%3e%3c/clipPath%3e%3c/defs%3e%3c/svg%3e)
+
+#### Innovation
+
+We're constantly pushing the boundaries of what's possible with solar energy.
+
+#### Contact Us
+
+[**Call Us**\\
+\\
++2348151435518](tel:+2348151435518) [**Send a mail**\\
+\\
+hello@solarcorptech.com](mailto:hello@solarcorptech.com) [**Address**\\
+\\
+15 Fubara Dublin Green St, Lekki phase 1, Lekki 106104, Lagos](https://www.google.com/maps/place/Solarcorp/@6.4298496,3.5202998,17z/data=!3m1!4b1!4m6!3m5!1s0x103bf51bfce2d2c1:0xbf1baf164c3a4153!8m2!3d6.4298443!4d3.5228747!16s%2Fg%2F11qgkt823s?entry=ttu)
+
+![Circool](https://solarcorptech.com/assets/circool_logo_white-C0P3r4Fe.svg)
+
+[![](data:image/svg+xml,%3csvg%20width='20'%20height='20'%20viewBox='0%200%2020%2020'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cg%20clip-path='url(%23clip0_6174_2148)'%3e%3cpath%20d='M5.83203%208.33284L5.83203%2011.6662H8.33203L8.33203%2017.4995H11.6654L11.6654%2011.6662H14.1654L14.9987%208.33284H11.6654V6.66618C11.6654%206.44516%2011.7532%206.2332%2011.9094%206.07692C12.0657%205.92064%2012.2777%205.83284%2012.4987%205.83284L14.9987%205.83284V2.49951L12.4987%202.49951C11.3936%202.49951%2010.3338%202.9385%209.55242%203.7199C8.77102%204.5013%208.33203%205.56111%208.33203%206.66618L8.33203%208.33284H5.83203Z'%20stroke='%2398A2B3'%20stroke-width='1.5625'%20stroke-linecap='round'%20stroke-linejoin='round'/%3e%3c/g%3e%3cdefs%3e%3cclipPath%20id='clip0_6174_2148'%3e%3crect%20width='20'%20height='20'%20fill='white'%20transform='translate(0%20-0.000488281)'/%3e%3c/clipPath%3e%3c/defs%3e%3c/svg%3e)](https://web.facebook.com/profile.php?id=100063791056195)[![](data:image/svg+xml,%3csvg%20width='20'%20height='20'%20viewBox='0%200%2020%2020'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cg%20clip-path='url(%23clip0_6174_2137)'%3e%3cpath%20d='M3.33203%206.66683C3.33203%205.78277%203.68322%204.93493%204.30834%204.30981C4.93346%203.68469%205.78131%203.3335%206.66536%203.3335L13.332%203.3335C14.2161%203.3335%2015.0639%203.68469%2015.6891%204.30981C16.3142%204.93493%2016.6654%205.78277%2016.6654%206.66683V13.3335C16.6654%2014.2176%2016.3142%2015.0654%2015.6891%2015.6905C15.0639%2016.3156%2014.2161%2016.6668%2013.332%2016.6668H6.66536C5.78131%2016.6668%204.93346%2016.3156%204.30834%2015.6905C3.68322%2015.0654%203.33203%2014.2176%203.33203%2013.3335L3.33203%206.66683Z'%20stroke='%2398A2B3'%20stroke-width='1.5625'%20stroke-linecap='round'%20stroke-linejoin='round'/%3e%3cpath%20d='M7.49805%209.99756C7.49805%2010.6606%207.76144%2011.2965%208.23028%2011.7653C8.69912%2012.2342%209.33501%2012.4976%209.99805%2012.4976C10.6611%2012.4976%2011.297%2012.2342%2011.7658%2011.7653C12.2347%2011.2965%2012.498%2010.6606%2012.498%209.99756C12.498%209.33452%2012.2347%208.69863%2011.7658%208.22979C11.297%207.76095%2010.6611%207.49756%209.99805%207.49756C9.33501%207.49756%208.69912%207.76095%208.23028%208.22979C7.76144%208.69863%207.49805%209.33452%207.49805%209.99756Z'%20stroke='%2398A2B3'%20stroke-width='1.5625'%20stroke-linecap='round'%20stroke-linejoin='round'/%3e%3cpath%20d='M13.752%206.24756V6.25697'%20stroke='%2398A2B3'%20stroke-width='1.5625'%20stroke-linecap='round'%20stroke-linejoin='round'/%3e%3c/g%3e%3cdefs%3e%3cclipPath%20id='clip0_6174_2137'%3e%3crect%20width='20'%20height='20'%20fill='white'%20transform='translate(0%20-0.000488281)'/%3e%3c/clipPath%3e%3c/defs%3e%3c/svg%3e)](https://www.instagram.com/solarcorp.energy?igsh=eDIzZjBjc3E2NHFm)[![](data:image/svg+xml,%3csvg%20width='20'%20height='20'%20viewBox='0%200%2020%2020'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cg%20clip-path='url(%23clip0_6174_2153)'%3e%3cpath%20d='M3.33203%203.3335L13.1095%2016.6668H16.6654L6.88787%203.3335H3.33203Z'%20stroke='%2398A2B3'%20stroke-width='1.5625'%20stroke-linecap='round'%20stroke-linejoin='round'/%3e%3cpath%20d='M3.33203%2016.6668L8.97203%2011.0268M11.022%208.97683L16.6654%203.3335'%20stroke='%2398A2B3'%20stroke-width='1.5625'%20stroke-linecap='round'%20stroke-linejoin='round'/%3e%3c/g%3e%3cdefs%3e%3cclipPath%20id='clip0_6174_2153'%3e%3crect%20width='20'%20height='20'%20fill='white'%20transform='translate(0%20-0.000488281)'/%3e%3c/clipPath%3e%3c/defs%3e%3c/svg%3e)](https://x.com/Solarcorpenergy)[Mail](mailto:hello@solarcorptech.com)
+
+### Products
+
+[Solarcorp](https://solarcorptech.com/) [Circool](https://solarcorptech.com/circool) [Agents](https://solarcorptech.com/become-an-agent)
+
+### Company
+
+[About Us](https://solarcorptech.com/about-us) [Blog](https://solarcorptech.com/blog)
+
+### Contact us
+
+[+234 815 143 5518](tel:+2348151435518) [hello@solarcorptech.com](mailto:hello@solarcorptech.com) [15 Fubara Dublin Green Street, Igbo Efon, Lekki, Lagos](https://www.google.com/maps/place/Solarcorp/@6.4298496,3.5202998,17z/data=!3m1!4b1!4m6!3m5!1s0x103bf51bfce2d2c1:0xbf1baf164c3a4153!8m2!3d6.4298443!4d3.5228747!16s%2Fg%2F11qgkt823s?entry=ttu)
+
+### Legal
+
+[Privacy Policy](https://solarcorptech.com/privacy-policy) [Terms & Conditions](https://solarcorptech.com/term-of-use)
+
+Contact us for more information
+
+BackLast
