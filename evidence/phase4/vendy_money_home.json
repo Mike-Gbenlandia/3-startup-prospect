@@ -1,0 +1,22 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "markdown": "```\n<!doctype html><html><head></head><body></body></html>\n```",
+    "metadata": {
+      "color-scheme": "light dark",
+      "scrapeId": "01a21d62-beef-74d5-98ea-e7ccc273b99f",
+      "sourceURL": "https://vendy.money/",
+      "url": "https://vendy.money/",
+      "statusCode": 404,
+      "error": "Not Found",
+      "timezone": "America/New_York",
+      "proxyUsed": "basic",
+      "cacheState": "miss",
+      "indexId": "b84b1503-aec2-4a5f-8a7f-9e99612cb0b5",
+      "creditsUsed": 1,
+      "concurrencyLimited": false
+    },
+    "links": []
+  }
+}

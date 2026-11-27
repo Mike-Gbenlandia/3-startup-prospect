@@ -1,0 +1,69 @@
+{
+  "retrievalDate": "2026-11-27",
+  "slug": "vibe-jungle",
+  "poolEntry": {
+    "name": "Vibe Jungle",
+    "website": "https://www.vibejungle.ai/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Founder-led funding round (early undisclosed package)",
+    "amount": "$400K",
+    "announced_date": "2026-11-16",
+    "investors": "Founder-led (undisclosed)",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://fireround.dev/companies/vibe-jungle",
+      "https://african-startups.com/news/funding/vibe-jungle-raises-400k-to-lower-production-costs-for-african-creators/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/vibe_jungle_article_48cd48bf34.md",
+      "evidence/phase1/hy_tc_daily_nov20.md"
+    ],
+    "batch_number": 2
+  },
+  "resolvedWebsite": "https://www.vibejungle.ai/",
+  "searchCandidates": [],
+  "scrapedPages": {
+    "home": {
+      "url": "https://www.vibejungle.ai/",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/vibe-jungle_home.md",
+      "jsonPath": "evidence/phase4/vibe-jungle_home.json"
+    },
+    "about": {
+      "url": "https://www.vibejungle.ai/about",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/vibe-jungle_about.md",
+      "jsonPath": "evidence/phase4/vibe-jungle_about.json"
+    },
+    "blog": {
+      "url": "https://www.vibejungle.ai/updates",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/vibe-jungle_blog.md",
+      "jsonPath": "evidence/phase4/vibe-jungle_blog.json"
+    }
+  },
+  "socialLinksFoundOnSite": {
+    "instagram": [],
+    "linkedin": [],
+    "twitter": []
+  },
+  "instagramAudit": {
+    "status": "NO_IG_FOUND",
+    "url": "NOT_FOUND"
+  },
+  "evidencePaths": [
+    "evidence/phase2/vibe_jungle_article_48cd48bf34.md",
+    "evidence/phase1/hy_tc_daily_nov20.md",
+    "evidence/phase4/vibe-jungle_home.json",
+    "evidence/phase4/vibe-jungle_home.md",
+    "evidence/phase4/vibe-jungle_about.json",
+    "evidence/phase4/vibe-jungle_about.md",
+    "evidence/phase4/vibe-jungle_blog.json",
+    "evidence/phase4/vibe-jungle_blog.md"
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "retrievalDate": "2026-11-27",
+  "slug": "intron",
+  "poolEntry": {
+    "name": "Intron",
+    "website": "https://intron.io/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Accelerator / AI Lab Cohort (Google Africa Applied AI Lab, managed by Google AI Futures Fund)",
+    "amount": "Undisclosed (AI Futures Fund & VC partner cohort access)",
+    "announced_date": "2026-11-11",
+    "investors": "Google AI Futures Fund / Google Research Africa (VC partners: 4DX Ventures, Norrsken22, Novastar Ventures, Ventures Platform)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://blog.google/intl/en-africa/company-news/outreach-and-initiatives/applied-ai-lab-cohort-2026/",
+      "https://au-startups.com/news/google-africa-applied-ai-lab-nigerian-startups"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/intron_3c3eae2a41.md",
+      "evidence/phase2/google_lab_au_e0217b3baa.md",
+      "evidence/phase2/intron_site_ff07001d4b.md"
+    ],
+    "batch_number": 3
+  },
+  "resolvedWebsite": "https://intron.io/",
+  "searchCandidates": [],
+  "scrapedPages": {
+    "home": {
+      "url": "https://intron.io/",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/intron_home.md",
+      "jsonPath": "evidence/phase4/intron_home.json"
+    },
+    "about": {
+      "url": "https://www.intron.io/about",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/intron_about.md",
+      "jsonPath": "evidence/phase4/intron_about.json"
+    },
+    "blog": {
+      "url": "https://www.intron.io/blog",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/intron_blog.md",
+      "jsonPath": "evidence/phase4/intron_blog.json"
+    }
+  },
+  "socialLinksFoundOnSite": {
+    "instagram": [
+      "https://www.instagram.com/intronhealth/",
+      "https://www.instagram.com/tobi1olatunji/"
+    ],
+    "linkedin": [
+      "https://www.linkedin.com/company/intron-inc/",
+      "https://www.linkedin.com/in/imaobong-ibanga-1ab056151/",
+      "https://www.linkedin.com/in/oluwaseun-okugboye-bello-cscp-30a332183/",
+      "https://www.linkedin.com/in/tracy-asor/",
+      "https://www.linkedin.com/in/peter-oluwaduyilemi-ademiju-72062890/",
+      "https://www.linkedin.com/in/tobi-olatunji-md/"
+    ],
+    "twitter": [
+      "https://x.com/IntronHealth",
+      "https://www.twitter.com/",
+      "https://www.twitter.com/tobiolatunji_"
+    ]
+  },
+  "instagramAudit": {
+    "status": "OK",
+    "url": "https://www.instagram.com/intronhealth/",
+    "screenshotPath": "screenshots/intron_instagram.png",
+    "mdText": "# Intron Voice AI (@intronhealth)\n\nThe infrastructure layer for voice interactions across Africa\n\n986 followers · 283 following\n\nLinks: https://www.zoom.us/webinar/register/WN_c-QKscVvRcyBPgn3-_nQIA\n\n## Recent posts\n\n- [4.5M+ audio clips. 30,000+ speakers. 64+ languages. 500+ accents. Data gave us the foundation, but building voice AI fo…](https://instagram.com/p/DdB71Mglzyx) · 2026-09-08 · 5 likes · 0 comments\n- [Running a business means keeping track of orders, quantities and prices all at once. When every detail lives in your he…](https://instagram.com/p/Dc-6NlDgtKh) · 2026-09-07 · 10 likes · 0 comments · 187 views\n- [Africa speaks in many languages, accents and expressions, and voice AI should be built to understand that naturally. At…](https://instagram.com/p/Dc3VX-dF0wS) · 2026-09-04 · 17 likes · 1 comments\n- [A patient describes their symptoms clearly, and every detail matters. In healthcare, voice AI needs to capture what pat…](https://instagram.com/p/Dcx1v65D97y) · 2026-09-02 · 8 likes · 0 comments · 175 views\n- [12 Bilingual Models; built for How Africa Actually Speaks. Africa speaks across languages every day, and those conversa…](https://instagram.com/p/Dcv1ROAFxEP) · 2026-09-01 · 4 likes · 0 comments\n- [Voice AI for African Language Mixing Is Here. Across Africa, conversations move naturally between languages, sometimes…](https://instagram.com/p/DctTZlzERxT) · 2026-08-31 · 9 likes · 0 comments\n- [A customer calls about a transfer that hasn’t reflected, and the conversation quickly becomes a record of what happened…](https://instagram.com/p/Dcsm57ekp-Q) · 2026-08-31 · 3 likes · 0 comments · 265 views\n- [For farmers, every question can affect the next decision. When it’s time to ask about crops, harvests, weather or farm…](https://instagram.com/p/DcoMy_WF69l) · 2026-08-29 · 7 likes · 0 comments\n- [Some conversations carry more weight than others. A medical consultation, a legal testimony, or a sensitive patient con…](https://instagram.com/p/DclxbYXlyks) · 2026-08-28 · 6 likes · 0 comments\n- [Speak naturally. Sahara understands. From sending money to everyday tasks, voice AI should understand the way Africans…](https://instagram.com/p/DclZc3NCAxy) · 2026-08-28 · 7 likes · 0 comments · 190 views\n- [Code-switching is part of everyday communication across Africa. A conversation can move from English to Swahili, Xhosa,…](https://instagram.com/p/Dck0-Tal5gh) · 2026-08-28 · 5 likes · 0 comments\n- [Build. Benchmark. Win. The Sahara CodeSwitch Africa Challenge is still open, giving developers, researchers, startups a…](https://instagram.com/p/Dci7LyvgZ3j) · 2026-08-27 · 7 likes · 0 comments\n",
+    "interactParsed": {
+      "title": "Intron Voice AI (@intronhealth) • Instagram photos and videos",
+      "url": "https://www.instagram.com/intronhealth/",
+      "bodyText": "Log In\nSign Up\nintronhealth\n986 followers\n283 following\nIntron Voice AI\nThe infrastructure layer for voice interactions across Africa\nzoom.us/webinar/register/WN_c-QKscVvRcyBPgn3-_nQIA and 2 more\nSahara-v2\nShow more posts from intronhealth\nMeta\nAbout\nBlog\nJobs\nHelp\nAPI\nPrivacy\nConsumer Health Privacy\nTerms\nLocations\nPopular\nInstagram Lite\nMeta AI\nMuse\nThreads\nContact Uploading & Non-Users\nMeta Verified\nEnglish\nAfrikaans\nالعربية\nČeština\nDansk\nDeutsch\nΕλληνικά\nEnglish\nEnglish (UK)\nEspañol (España)\nEspañol\nفارسی\nSuomi\nFrançais\nעברית\nBahasa Indonesia\nItaliano\n日本語\n한국어\nBahasa Melayu\nNorsk\nNederlands\nPolski\nPortuguês (Brasil)\nPortuguês (Portugal)\nРусский\nSvenska\nภาษาไทย\nFilipino\nTürkçe\n中文(简体)\n中文(台灣)\nবাংলা\nગુજરાતી\nहिन्दी\nHrvatski\nMagyar\nಕನ್ನಡ\nമലയാളം\nमराठी\nनेपाली\nਪੰਜਾਬੀ\nසිංහල\nSlovenčina\nதமிழ்\nతెలుగు\nاردو\nTiếng Việt\n中文(香港)\nБългарски\nFrançais (Canada)\nRomână\nСрпски\nУкраїнська\n© 2026 Instagram from Meta\nSee photos, videos and more from intronhealth\nSign up and never miss a post from intronhealth.\nSign up\nLog in",
+      "domData": {
+        "posts": [
+          {
+            "href": "/intronhealth/p/DdB71Mglzyx/",
+            "imgAlt": "Photo by Intron Voice AI on September 08, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/intronhealth/reel/Dc-6NlDgtKh/",
+            "imgAlt": "Video by Intron Voice AI on September 07, 2026. May be a cartoon of one or more people, poster and screen.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/intronhealth/p/Dc3VX-dF0wS/",
+            "imgAlt": "Photo by Intron Voice AI on September 04, 2026. May be a Twitter screenshot of poster and magazine.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/intronhealth/reel/Dcx1v65D97y/",
+            "imgAlt": "Video by Intron Voice AI on September 02, 2026. May be an image of buildings, outdoors and tower.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/intronhealth/p/Dcv1ROAFxEP/",
+            "imgAlt": "Photo by Intron Voice AI on September 01, 2026. May be an image of poster.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/intronhealth/p/DctTZlzERxT/",
+            "imgAlt": "Photo by Intron Voice AI on August 31, 2026. May be an image of microphone and poster.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/intronhealth/reel/Dcsm57ekp-Q/",
+            "imgAlt": "Video by Intron Voice AI on August 31, 2026. May be an image of outdoors, buildings and tower.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/intronhealth/p/DcoMy_WF69l/",
+            "imgAlt": "Photo by Intron Voice AI on August 29, 2026. May be an image of magazine, poster and plant.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/intronhealth/p/DclxbYXlyks/",
+            "imgAlt": "Photo by Intron Voice AI on August 28, 2026.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/intronhealth/reel/DclZc3NCAxy/",
+            "imgAlt": "Video by Intron Voice AI on August 28, 2026.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/intronhealth/p/Dck0-Tal5gh/",
+            "imgAlt": "Photo by Intron Voice AI on August 28, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/intronhealth/p/Dci7LyvgZ3j/",
+            "imgAlt": "Photo by Intron Voice AI on August 27, 2026.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          }
+        ],
+        "extLinks": [],
+        "loginWall": false
+      }
+    },
+    "allIgLinksFound": [
+      "https://www.instagram.com/intronhealth/",
+      "https://www.instagram.com/tobi1olatunji/"
+    ]
+  },
+  "evidencePaths": [
+    "evidence/phase2/intron_3c3eae2a41.md",
+    "evidence/phase2/google_lab_au_e0217b3baa.md",
+    "evidence/phase2/intron_site_ff07001d4b.md",
+    "evidence/phase4/intron_home.json",
+    "evidence/phase4/intron_home.md",
+    "evidence/phase4/intron_about.json",
+    "evidence/phase4/intron_about.md",
+    "evidence/phase4/intron_blog.json",
+    "evidence/phase4/intron_blog.md",
+    "evidence/phase4/intron_ig_scrape.json",
+    "evidence/phase4/intron_ig_scrape.md",
+    "evidence/phase4/intron_ig_interact.json",
+    "evidence/phase4/intron_ig_stop.json"
+  ]
+}

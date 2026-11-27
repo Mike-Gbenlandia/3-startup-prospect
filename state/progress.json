@@ -8,9 +8,9 @@
     },
     "audit": {
       "DROPPED": 270,
-      "DONE": 30,
+      "DONE": 35,
       "BLOCKED": 1,
-      "PENDING": 91
+      "PENDING": 86
     },
     "total_candidates": 392
   },
@@ -19,6 +19,6 @@
     "step": null,
     "open_session_ids": []
   },
-  "next_action": "Audit next batch: lenol, vibe-jungle, storipod, intron, vendy",
-  "last_updated": "2026-11-27T13:41:00.600Z"
+  "next_action": "Audit Batch 7: sparklean-station-nigeria, parakletus-hub-nigeria, biuda, backel, upsmart-energies",
+  "last_updated": "2026-11-27T14:24:33.067Z"
 }

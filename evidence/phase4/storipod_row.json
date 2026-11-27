@@ -1,0 +1,68 @@
+{
+  "slug": "storipod",
+  "name": "Storipod",
+  "website": "https://storipod.com/",
+  "industry": "Creator Economy / Digital Publishing & Entertainment",
+  "city": "Lagos",
+  "what_they_do": "Lagos-based mobile-first storytelling and IP distribution platform (founded by James Nelson) enabling African writers, publishers, and studios to publish, voice-narrate, and monetise books, episodic stories, comics, and pay-as-you-go movies.",
+  "recent_activity": "2026-11-22: Published 'Chude Jideonwo Is Betting on Storipod: From 200,000 Users to 2 Million' announcing movies expansion and FourthMainland investment (https://blog.storipod.com/chude-jideonwo-is-betting-on-storipod-from-200000-users-to-2-million); 2026-11-16: Announced investment from Chude Jideonwo's The FourthMainland Fund with Jideonwo joining as Board Chair (https://www.startuplist.africa/funding/storipod-undisclosed-investment-undisclosed-022fe5d); 2026-09-24: Partnered with PlotWeaver to bring African stories into local languages (https://blog.storipod.com/how-storipod-and-plotweaver-are-taking-african-stories-deeper-into-local-audiences)",
+  "tier": "C",
+  "round_type": "Early undisclosed investment",
+  "amount": "Not disclosed",
+  "funding_date": "2026-11-16",
+  "investors": "The FourthMainland Fund (Chude Jideonwo)",
+  "funding_sources": "https://www.startuplist.africa/funding/storipod-undisclosed-investment-undisclosed-022fe5d | https://fourthmainland.com/updates/",
+  "funding_confidence": "CONFIRMED_2_SOURCES",
+  "founder_or_marketing_contact": "James Nelson (Co-founder) | Chude Jideonwo (Board Chair, Investor)",
+  "instagram_url": "https://www.instagram.com/storipodapp/",
+  "ig_status": "OK",
+  "ig_followers": "5,300",
+  "ig_post_1": {
+    "raw_timestamp_text": "2026-11-27",
+    "absolute_date": "2026-11-27",
+    "type": "Reel",
+    "url": "https://instagram.com/p/DgPvSvPDpw5"
+  },
+  "ig_post_2": {
+    "raw_timestamp_text": "2026-11-27",
+    "absolute_date": "2026-11-27",
+    "type": "Reel",
+    "url": "https://instagram.com/p/DgPoXycluz5"
+  },
+  "ig_post_3": {
+    "raw_timestamp_text": "2026-11-27",
+    "absolute_date": "2026-11-27",
+    "type": "Reel",
+    "url": "https://instagram.com/p/DgPapC-ET2g"
+  },
+  "ig_post_4": {
+    "raw_timestamp_text": "2026-11-27",
+    "absolute_date": "2026-11-27",
+    "type": "Carousel",
+    "url": "https://instagram.com/p/DgPF_D7v23A"
+  },
+  "ig_post_5": {
+    "raw_timestamp_text": "2026-11-26",
+    "absolute_date": "2026-11-26",
+    "type": "Reel",
+    "url": "https://instagram.com/p/DgOBWBjFAxS"
+  },
+  "ig_days_since_latest": 0,
+  "ig_median_gap_days": 0,
+  "ig_screenshot_path": "screenshots/storipod_instagram.png",
+  "blog_url": "https://blog.storipod.com/",
+  "blog_last_post_date": "2026-11-22",
+  "blog_posts_last_90_days": 4,
+  "marketing_titles_found": "NONE (no public team directory or marketing/growth/content titles listed on storipod.com or blog.storipod.com)",
+  "hiring_marketing_role": "NO (no careers or open roles page linked on site)",
+  "need_score": 2,
+  "score_flags": "NO_MARKETING_TITLE_ON_TEAM (+2)",
+  "qualified": false,
+  "signal_categories": [
+    "team"
+  ],
+  "unique_offer": "Mobile-first African storytelling and IP monetisation infrastructure spanning ebooks, comics, AI voice narration, Loop vertical stories, and pay-as-you-go movies with 70-80% creator payouts.",
+  "closest_overlap": "TBD_PHASE_5",
+  "pitch_hook": "Not qualified (need_score 2): Storipod posts multiple times daily on Instagram (5,300 followers, latest 2026-11-27) and published 4 blog posts in the last 90 days (latest 2026-11-22), though no public marketing lead is listed on its site.",
+  "evidence_paths": "evidence/phase2/storipod_condia.md | evidence/phase4/storipod_home.md | evidence/phase4/storipod_blog.md | evidence/phase4/storipod_blog_latest.md | evidence/phase4/storipod_ig_scrape.md | evidence/phase4/storipod_ig_interact.json | screenshots/storipod_instagram.png"
+}

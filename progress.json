@@ -8,9 +8,9 @@
     },
     "audit": {
       "DROPPED": 270,
-      "DONE": 25,
+      "DONE": 35,
       "BLOCKED": 1,
-      "PENDING": 96
+      "PENDING": 86
     },
     "total_candidates": 392
   },
@@ -19,6 +19,6 @@
     "step": null,
     "open_session_ids": []
   },
-  "next_action": "Audit savvybee, vantrace, 360gadgetsafrica, godash, brimble.",
-  "last_updated": "2026-11-27T13:33:41.459Z"
+  "next_action": "Audit Batch 7: sparklean-station-nigeria, parakletus-hub-nigeria, biuda, backel, upsmart-energies",
+  "last_updated": "2026-11-27T14:24:33.067Z"
 }

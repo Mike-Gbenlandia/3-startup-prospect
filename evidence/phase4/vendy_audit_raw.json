@@ -1,0 +1,114 @@
+{
+  "retrievalDate": "2026-11-27",
+  "slug": "vendy",
+  "poolEntry": {
+    "name": "Vendy",
+    "website": "https://vendy.ng/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Accelerator / AI Lab Cohort (Google Africa Applied AI Lab, managed by Google AI Futures Fund)",
+    "amount": "Undisclosed (AI Futures Fund & VC partner cohort access)",
+    "announced_date": "2026-11-11",
+    "investors": "Google AI Futures Fund / Google Research Africa (VC partners: 4DX Ventures, Norrsken22, Novastar Ventures, Ventures Platform)",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://blog.google/intl/en-africa/company-news/outreach-and-initiatives/applied-ai-lab-cohort-2026/",
+      "https://au-startups.com/news/google-africa-applied-ai-lab-nigerian-startups"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/intron_3c3eae2a41.md",
+      "evidence/phase2/google_lab_au_e0217b3baa.md",
+      "evidence/phase2/q_vendy_funding.json"
+    ],
+    "notes": "vendy.ng currently displays Kleevar escrow marketplace branding.",
+    "batch_number": 3
+  },
+  "resolvedWebsite": "https://vendy.ng/",
+  "searchCandidates": [],
+  "scrapedPages": {
+    "home": {
+      "url": "https://vendy.ng/",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/vendy_home.md",
+      "jsonPath": "evidence/phase4/vendy_home.json"
+    }
+  },
+  "socialLinksFoundOnSite": {
+    "instagram": [
+      "https://www.instagram.com/thepurplepay/"
+    ],
+    "linkedin": [
+      "https://www.linkedin.com/company/purple-finance-limited-purplepay/?viewAsMember=true"
+    ],
+    "twitter": [
+      "https://x.com/purple_pay?s=21"
+    ]
+  },
+  "instagramAudit": {
+    "status": "OK",
+    "url": "https://www.instagram.com/thepurplepay/",
+    "screenshotPath": "screenshots/vendy_instagram.png",
+    "mdText": "# Purple Finance Limited (@thepurplepay)\n\n11 followers · 12 following\n\n## Recent posts\n\n- [💡 Building trust, one transaction at a time. At PurplePay, we believe digital payments should feel as safe and seamles…](https://instagram.com/p/DPaJWeLCH1w) · 2025-10-05 · 6 likes · 0 comments\n- [💜 At PurplePay, trust is more than a word, it’s our promise. With every transaction, we ensure your money is safe unti…](https://instagram.com/p/DNaV13cMSnP) · 2025-08-16 · 4 likes · 0 comments\n- [💬 What is Escrow—and Why Should You Care? At Purple Pay, escrow means your payment is safely held until the product or…](https://instagram.com/p/DNB9-JBIPg0) · 2025-08-06 · 5 likes · 0 comments\n- [🔐 Welcome to Purple Pay! We’re here to change the way you pay online—with trust, simplicity, and security. No more fea…](https://instagram.com/p/DM5Vp3hIQD3) · 2025-08-03 · 7 likes · 1 comments\n",
+    "interactParsed": {
+      "title": "Purple Finance Limited (@thepurplepay) • Instagram photos and videos",
+      "url": "https://www.instagram.com/thepurplepay/",
+      "bodyText": "Log In\nSign Up\nthepurplepay\n11 followers\n12 following\nPurple Finance Limited\nthepurplepay\nShow more posts from thepurplepay\nMeta\nAbout\nBlog\nJobs\nHelp\nAPI\nPrivacy\nConsumer Health Privacy\nTerms\nLocations\nPopular\nInstagram Lite\nMeta AI\nMuse\nThreads\nContact Uploading & Non-Users\nMeta Verified\nEnglish\nAfrikaans\nالعربية\nČeština\nDansk\nDeutsch\nΕλληνικά\nEnglish\nEnglish (UK)\nEspañol (España)\nEspañol\nفارسی\nSuomi\nFrançais\nעברית\nBahasa Indonesia\nItaliano\n日本語\n한국어\nBahasa Melayu\nNorsk\nNederlands\nPolski\nPortuguês (Brasil)\nPortuguês (Portugal)\nРусский\nSvenska\nภาษาไทย\nFilipino\nTürkçe\n中文(简体)\n中文(台灣)\nবাংলা\nગુજરાતી\nहिन्दी\nHrvatski\nMagyar\nಕನ್ನಡ\nമലയാളം\nमराठी\nनेपाली\nਪੰਜਾਬੀ\nසිංහල\nSlovenčina\nதமிழ்\nతెలుగు\nاردو\nTiếng Việt\n中文(香港)\nБългарски\nFrançais (Canada)\nRomână\nСрпски\nУкраїнська\n© 2026 Instagram from Meta\nSee photos, videos and more from thepurplepay\nSign up and never miss a post from thepurplepay.\nSign up\nLog in",
+      "domData": {
+        "posts": [
+          {
+            "href": "/thepurplepay/p/DPaJWeLCH1w/",
+            "imgAlt": "Photo by Purple Finance Limited on October 04, 2025.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/thepurplepay/p/DNaV13cMSnP/",
+            "imgAlt": "Photo by Purple Finance Limited on August 16, 2025.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/thepurplepay/p/DNB9-JBIPg0/",
+            "imgAlt": "Photo by Purple Finance Limited on August 06, 2025.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/thepurplepay/p/DM5Vp3hIQD3/",
+            "imgAlt": "Photo by Purple Finance Limited on August 03, 2025.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          }
+        ],
+        "extLinks": [
+          "https://www.threads.com/@thepurplepay?xmt=AQG0AfmtTfUP2Kjay7pKm3dsHsKmPZdgcMYK_YU80nl8dws"
+        ],
+        "loginWall": false
+      }
+    },
+    "allIgLinksFound": [
+      "https://www.instagram.com/thepurplepay/"
+    ]
+  },
+  "evidencePaths": [
+    "evidence/phase2/intron_3c3eae2a41.md",
+    "evidence/phase2/google_lab_au_e0217b3baa.md",
+    "evidence/phase2/q_vendy_funding.json",
+    "evidence/phase4/vendy_home.json",
+    "evidence/phase4/vendy_home.md",
+    "evidence/phase4/vendy_ig_scrape.json",
+    "evidence/phase4/vendy_ig_scrape.md",
+    "evidence/phase4/vendy_ig_interact.json",
+    "evidence/phase4/vendy_ig_stop.json"
+  ]
+}

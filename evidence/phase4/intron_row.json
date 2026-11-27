@@ -1,0 +1,69 @@
+{
+  "slug": "intron",
+  "name": "Intron",
+  "website": "https://intron.io/",
+  "industry": "AI / Speech Recognition & Enterprise Voice Infrastructure",
+  "city": "Lagos",
+  "what_they_do": "Nigerian speech AI startup (Intron Health / Intron Voice AI, founded by Tobi Olatunji and Olakunle Asekun) building Sahara v2.5 speech-to-text, text-to-speech, and voice bot APIs across 63 African languages, 500+ accents, and code-switched speech for healthcare, fintech, legal, and agriculture.",
+  "recent_activity": "2026-11-18: Announced 17 winners of the Sahara CodeSwitch Africa Challenge across 17 countries (https://www.intron.io/sahara-codeswitch-africa-challenge-winners/); 2026-11-11: Selected for inaugural Google Africa Applied AI Lab cohort managed by Google AI Futures Fund (https://blog.google/intl/en-africa/company-news/outreach-and-initiatives/applied-ai-lab-cohort-2026/); 2026-10-22: Opened Lagos Business Development Manager role on careers page (https://www.intron.io/about/#jobs)",
+  "tier": "C",
+  "round_type": "Accelerator / AI Lab Cohort (Google Africa Applied AI Lab, managed by Google AI Futures Fund)",
+  "amount": "Undisclosed (AI Futures Fund & VC partner cohort access)",
+  "funding_date": "2026-11-11",
+  "investors": "Google AI Futures Fund / Google Research Africa (VC partners: 4DX Ventures, Norrsken22, Novastar Ventures, Ventures Platform)",
+  "funding_sources": "https://blog.google/intl/en-africa/company-news/outreach-and-initiatives/applied-ai-lab-cohort-2026/ | https://au-startups.com/news/google-africa-applied-ai-lab-nigerian-startups",
+  "funding_confidence": "CONFIRMED_2_SOURCES",
+  "founder_or_marketing_contact": "Tobi Olatunji (Founder & CEO) | Imaobong Ibanga (Sales & Partnership Lead, Abuja) | Tracy Asor (Country Lead, Sales Nigeria)",
+  "instagram_url": "https://www.instagram.com/intronhealth/",
+  "ig_status": "OK",
+  "ig_followers": "986",
+  "ig_post_1": {
+    "raw_timestamp_text": "2026-09-08",
+    "absolute_date": "2026-09-08",
+    "type": "Carousel",
+    "url": "https://instagram.com/p/DdB71Mglzyx"
+  },
+  "ig_post_2": {
+    "raw_timestamp_text": "2026-09-07",
+    "absolute_date": "2026-09-07",
+    "type": "Reel",
+    "url": "https://instagram.com/p/Dc-6NlDgtKh"
+  },
+  "ig_post_3": {
+    "raw_timestamp_text": "2026-09-04",
+    "absolute_date": "2026-09-04",
+    "type": "Photo",
+    "url": "https://instagram.com/p/Dc3VX-dF0wS"
+  },
+  "ig_post_4": {
+    "raw_timestamp_text": "2026-09-02",
+    "absolute_date": "2026-09-02",
+    "type": "Reel",
+    "url": "https://instagram.com/p/Dcx1v65D97y"
+  },
+  "ig_post_5": {
+    "raw_timestamp_text": "2026-09-01",
+    "absolute_date": "2026-09-01",
+    "type": "Photo",
+    "url": "https://instagram.com/p/Dcv1ROAFxEP"
+  },
+  "ig_days_since_latest": 80,
+  "ig_median_gap_days": 1.5,
+  "ig_screenshot_path": "screenshots/intron_instagram.png",
+  "blog_url": "https://www.intron.io/blog/",
+  "blog_last_post_date": "2026-11-18",
+  "blog_posts_last_90_days": 1,
+  "marketing_titles_found": "NONE (/about lists Founder/CEO, Operations Director, Implementation Lead, Sales & Partnership Lead, and Country Lead Sales Nigeria; no marketing/growth/content titles)",
+  "hiring_marketing_role": "NO (/about/#jobs lists 10 sales, product, engineering, and data operations roles; no marketing or growth roles)",
+  "need_score": 4,
+  "score_flags": "IG_STALE_30D (+2) | NO_MARKETING_TITLE_ON_TEAM (+2)",
+  "qualified": true,
+  "signal_categories": [
+    "Instagram",
+    "team"
+  ],
+  "unique_offer": "African speech recognition and TTS infrastructure (Sahara v2.5) supporting 63 languages, 500+ accents, and 12 bilingual code-switching models across clinical, fintech, judicial, and offline deployments.",
+  "closest_overlap": "TBD_PHASE_5",
+  "pitch_hook": "Intron joined Google's Africa Applied AI Lab and wrapped its Sahara CodeSwitch Challenge, but its @intronhealth Instagram (986 followers) went silent 80 days ago (since 2026-09-08) and its public leadership team has sales leads with no dedicated marketing or growth lead.",
+  "evidence_paths": "evidence/phase2/intron_3c3eae2a41.md | evidence/phase2/google_lab_au_e0217b3baa.md | evidence/phase4/intron_home.md | evidence/phase4/intron_about.md | evidence/phase4/intron_blog.md | evidence/phase4/intron_ig_scrape.md | evidence/phase4/intron_ig_interact.json | screenshots/intron_instagram.png"
+}

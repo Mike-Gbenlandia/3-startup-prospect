@@ -1,0 +1,25 @@
+# Storipod (@storipodapp)
+
+Earn from storytelling💸
+Set A Price For Your Creativity
+#YourStories, #YourPrice
+Instant Payouts Now on Storipod!
+
+5,300 followers · 18 following
+
+Links: https://www.storipod.app/store
+
+## Recent posts
+
+- [BIG NEWS 🚀 Chude Jideonwo is backing Storipod. His FourthMainland Fund is investing in Storipod and he joins us as Boa…](https://instagram.com/p/Df6tYrmjO4W) · 2026-11-19 · 15 likes · 0 comments
+- [It’s time to create value with your work! Download storipod today and start writing. #Storipod #Writers](https://instagram.com/p/DJ4QNw0MlfS) · 2025-05-20 · 157 likes · 12 comments · 3,471 views
+- [Your favourite African books are now on Storipod. Start reading on your phone anytime, anywhere. Storipod partners with…](https://instagram.com/p/DXFFkGWDHe0) · 2026-04-13 · 248 likes · 15 comments
+- [She planned the girls' trip and paid nothing ✈️ Fair or cheeky? Here's her side of the stori. My Side of the Stori · Ep…](https://instagram.com/p/DgPvSvPDpw5) · 2026-11-27 · 0 likes · 0 comments · 1 views
+- [POV: you planned a comics weekend 💥 Friday: just one panel. Sunday: who even am I 😭 Which comic are you bingeing? 👇…](https://instagram.com/p/DgPoXycluz5) · 2026-11-27 · 0 likes · 0 comments · 46 views
+- [Hot take incoming 🌶️🚆 "Free stories don train readers never to pay." Unpopular Opinion: Lagos Rail · Ep 26 · Free sto…](https://instagram.com/p/DgPapC-ET2g) · 2026-11-27 · 0 likes · 0 comments · 20 views
+- [Writing Tips ✍🏾 How to turn gist into a stori. 01 Change the names 02 Start in the middle 03 Give it a reason Save thi…](https://instagram.com/p/DgPF_D7v23A) · 2026-11-27 · 0 likes · 0 comments
+- [Jakuzi · An African Founder's Diary 📓 Day 26 · Fifteen developers A product is not built by one hero. It is built by e…](https://instagram.com/p/DgOBWBjFAxS) · 2026-11-26 · 1 likes · 0 comments · 18 views
+- [Richest Babe lesson 25: Withdraw like a boss 💅💸 Richest Babe on Storipod · Ep 25 · Withdraw like a boss Your wallet,…](https://instagram.com/p/DgNzsygiR1l) · 2026-11-26 · 0 likes · 0 comments · 5 views
+- [Danfo Diaries · Ep 39 · Spoiler Alert Arc: Book Club on Wheels 🚌📚 Who spoiled the ending? 😤 New episode every day at…](https://instagram.com/p/DgNsvBCguo_) · 2026-11-26 · 4 likes · 0 comments · 187 views
+- [Tuwo shinkafa and miyan kuka, and the stori behind it 🍲💔 Kitchen Stori · Ep 25 · Kind Neighbour The neighbour who hid…](https://instagram.com/p/DgNYOhqggdR) · 2026-11-26 · 0 likes · 0 comments · 20 views
+- [He stopped contributing for office birthdays 🎂 Stingy, or tired? Here's his side of the stori. My Side of the Stori ·…](https://instagram.com/p/DgNKbVqjnn2) · 2026-11-26 · 0 likes · 0 comments · 124 views

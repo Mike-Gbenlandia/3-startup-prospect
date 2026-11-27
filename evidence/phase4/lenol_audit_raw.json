@@ -1,0 +1,66 @@
+{
+  "retrievalDate": "2026-11-27",
+  "slug": "lenol",
+  "poolEntry": {
+    "name": "Lenol",
+    "website": "https://lenol.co/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "iDICE Startup Bridge Growth Lab Equity",
+    "amount": "$100K",
+    "announced_date": "2026-11-19",
+    "investors": "Bank of Industry (BOI) / iDICE Startup Bridge (AfDB, AFD, IsDB)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/lenol-equity-investment-100k-usd-21e9d21",
+      "https://weetracker.com/2026/11/23/8-nigerian-startups-get-800000-idice-growth-lab/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/lenol_810f52a23c.md",
+      "evidence/phase1/hy_weetracker_idice_8.md",
+      "evidence/phase2/web_b3_cascador.json"
+    ],
+    "batch_number": 2
+  },
+  "resolvedWebsite": "https://lenol.co/",
+  "searchCandidates": [],
+  "scrapedPages": {
+    "home": {
+      "url": "https://lenol.co/",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/lenol_home.md",
+      "jsonPath": "evidence/phase4/lenol_home.json"
+    },
+    "blog": {
+      "url": "https://lenol.co/blog",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/lenol_blog.md",
+      "jsonPath": "evidence/phase4/lenol_blog.json"
+    }
+  },
+  "socialLinksFoundOnSite": {
+    "instagram": [],
+    "linkedin": [
+      "https://ng.linkedin.com/company/lenol-spark"
+    ],
+    "twitter": [
+      "https://twitter.com/lenol_africa"
+    ]
+  },
+  "instagramAudit": {
+    "status": "NO_IG_FOUND",
+    "url": "NOT_FOUND"
+  },
+  "evidencePaths": [
+    "evidence/phase2/lenol_810f52a23c.md",
+    "evidence/phase1/hy_weetracker_idice_8.md",
+    "evidence/phase2/web_b3_cascador.json",
+    "evidence/phase4/lenol_home.json",
+    "evidence/phase4/lenol_home.md",
+    "evidence/phase4/lenol_blog.json",
+    "evidence/phase4/lenol_blog.md"
+  ]
+}
