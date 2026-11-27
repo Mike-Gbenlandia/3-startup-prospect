@@ -1,0 +1,70 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.instagram.com/p/DXJdgUiCAeh/",
+        "title": "We are in the News! Our Managing Director, Gregory Ibe Jr, discussed ...",
+        "description": "Leaflet (South-East): Agricultural technology • Lenol (South-South): Mobility • 360gadgetsafrica (North-Central): E-commerce • SavvyBee (South- ...",
+        "position": 1
+      },
+      {
+        "url": "https://app.dealroom.co/news/note/nigeria-backs-eight-startups-with-100k-each-in-idice-equity-push",
+        "title": "Nigeria backs eight startups with $100K each in iDICE equity push",
+        "description": "New\n\nShare",
+        "position": 2
+      },
+      {
+        "url": "https://www.linkedin.com/posts/thenextafrica_africanstartups-nigeria-entrepreneurship-activity-7529483718470791168-sM0m",
+        "title": "Next Africa Magazine's Post",
+        "description": "... Leaflet (agritech), Lenol (mobility), 360gadgetsafrica (ecommerce) and Savvy Bee LTD (fintech). Growth Lab is the second arm of the iDICE ...",
+        "position": 3
+      },
+      {
+        "url": "https://allafrica.com/stories/202611200061.html",
+        "title": "Nigeria: IDICE - FG Supports Eight Startups With N1bn Equity Funding",
+        "description": "Others are Leaflet, an agritech startup from the South-East; Lenol, a mobility business from the South-South; 360gadgetsafrica, an e ...",
+        "position": 4
+      },
+      {
+        "url": "https://www.useklari.com/index/agritech-funding-rounds-in-2026",
+        "title": "Agritech Funding Rounds in Africa (2026) | Klari Index",
+        "description": "Country Contribution ; LeafletAgritech • Nigeria, 2026-11-20, Undisclosed, $100K · iDICE Growth Lab ; Backel FoodFoodtech • Nigeria, 2026-11-10, Undisclosed, $4K ...",
+        "position": 5
+      },
+      {
+        "url": "https://www.facebook.com/McPharins/posts/dear-farmers-investors-and-stakeholders-be-at-the-1-week-agrowatch-international/370403140125377/?locale=zh_CN",
+        "title": "McPharins Nigeria Limited",
+        "description": "... LEAFLET AND OFFICIAL LETTER. BE THERE. 没有照片描述 ... Agritech Services, Dr. Segun Makanjuola, said the Aviana Nigeria ...",
+        "position": 6
+      },
+      {
+        "url": "https://agritechobservatory.review.fao.org/en/hosiltj",
+        "title": "Hosil.tj",
+        "description": "Leaflet | © UN. Agricultural store and delivery service of agri-inputs for ... Farmers can place orders through the call centre or through such instant messaging ...",
+        "position": 7
+      },
+      {
+        "url": "https://startempirewire.com/places/wakini-agritech/",
+        "title": "Wakíní Agritech - Startempire Wire",
+        "description": "Named after the Yoruba word for \"growth,\" Wakíní serves over 12,000 farmers in Nigeria, Ghana, and Senegal. ... Leaflet | © OSM © CARTO. Recent Jobs. No job ...",
+        "position": 8
+      },
+      {
+        "url": "https://www.linkedin.com/posts/ajala-nmesomachi-3b8999237_uxdesign-uidesign-productdesign-activity-7382076413698547712-1d7n",
+        "title": "A Smart Plant Care App | Ajala Nmesomachi posted on the topic",
+        "description": "... Leaflet! This app allows real-time tracking of vehicles on an interactive map, making fleet management smarter and more intuitive. Map integration ...",
+        "position": 9
+      },
+      {
+        "url": "https://www.linkedin.com/posts/ajala-nmesomachi-3b8999237_uxdesign-uidesign-productdesign-activity-7382076413698547712-1d7n",
+        "title": "A Smart Plant Care App | Ajala Nmesomachi posted on the topic",
+        "description": "... Leaflet! This app allows real-time tracking of vehicles on an interactive map, making fleet management smarter and more intuitive. Map integration ...",
+        "position": 10
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a21d2c-6e97-75d9-b751-52658fdbd9e3"
+}

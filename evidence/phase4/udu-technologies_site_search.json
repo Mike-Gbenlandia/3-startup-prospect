@@ -1,0 +1,39 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://aihubfordevelopment.org/innovators/alex-tsado",
+        "title": "Our Innovators | Alex Tsado",
+        "description": "Udu Technologies. \"With our platform live and supporting incredible companies already, UduTech ... Founded by Alexander Tsado, a former NVIDIA PM who helped ...",
+        "position": 1
+      },
+      {
+        "url": "https://shattered.io/alexander-tsado-udu-technologies-nvidia-gpu-cloud-six-african-countries-2026/",
+        "title": "Ex-Nvidia Tsado Takes GPU Cloud to 6 African Nations [2026]",
+        "description": "# Ex-Nvidia Tsado Takes GPU Cloud to 6 African Nations [2026]\n## Confirmed vs Unconfirmed: A Fact Check of the Tsado Story\n| Claim | Status | Basis |\n|-|-|-|\n| Tsado is founder and CEO of Udu Technologies (UduTech) | Reported | Business Insider Africa |",
+        "position": 2
+      },
+      {
+        "url": "https://x.com/xelatsads",
+        "title": "Alexander Tsado (@xelatsads) / X",
+        "description": "Alexander Tsado · @xelatsads · Oct 21. What if a mother in rural Nigeria could access vital health advice in Hausa, offline? UduTech is helping make it possible ...",
+        "position": 3
+      },
+      {
+        "url": "https://www.facebook.com/TechCabal/videos/when-alex-tsado-ceo-and-founder-of-udu-technologies-attended-moonshot-2025-as-a/2178581186374037/",
+        "title": "When Alex Tsado, CEO and Founder of Udu Technologies, attended ...",
+        "position": 4
+      },
+      {
+        "url": "https://blog.afriqiq.com/africas-gpu-gap-what-udu-technologies-is-doing-that-nobody-else-would/",
+        "title": "Africa's GPU Gap: What Udu Technologies Is Doing That Nobody ...",
+        "description": "This article is drawn from an in-depth founder interview conducted by Afriq IQ with Alexander Tsado, the founder and CEO of Udu Technologies.",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a21d27-867b-770c-9c5a-d36b45aa8b2f"
+}

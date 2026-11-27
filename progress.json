@@ -8,9 +8,9 @@
     },
     "audit": {
       "DROPPED": 270,
-      "PENDING": 106,
+      "DONE": 20,
       "BLOCKED": 1,
-      "DONE": 15
+      "PENDING": 101
     },
     "total_candidates": 392
   },
@@ -19,6 +19,6 @@
     "step": null,
     "open_session_ids": []
   },
-  "next_action": "Audit terra-industries and udu-technologies, then Tier C/D batches.",
-  "last_updated": "2026-11-27T13:16:32.776Z"
+  "next_action": "Audit glorious-farmgate and continue Tier C batch",
+  "last_updated": "2026-11-27T13:25:05.950Z"
 }

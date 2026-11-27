@@ -1,0 +1,69 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.instagram.com/p/DgM2K64ROP0/",
+        "title": "Nigeria's government has picked eight startups for up to ...",
+        "description": "Nigeria's government has picked eight startups for up to $100,000 each in equity through the iDICE Growth Lab. It's public money acting like ...",
+        "position": 1
+      },
+      {
+        "url": "https://www.instagram.com/reel/DW9iOlajM_3/",
+        "title": "Is your startup ready for its next big break? The Federal Ministry of Art, ...",
+        "position": 2
+      },
+      {
+        "url": "https://guardian.ng/news/fg-launches-idice-growth-lab-backs-eight-start-ups-with-n1b/",
+        "title": "FG launches iDICE growth lab, backs eight start-ups with N1b",
+        "description": "## Get the morning briefing\nFederal Government has officially launched the Growth Lab programme, under the [iDICE Startup Bridge initiative,](https://guardian.ng/business-services/fg-backed-idice-targets-early-stage-startups-with-350000/) backing eight Nigerian startups into a structured growth journey designed to strengthen their businesses, deepen their investment readiness, and position them for their next phase of growth with equity investment.\n\nThe selected start-ups for this cohort of the growth lab are GoDash (Last-mile Logistics, North-West), Telios (Energy, South-East), Vantrace (Regtech, South-West), KrosAI (AI, South-South), Leaflet (Agritech, South-East), Lenol (Mobility, South-South), 360gadgetsafrica (Ecommerce, North-Central), and SavvyBee (Fintech, South-West).\n\nGrowth Lab is the Federal Government’s commitment to backing that discipline with real capital and real support.",
+        "position": 3
+      },
+      {
+        "url": "https://allafrica.com/stories/202611200061.html",
+        "title": "Nigeria: IDICE - FG Supports Eight Startups With N1bn Equity Funding",
+        "description": "... Growth Lab programme, offering each $100000 (about N134m) in equity funding ... Others are Leaflet, an agritech startup from the South-East; Lenol ...",
+        "position": 4
+      },
+      {
+        "url": "https://techmoonshot.com/2026/11/27/idice-growth-lab-backs-eight-startups-with-100000-each/",
+        "title": "iDICE Growth Lab Backs Eight Startups With $100000 Each",
+        "description": "iDICE Startup Bridge Growth Lab ... Leaflet (agritech), Lenol (mobility), 360gadgetsafrica (e-commerce) and ...",
+        "position": 5
+      },
+      {
+        "url": "https://charge.africa/idice-growth-lab-startups/",
+        "title": "iDICE Growth Lab: 8 startups get $100,000 each in equity",
+        "description": "They make up the first iDICE Growth Lab cohort, part of the iDICE ... Leaflet: agritech, South-East. Lenol: mobility, South-South ...",
+        "position": 6
+      },
+      {
+        "url": "https://www.instagram.com/p/DgE_scBHHz7/",
+        "title": "The Federal Government has selected eight Nigerian startups for its ...",
+        "description": "... (iDICE) Growth Lab, with each company eligible to receive approximately $100000 (about ₦107 million) ... Leaflet (South-East): Agricultural ...",
+        "position": 7
+      },
+      {
+        "url": "https://ezisimediaconsult.com/2026/11/19/eight-nigerian-startups-idice-growth-lab-equity/",
+        "title": "Eight Nigerian Startups Enter iDICE Growth Lab ... - ezisimediaconsult",
+        "description": "Eight Nigerian Startups Enter iDICE Growth Lab With Up to $100,000 Each in Equity ... Leaflet in agritech, Lenol in mobility ...",
+        "position": 8
+      },
+      {
+        "url": "https://agritechobservatory.review.fao.org/en/agroistok",
+        "title": "Agroistok",
+        "description": "Agroistok is a system of agrometeorological stations in the East and South-East Planning Regions (i.e. administrative units) of North Macedonia that ...",
+        "position": 9
+      },
+      {
+        "url": "https://impact.dealroom.co/companies/beanstalk_agtech",
+        "title": "Beanstalk AgTech company information, funding & investors",
+        "description": "Monsoon Ventures launches in Singapore with $900,000 to back South-east Asia agritech startups ... Leaflet | © OpenStreetMap contributors © CARTO. Dealroom ...",
+        "position": 10
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a21d2b-aedb-7445-b3a2-18cd794368c1"
+}

@@ -1,8 +1,8 @@
 slug,name,tier,funding_status,audit_status,updated_at
 axmed,Axmed,DROP,REJECTED,DROPPED,2026-11-27T08:35:00Z
-telios,Telios,C,VERIFIED,PENDING,2026-11-27T08:38:26.522Z
-leaflet,Leaflet,C,VERIFIED,PENDING,2026-11-27T08:38:26.523Z
-kadosh-mechatronics,Kadosh Mechatronics,C,VERIFIED,PENDING,2026-11-27T08:35:00Z
+telios,Telios,C,VERIFIED,DONE,2026-11-27T13:19:58.639Z
+leaflet,Leaflet,C,VERIFIED,DONE,2026-11-27T13:24:18.753Z
+kadosh-mechatronics,Kadosh Mechatronics,C,VERIFIED,DONE,2026-11-27T13:25:05.942Z
 friendnpal,FriendnPal,C,VERIFIED,BLOCKED,2026-11-27T08:46:33.867Z
 glorious-farmgate,Glorious Farmgate,C,VERIFIED,PENDING,2026-11-27T08:35:00Z
 fuse-varsity,Fuse Varsity,C,VERIFIED,PENDING,2026-11-27T08:35:00Z
@@ -106,7 +106,7 @@ thrive-agric,Thrive Agric,DROP,REJECTED,DROPPED,2026-11-27T08:38:26.532Z
 pricepally,PricePally,C,VERIFIED,PENDING,2026-11-27T08:35:00Z
 zummey-technologies,Zummey Technologies,C,VERIFIED,PENDING,2026-11-27T08:35:00Z
 safebox-energy,Safebox Energy,C,VERIFIED,PENDING,2026-11-27T08:35:00Z
-terra-industries,Terra Industries,B,VERIFIED,PENDING,2026-11-27T08:35:00Z
+terra-industries,Terra Industries,B,VERIFIED,DONE,2026-11-27T13:17:36.511Z
 pouchers,Pouchers,A,VERIFIED,DONE,2026-11-27T13:14:51.031Z
 blockops,Blockops,A,VERIFIED,DONE,2026-11-27T13:16:32.770Z
 dawn-ai-study,DAWN AI Study,C,VERIFIED,PENDING,2026-11-27T08:35:00Z
@@ -375,7 +375,7 @@ knot-technologies,KNOT Technologies,DROP,REJECTED,DROPPED,2026-11-27T08:38:26.80
 tradevu,Tradevu,C,VERIFIED,PENDING,2026-11-27T08:35:00Z
 rigo,Rigo,C,VERIFIED,PENDING,2026-11-27T08:35:00Z
 varsity-scape,Varsity Scape,C,VERIFIED,PENDING,2026-11-27T08:35:00Z
-udu-technologies,Udu Technologies,B,VERIFIED,PENDING,2026-11-27T08:38:26.801Z
+udu-technologies,Udu Technologies,B,VERIFIED,DONE,2026-11-27T13:19:27.110Z
 smartel-agritech,Smartel Agritech,C,VERIFIED,PENDING,2026-11-27T08:38:26.802Z
 acceede,Acceede,C,VERIFIED,PENDING,2026-11-27T08:38:26.802Z
 all-arbitrates,All-Arbitrates,C,VERIFIED,PENDING,2026-11-27T08:38:26.803Z
