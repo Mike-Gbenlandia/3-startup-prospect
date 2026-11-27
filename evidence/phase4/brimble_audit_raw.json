@@ -1,0 +1,80 @@
+{
+  "retrievalDate": "2026-11-27",
+  "slug": "brimble",
+  "poolEntry": {
+    "name": "Brimble",
+    "website": "https://www.brimble.io/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Angel",
+    "amount": "$15K",
+    "announced_date": "2026-11-19",
+    "investors": "Ayomide Oyekanmi",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/brimble-angel-15k-usd-6606092"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/brimble_201caca46a.md",
+      "evidence/phase2/web_b3_cascador.json"
+    ],
+    "batch_number": 2
+  },
+  "resolvedWebsite": "https://www.brimble.io/",
+  "searchCandidates": [],
+  "scrapedPages": {
+    "home": {
+      "url": "https://www.brimble.io/",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/brimble_home.md",
+      "jsonPath": "evidence/phase4/brimble_home.json"
+    },
+    "about": {
+      "url": "https://www.brimble.io/about",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/brimble_about.md",
+      "jsonPath": "evidence/phase4/brimble_about.json"
+    },
+    "blog": {
+      "url": "https://www.brimble.io/blog",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/brimble_blog.md",
+      "jsonPath": "evidence/phase4/brimble_blog.json"
+    },
+    "careers": {
+      "url": "https://www.brimble.io/careers",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/brimble_careers.md",
+      "jsonPath": "evidence/phase4/brimble_careers.json"
+    }
+  },
+  "socialLinksFoundOnSite": {
+    "instagram": [],
+    "linkedin": [
+      "https://www.linkedin.com/in/muritala-david-ab8019189/",
+      "https://www.linkedin.com/in/klefdev/"
+    ],
+    "twitter": []
+  },
+  "instagramAudit": {
+    "status": "NO_IG_FOUND",
+    "url": "NOT_FOUND"
+  },
+  "evidencePaths": [
+    "evidence/phase2/brimble_201caca46a.md",
+    "evidence/phase2/web_b3_cascador.json",
+    "evidence/phase4/brimble_home.json",
+    "evidence/phase4/brimble_home.md",
+    "evidence/phase4/brimble_about.json",
+    "evidence/phase4/brimble_about.md",
+    "evidence/phase4/brimble_blog.json",
+    "evidence/phase4/brimble_blog.md",
+    "evidence/phase4/brimble_careers.json",
+    "evidence/phase4/brimble_careers.md"
+  ]
+}

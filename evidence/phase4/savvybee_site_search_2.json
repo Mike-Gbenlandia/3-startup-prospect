@@ -1,0 +1,57 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://mysavvybee.com/",
+        "title": "Savvy Bee — Every account you have, finally in one place.",
+        "description": "Connect your banks in a few minutes and Savvy Bee pulls spending, savings goals, contribution circles and NGX holdings into a single net position.",
+        "position": 1
+      },
+      {
+        "url": "https://www.linkedin.com/company/savvy-bee-ltd",
+        "title": "Savvy Bee LTD",
+        "description": "#SavvyBee #PersonalFinance #FinancialInclusion #Nigeria #Fintech #NigerianFintech ... Tunwase Osinaike, CEO and Founder of Savvy Bee LTD, started Savvy bee ...",
+        "position": 2
+      },
+      {
+        "url": "https://ng.linkedin.com/in/tunwase",
+        "title": "Tunwase Osinaike - Savvy Bee Ltd | mysavvybee.com",
+        "description": "President & CEO, Savvy Bee LTD Designing the future of financial services at the intersection of AI, behavioural science, and game design.",
+        "position": 3
+      },
+      {
+        "url": "https://www.instagram.com/reel/DUdarirDYHV/",
+        "title": "Money is already stressful. Design shouldn't make it worse. At ...",
+        "description": "... fintech #reel #explore # ... Savvy Bee, we turn confusion into clarity no ... If your website or app looks outdated, your customers may already be moving on.",
+        "position": 4
+      },
+      {
+        "url": "https://himalayas.app/@joshuaopaleke",
+        "title": "Joshua Opaleke - Head of Design - SavvyBee Ltd",
+        "description": "... Nigeria. ... SavvyBee Ltd. Jan 2026 - Present (8 months). Led ... Led product design strategy and UX direction for a gamified fintech platform focused on financial ...",
+        "position": 5
+      },
+      {
+        "url": "https://www.linkedin.com/posts/aluko-%26-oyebode_aoinsider-series-17th-edition-activity-7490436422030663680-fQBt",
+        "title": "Scaling a Digital Wealth Platform in Nigeria with Razaq Ahmed, CFA",
+        "position": 6
+      },
+      {
+        "url": "https://app.dealroom.co/companies/godash",
+        "title": "GoDash company information, funding & investors",
+        "description": "... SavvyBee in fintech. What's the money for? Beyond capital, the programme offers structured business development, access to industry experts ...",
+        "position": 7
+      },
+      {
+        "url": "https://www.linkedin.com/posts/eandclegal_last-week-our-founder-omoruyi-edoigiawerie-activity-7429094802773733376-Qoad",
+        "title": "Nigerian Fintech Boom: Omoruyi Edoigiawerie on Funding and ...",
+        "description": "... Nigeria's fintech boom.” On funding, he addressed ... Tunwase Osinaike. Savvy Bee Ltd | mysavvybee.com. 6mo. Report this post; Close menu ... website. No ...",
+        "position": 8
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a21d39-92d8-70e2-ba32-d9ac1ebdbcd1"
+}

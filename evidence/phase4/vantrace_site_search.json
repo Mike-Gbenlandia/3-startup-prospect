@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://vantrace.io/",
+        "title": "Vantrace - Compliance Infrastructure for Emerging Markets",
+        "description": "Vantrace gives fintechs, digital banks, PSPs, and regulated financial institutions the local AML, fraud detection, transaction monitoring, case management, and ...",
+        "position": 1
+      },
+      {
+        "url": "https://www.linkedin.com/company/vantrace-africa",
+        "title": "Vantrace Africa",
+        "description": "VanTrace is an AI-powered FRAML platform for CBN-regulated Nigerian financial institutions. It combines an AML Compliance Engine (29 CBN-aligned detection ...",
+        "position": 2
+      },
+      {
+        "url": "https://vantrace.io/legal.html",
+        "title": "Legal — Terms of Use & Acceptable Use",
+        "description": "Overview. These terms govern your use of the Vantrace website at vantrace.io, operated by Vantrace Technologies Limited, a company registered in Nigeria.",
+        "position": 3
+      },
+      {
+        "url": "https://www.treehousejobs.ng/jobs/business-development-lead",
+        "title": "Business Development Lead at Vantrace",
+        "description": "About Vantrace. Vantrace is an integrated fraud and anti-money laundering (FRAML). compliance platform built for Nigerian financial ...",
+        "position": 4
+      },
+      {
+        "url": "https://www.instagram.com/p/DgE_scBHHz7/",
+        "title": "The Federal Government has selected eight Nigerian startups for its ...",
+        "description": "The eight selected startups are GoDash @godashapp, operating in logistics; Telios, in energy; Vantrace, in regulatory technology; KrosAI, in ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a21d36-c3f2-7284-8fb1-d7e774fcd6a6"
+}

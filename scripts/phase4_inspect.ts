@@ -23,7 +23,9 @@ function main() {
     console.log(`\n--- PAGE [${kind}] status=${info.status} ok=${info.ok} url=${info.url} ---`);
     if (info.mdPath && fs.existsSync(info.mdPath)) {
       const md = fs.readFileSync(info.mdPath, 'utf8')
-        .replace(/!\[[^\]]*\]\(data:image\/[^)\r\n]+(?:\)[^)]*)*\)/g, '[svg]')
+        .replace(/!\[[^\]]*\]\(data:image\/[^]*?<\/svg>\)/g, '[svg]')
+        .replace(/data:image\/svg\+xml[^)]*%3c\/svg%3e\)/gi, '[svg]')
+        .replace(/!\[[^\]]*\]\(data:image\/[^\n)]+\)/g, '[svg]')
         .replace(/data:image\/[^\s"')\r\n]+/g, '[svg]');
       const lines = md.split(/\r?\n/).filter((l) => l.trim().length > 0 && l.trim() !== '[svg]');
       console.log(`[lines=${lines.length}, chars=${md.length}]`);

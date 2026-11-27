@@ -1,0 +1,70 @@
+{
+  "slug": "godash",
+  "name": "GoDash",
+  "website": "https://www.godashapp.com/",
+  "industry": "Mobility & On-Demand Delivery / Super App",
+  "city": "Gusau",
+  "what_they_do": "Zamfara-based urban super app (GoDash Digital Services Limited) combining keke/car/bike rides, restaurant and grocery delivery, package/pharmacy logistics, and wallet bill payments for Nigerian cities.",
+  "recent_activity": "2026-11-19: Selected for $100K equity investment under BOI/iDICE Startup Bridge Growth Lab (https://www.startuplist.africa/funding/godash-equity-investment-100k-usd-3c20a0d); 2026-11-23: Featured among 8 iDICE Growth Lab recipients (https://weetracker.com/2026/11/23/8-nigerian-startups-get-800000-idice-growth-lab/); 2026-10-15: Named Top 20 Finalist in NiYA x Cascador Founders Programme (https://instagram.com/p/DegjT73iMq0)",
+  "tier": "C",
+  "round_type": "iDICE Startup Bridge Growth Lab Equity",
+  "amount": "$100K",
+  "funding_date": "2026-11-19",
+  "investors": "Bank of Industry (BOI) / iDICE Startup Bridge (AfDB, AFD, IsDB)",
+  "funding_sources": "https://www.startuplist.africa/funding/godash-equity-investment-100k-usd-3c20a0d | https://weetracker.com/2026/11/23/8-nigerian-startups-get-800000-idice-growth-lab/",
+  "funding_confidence": "CONFIRMED_2_SOURCES",
+  "founder_or_marketing_contact": "Yahaya Suleiman Muhammad (CEO & Founder) | info@godashapp.com",
+  "instagram_url": "https://www.instagram.com/godashapp/",
+  "ig_status": "OK",
+  "ig_followers": "65",
+  "ig_post_1": {
+    "raw_timestamp_text": "2026-11-07",
+    "absolute_date": "2026-11-07",
+    "type": "Reel",
+    "url": "https://instagram.com/p/Dfb8U3guHhX"
+  },
+  "ig_post_2": {
+    "raw_timestamp_text": "2026-11-03",
+    "absolute_date": "2026-11-03",
+    "type": "Reel",
+    "url": "https://instagram.com/p/DfRZOosuBQF"
+  },
+  "ig_post_3": {
+    "raw_timestamp_text": "2026-10-27",
+    "absolute_date": "2026-10-27",
+    "type": "Carousel",
+    "url": "https://instagram.com/p/De_xAQYl16c"
+  },
+  "ig_post_4": {
+    "raw_timestamp_text": "2026-10-20",
+    "absolute_date": "2026-10-20",
+    "type": "Photo",
+    "url": "https://instagram.com/p/DetY6pKuJUP"
+  },
+  "ig_post_5": {
+    "raw_timestamp_text": "2026-10-15",
+    "absolute_date": "2026-10-15",
+    "type": "Carousel",
+    "url": "https://instagram.com/p/DegjT73iMq0"
+  },
+  "ig_days_since_latest": 20,
+  "ig_median_gap_days": 6,
+  "ig_screenshot_path": "screenshots/godash_instagram.png",
+  "blog_url": "NOT_FOUND",
+  "blog_last_post_date": "NOT_FOUND",
+  "blog_posts_last_90_days": "NOT_FOUND",
+  "marketing_titles_found": "NONE (/company leadership section lists only Yahaya Suleiman Muhammad, CEO & Founder)",
+  "hiring_marketing_role": "NO (Careers footer link routes to /company with no open roles listed)",
+  "need_score": 5,
+  "score_flags": "IG_STALE_14D (+1) | NO_OR_STALE_BLOG_90D (+2) | NO_MARKETING_TITLE_ON_TEAM (+2)",
+  "qualified": true,
+  "signal_categories": [
+    "Instagram",
+    "blog",
+    "team"
+  ],
+  "unique_offer": "Northern Nigeria city super app integrating keke/car rides, food/pharmacy delivery, and bill payments starting from Gusau, Zamfara State.",
+  "closest_overlap": "TBD_PHASE_5",
+  "pitch_hook": "GoDash raised $100K via iDICE Growth Lab to expand beyond Gusau, but has only 65 Instagram followers with no post in 20 days (since 2026-11-07), no blog, and no public marketing lead.",
+  "evidence_paths": "evidence/phase2/godash_6410fa9d9a.md | evidence/phase1/hy_weetracker_idice_8.md | evidence/phase4/godash_home.md | evidence/phase4/godash_about.md | screenshots/godash_instagram.png"
+}

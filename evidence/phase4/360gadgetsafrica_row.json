@@ -1,0 +1,68 @@
+{
+  "slug": "360gadgetsafrica",
+  "name": "360GadgetsAfrica",
+  "website": "https://360gadgetsafrica.com/",
+  "industry": "E-commerce / Circular Tech & Refurbished Electronics",
+  "city": "Lagos",
+  "what_they_do": "Lagos-based circular tech marketplace (360gadgetsafrica, RC 9263489) selling 50-point inspected UK-used smartphones/laptops alongside accredited warranty-backed repairs, VTU airtime/data, and Gadget Save financing.",
+  "recent_activity": "2026-11-27: Published iPhone 13 buyer quiz on company blog (https://360gadgetsafrica.com/blog/do-you-really-need-an-iphone-13-take-this-quick-quiz-before-buying-32710); 2026-11-19: Selected for $100K equity investment under BOI/iDICE Startup Bridge Growth Lab (https://www.startuplist.africa/funding/360gadgetsafrica-equity-investment-100k-usd-1c19c45); 2026-11-23: Featured among 8 iDICE Growth Lab recipients (https://weetracker.com/2026/11/23/8-nigerian-startups-get-800000-idice-growth-lab/)",
+  "tier": "C",
+  "round_type": "iDICE Startup Bridge Growth Lab Equity",
+  "amount": "$100K",
+  "funding_date": "2026-11-19",
+  "investors": "Bank of Industry (BOI) / iDICE Startup Bridge (AfDB, AFD, IsDB)",
+  "funding_sources": "https://www.startuplist.africa/funding/360gadgetsafrica-equity-investment-100k-usd-1c19c45 | https://weetracker.com/2026/11/23/8-nigerian-startups-get-800000-idice-growth-lab/",
+  "funding_confidence": "CONFIRMED_2_SOURCES",
+  "founder_or_marketing_contact": "NOT_FOUND (+234 705 722 1476, Ikeja Lagos office)",
+  "instagram_url": "https://www.instagram.com/360gadgetsafrica/",
+  "ig_status": "OK",
+  "ig_followers": "2993",
+  "ig_post_1": {
+    "raw_timestamp_text": "2026-11-27",
+    "absolute_date": "2026-11-27",
+    "type": "Photo",
+    "url": "https://instagram.com/p/DgPalfAFGly"
+  },
+  "ig_post_2": {
+    "raw_timestamp_text": "2026-11-26",
+    "absolute_date": "2026-11-26",
+    "type": "Photo",
+    "url": "https://instagram.com/p/DgM1xzekaVx"
+  },
+  "ig_post_3": {
+    "raw_timestamp_text": "2026-11-25",
+    "absolute_date": "2026-11-25",
+    "type": "Reel",
+    "url": "https://instagram.com/p/DgKRA5KF3zY"
+  },
+  "ig_post_4": {
+    "raw_timestamp_text": "2026-11-24",
+    "absolute_date": "2026-11-24",
+    "type": "Carousel",
+    "url": "https://instagram.com/p/DgHzDoRkSHB"
+  },
+  "ig_post_5": {
+    "raw_timestamp_text": "2026-11-23",
+    "absolute_date": "2026-11-23",
+    "type": "Reel",
+    "url": "https://instagram.com/p/DgFHd4JBT9p"
+  },
+  "ig_days_since_latest": 0,
+  "ig_median_gap_days": 1,
+  "ig_screenshot_path": "screenshots/360gadgetsafrica_instagram.png",
+  "blog_url": "https://360gadgetsafrica.com/blog",
+  "blog_last_post_date": "2026-11-27",
+  "blog_posts_last_90_days": 10,
+  "marketing_titles_found": "NONE (no team page or named marketing titles on /company)",
+  "hiring_marketing_role": "NO (only /ambassador program, no careers page)",
+  "need_score": 2,
+  "score_flags": "NO_MARKETING_TITLE_ON_TEAM (+2)",
+  "qualified": false,
+  "signal_categories": [
+    "team"
+  ],
+  "unique_offer": "50-point inspected UK-used electronics marketplace backed by accredited partner repair warranties, Gadget Save financing, and VTU top-ups.",
+  "closest_overlap": "TBD_PHASE_5",
+  "pitch_hook": "Not qualified: 360GadgetsAfrica posts daily on Instagram (2,993 followers, latest 2026-11-27) and maintains an active buyer-guide blog updated 2026-11-27.",
+  "evidence_paths": "evidence/phase2/360gadgetsafrica_aa6cb63ecd.md | evidence/phase1/hy_weetracker_idice_8.md | evidence/phase4/360gadgetsafrica_about.md | evidence/phase4/360gadgetsafrica_blog.md | screenshots/360gadgetsafrica_instagram.png"
+}

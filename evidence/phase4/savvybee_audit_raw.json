@@ -1,0 +1,60 @@
+{
+  "retrievalDate": "2026-11-27",
+  "slug": "savvybee",
+  "poolEntry": {
+    "name": "SavvyBee",
+    "website": "https://mysavvybee.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "iDICE Startup Bridge Growth Lab Equity",
+    "amount": "$100K",
+    "announced_date": "2026-11-19",
+    "investors": "Bank of Industry (BOI) / iDICE Startup Bridge (AfDB, AFD, IsDB)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/savvybee-equity-investment-100k-usd-e237502",
+      "https://weetracker.com/2026/11/23/8-nigerian-startups-get-800000-idice-growth-lab/"
+    ],
+    "evidence_paths": [
+      "evidence/phase1/hy_weetracker_idice_8.md",
+      "evidence/phase1/hy_sl_ng_2026.md"
+    ],
+    "batch_number": 2
+  },
+  "resolvedWebsite": "https://mysavvybee.com/",
+  "searchCandidates": [],
+  "scrapedPages": {
+    "home": {
+      "url": "https://mysavvybee.com/",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/savvybee_home.md",
+      "jsonPath": "evidence/phase4/savvybee_home.json"
+    },
+    "about": {
+      "url": "https://mysavvybee.com/about.html",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/savvybee_about.md",
+      "jsonPath": "evidence/phase4/savvybee_about.json"
+    }
+  },
+  "socialLinksFoundOnSite": {
+    "instagram": [],
+    "linkedin": [],
+    "twitter": []
+  },
+  "instagramAudit": {
+    "status": "NO_IG_FOUND",
+    "url": "NOT_FOUND"
+  },
+  "evidencePaths": [
+    "evidence/phase1/hy_weetracker_idice_8.md",
+    "evidence/phase1/hy_sl_ng_2026.md",
+    "evidence/phase4/savvybee_home.json",
+    "evidence/phase4/savvybee_home.md",
+    "evidence/phase4/savvybee_about.json",
+    "evidence/phase4/savvybee_about.md"
+  ]
+}

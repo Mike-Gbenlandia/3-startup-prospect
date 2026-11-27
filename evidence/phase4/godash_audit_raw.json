@@ -1,0 +1,221 @@
+{
+  "retrievalDate": "2026-11-27",
+  "slug": "godash",
+  "poolEntry": {
+    "name": "GoDash",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "iDICE Startup Bridge Growth Lab Equity",
+    "amount": "$100K",
+    "announced_date": "2026-11-19",
+    "investors": "Bank of Industry (BOI) / iDICE Startup Bridge (AfDB, AFD, IsDB)",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/godash-equity-investment-100k-usd-3c20a0d",
+      "https://weetracker.com/2026/11/23/8-nigerian-startups-get-800000-idice-growth-lab/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/godash_6410fa9d9a.md",
+      "evidence/phase1/hy_weetracker_idice_8.md"
+    ],
+    "batch_number": 2
+  },
+  "resolvedWebsite": "https://www.godashapp.com/",
+  "searchCandidates": [
+    {
+      "url": "https://www.godashapp.com/",
+      "title": "GoDash - Food, Bills, Delivery and More",
+      "description": "Order food, pay bills, send packages and refill gas all in one app. Available in Gusau, Zamfara State."
+    },
+    {
+      "url": "https://www.godashapp.com/company",
+      "title": "About GoDash — Our Mission & Team",
+      "description": "GoDash brings together the services people use every day into one reliable, affordable app. Starting from Zamfara State, we're …"
+    },
+    {
+      "url": "https://www.godashapp.com/contact",
+      "title": "Contact Us - GoDash",
+      "description": "Get in touch with GoDash. Email info@godashapp.com, call +234 706 723 3337, or visit us at Bagudu Plaza, Gusau, Zamfara State."
+    },
+    {
+      "url": "https://www.godashapp.com/download",
+      "title": "Download the GoDash App — Food, Bills & More",
+      "description": "Get GoDash on Android and iOS. Food, groceries, pharmacy, deliveries, airtime, data, bills and more, all in one app."
+    },
+    {
+      "url": "https://godash.pro/",
+      "title": "GoDash — Dashboards for businesses with more than one location.",
+      "description": "GoDash Dashboards for businesses with more than one location. We turn the figures a business already has into clear, current …"
+    }
+  ],
+  "scrapedPages": {
+    "home": {
+      "url": "https://www.godashapp.com/",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/godash_home.md",
+      "jsonPath": "evidence/phase4/godash_home.json"
+    },
+    "about": {
+      "url": "https://www.godashapp.com/company",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/godash_about.md",
+      "jsonPath": "evidence/phase4/godash_about.json"
+    }
+  },
+  "socialLinksFoundOnSite": {
+    "instagram": [
+      "https://www.instagram.com/godashapp/"
+    ],
+    "linkedin": [
+      "https://www.linkedin.com/company/godash-app/",
+      "https://linkedin.com/in/yahayasm"
+    ],
+    "twitter": [
+      "https://x.com/godashapp",
+      "https://x.com/yahayasm"
+    ]
+  },
+  "instagramAudit": {
+    "status": "OK",
+    "url": "https://www.instagram.com/godashapp/",
+    "screenshotPath": "screenshots/godash_instagram.png",
+    "mdText": "# GoDash (@godashapp)\n\nFood • Pharmacy • Shops • Packages • Bills\nEverything you need, delivered fast. 🚀\n\n65 followers · 1 following\n\nLinks: https://www.godashapp.com/\n\n## Recent posts\n\n- [Untitled post](https://instagram.com/p/Dfb8U3guHhX) · 2026-11-07 · 5 likes · 0 comments · 59 views\n- [Red light? Not for your delivery. 🚦💚 Just GoDash it.](https://instagram.com/p/DfRZOosuBQF) · 2026-11-03 · 4 likes · 0 comments · 37 views\n- [Different founders, one shared vision! ㅤ Leadership is about showing up, taking initiative, and inspiring others to do…](https://instagram.com/p/De_xAQYl16c) · 2026-10-27 · 23 likes · 0 comments\n- [Ready. Set. GoDash. Your order is already on its way. 🛵💨](https://instagram.com/p/DetY6pKuJUP) · 2026-10-20 · 4 likes · 0 comments\n- [🚀 WE’RE OFFICIALLY IN THE TOP 20! 🎉 GoDash has officially made it to the Top 20 Finalists of the NiYA Cascador Founde…](https://instagram.com/p/DegjT73iMq0) · 2026-10-15 · 23 likes · 0 comments\n- [Whatever you need GoDash it](https://instagram.com/p/DegXetxI68O) · 2026-10-15 · 4 likes · 0 comments · 20 views\n- [Untitled post](https://instagram.com/p/DeeG_oJoxaM) · 2026-10-14 · 5 likes · 0 comments\n- [New week, new plans. Let GoDash handle the little things while you focus on what matters. 💚](https://instagram.com/p/Dd0yhpEuzuj) · 2026-09-28 · 1 likes · 0 comments\n- [NECO results are out! Get your NECO result-checking PIN on GoDash and check your result with ease. Good luck to everyon…](https://instagram.com/p/DdtLnmfOjWB) · 2026-09-25 · 2 likes · 0 comments\n- [NABTEB 2026 results are out! Get your result-checking PIN for just ₦900 on the GoDash app and check your result with ea…](https://instagram.com/p/DdE8MK0uGTZ) · 2026-09-09 · 2 likes · 0 comments\n- [The only journey you need today is from your couch to your door. What are you ordering? GoDash it https://www.godashapp…](https://instagram.com/p/Dc_gMQfBYWs) · 2026-09-07 · 3 likes · 0 comments\n- [Hello, September! New month, new plans, more moments that matter. Let GoDash handle the everyday while you focus on wha…](https://instagram.com/p/Dcv3eYyItmr) · 2026-09-01 · 2 likes · 0 comments\n",
+    "interactParsed": {
+      "title": "GoDash (@godashapp) • Instagram photos and videos",
+      "url": "https://www.instagram.com/godashapp/",
+      "bodyText": "Log In\nSign Up\ngodashapp\n65 followers\n1 following\nGoDash\nFood • Pharmacy • Shops • Packages • Bills\nEverything you need, delivered fast. 🚀\ngodashapp.com\nShow more posts from godashapp\nMeta\nAbout\nBlog\nJobs\nHelp\nAPI\nPrivacy\nConsumer Health Privacy\nTerms\nLocations\nPopular\nInstagram Lite\nMeta AI\nMuse\nThreads\nContact Uploading & Non-Users\nMeta Verified\nEnglish\nAfrikaans\nالعربية\nČeština\nDansk\nDeutsch\nΕλληνικά\nEnglish\nEnglish (UK)\nEspañol (España)\nEspañol\nفارسی\nSuomi\nFrançais\nעברית\nBahasa Indonesia\nItaliano\n日本語\n한국어\nBahasa Melayu\nNorsk\nNederlands\nPolski\nPortuguês (Brasil)\nPortuguês (Portugal)\nРусский\nSvenska\nภาษาไทย\nFilipino\nTürkçe\n中文(简体)\n中文(台灣)\nবাংলা\nગુજરાતી\nहिन्दी\nHrvatski\nMagyar\nಕನ್ನಡ\nമലയാളം\nमराठी\nनेपाली\nਪੰਜਾਬੀ\nසිංහල\nSlovenčina\nதமிழ்\nతెలుగు\nاردو\nTiếng Việt\n中文(香港)\nБългарски\nFrançais (Canada)\nRomână\nСрпски\nУкраїнська\n© 2026 Instagram from Meta\nSee photos, videos and more from godashapp\nSign up and never miss a post from godashapp.\nSign up\nLog in",
+      "domData": {
+        "posts": [
+          {
+            "href": "/godashapp/reel/Dfb8U3guHhX/",
+            "imgAlt": "Video by GoDash on November 07, 2026. May be a doodle of poster and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/godashapp/reel/DfRZOosuBQF/",
+            "imgAlt": "Video by GoDash on November 02, 2026. May be an image of thermostat and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/nigerianyouthacademy/p/De_xAQYl16c/",
+            "imgAlt": "Photo by Nigerian Youth Academy on October 27, 2026. May be an image of text.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/godashapp/p/DetY6pKuJUP/",
+            "imgAlt": "Photo by GoDash on October 20, 2026. May be an image of poster and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/godashapp/p/DegjT73iMq0/",
+            "imgAlt": "Photo by GoDash on October 15, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/godashapp/reel/DegXetxI68O/",
+            "imgAlt": "Video by GoDash on October 14, 2026. May be a doodle of poster and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/godashapp/p/DeeG_oJoxaM/",
+            "imgAlt": "Photo by GoDash on October 14, 2026. May be an image of text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/godashapp/p/Dd0yhpEuzuj/",
+            "imgAlt": "Photo by GoDash on September 28, 2026. May be a graphic of money, magazine, office and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/godashapp/p/DdtLnmfOjWB/",
+            "imgAlt": "Photo by GoDash on September 25, 2026. May be a graphic of magazine, poster and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/godashapp/p/DdE8MK0uGTZ/",
+            "imgAlt": "Photo by GoDash on September 09, 2026. May be a graphic of card and poster.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/godashapp/p/Dc_gMQfBYWs/",
+            "imgAlt": "Photo by GoDash on September 07, 2026.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/godashapp/p/Dcv3eYyItmr/",
+            "imgAlt": "Photo by GoDash on September 01, 2026. May be an image of bread and vegetable.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          }
+        ],
+        "extLinks": [],
+        "loginWall": false
+      }
+    },
+    "allIgLinksFound": [
+      "https://www.instagram.com/godashapp/"
+    ]
+  },
+  "evidencePaths": [
+    "evidence/phase2/godash_6410fa9d9a.md",
+    "evidence/phase1/hy_weetracker_idice_8.md",
+    "evidence/phase4/godash_site_search.json",
+    "evidence/phase4/godash_home.json",
+    "evidence/phase4/godash_home.md",
+    "evidence/phase4/godash_about.json",
+    "evidence/phase4/godash_about.md",
+    "evidence/phase4/godash_ig_scrape.json",
+    "evidence/phase4/godash_ig_scrape.md",
+    "evidence/phase4/godash_ig_interact.json",
+    "evidence/phase4/godash_ig_stop.json"
+  ]
+}

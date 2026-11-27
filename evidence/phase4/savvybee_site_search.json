@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.linkedin.com/company/savvy-bee-ltd",
+        "title": "Savvy Bee LTD",
+        "description": "#SavvyBee #PersonalFinance #FinancialInclusion #Nigeria #Fintech #NigerianFintech. The 50/30/20 Rule Nigerian Edition • 8 pages 8 pages. Accessibility mode",
+        "position": 1
+      },
+      {
+        "url": "https://www.linkedin.com/posts/tunwase_idice-savvybee-fintech-activity-7528845236874301440-kvJW",
+        "title": "#idice #savvybee #fintech #nigeria #financialinclusion | Tunwase Osinaike",
+        "description": "... SavvyBee #Fintech #Nigeria #FinancialInclusion. ... This support helps us bring that to millions of Nigerians, starting with the launch of our web ...",
+        "position": 2
+      },
+      {
+        "url": "https://www.instagram.com/p/DgE_scBHHz7/",
+        "title": "The Federal Government has selected eight Nigerian startups for its ...",
+        "description": "SavvyBee (South-West): Fintech Beyond funding, these businesses will receive expert guidance, operational support and assistance in preparing ...",
+        "position": 3
+      },
+      {
+        "url": "https://himalayas.app/@joshuaopaleke",
+        "title": "Joshua Opaleke - Head of Design - SavvyBee Ltd",
+        "description": "I'm a design leader focused on turning business goals into user-centered product experiences. As Head of Design at SavvyBee, I lead end-to-end product design ...",
+        "position": 4
+      },
+      {
+        "url": "https://dealroom.co/news/174323-nigeria-backs-eight-startups-with-100k-each-in-idice-equity-push/",
+        "title": "Nigeria backs eight startups with $100K each in iDICE equity push",
+        "description": "Try Dealroom → in mobility, 360gadgetsafrica in e-commerce, and SavvyBee in fintech. What's the money for? Beyond capital, the programme ...",
+        "position": 5
+      }
+    ]
+  },
+  "creditsUsed": 2,
+  "id": "01a21d36-5d41-7739-b7e0-494e3cd02035"
+}
