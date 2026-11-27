@@ -1,0 +1,68 @@
+{
+  "slug": "pouchers",
+  "name": "Pouchers",
+  "website": "https://pouchers.io/",
+  "industry": "Fintech / Cross-Border Payments & Wallets",
+  "city": "Lagos",
+  "what_they_do": "Stablecoin-powered multicurrency wallet and virtual dollar card platform enabling Nigerians and global Africans to receive USD, GBP, EUR, and CAD, fund with USDT/USDC, and make global payouts.",
+  "recent_activity": "2026-11-24: Published Pouchers vs Raenest virtual dollar card guide (https://pouchers.io/blog/pouchers-vs-raenest-virtual-dollar-card) | 2026-11-23: Announced invoicing and card-to-card transfers (https://pouchers.io/blog/pouchers-invoicing-and-card-to-card-transfers) | 2026-11-18: Launched Black November spending rewards campaign up to $500 (https://pouchers.io/blog/pouchers-black-november)",
+  "tier": "A",
+  "round_type": "Pre-seed",
+  "amount": "$500K",
+  "funding_date": "2026-08-14",
+  "investors": "Stack Directory LLC (lead)",
+  "funding_sources": "https://www.startuplist.africa/funding/pouchers-pre-seed-500k-usd-625e80e | https://pouchers.io/blog/500k-in-pre-seed-funding | https://techcabal.com/2026/08/17/pouchers-raises-500000-in-pre-seed-funding-and-exits-beta/",
+  "funding_confidence": "CONFIRMED_2_SOURCES",
+  "founder_or_marketing_contact": "help@pouchers.io; +234 704 292 8777; https://www.linkedin.com/company/pouchersio/ (blog authors Kolade & Adebukola Ajayi)",
+  "instagram_url": "https://www.instagram.com/pouchers_io/",
+  "ig_status": "OK",
+  "ig_followers": "2,786",
+  "ig_post_1": {
+    "raw_timestamp_text": "2026-11-26 (November 26, 2026 in DOM; 3 pinned posts skipped)",
+    "absolute_date": "2026-11-26",
+    "type": "Carousel",
+    "url": "https://www.instagram.com/pouchers_io/p/DgNOkHhiKdx/"
+  },
+  "ig_post_2": {
+    "raw_timestamp_text": "2026-11-26 (November 26, 2026 in DOM)",
+    "absolute_date": "2026-11-26",
+    "type": "Reel/Video",
+    "url": "https://www.instagram.com/pouchers_io/reel/DgMtgS1ouDu/"
+  },
+  "ig_post_3": {
+    "raw_timestamp_text": "2026-11-24 (November 24, 2026 in DOM)",
+    "absolute_date": "2026-11-24",
+    "type": "Reel/Video",
+    "url": "https://www.instagram.com/whotpodcast/reel/DgIIAR1Izb4/"
+  },
+  "ig_post_4": {
+    "raw_timestamp_text": "2026-11-24 (November 24, 2026 in DOM)",
+    "absolute_date": "2026-11-24",
+    "type": "Carousel",
+    "url": "https://www.instagram.com/pouchers_io/p/DgH7cGgCPmw/"
+  },
+  "ig_post_5": {
+    "raw_timestamp_text": "2026-11-23 (November 23, 2026 in DOM)",
+    "absolute_date": "2026-11-23",
+    "type": "Carousel",
+    "url": "https://www.instagram.com/pouchers_io/p/DgFbDI4iKJU/"
+  },
+  "ig_days_since_latest": 1,
+  "ig_median_gap_days": 0.5,
+  "ig_screenshot_path": "screenshots/pouchers_instagram.png",
+  "blog_url": "https://pouchers.io/blog",
+  "blog_last_post_date": "2026-11-24",
+  "blog_posts_last_90_days": 10,
+  "marketing_titles_found": "NONE_FOUND (no public team page on pouchers.io; blog has active authors Kolade & Adebukola Ajayi)",
+  "hiring_marketing_role": "NO (no careers page linked on pouchers.io)",
+  "need_score": 2,
+  "score_flags": "NO_MARKETING_TITLE_ON_TEAM (+2)",
+  "qualified": false,
+  "signal_categories": [
+    "team"
+  ],
+  "unique_offer": "Stablecoin-settled multicurrency consumer wallet (USD, GBP, EUR, CAD) and virtual dollar cards tailored for Nigerian freelancers and remote workers.",
+  "closest_overlap": "TBD_PHASE_5",
+  "pitch_hook": "Not qualified (need_score 2): Pouchers posts nearly daily on IG (2,786 followers, 0.5d median gap) and published 10+ blog posts in Nov 2026 alone.",
+  "evidence_paths": "evidence/phase2/pouchers_d040916b63.md | evidence/phase2/pouchers_site_b11.md | evidence/phase4/pouchers_home.md | evidence/phase4/pouchers_blog.md | evidence/phase4/pouchers_ig_scrape.md | evidence/phase4/pouchers_ig_interact.json | evidence/phase4/pouchers_ig_stop.json | screenshots/pouchers_instagram.png"
+}

@@ -1,0 +1,30 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "markdown": "# Vatar (@vatarhq)\n\ndigital human for businesses\n\n37 followers · 2 following\n\nLinks: https://www.vatar.com\n\n## Recent posts\n\n- [We’re on the Pink Team Vatar (Lagos Life) is joining the Creators Charity Olympics 2026 to raise awareness of breast ca…](https://instagram.com/p/DgPCYCQIEA6) · 2026-11-27 · 4 likes · 0 comments · 22 views\n- [Something massive is coming to Vatar (Lagos Life) 👀 Nigeria’s biggest creators. 100 golden tickets. One wild hunt. Big…](https://instagram.com/p/DgM3RpKxVpv) · 2026-11-26 · 32 likes · 6 comments\n- [Story Mode is officially LIVE on Vatar! 🎉 6 cities. 24 seasons. Unique characters. Stories inspired by our everyday re…](https://instagram.com/p/DgIJKEooCsV) · 2026-11-24 · 5 likes · 2 comments · 90 views\n- [Meet the official team partner of the Creators Charity Olympics: Vatar. 🎮🌆 @shalom_heyeliy @vatarhq Vatar is a social…](https://instagram.com/p/DgICWrmRfB6) · 2026-11-24 · 30 likes · 4 comments\n- [Lagos Life launched on October 1st. Just 9 days later, over 4.7 million people have played the game. Today, we are exci…](https://instagram.com/p/DeRJOMfspsC) · 2026-10-09 · 33 likes · 1 comments\n",
+    "metadata": {
+      "description": "digital human for businesses",
+      "title": "Vatar (@vatarhq)",
+      "scrapeId": "01a21d20-47ba-727b-ab6b-2e2b9b64527b",
+      "sourceURL": "https://www.instagram.com/vatarhq/",
+      "url": "https://www.instagram.com/vatarhq/",
+      "statusCode": 200,
+      "contentType": "text/markdown",
+      "proxyUsed": "basic",
+      "provider": {
+        "id": "influencers-club",
+        "creditsCost": 0,
+        "steps": [
+          {
+            "provider": "influencers-club",
+            "status": "matched",
+            "creditsCost": 0
+          }
+        ]
+      },
+      "creditsUsed": 0,
+      "concurrencyLimited": false
+    }
+  }
+}

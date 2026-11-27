@@ -1,0 +1,31 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "markdown": "[![Vatar](https://vatar.com/assets/vatar-wordmark.svg)](https://vatar.com/about)[About Vatar](https://vatar.com/about)\n\n# Select your world\n\n[![](https://vatar.com/assets/key/world-lagos-tall.jpg)\\\\\nNear you **Lagos Life** \\\\\n\\\\\nNigeriaPlay now](https://vatar.com/go/lagos) [![](https://vatar.com/assets/key/world-city1-tall.jpg)\\\\\nNear you **Accra Life** \\\\\n\\\\\nGhanaPlay now](https://vatar.com/go/accra)\n\n![](https://vatar.com/assets/key/cover-your-city.jpg)\n\nNew city · Coming soon",
+    "metadata": {
+      "language": "en",
+      "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+      "description": "Pick your world and start living it. Free in your browser.",
+      "robots": "noindex",
+      "theme-color": "#000000",
+      "title": "Vatar · Select Your World",
+      "favicon": "https://vatar.com/favicon.ico",
+      "scrapeId": "01a21d1f-88d1-7235-be8b-c377263362b0",
+      "sourceURL": "https://vatar.com/",
+      "url": "https://vatar.com/",
+      "statusCode": 200,
+      "contentType": "text/html",
+      "proxyUsed": "basic",
+      "cacheState": "hit",
+      "cachedAt": "2026-11-25T13:48:58.763Z",
+      "creditsUsed": 1,
+      "concurrencyLimited": false
+    },
+    "links": [
+      "https://vatar.com/about",
+      "https://vatar.com/go/lagos",
+      "https://vatar.com/go/accra"
+    ]
+  }
+}

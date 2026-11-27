@@ -1,0 +1,7 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "status": "stopped",
+  "sessionDurationMs": 16000,
+  "creditsBilled": 2
+}

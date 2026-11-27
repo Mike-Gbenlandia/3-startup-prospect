@@ -1,0 +1,70 @@
+{
+  "slug": "vatar",
+  "name": "Vatar",
+  "website": "https://vatar.com/",
+  "industry": "Gaming / Virtual Social Worlds",
+  "city": "Lagos",
+  "what_they_do": "Social gaming company building browser-based multiplayer virtual cities starting with Lagos Life and Accra Life, where Gen Z players socialize, build businesses, and interact with in-world brand billboards and live events.",
+  "recent_activity": "2026-11-27: Joined Creators Charity Olympics 2026 Pink Team (https://www.instagram.com/vatarhq/reel/DgPCYCQIEA6/) | 2026-11-24: Launched Vatar Story Mode across 6 virtual cities (https://www.instagram.com/vatarhq/reel/DgIJKEooCsV/) | 2026-11-09: Opened Vatar Creator Programme applications (https://vatar.com/creator/)",
+  "tier": "A",
+  "round_type": "Pre-seed (Vatar describes $500K angel round at $10M valuation)",
+  "amount": "$500K (at $10M valuation)",
+  "funding_date": "2026-10-09",
+  "investors": "Abdulhamid 'AB' Hassan (lead), Nathan Nwachuku (lead), Resilience17 / GB Agboola (lead), Oo Nwoye",
+  "funding_sources": "https://vatar.com/about | https://www.startuplist.africa/funding/lagos-life-angel-500k-usd-a6db764 | https://techcabal.com/2026/10/09/lagos-life-maker-vatar-raises-500000/",
+  "funding_confidence": "CONFIRMED_2_SOURCES",
+  "founder_or_marketing_contact": "Shalom Rayhamen (Co-founder, CEO & CTO), Owen Rayhamen (Co-founder & CPO), Anderson Oriahi (Co-founder & CBDO); justina@vatar.com (partnerships); press@vatar.com; https://www.linkedin.com/company/vatarhq",
+  "instagram_url": "https://www.instagram.com/vatarhq/",
+  "ig_status": "OK",
+  "ig_followers": "37",
+  "ig_post_1": {
+    "raw_timestamp_text": "2026-11-27 (November 26, 2026 in DOM)",
+    "absolute_date": "2026-11-27",
+    "type": "Reel/Video",
+    "url": "https://www.instagram.com/vatarhq/reel/DgPCYCQIEA6/"
+  },
+  "ig_post_2": {
+    "raw_timestamp_text": "2026-11-26 (November 26, 2026 in DOM)",
+    "absolute_date": "2026-11-26",
+    "type": "Photo",
+    "url": "https://www.instagram.com/vatarhq/p/DgM3RpKxVpv/"
+  },
+  "ig_post_3": {
+    "raw_timestamp_text": "2026-11-24 (November 24, 2026 in DOM)",
+    "absolute_date": "2026-11-24",
+    "type": "Reel/Video",
+    "url": "https://www.instagram.com/vatarhq/reel/DgIJKEooCsV/"
+  },
+  "ig_post_4": {
+    "raw_timestamp_text": "2026-11-24 (November 24, 2026 in DOM)",
+    "absolute_date": "2026-11-24",
+    "type": "Photo",
+    "url": "https://www.instagram.com/creatorscharityolympics/p/DgICWrmRfB6/"
+  },
+  "ig_post_5": {
+    "raw_timestamp_text": "2026-10-09 (October 09, 2026 in DOM)",
+    "absolute_date": "2026-10-09",
+    "type": "Photo",
+    "url": "https://www.instagram.com/vatarhq/p/DeRJOMfspsC/"
+  },
+  "ig_days_since_latest": 0,
+  "ig_median_gap_days": 1.5,
+  "ig_screenshot_path": "screenshots/vatar_instagram.png",
+  "blog_url": "NOT_FOUND",
+  "blog_last_post_date": "NOT_FOUND",
+  "blog_posts_last_90_days": "NOT_FOUND",
+  "marketing_titles_found": "NONE_FOUND (vatar.com/about lists Co-founders Shalom Rayhamen CEO/CTO, Owen Rayhamen CPO, Anderson Oriahi CBDO whose bio notes 'leads business development, brands and growth'; /contact lists justina@vatar.com for partnerships without title)",
+  "hiring_marketing_role": "NO (vatar.com/contact/#careers invites engineers, artists, designers and city builders only)",
+  "need_score": 5,
+  "score_flags": "IG_IRREGULAR_GAP (+1) | NO_OR_STALE_BLOG_90D (+2) | NO_MARKETING_TITLE_ON_TEAM (+2)",
+  "qualified": true,
+  "signal_categories": [
+    "Instagram",
+    "blog",
+    "team"
+  ],
+  "unique_offer": "No-download multiplayer African virtual cities in the browser monetized via in-world billboards, branded storefronts, and live events.",
+  "closest_overlap": "TBD_PHASE_5",
+  "pitch_hook": "Vatar raised $500K on 2026-10-09 and touts 11M+ players, yet @vatarhq has only 37 IG followers, a stale 'digital human for businesses' bio, a 46-day gap before this week's posts, no blog, and no dedicated marketing/growth title on its team page.",
+  "evidence_paths": "evidence/phase2/lagos_life_sl.md | evidence/phase1/hy_as_oct_2026.md | evidence/phase1/hy_sl_ng_angel_2026.md | evidence/phase4/vatar_home.md | evidence/phase4/vatar_about.md | evidence/phase4/vatar_contact.md | evidence/phase4/vatar_ig_scrape.md | evidence/phase4/vatar_ig_interact.json | evidence/phase4/vatar_ig_stop.json | screenshots/vatar_instagram.png"
+}

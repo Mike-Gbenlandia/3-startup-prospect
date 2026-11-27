@@ -1,0 +1,51 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "markdown": "[Aeon home](https://aeonsec.io/)\n\n- Products\n- [Partners](https://aeonsec.io/partnership)\n- Community\n- Company\n\n [Get access](https://aeonsec.io/get-access)\n\n# Page not found\n\nThis page may have moved or been unpublished.\n\n[Visit the newsroom](https://aeonsec.io/newsroom)\n\n![](https://aeonsec.io/hero-grid.svg)\n\nGet started\n\n## See Aeon in action\n\nGain visibility, achieve compliance, and prioritize risks.\n\n[Get access![](https://aeonsec.io/get-started/arrow-right.svg)](https://aeonsec.io/get-access)\n\n![](https://aeonsec.io/hero-grid.svg)\n\n- ![SOC 2 Type II](https://aeonsec.io/compliance/badges/soc2.svg)\n- ![NDPR](https://aeonsec.io/compliance/badges/ndpr.svg)\n- ![ISO 27001](https://aeonsec.io/compliance/badges/iso.svg)\n\n[Company(opens in a new tab)](https://pipeops.io/)\n\n![Aeon](https://aeonsec.io/footer/aeon-logo.svg)",
+    "metadata": {
+      "twitter:image:height": "630",
+      "language": "en",
+      "og:image:type": "image/png",
+      "description": "Aeon is a cyber defence and compliance platform for digital infrastructure.",
+      "og:image:width": "1200",
+      "og:image:alt": "Aeon — Cyber defence and compliance",
+      "og:description": "Aeon is a cyber defence and compliance platform for digital infrastructure.",
+      "ogImage": "https://aeonsec.io/opengraph-image?d65437fa8079c964",
+      "twitter:image": "https://aeonsec.io/opengraph-image?d65437fa8079c964",
+      "robots": "noindex",
+      "twitter:image:width": "1200",
+      "twitter:description": "Aeon is a cyber defence and compliance platform for digital infrastructure.",
+      "viewport": "width=device-width, initial-scale=1",
+      "ogDescription": "Aeon is a cyber defence and compliance platform for digital infrastructure.",
+      "twitter:image:type": "image/png",
+      "ogTitle": "Aeon | Cyber defence and compliance",
+      "og:image": "https://aeonsec.io/opengraph-image?d65437fa8079c964",
+      "twitter:image:alt": "Aeon — Cyber defence and compliance",
+      "title": "Aeon | Cyber defence and compliance",
+      "og:title": "Aeon | Cyber defence and compliance",
+      "twitter:title": "Aeon | Cyber defence and compliance",
+      "og:image:height": "630",
+      "twitter:card": "summary_large_image",
+      "favicon": "https://aeonsec.io/favicon.svg",
+      "scrapeId": "01a21d22-554a-7388-a28c-7547fca9f712",
+      "sourceURL": "https://aeonsec.io/careers",
+      "url": "https://aeonsec.io/careers",
+      "statusCode": 404,
+      "error": "Not Found",
+      "contentType": "text/html; charset=utf-8",
+      "proxyUsed": "basic",
+      "cacheState": "hit",
+      "cachedAt": "2026-11-25T15:18:52.193Z",
+      "creditsUsed": 1,
+      "concurrencyLimited": false
+    },
+    "links": [
+      "https://aeonsec.io/",
+      "https://aeonsec.io/partnership",
+      "https://aeonsec.io/get-access",
+      "https://aeonsec.io/newsroom",
+      "https://pipeops.io/"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+# Pouchers.io (@pouchers_io)
+
+International payments? We know the drill 😉
+💸 Receive USD, EUR & GBP
+💳 Virtual dollar cards
+🌍 Global payouts
+🪙 USDT & USDC
+👇 Let’s get you started
+
+2,786 followers · 1 following
+
+Links: https://www.pouchers.onelink.me/GUbq/fxx9vmjq
+
+## Recent posts
+
+- [Dear November expenses, we think it’s time you started giving something back. 😌 This Black November, every eligible do…](https://instagram.com/p/Dfzc7vbCA-U) · 2026-11-16 · 46 likes · 0 comments
+- [📡 📡 Reporting live from the Pouchers News headquarters! BREAKING: Your November spending could earn you up to $500 we…](https://instagram.com/p/DfzILpuopmn) · 2026-11-16 · 28 likes · 14 comments · 1,947 views
+- [PRODUCT × USER SERIES : A Guide to creating and accessing your Virtual Dollar card on the Pouchers app #pouchersvirtual…](https://instagram.com/p/DbIxVSSI2ka) · 2026-07-23 · 64 likes · 4 comments
+- [Your wishlist called. It wants a seat at the Black Friday table. 🛒 TikTok Shop, Amazon, ASOS, Sephora, Nike and more a…](https://instagram.com/p/DgNOkHhiKdx) · 2026-11-26 · 8 likes · 0 comments
+- [Your Black Friday wishlist could earn you more than just the things in your cart. Pay with Pouchers, earn points, climb…](https://instagram.com/p/DgMtgS1ouDu) · 2026-11-26 · 19 likes · 0 comments · 156 views
+- [Borrowing ₦350K to prove you don't need a man's money, only to borrow ₦20K the next day to survive? 😂 Sometimes, we're…](https://instagram.com/p/DgIIAR1Izb4) · 2026-11-24 · 14,103 likes · 754 comments · 183,017 views
+- [The first week is officially in the books, and these six came out on top.🏆 From $150 to $20, the Week One rewards have…](https://instagram.com/p/DgH7cGgCPmw) · 2026-11-24 · 9 likes · 0 comments
+- [After doing the work and delivering the project, it’s time to get paid. With Pouchers, you can create and send invoices…](https://instagram.com/p/DgFbDI4iKJU) · 2026-11-23 · 14 likes · 0 comments
+- [Download Pouchers now o, so every time you spend with their virtual dollar card and get debited, you also stand a chanc…](https://instagram.com/p/DgDEyr6I4mc) · 2026-11-22 · 222 likes · 1 comments · 3,737 views
+- [Vice City is calling, and your Pouchers card is ready for the lifestyle. 🌴 From Los Santos to everywhere else, spend w…](https://instagram.com/p/Df9gE1jIBHM) · 2026-11-20 · 14 likes · 0 comments
+- [Four personalities, one bank account, and Pouchers to save the day. 😂 But with everyone eyeing the rewards, who do you…](https://instagram.com/p/Df6yo2ZoJfL) · 2026-11-19 · 110 likes · 13 comments · 4,070 views
+- [November is giving us every reason to shop 🛍️ From AliExpress, SHEIN, Amazon, Temu and Target, the deals are looking t…](https://instagram.com/p/Df4gwk6CB9R) · 2026-11-18 · 8 likes · 0 comments
