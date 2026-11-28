@@ -1,0 +1,66 @@
+{
+  "slug": "maliyo-games",
+  "name": "Maliyo Games",
+  "website": "https://www.maliyo.com/",
+  "industry": "Gaming / Mobile Game Development Studio",
+  "city": "Lagos",
+  "what_they_do": "Lagos-based mobile game development studio (founded 2012 by Hugo Obi) building African-inspired games including Whot King, Crazy Ludo, Safari City, and Disney Iwájú: Rising Chef alongside its GameUp Academy developer training ecosystem.",
+  "recent_activity": "2026-10-28: Selected among 10 studios for Google Play's $1M Indie Games Fund Africa (supporting Safari City) (https://www.maliyo.com/blog/maliyo-games-google-play-indie-games-fund-africa); 2026-11-17: Announced MaliyoCON2 (Dec 10, Lagos) on maliyo.com/blog (https://www.maliyo.com/blog/maliyocon2-ai-gaming-africa-2026); 2026-11-23: Showcased fashion games at Entertainment Week Africa on @maliyogames Instagram (https://instagram.com/p/DgFP0kyIsrc)",
+  "tier": "C",
+  "round_type": "Non-dilutive Grant (Google Play Indie Games Fund Africa 2026)",
+  "amount": "Not disclosed ($1M total fund across 10 studios)",
+  "funding_date": "2026-10-28",
+  "investors": "Google Play / Google",
+  "funding_sources": "https://www.startuplist.africa/funding/maliyo-games-grant-undisclosed-9c7899a | https://african-startups.com/news/funding/meet-the-10-african-gaming-studios-selected-for-google-plays-1-million-indie-games-fund/ | https://www.maliyo.com/blog/maliyo-games-google-play-indie-games-fund-africa",
+  "funding_confidence": "CONFIRMED_2_SOURCES",
+  "founder_or_marketing_contact": "Hugo Obi (Founder & CEO) | Chinyelu Akpa (Head of Growth & Partnership) | https://www.maliyo.com/contact",
+  "instagram_url": "https://www.instagram.com/maliyogames/",
+  "ig_status": "OK",
+  "ig_followers": "1,807",
+  "ig_post_1": {
+    "raw_timestamp_text": "2026-11-23 (pinned 2026-11-10 post DfkLejEiOOv skipped)",
+    "absolute_date": "2026-11-23",
+    "type": "Reel",
+    "url": "https://instagram.com/p/DgFP0kyIsrc"
+  },
+  "ig_post_2": {
+    "raw_timestamp_text": "2026-11-20",
+    "absolute_date": "2026-11-20",
+    "type": "Carousel",
+    "url": "https://instagram.com/p/Df9UTiSCOWx"
+  },
+  "ig_post_3": {
+    "raw_timestamp_text": "2026-11-13",
+    "absolute_date": "2026-11-13",
+    "type": "Carousel",
+    "url": "https://instagram.com/p/DfrJv46CK72"
+  },
+  "ig_post_4": {
+    "raw_timestamp_text": "2026-11-12",
+    "absolute_date": "2026-11-12",
+    "type": "Reel",
+    "url": "https://instagram.com/p/DfoeFn8z7Q6"
+  },
+  "ig_post_5": {
+    "raw_timestamp_text": "2026-11-09",
+    "absolute_date": "2026-11-09",
+    "type": "Photo",
+    "url": "https://instagram.com/p/DfhmxRTvAFM"
+  },
+  "ig_days_since_latest": 4,
+  "ig_median_gap_days": 3,
+  "ig_screenshot_path": "screenshots/maliyo-games_instagram.png",
+  "blog_url": "https://www.maliyo.com/blog",
+  "blog_last_post_date": "2026-11-17",
+  "blog_posts_last_90_days": 2,
+  "marketing_titles_found": "Chinyelu Akpa (Head of Growth & Partnership, maliyo.com/about)",
+  "hiring_marketing_role": "NO (no public careers or open roles page on maliyo.com)",
+  "need_score": 0,
+  "score_flags": "NONE",
+  "qualified": false,
+  "signal_categories": [],
+  "unique_offer": "Full-stack Lagos mobile game studio combining original African-cultural mobile titles (Safari City, Whot King) with GameUp Academy talent training and MaliyoCON ecosystem events.",
+  "closest_overlap": "TBD_PHASE_5",
+  "pitch_hook": "Not qualified (need_score 0): @maliyogames posts every ~3 days (latest 2026-11-23), maliyo.com/blog published twice in Nov 2026, and Chinyelu Akpa leads Growth & Partnership on the public team page.",
+  "evidence_paths": "evidence/phase2/maliyo_games_9f6caa369a.md | evidence/phase1/hy_as_google_indie_games.md | evidence/phase4/maliyo-games_home.json | evidence/phase4/maliyo-games_home.md | evidence/phase4/maliyo-games_about.json | evidence/phase4/maliyo-games_about.md | evidence/phase4/maliyo-games_blog.json | evidence/phase4/maliyo-games_blog.md | evidence/phase4/maliyo-games_ig_scrape.json | evidence/phase4/maliyo-games_ig_scrape.md | evidence/phase4/maliyo-games_ig_interact.json | screenshots/maliyo-games_instagram.png"
+}

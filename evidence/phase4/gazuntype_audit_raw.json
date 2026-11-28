@@ -1,0 +1,53 @@
+{
+  "retrievalDate": "2026-11-27",
+  "slug": "gazuntype",
+  "poolEntry": {
+    "name": "Gazuntype",
+    "website": "https://gazuntype.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Non-dilutive Grant (Google Play Indie Games Fund Africa 2026)",
+    "amount": "Not disclosed ($1M total fund across 10 studios)",
+    "announced_date": "2026-10-28",
+    "investors": "Google Play / Google",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/gazuntype-grant-undisclosed-2826c91",
+      "https://african-startups.com/news/funding/meet-the-10-african-gaming-studios-selected-for-google-plays-1-million-indie-games-fund/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/gazuntype_d8aed51966.md",
+      "evidence/phase1/hy_as_google_indie_games.md"
+    ],
+    "batch_number": 6
+  },
+  "resolvedWebsite": "https://gazuntype.com/",
+  "searchCandidates": [],
+  "scrapedPages": {
+    "home": {
+      "url": "https://gazuntype.com/",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/gazuntype_home.md",
+      "jsonPath": "evidence/phase4/gazuntype_home.json"
+    }
+  },
+  "socialLinksFoundOnSite": {
+    "instagram": [],
+    "linkedin": [],
+    "twitter": [
+      "https://twitter.com/homeVRgame"
+    ]
+  },
+  "instagramAudit": {
+    "status": "NO_IG_FOUND",
+    "url": "NOT_FOUND"
+  },
+  "evidencePaths": [
+    "evidence/phase2/gazuntype_d8aed51966.md",
+    "evidence/phase1/hy_as_google_indie_games.md",
+    "evidence/phase4/gazuntype_home.json",
+    "evidence/phase4/gazuntype_home.md"
+  ]
+}

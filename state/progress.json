@@ -8,9 +8,9 @@
     },
     "audit": {
       "DROPPED": 270,
-      "DONE": 50,
+      "DONE": 55,
       "BLOCKED": 1,
-      "PENDING": 71
+      "PENDING": 66
     },
     "total_candidates": 392
   },
@@ -19,6 +19,6 @@
     "step": null,
     "open_session_ids": []
   },
-  "next_action": "Fetch and audit Batch 10: navidyn, krosai, maliyo-games, gazuntype, fer-factor",
-  "last_updated": "2026-11-28T05:58:14.630Z"
+  "next_action": "Fetch and audit Batch 11: deluxe-entertainment-studios, come-again-foods, harthio, hubpharm-africa, tryctor",
+  "last_updated": "2026-11-28T06:01:05.752Z"
 }

@@ -1,0 +1,30 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "markdown": "# Navidyn (@navidynrobotics)\n\nBuilding ROV/AUV systems for subsea operations in Africa.\n\n119 followers · 4 following\n\nLinks: https://www.navidynrobotics.com\n\n## Recent posts\n\n- [Meet Omí 1.0, sub-Saharan Africa’s first locally developed Remotely Operated Vehicle (ROV). Our team successfully condu…](https://instagram.com/p/DfNo3-_uC9L) · 2026-11-01 · 47 likes · 5 comments · 549 views\n- [|| 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐢𝐧𝐠 𝐍𝐚𝐯𝐢𝐝𝐲𝐧 We are building Nigeria’s first robotics company focused on designing and manu…](https://instagram.com/p/DYPCEdgjnGc) · 2026-05-12 · 60 likes · 0 comments\n",
+    "metadata": {
+      "description": "Building ROV/AUV systems for subsea operations in Africa.",
+      "title": "Navidyn (@navidynrobotics)",
+      "scrapeId": "01a220bc-1272-7025-9e19-701e608680e7",
+      "sourceURL": "https://www.instagram.com/navidynrobotics/",
+      "url": "https://www.instagram.com/navidynrobotics/",
+      "statusCode": 200,
+      "contentType": "text/markdown",
+      "proxyUsed": "basic",
+      "provider": {
+        "id": "influencers-club",
+        "creditsCost": 0,
+        "steps": [
+          {
+            "provider": "influencers-club",
+            "status": "matched",
+            "creditsCost": 0
+          }
+        ]
+      },
+      "creditsUsed": 0,
+      "concurrencyLimited": false
+    }
+  }
+}

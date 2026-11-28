@@ -1,0 +1,76 @@
+{
+  "retrievalDate": "2026-11-27",
+  "slug": "krosai",
+  "poolEntry": {
+    "name": "KrosAI",
+    "website": "https://krosai.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "iDICE Startup Bridge Growth Lab Equity ($100K, 2026-11-23) & Early Funding Round ($135K incl. INSEAD AI Venture Lab, 2026-10-29)",
+    "amount": "$100K + $135K",
+    "announced_date": "2026-11-23",
+    "investors": "Bank of Industry (BOI) / iDICE Startup Bridge; INSEAD AI Venture Lab, MARL Accelerator, Microsoft for Startups, NVIDIA Inception, Draper University",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://weetracker.com/2026/11/23/8-nigerian-startups-get-800000-idice-growth-lab/",
+      "https://weetracker.com/2026/11/04/krosai-raises-135k-ai-voice-infrastructure-africa",
+      "https://fireround.dev/companies/krosai"
+    ],
+    "evidence_paths": [
+      "evidence/phase1/hy_weetracker_idice_8.md",
+      "evidence/phase2/krosai_wt.md",
+      "evidence/phase2/krosai_6d365197ab.md"
+    ],
+    "batch_number": 6
+  },
+  "resolvedWebsite": "https://krosai.com/",
+  "searchCandidates": [],
+  "scrapedPages": {
+    "home": {
+      "url": "https://krosai.com/",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/krosai_home.md",
+      "jsonPath": "evidence/phase4/krosai_home.json"
+    },
+    "about": {
+      "url": "https://krosai.com/about",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/krosai_about.md",
+      "jsonPath": "evidence/phase4/krosai_about.json"
+    },
+    "blog": {
+      "url": "https://krosai.com/blog",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/krosai_blog.md",
+      "jsonPath": "evidence/phase4/krosai_blog.json"
+    }
+  },
+  "socialLinksFoundOnSite": {
+    "instagram": [],
+    "linkedin": [
+      "https://www.linkedin.com/company/krosaihq"
+    ],
+    "twitter": [
+      "https://x.com/krosaihq"
+    ]
+  },
+  "instagramAudit": {
+    "status": "NO_IG_FOUND",
+    "url": "NOT_FOUND"
+  },
+  "evidencePaths": [
+    "evidence/phase1/hy_weetracker_idice_8.md",
+    "evidence/phase2/krosai_wt.md",
+    "evidence/phase2/krosai_6d365197ab.md",
+    "evidence/phase4/krosai_home.json",
+    "evidence/phase4/krosai_home.md",
+    "evidence/phase4/krosai_about.json",
+    "evidence/phase4/krosai_about.md",
+    "evidence/phase4/krosai_blog.json",
+    "evidence/phase4/krosai_blog.md"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "retrievalDate": "2026-11-27",
+  "slug": "fer-factor",
+  "poolEntry": {
+    "name": "Fer Factor",
+    "website": "https://ferfactor.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Non-dilutive Grant (Google Play Indie Games Fund Africa 2026)",
+    "amount": "Not disclosed ($1M total fund across 10 studios)",
+    "announced_date": "2026-10-28",
+    "investors": "Google Play / Google",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/fer-factor-grant-undisclosed-ed25f85",
+      "https://african-startups.com/news/funding/meet-the-10-african-gaming-studios-selected-for-google-plays-1-million-indie-games-fund/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/fer_factor_9003517b61.md",
+      "evidence/phase1/hy_as_google_indie_games.md"
+    ],
+    "batch_number": 6
+  },
+  "resolvedWebsite": "https://ferfactor.com/",
+  "searchCandidates": [],
+  "scrapedPages": {
+    "home": {
+      "url": "https://ferfactor.com/",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/fer-factor_home.md",
+      "jsonPath": "evidence/phase4/fer-factor_home.json"
+    },
+    "blog": {
+      "url": "https://ferfactor.com/press",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/fer-factor_blog.md",
+      "jsonPath": "evidence/phase4/fer-factor_blog.json"
+    }
+  },
+  "socialLinksFoundOnSite": {
+    "instagram": [],
+    "linkedin": [
+      "https://www.linkedin.com/in/oladosuferanmi/"
+    ],
+    "twitter": [
+      "https://x.com/theferfactor"
+    ]
+  },
+  "instagramAudit": {
+    "status": "NO_IG_FOUND",
+    "url": "NOT_FOUND"
+  },
+  "evidencePaths": [
+    "evidence/phase2/fer_factor_9003517b61.md",
+    "evidence/phase1/hy_as_google_indie_games.md",
+    "evidence/phase4/fer-factor_home.json",
+    "evidence/phase4/fer-factor_home.md",
+    "evidence/phase4/fer-factor_blog.json",
+    "evidence/phase4/fer-factor_blog.md"
+  ]
+}
