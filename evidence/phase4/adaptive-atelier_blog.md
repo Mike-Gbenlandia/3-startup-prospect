@@ -1,0 +1,194 @@
+![](data:image/svg+xml,%3Csvg%20width%3D%22199%22%20height%3D%22245%22%20viewBox%3D%220%200%20199%20245%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M99.2351%2053.4389C93.9505%2053.4389%2088.7845%2051.8718%2084.3905%2048.9358C79.9966%2045.9999%2076.5719%2041.8269%2074.5495%2036.9445C72.5272%2032.0622%2071.9981%2026.6898%2073.029%2021.5067C74.06%2016.3237%2076.6048%2011.5627%2080.3416%207.82595C84.0784%204.08917%2088.8393%201.54439%2094.0224%200.513418C99.2054%20-0.517557%20104.578%200.0115773%20109.46%202.03391C114.342%204.05624%20118.515%207.48093%20121.451%2011.8749C124.387%2016.2689%20125.954%2021.4348%20125.954%2026.7194C125.947%2033.8036%20123.129%2040.5953%20118.12%2045.6046C113.111%2050.6138%20106.319%2053.4313%2099.2351%2053.4389Z%22%20fill%3D%22white%22%2F%3E%3Cpath%20d%3D%22M183.214%2053.82L182.999%2053.8773L182.799%2053.9393C182.322%2054.0729%20181.845%2054.216%20181.368%2054.3639C172.488%2056.9691%20129.394%2069.1169%2099.0337%2069.1169C70.8208%2069.1169%2031.6244%2058.62%2019.0853%2055.0558C17.8373%2054.5734%2016.5629%2054.1624%2015.2682%2053.8248C6.20273%2051.4391%200%2060.6478%200%2069.0644C0%2077.3999%207.49098%2081.3696%2015.0535%2084.2181V84.3517L60.4861%2098.5416C65.1286%20100.321%2066.3692%20102.139%2066.9751%20103.714C68.9457%20108.767%2067.3711%20118.772%2066.8129%20122.265L64.0455%20143.736L48.6866%20227.802C48.6389%20228.031%2048.596%20228.264%2048.5578%20228.503L48.4481%20229.109C47.3411%20236.815%2052.9999%20244.291%2063.7163%20244.291C73.0681%20244.291%2077.1953%20237.836%2078.9845%20229.052C80.7738%20220.268%2092.3443%20153.87%2099.0241%20153.87C105.704%20153.87%20119.464%20229.052%20119.464%20229.052C121.254%20237.836%20125.381%20244.291%20134.733%20244.291C145.478%20244.291%20151.137%20236.781%20150.001%20229.052C149.904%20228.402%20149.783%20227.756%20149.638%20227.115L134.069%20143.745L131.307%20122.274C129.308%20109.769%20130.916%20105.637%20131.46%20104.668C131.474%20104.645%20131.487%20104.621%20131.498%20104.596C132.013%20103.642%20134.361%20101.505%20139.838%2099.4482L182.436%2084.5569C182.698%2084.4871%20182.956%2084.4043%20183.209%2084.3088C190.844%2081.446%20198.478%2077.4858%20198.478%2069.0739C198.478%2060.6621%20192.28%2051.4391%20183.214%2053.82Z%22%20fill%3D%22white%22%2F%3E%3C%2Fsvg%3E)Press Alt + A, or Option + A on Mac, to open or close the accessibility menu
+
+[![Adaptive Atelier](https://www.adaptiveatelier.com/references/assests/Landing-page-assests/navbar-logo.svg)](https://www.adaptiveatelier.com/)
+
+Solutions
+
+About
+
+Resources
+
+[The Studio](https://www.adaptiveatelier.com/the-studio)
+
+[Book a Demo](https://cal.com/afoma-onodingene-skzxwa/book-a-demo)
+
+# Press
+
+![Marie Claire logo](https://www.adaptiveatelier.com/press/marie-claire-logo.png)
+
+## Marie Claire
+
+“In Nigeria, unseen barriers often exclude people with disabilities from daily life. Discover how Adaptive Atelier is boldly redefining accessibility, starting with beauty.’’
+
+![Marie Claire press feature](https://www.adaptiveatelier.com/press/marie-claire.png)
+
+4th July 2025
+
+[Read Story](https://marieclaire.ng/toyosi-alexis-adaptive-atelier-hosts-beauty-in-every-language-sparking-crucial-discussions-about-disability-access-in-nigeria/)
+
+![This Day Style logo](https://www.adaptiveatelier.com/press/style-logo.png)
+
+## This Day Style
+
+“I believe that my hearing loss has positively impacted my work because it has created space for me to thrive in a way that is unique to my story.’’
+
+![This Day Style press feature](https://www.adaptiveatelier.com/press/style.png)
+
+2nd March 2022
+
+[Read Story](https://thisdaystyle.ng/i-believe-that-my-hearing-loss-has-positively-impacted-my-work-because-it-has-created-space-for-me-to-thrive-in-a-way-that-is-unique-to-my-story-toyosi-a/)
+
+![Tech Cabal logo](https://www.adaptiveatelier.com/press/techcabal-logo.png)
+
+## Tech Cabal
+
+“35 million Nigerians live with disabilities. This startup is building the web for them.’’
+
+![Tech Cabal press feature](https://www.adaptiveatelier.com/press/techcabal.png)
+
+21st February 2026
+
+[Read Story](https://techcabal.com/2026/02/21/adaptive-atelier-is-ensuring-accessibility-on-websites/)
+
+![Tech Economy logo](https://www.adaptiveatelier.com/press/tech-economy-logo.png)
+
+## Tech Economy
+
+“Toyosi Badejo-Okusanya Defies Hearing-Impairment to Build Solutions for the $13tr 'Accessibility' Market”
+
+![Tech Economy press feature](https://www.adaptiveatelier.com/press/tech-economy.png)
+
+18th February 2026
+
+[Read Story](https://techeconomy.ng/toyosi-badejo-okusanya-accessibility-market/)
+
+![Technext logo](https://www.adaptiveatelier.com/press/technext-logo.png)
+
+## Technext
+
+“At age 4, Toyosi was diagnosed with a hearing loss. She grew up with the disappointment of not seeing young disabled people building careers, creating tech solutions, or shaping industries. Most of what she saw framed disability around healthcare limitations or old age.”
+
+![Technext press feature](https://www.adaptiveatelier.com/press/technext.png)
+
+2nd March 2022
+
+[Read Story](https://technext24.com/women-in-tech/how-toyosi-badejo-okusanya-built-a-tech/)
+
+![I Said What I Said logo](https://www.adaptiveatelier.com/press/i-said-what-i-said-logo.png)
+
+## I Said What I Said
+
+“Toyosi, who grew up with a hearing disability, shares her journey of growing up deaf in Nigeria, navigating its complexities, confronting societal perceptions of deafness, and exploring what true inclusion means, both individually and as a collective. ’’
+
+![I Said What I Said press feature](https://www.adaptiveatelier.com/press/i-said-what-i-said.png)
+
+7th May 2025
+
+[Read Story](https://www.youtube.com/watch?v=Fi9RupHkA_I)
+
+![Zikoko logo](https://www.adaptiveatelier.com/press/zikoko-logo.png)
+
+## Zikoko
+
+“Toyosi Alexis first went viral in 2021 for a letter she wrote to her hearing loss. “Couldn’t you just fix yourself and go away?,” she wrote in the post. “I fought to prove that I was worthy — more than just a girl with hearing aids and a weird accent.” It provoked a public outcry and raised awareness about the experiences of Nigerians living with deafness.’’
+
+![Zikoko press feature](https://www.adaptiveatelier.com/press/zikoko.png)
+
+29th May 2025
+
+[Read Story](https://www.zikoko.com/pop/a-deaf-girl-attending-concerts-in-lagos/)
+
+![Vanguard logo](https://www.adaptiveatelier.com/press/vanguard-logo.png)
+
+## Vanguard
+
+“The Standard Chartered Foundation, in partnership with the Enterprise Development Centre (EDC), Pan-Atlantic University, and Village Capital, has announced the top 11 finalists selected for the Accelerator Phase of the Women in Tech Accelerator Nigeria programme.”
+
+![Vanguard press feature](https://www.adaptiveatelier.com/press/vanguard.png)
+
+1st July 2026
+
+[Read Story](https://www.vanguardngr.com/2026/07/standard-chartered-foundation-enterprise-devt-centre-village-capital-announce-top-11-finalists-for-women-in-tech-accelerator-nigeria-cycle-7/#google_vignette)
+
+![This Day logo](https://www.adaptiveatelier.com/press/this-day-logo.png)
+
+## This Day
+
+“Standard Chartered Foundation, Enterprise Development Centre, Announce Top 11 Finalists for Women in Tech Accelerator Nigeria (Cycle 7)’’
+
+![This Day press feature](https://www.adaptiveatelier.com/press/this-day.png)
+
+1st July 2026
+
+[Read Story](https://www.thisdaylive.com/2026/07/01/standard-chartered-foundation-enterprise-development-centre-announce-top-11-finalists-for-women-in-tech-accelerator-nigeria-cycle-7/)
+
+![Arise News logo](https://www.adaptiveatelier.com/press/arise-news-logo.png)
+
+## Arise News
+
+“As a deafness inclusion consultant and advocate, Toyosi Badejo-Okusanya emphasizes the urgent need for greater accessibility and inclusive communication across public spaces, corporate organizations, and educational institutions in Nigeria.’’
+
+![Arise News press feature](https://www.adaptiveatelier.com/press/arise-news.png)
+
+26th May 2024
+
+[Read Story](https://www.youtube.com/watch?v=YsBKFAZvRCM)
+
+![Footer Motif](https://www.adaptiveatelier.com/references/assests/Landing-page-assests/footer-motif-svg.svg)
+
+[![Adaptive Atelier](https://www.adaptiveatelier.com/references/assests/Landing-page-assests/footer-logo.svg)](https://www.adaptiveatelier.com/)
+
+[Instagram](https://instagram.com/adaptiveatelier)[LinkedIn](https://linkedin.com/company/adaptiveatelier)[Twitter (X)](https://twitter.com/adaptiveatelier)[TikTok](https://tiktok.com/@adaptiveatelier)[YouTube](https://youtube.com/@adaptiveatelier)
+
+## Solutions
+
+- [Adaptive Wiz](https://www.adaptiveatelier.com/adaptive-wiz)
+- [Adaptive Test](https://www.adaptiveatelier.com/adaptive-test)
+- [Adaptive Ally](https://www.adaptiveatelier.com/adaptive-ally)
+- [Consultations](https://www.adaptiveatelier.com/consultations)
+- [Training & Development](https://www.adaptiveatelier.com/training-and-development)
+
+## Integrations
+
+- [Wordpress](https://www.adaptiveatelier.com/applications/wordpress)
+- [Shopify](https://www.adaptiveatelier.com/applications/shopify)
+- [BigCommerce](https://www.adaptiveatelier.com/applications/bigcommerce)
+- [Wix](https://www.adaptiveatelier.com/applications/wix)
+- [Custom Built Websites](https://www.adaptiveatelier.com/applications/custom-built)
+
+## Compliance
+
+- [ADA](https://www.adaptiveatelier.com/compliance)
+- [ADA Checklist](https://www.adaptiveatelier.com/compliance)
+- [EAA](https://www.adaptiveatelier.com/compliance)
+- [WCAG](https://www.adaptiveatelier.com/compliance)
+- [WCAG Checklist](https://www.adaptiveatelier.com/compliance)
+- [AODA](https://www.adaptiveatelier.com/compliance)
+- [Section 508](https://www.adaptiveatelier.com/compliance)
+
+## Company
+
+- [About Us](https://www.adaptiveatelier.com/about)
+- [Contact Us](https://www.adaptiveatelier.com/contact-us)
+- [Careers](https://www.adaptiveatelier.com/careers)
+- [Press](https://www.adaptiveatelier.com/press)
+- [FAQs](https://www.adaptiveatelier.com/faqs)
+- [Terms of Service](https://www.adaptiveatelier.com/terms-of-service)
+- [Security & Privacy](https://www.adaptiveatelier.com/security-privacy)
+- [Accessibility Statement](https://www.adaptiveatelier.com/accessibility-statement)
+
+[Instagram](https://instagram.com/adaptiveatelier)[LinkedIn](https://linkedin.com/company/adaptiveatelier)[Twitter (X)](https://twitter.com/adaptiveatelier)[TikTok](https://tiktok.com/@adaptiveatelier)[YouTube](https://youtube.com/@adaptiveatelier)
+
+Adaptive Atelier © 2026
+
+Select language
+
+EnglishFrenchSpanish
+
+### We Value Your Privacy
+
+We use essential cookies for accessibility preferences and privacy-respecting analytics to understand how visitors interact with our website. We do not use advertising or tracking cookies.
+
+DeclineAccept All
+
+[Learn more in Security & Privacy](https://www.adaptiveatelier.com/security-privacy)

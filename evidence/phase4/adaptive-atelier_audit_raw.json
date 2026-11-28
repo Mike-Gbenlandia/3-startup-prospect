@@ -1,0 +1,225 @@
+{
+  "retrievalDate": "2026-11-27",
+  "slug": "adaptive-atelier",
+  "poolEntry": {
+    "name": "Adaptive Atelier",
+    "website": "https://www.adaptiveatelier.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Grant (Standard Chartered Foundation Women in Tech Accelerator Nigeria Cycle 7)",
+    "amount": "$10K",
+    "announced_date": "2026-10-03",
+    "investors": "Standard Chartered Foundation",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/adaptive-atelier-grant-10k-usd-6e0374f",
+      "https://techpoint.africa/brandpress/standard-chartered-foundation-women-in-tech-accelerator-winners-in-nigeria-announced/",
+      "https://www.adaptiveatelier.com/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/adaptive_atelier_d008b18de6.md",
+      "evidence/phase2/q_adaptive_b8.json"
+    ],
+    "batch_number": 8
+  },
+  "resolvedWebsite": "https://www.adaptiveatelier.com/",
+  "searchCandidates": [],
+  "scrapedPages": {
+    "home": {
+      "url": "https://www.adaptiveatelier.com/",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/adaptive-atelier_home.md",
+      "jsonPath": "evidence/phase4/adaptive-atelier_home.json"
+    },
+    "about": {
+      "url": "https://www.adaptiveatelier.com/about",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/adaptive-atelier_about.md",
+      "jsonPath": "evidence/phase4/adaptive-atelier_about.json"
+    },
+    "blog": {
+      "url": "https://www.adaptiveatelier.com/press",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/adaptive-atelier_blog.md",
+      "jsonPath": "evidence/phase4/adaptive-atelier_blog.json"
+    },
+    "careers": {
+      "url": "https://www.adaptiveatelier.com/careers",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/adaptive-atelier_careers.md",
+      "jsonPath": "evidence/phase4/adaptive-atelier_careers.json"
+    }
+  },
+  "socialLinksFoundOnSite": {
+    "instagram": [
+      "https://www.instagram.com/adaptiveatelier/"
+    ],
+    "linkedin": [
+      "https://linkedin.com/company/adaptiveatelier"
+    ],
+    "twitter": [
+      "https://twitter.com/adaptiveatelier"
+    ]
+  },
+  "instagramAudit": {
+    "status": "OK",
+    "url": "https://www.instagram.com/adaptiveatelier/",
+    "screenshotPath": "screenshots/adaptive-atelier_instagram.png",
+    "mdText": "# Adaptive Atelier (@adaptiveatelier)\n\nInclusive Solutions, For All. \nAccessibility Tech & Consulting.\nas seen in @marieclairemag , @techcabal and more.\n\n488 followers · 42 following\n\nLinks: https://www.adaptiveatelier.com\n\n## Recent posts\n\n- [WE DEMOED AT MOONSHOT BY TC!!! 🌍🌍🥹🤭💗 @moonshotbytc I genuinely don’t think words can fully capture how I feel. Eve…](https://instagram.com/p/DfSQjtcjtgo) · 2026-11-03 · 1,506 likes · 68 comments\n- [‘’Technology should work for every person using it.’’ That’s why we built the tech side of Adaptive Atelier around thre…](https://instagram.com/p/DeYxlPRkajy) · 2026-10-12 · 23 likes · 0 comments\n- [Your website may be accessible to some, but is it accessible to everyone? For people who are blind or have low vision,…](https://instagram.com/p/DeOj1s9kf1W) · 2026-10-08 · 1 comments\n- [From finding accessibility barriers to fixing and validating them. We’re excited to be featured in Disrupt Africa, spot…](https://instagram.com/p/Dd608kMkZNx) · 2026-09-30 · 0 comments\n- [For Onalaja’s SS26 collection, Marked: A Rite of Passage, every detail carried intention: a collection rooted in herita…](https://instagram.com/p/Ddcgjz2ChS7) · 2026-09-18 · 0 comments\n- [Our work at Adaptive Atelier is not merely a service; it’s a profound declaration of intent and a strategic blueprint f…](https://instagram.com/p/DdRiukhEdfu) · 2026-09-14 · 0 comments\n- [1 in 6 people worldwide live with a disability. If your website isn’t built for them, you’re closing the door on a sign…](https://instagram.com/p/Dc_Ne8RCrZF) · 2026-09-07 · 2 comments\n- [In this article with TechCabal, our founder, Toyosi Badejo-Okusanya talks about her journey from being labelled as a “s…](https://instagram.com/p/Dc6jVUHEW7-) · 2026-09-05 · 4 comments\n- [Adaptive Atelier is two things in one house: AdaptiveTech, making websites usable for disabled people, and Adaptive Stu…](https://instagram.com/p/DcTzeDxCuDI) · 2026-08-21 · 0 comments\n- [We are active. Adaptive Atelier is officially in motion, turning ideas into accessible solutions that make a real diffe…](https://instagram.com/p/DcQsYS9q6xW) · 2026-08-20 · 3 comments · 499 views\n- [I WON THE SYNERGIES WORK GRANT!!! 🥹 A few months ago, I was listening to a podcast about funding opportunities for dis…](https://instagram.com/p/DcOdKlkDDH6) · 2026-08-19 · 1,430 likes · 167 comments\n- [Something new is here. A new chapter for Adaptive Atelier — rooted in our core values, but evolving to meet what access…](https://instagram.com/p/DcJcqAts1JN) · 2026-08-17 · 7 comments · 3,107 views\n",
+    "interactParsed": {
+      "title": "Adaptive Atelier (@adaptiveatelier) • Instagram photos and videos",
+      "url": "https://www.instagram.com/adaptiveatelier/",
+      "bodyText": "Log In\nSign Up\nadaptiveatelier\n488 followers\n42 following\nAdaptive Atelier\nInclusive Solutions, For All.\nAccessibility Tech & Consulting.\nas seen in @marieclairemag , @techcabal and more.\nadaptiveatelier.com\nINSIGHTS\nPRODUCTS\nPRESS\nEVENTS\nShow more posts from adaptiveatelier\nMeta\nAbout\nBlog\nJobs\nHelp\nAPI\nPrivacy\nConsumer Health Privacy\nTerms\nLocations\nPopular\nInstagram Lite\nMeta AI\nMuse\nThreads\nContact Uploading & Non-Users\nMeta Verified\nEnglish\nAfrikaans\nالعربية\nČeština\nDansk\nDeutsch\nΕλληνικά\nEnglish\nEnglish (UK)\nEspañol (España)\nEspañol\nفارسی\nSuomi\nFrançais\nעברית\nBahasa Indonesia\nItaliano\n日本語\n한국어\nBahasa Melayu\nNorsk\nNederlands\nPolski\nPortuguês (Brasil)\nPortuguês (Portugal)\nРусский\nSvenska\nภาษาไทย\nFilipino\nTürkçe\n中文(简体)\n中文(台灣)\nবাংলা\nગુજરાતી\nहिन्दी\nHrvatski\nMagyar\nಕನ್ನಡ\nമലയാളം\nमराठी\nनेपाली\nਪੰਜਾਬੀ\nසිංහල\nSlovenčina\nதமிழ்\nతెలుగు\nاردو\nTiếng Việt\n中文(香港)\nБългарски\nFrançais (Canada)\nRomână\nСрпски\nУкраїнська\n© 2026 Instagram from Meta\nSee photos, videos and more from adaptiveatelier\nSign up and never miss a post from adaptiveatelier.\nSign up\nLog in",
+      "domData": {
+        "posts": [
+          {
+            "href": "/toyosialexis/p/DfSQjtcjtgo/",
+            "imgAlt": "Photo by Toyosi Alexis on November 03, 2026. May be an image of text.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/adaptiveatelier/p/DeYxlPRkajy/",
+            "imgAlt": "Photo by Adaptive Atelier on October 12, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/adaptiveatelier/p/DeOj1s9kf1W/",
+            "imgAlt": "Photo by Adaptive Atelier on October 08, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/adaptiveatelier/p/Dd608kMkZNx/",
+            "imgAlt": "Photo by Adaptive Atelier on September 30, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/adaptiveatelier/p/Ddcgjz2ChS7/",
+            "imgAlt": "Photo by Adaptive Atelier on September 18, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/adaptiveatelier/p/DdRiukhEdfu/",
+            "imgAlt": "Photo by Adaptive Atelier on September 14, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/adaptiveatelier/p/Dc_Ne8RCrZF/",
+            "imgAlt": "Photo by Adaptive Atelier on September 07, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/adaptiveatelier/p/Dc6jVUHEW7-/",
+            "imgAlt": "Photo by Adaptive Atelier on September 05, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/adaptiveatelier/p/DcTzeDxCuDI/",
+            "imgAlt": "Photo by Adaptive Atelier on August 21, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/adaptiveatelier/reel/DcQsYS9q6xW/",
+            "imgAlt": "Video by Adaptive Atelier on August 20, 2026.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/toyosialexis/p/DcOdKlkDDH6/",
+            "imgAlt": "Photo by Toyosi Alexis on August 19, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/adaptiveatelier/reel/DcJcqAts1JN/",
+            "imgAlt": "Video by Adaptive Atelier on August 17, 2026.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          }
+        ],
+        "extLinks": [],
+        "loginWall": false
+      }
+    },
+    "allIgLinksFound": [
+      "https://www.instagram.com/adaptiveatelier/"
+    ]
+  },
+  "evidencePaths": [
+    "evidence/phase2/adaptive_atelier_d008b18de6.md",
+    "evidence/phase2/q_adaptive_b8.json",
+    "evidence/phase4/adaptive-atelier_home.json",
+    "evidence/phase4/adaptive-atelier_home.md",
+    "evidence/phase4/adaptive-atelier_about.json",
+    "evidence/phase4/adaptive-atelier_about.md",
+    "evidence/phase4/adaptive-atelier_blog.json",
+    "evidence/phase4/adaptive-atelier_blog.md",
+    "evidence/phase4/adaptive-atelier_careers.json",
+    "evidence/phase4/adaptive-atelier_careers.md",
+    "evidence/phase4/adaptive-atelier_ig_scrape.json",
+    "evidence/phase4/adaptive-atelier_ig_scrape.md",
+    "evidence/phase4/adaptive-atelier_ig_interact.json",
+    "evidence/phase4/adaptive-atelier_ig_stop.json"
+  ]
+}

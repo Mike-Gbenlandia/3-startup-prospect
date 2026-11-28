@@ -1,0 +1,48 @@
+{
+  "slug": "aktivate",
+  "audit_status": "DONE",
+  "website_verified": "https://useaktivate.com/",
+  "instagram_url": "https://www.instagram.com/useaktivate/",
+  "instagram_followers": 3865,
+  "ig_latest_post_date": "2026-11-24",
+  "ig_days_since_latest": 3,
+  "ig_post_dates_last5": [
+    "2026-11-24",
+    "2026-11-23",
+    "2026-11-18",
+    "2026-11-12",
+    "2026-11-04"
+  ],
+  "ig_median_gap_days": 5.5,
+  "ig_last5_formats": "Reel,Reel,Photo,Reel,Reel",
+  "ig_frequency_note": "Verified official account @useaktivate from site footer (skipping creator testimonial @chiomakayy); skipped 2 pinned top-row posts (2026-01-02 DTBLpD2Deiu, 2025-06-23 DLPuvk3tW6y); active non-pinned posting 2026-11-04 to 2026-11-24 (gaps 1d, 5d, 6d, 8d; median 5.5d).",
+  "blog_url": "https://useaktivate.com/blog/",
+  "blog_latest_post_date": "2026-11-26",
+  "blog_posts_last_90d": 18,
+  "team_page_url": "https://useaktivate.com/about/",
+  "team_marketing_roles_found": "NONE",
+  "careers_page_url": "https://useaktivate.com/about/",
+  "hiring_marketing_role": "YES",
+  "need_score": 3,
+  "need_signals": "NO_MARKETING_TITLE_ON_TEAM (+2) | HIRING_MARKETING_ROLE (+1)",
+  "qualified": "NO",
+  "disqualification_reason": "need_score < 4 (active @useaktivate IG latest 2026-11-24 median gap 5.5d and active blog with 18+ posts in last 90d latest 2026-11-26)",
+  "source_urls": [
+    "https://useaktivate.com/",
+    "https://useaktivate.com/about/",
+    "https://useaktivate.com/blog/",
+    "https://www.instagram.com/useaktivate/",
+    "https://www.startuplist.africa/funding/aktivate-investment-round-not-specified-undisclosed-59af6f8",
+    "https://african-startups.com/news/funding/aries-media-ventures-launches-debut-fund-for-african-mediatech-startups-backs-first-three-companies/"
+  ],
+  "evidence_paths": [
+    "evidence/phase4/aktivate_home.md",
+    "evidence/phase4/aktivate_about.md",
+    "evidence/phase4/aktivate_blog.md",
+    "evidence/phase4/aktivate_ig_scrape.md",
+    "screenshots/aktivate_instagram.png",
+    "evidence/phase2/aktivate_e48764fbae.md",
+    "evidence/phase2/q_aktivate_b7.json"
+  ],
+  "raw_timestamp_text": "IG (@useaktivate, footer link): 2 pinned top-row posts (2026-01-02, 2025-06-23) skipped; top 5 non-pinned 2026-11-24 (DgHfiWttwHz), 2026-11-23 (DgEDPrKFUoK), 2026-11-18 (Df4DzyDN9es), 2026-11-12 (DfpcalgNvD6), 2026-11-04 (DfT-l1PgkYk). Blog (/blog/): 18 posts within 90d (2026-09-01 to 2026-11-26). About (/about/): no public team roster; lists hiring role Customer Growth Associate."
+}

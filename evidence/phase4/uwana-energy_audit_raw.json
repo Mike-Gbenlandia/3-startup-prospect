@@ -1,0 +1,211 @@
+{
+  "retrievalDate": "2026-11-27",
+  "slug": "uwana-energy",
+  "poolEntry": {
+    "name": "Uwana Energy",
+    "website": "https://www.uwanaconnect.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Equity-free Prize (Cascador Cash Prize at NPI 4.0 Demo Day)",
+    "amount": "$15K",
+    "announced_date": "2026-10-24",
+    "investors": "Cascador",
+    "hq_location": "Ikoyi, Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/uwana-energy-equity-free-prize-5000-usd-fdf3554",
+      "https://businessday.ng/news/article/nsia-awards-275000-to-nigerian-startups-come-again-foods-leads-winners/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/nsia_bd_b7.md",
+      "evidence/phase2/q_uwana_b7.json"
+    ],
+    "batch_number": 7
+  },
+  "resolvedWebsite": "https://www.uwanaconnect.com/",
+  "searchCandidates": [],
+  "scrapedPages": {
+    "home": {
+      "url": "https://www.uwanaconnect.com/",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/uwana-energy_home.md",
+      "jsonPath": "evidence/phase4/uwana-energy_home.json"
+    },
+    "about": {
+      "url": "https://www.uwanaconnect.com/about",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/uwana-energy_about.md",
+      "jsonPath": "evidence/phase4/uwana-energy_about.json"
+    },
+    "careers": {
+      "url": "https://www.uwanaconnect.com/careers",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/uwana-energy_careers.md",
+      "jsonPath": "evidence/phase4/uwana-energy_careers.json"
+    }
+  },
+  "socialLinksFoundOnSite": {
+    "instagram": [
+      "https://www.instagram.com/uwanaenergy/"
+    ],
+    "linkedin": [
+      "https://www.linkedin.com/company/uwana-energy"
+    ],
+    "twitter": [
+      "https://twitter.com/UwanaEnergy"
+    ]
+  },
+  "instagramAudit": {
+    "status": "OK",
+    "url": "https://www.instagram.com/uwanaenergy/",
+    "screenshotPath": "screenshots/uwana-energy_instagram.png",
+    "mdText": "# Uwana Energy - Simplified Solar (@uwanaenergy)\n\nThe #1 place to get solar!\n200+ installers nationwide\n\n5,158 followers · 252 following\n\nLinks: https://www.uwanaconnect.com/recommendation\n\n## Recent posts\n\n- [Already considering solar? Let’s make sure you’re getting the best value. To learn more: Send us a DM to schedule a fre…](https://instagram.com/p/DVjFJ3rCHb3) · 2026-03-06 · 13 likes · 1 comments\n- [How many hours of electricity have you had today and how has that impacted your productivity? This is a question you sh…](https://instagram.com/p/DWO287BCHfE) · 2026-03-23 · 9 likes · 0 comments\n- [If you already have solar, these are a few things worth checking in your current setup. And if you’re planning to get s…](https://instagram.com/p/DgPhDufiJpL) · 2026-11-27 · 0 comments\n- [Before paying for a solar system in Nigeria, look beyond the price. What matters is whether the system actually fits yo…](https://instagram.com/p/DgFj73tIKDz) · 2026-11-23 · 1 comments · 116 views\n- [This 12kVA solar system was built for heavier everyday loads and more reliable power for a home in Lagos. Looking to po…](https://instagram.com/p/Df9gYmBIVWF) · 2026-11-20 · 0 comments · 166 views\n- [Keep your AC, fridge and other essentials running when the grid goes off Get a 6kVA solar setup with 20% upfront Send a…](https://instagram.com/p/DfsDXAJogvM) · 2026-11-13 · 0 comments · 160 views\n- [Looking for a solar system in Nigeria? Power essentials like your fridge, pumping machine, lights, TV, Wi-Fi, fans and…](https://instagram.com/p/Dfm2gR7oz0n) · 2026-11-11 · 0 comments · 874 views\n- [Tick-tock. ⏱️ Your solar installation could be next. Uwana Energy can get your home or business powered, with payment p…](https://instagram.com/p/DfUMcfOo352) · 2026-11-04 · 0 comments · 328 views\n- [This Uwana installation lets the client use a solar monitor and solar tracker to see system performance remotely, even…](https://instagram.com/p/DfH_QqrA-Ml) · 2026-10-30 · 0 comments · 145 views\n- [Congratulations to @uwanaenergy and @8medicalng , winners of the @cascador_africa Prize for Impact at the fourth editio…](https://instagram.com/p/DfFz53aDOzR) · 2026-10-29 · 156 likes · 3 comments\n- [Reliable power for a retail business, built around daily operations. This setup combines a 6kVA inverter, 10kWh battery…](https://instagram.com/p/DfCbbHQo0Tr) · 2026-10-28 · 0 comments · 247 views\n- [Since October 19, how many hours of electricity have you actually had from the grid each day? Drop your area + average…](https://instagram.com/p/DezKPQ1onN2) · 2026-10-22 · 6 comments · 234 views\n",
+    "interactParsed": {
+      "title": "Uwana Energy - Simplified Solar (@uwanaenergy) • Instagram photos and videos",
+      "url": "https://www.instagram.com/uwanaenergy/",
+      "bodyText": "Log In\nSign Up\nuwanaenergy\n5,158 followers\n252 following\nUwana Energy - Simplified Solar\nThe #1 place to get solar!\n200+ installers nationwide\nuwanaconnect.com/recommendation and 1 more\nInstallations\nFAQs\nStart here\nReviews\nAbout Us\nShow more posts from uwanaenergy\nMeta\nAbout\nBlog\nJobs\nHelp\nAPI\nPrivacy\nConsumer Health Privacy\nTerms\nLocations\nPopular\nInstagram Lite\nMeta AI\nMuse\nThreads\nContact Uploading & Non-Users\nMeta Verified\nEnglish\nAfrikaans\nالعربية\nČeština\nDansk\nDeutsch\nΕλληνικά\nEnglish\nEnglish (UK)\nEspañol (España)\nEspañol\nفارسی\nSuomi\nFrançais\nעברית\nBahasa Indonesia\nItaliano\n日本語\n한국어\nBahasa Melayu\nNorsk\nNederlands\nPolski\nPortuguês (Brasil)\nPortuguês (Portugal)\nРусский\nSvenska\nภาษาไทย\nFilipino\nTürkçe\n中文(简体)\n中文(台灣)\nবাংলা\nગુજરાતી\nहिन्दी\nHrvatski\nMagyar\nಕನ್ನಡ\nമലയാളം\nमराठी\nनेपाली\nਪੰਜਾਬੀ\nසිංහල\nSlovenčina\nதமிழ்\nతెలుగు\nاردو\nTiếng Việt\n中文(香港)\nБългарски\nFrançais (Canada)\nRomână\nСрпски\nУкраїнська\n© 2026 Instagram from Meta\nSee photos, videos and more from uwanaenergy\nSign up and never miss a post from uwanaenergy.\nSign up\nLog in",
+      "domData": {
+        "posts": [
+          {
+            "href": "/uwanaenergy/p/DVjFJ3rCHb3/",
+            "imgAlt": "Photo by Uwana Energy - Simplified Solar on March 06, 2026.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/uwanaenergy/p/DWO287BCHfE/",
+            "imgAlt": "Photo by Uwana Energy - Simplified Solar on March 23, 2026.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/uwanaenergy/p/DgPhDufiJpL/",
+            "imgAlt": "Photo by Uwana Energy - Simplified Solar on November 27, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/uwanaenergy/reel/DgFj73tIKDz/",
+            "imgAlt": "Video by Uwana Energy - Simplified Solar on November 23, 2026. May be a meme of one or more people, people smiling, poster, plant and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/uwanaenergy/reel/Df9gYmBIVWF/",
+            "imgAlt": "Video by Uwana Energy - Simplified Solar on November 20, 2026. May be an image of outdoors and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/uwanaenergy/reel/DfsDXAJogvM/",
+            "imgAlt": "Video by Uwana Energy - Simplified Solar on November 13, 2026. May be an image of battery, generator and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/uwanaenergy/reel/Dfm2gR7oz0n/",
+            "imgAlt": "Video by Uwana Energy - Simplified Solar on November 11, 2026. May be an image of water heater, water filter, thermostat, air conditioner, generator and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/uwanaenergy/reel/DfUMcfOo352/",
+            "imgAlt": "Video by Uwana Energy - Simplified Solar on November 04, 2026. May be a black-and-white image of fire escape, cloud, buildings, water tower and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/uwanaenergy/reel/DfH_QqrA-Ml/",
+            "imgAlt": "Video by Uwana Energy - Simplified Solar on October 30, 2026. May be an image of phone, cash machine, screen and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/nsiainnovationprize/p/DfFz53aDOzR/",
+            "imgAlt": "Photo by NSIA Prize for Innovation on October 29, 2026. May be an image of text.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/uwanaenergy/reel/DfCbbHQo0Tr/",
+            "imgAlt": "Video by Uwana Energy - Simplified Solar on October 28, 2026. May be an image of water heater, water filter, thermostat, cash machine, generator, air conditioner and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/uwanaenergy/reel/DezKPQ1onN2/",
+            "imgAlt": "Video by Uwana Energy - Simplified Solar on October 22, 2026. May be an image of ladder and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          }
+        ],
+        "extLinks": [],
+        "loginWall": false
+      }
+    },
+    "allIgLinksFound": [
+      "https://www.instagram.com/uwanaenergy/"
+    ]
+  },
+  "evidencePaths": [
+    "evidence/phase2/nsia_bd_b7.md",
+    "evidence/phase2/q_uwana_b7.json",
+    "evidence/phase4/uwana-energy_home.json",
+    "evidence/phase4/uwana-energy_home.md",
+    "evidence/phase4/uwana-energy_about.json",
+    "evidence/phase4/uwana-energy_about.md",
+    "evidence/phase4/uwana-energy_careers.json",
+    "evidence/phase4/uwana-energy_careers.md",
+    "evidence/phase4/uwana-energy_ig_scrape.json",
+    "evidence/phase4/uwana-energy_ig_scrape.md",
+    "evidence/phase4/uwana-energy_ig_interact.json",
+    "evidence/phase4/uwana-energy_ig_stop.json"
+  ]
+}

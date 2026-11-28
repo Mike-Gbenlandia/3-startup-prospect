@@ -8,9 +8,9 @@
     },
     "audit": {
       "DROPPED": 270,
-      "DONE": 60,
+      "DONE": 65,
       "BLOCKED": 1,
-      "PENDING": 61
+      "PENDING": 56
     },
     "total_candidates": 392
   },
@@ -20,5 +20,5 @@
     "open_session_ids": []
   },
   "next_action": "Continue Phase 3 audit",
-  "last_updated": "2026-11-28T06:05:11.874Z"
+  "last_updated": "2026-11-28T06:10:37.233Z"
 }

@@ -1,0 +1,194 @@
+{
+  "retrievalDate": "2026-11-27",
+  "slug": "eight-medical",
+  "poolEntry": {
+    "name": "Eight Medical",
+    "website": "https://www.8medical.co/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Equity-free Prizes (Cascador Cash Prize $15K + Wema Bank $4K at NPI 4.0 Demo Day)",
+    "amount": "$19K",
+    "announced_date": "2026-10-24",
+    "investors": "Cascador, Wema Bank (earlier: Techstars '23, Catalyst Fund)",
+    "hq_location": "Ikate, Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/eight-medical-equity-free-prize-19k-usd-16b7cf9",
+      "https://businessday.ng/news/article/nsia-awards-275000-to-nigerian-startups-come-again-foods-leads-winners/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/eight_medical_428484505b.md",
+      "evidence/phase2/nsia_bd_b7.md",
+      "evidence/phase2/q_eight_medical_b7.json"
+    ],
+    "batch_number": 7
+  },
+  "resolvedWebsite": "https://www.8medical.co/",
+  "searchCandidates": [],
+  "scrapedPages": {
+    "home": {
+      "url": "https://www.8medical.co/",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/eight-medical_home.md",
+      "jsonPath": "evidence/phase4/eight-medical_home.json"
+    },
+    "about": {
+      "url": "https://www.8medical.co/AboutUs",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/eight-medical_about.md",
+      "jsonPath": "evidence/phase4/eight-medical_about.json"
+    }
+  },
+  "socialLinksFoundOnSite": {
+    "instagram": [
+      "https://www.instagram.com/8medicalng/"
+    ],
+    "linkedin": [
+      "https://www.linkedin.com/company/eight-medical-ltd/"
+    ],
+    "twitter": [
+      "https://x.com/8medicalng"
+    ]
+  },
+  "instagramAudit": {
+    "status": "OK",
+    "url": "https://www.instagram.com/8medicalng/",
+    "screenshotPath": "screenshots/eight-medical_instagram.png",
+    "mdText": "# Ambulance, Paramedics and Emergency Response (@8medicalng) ✓\n\nNeed emergency health care or ambulance transport in Lagos | Ogun | Ekiti | Ibadan | PH | Abuja? Call line:  07071534107; WhatsApp 08098888763\n\n872 followers · 426 following\n\n## Recent posts\n\n- [Today, we celebrate our guys! 💜🙌🏾 The ones answering calls. The ones on the road. The ones in the ambulance. The one…](https://instagram.com/p/Df7YN2xIqIs) · 2026-11-19 · 11 likes · 0 comments\n- [💜 DON’T JUST TAKE OUR WORD FOR IT. HEAR IT FROM THOSE WE’VE SERVED! At Eight Medical, every call answered, every patie…](https://instagram.com/p/DeRkH7TiJcl) · 2026-10-09 · 9 likes · 32 comments\n- [Every call is a person. Every response is a mission. Every mission is a team. Every team lives out our dream. 🚑 This C…](https://instagram.com/p/DeMpobIIKDg) · 2026-10-07 · 9 likes · 3 comments\n- [Introducing DIAL — Digital Inclusion to Save a Life. 🌍 We believe access shouldn’t depend on where you live, what devi…](https://instagram.com/p/Dbd3QHctlYD) · 2026-07-31 · 24 likes · 3 comments\n- [EMS Week ’26 Day 7 comes with energy, teamwork and football vibes as emergency responders battle it out in the EMS Cup…](https://instagram.com/p/DYrbzU_CKLY) · 2026-05-23 · 8 likes · 0 comments\n- [EMS Week ’26 Excursion! 🚑💜 A fun-filled day of networking, bonding and exploration at the Badagry Historical Sites? D…](https://instagram.com/p/DYpisrNo3ST) · 2026-05-22 · 4 likes · 0 comments\n- [EMS ‘26💜🚑 Day 4 at Mandilas Market, Lagos Island 🔥😂 We hit the streets for another trivia session and let’s just sa…](https://instagram.com/p/DYo54U5osLz) · 2026-05-22 · 14 likes · 1 comments · 541 views\n- [EMS Week ’26 Day 3 💜🎉🚑 Repost and stay tuned as we bring emergency response training to the people of Ikorodu. Remem…](https://instagram.com/p/DYgy_mCN-yT) · 2026-05-19 · 9 likes · 0 comments\n- [🚨 EMS WEEK 2026 IS HERE! 🚨 It’s more than a celebration, it’s a reminder that Emergency Medical Services save lives e…](https://instagram.com/p/DYcHTAbN4NF) · 2026-05-17 · 11 likes · 0 comments\n- [EMS Week is here again! 🚑✨ Eight Medical celebrated it in a huge way last year. This time, we’re gearing up for a bigg…](https://instagram.com/p/DYb4hVUDWXW) · 2026-05-17 · 17 likes · 4 comments\n- [5 health-tech founders came through the HTCA network and secured over $36,000 in grant funding. The HTCA Grant Writing…](https://instagram.com/p/DWoWcplDWNK) · 2026-04-02 · 13 likes · 0 comments\n- [Top 30 of the AfriTech Award 2026 Big win energy🔥 From vision to validation. @8medicalng just made the TOP 30 at AfriT…](https://instagram.com/p/DWa0C6viN00) · 2026-03-28 · 23 likes · 5 comments\n",
+    "interactParsed": {
+      "title": "Ambulance, Paramedics and Emergency Response (@8medicalng) • Instagram photos and videos",
+      "url": "https://www.instagram.com/8medicalng/",
+      "bodyText": "Log In\nSign Up\n8medicalng\n872 followers\n426 following\nAmbulance, Paramedics and Emergency Response\n8medicalng\nNeed emergency health care or ambulance transport in Lagos | Ogun | Ekiti | Ibadan | PH | Abuja? Call line:... \nmore\nwww.8medical.co/Standby and 1 more\nEms week 2026\nFun times\nNEWS\n8MD TEAM\nSTANDBY\nRESCUE\nAmb transport\nMedevac\nTrainings\nReviews\nShow more posts from 8medicalng\nMeta\nAbout\nBlog\nJobs\nHelp\nAPI\nPrivacy\nConsumer Health Privacy\nTerms\nLocations\nPopular\nInstagram Lite\nMeta AI\nMuse\nThreads\nContact Uploading & Non-Users\nMeta Verified\nEnglish\nAfrikaans\nالعربية\nČeština\nDansk\nDeutsch\nΕλληνικά\nEnglish\nEnglish (UK)\nEspañol (España)\nEspañol\nفارسی\nSuomi\nFrançais\nעברית\nBahasa Indonesia\nItaliano\n日本語\n한국어\nBahasa Melayu\nNorsk\nNederlands\nPolski\nPortuguês (Brasil)\nPortuguês (Portugal)\nРусский\nSvenska\nภาษาไทย\nFilipino\nTürkçe\n中文(简体)\n中文(台灣)\nবাংলা\nગુજરાતી\nहिन्दी\nHrvatski\nMagyar\nಕನ್ನಡ\nമലയാളം\nमराठी\nनेपाली\nਪੰਜਾਬੀ\nසිංහල\nSlovenčina\nதமிழ்\nతెలుగు\nاردو\nTiếng Việt\n中文(香港)\nБългарски\nFrançais (Canada)\nRomână\nСрпски\nУкраїнська\n© 2026 Instagram from Meta\nSee photos, videos and more from 8medicalng\nSign up and never miss a post from 8medicalng.\nSign up\nLog in",
+      "domData": {
+        "posts": [
+          {
+            "href": "/8medicalng/p/Df7YN2xIqIs/",
+            "imgAlt": "Photo by Ambulance, Paramedics and Emergency Response on November 19, 2026. May be an image of one or more people, people standing, poster and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/8medicalng/p/DeRkH7TiJcl/",
+            "imgAlt": "Photo by Ambulance, Paramedics and Emergency Response on October 09, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/8medicalng/p/DeMpobIIKDg/",
+            "imgAlt": "Photo by Ambulance, Paramedics and Emergency Response on October 07, 2026. May be an image of standing, banner, card and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/dial.africa/p/Dbd3QHctlYD/",
+            "imgAlt": "Photo by DIAL.Africa on July 31, 2026.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/8medicalng/p/DYrbzU_CKLY/",
+            "imgAlt": "Photo by Ambulance, Paramedics and Emergency Response on May 23, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/8medicalng/p/DYpisrNo3ST/",
+            "imgAlt": "Photo by Ambulance, Paramedics and Emergency Response on May 22, 2026.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/8medicalng/reel/DYo54U5osLz/",
+            "imgAlt": "Video by Ambulance, Paramedics and Emergency Response on May 22, 2026.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/8medicalng/p/DYgy_mCN-yT/",
+            "imgAlt": "Photo by Ambulance, Paramedics and Emergency Response on May 19, 2026.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/8medicalng/p/DYcHTAbN4NF/",
+            "imgAlt": "Photo by Ambulance, Paramedics and Emergency Response on May 17, 2026.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/8medicalng/p/DYb4hVUDWXW/",
+            "imgAlt": "Photo by Ambulance, Paramedics and Emergency Response on May 17, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/dfhbycchub/p/DWoWcplDWNK/",
+            "imgAlt": "Photo by Design for Health by CcHUB on April 02, 2026.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/8medicalng/p/DWa0C6viN00/",
+            "imgAlt": "Photo by Ambulance, Paramedics and Emergency Response on March 28, 2026.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          }
+        ],
+        "extLinks": [
+          "https://www.threads.com/@8medicalng?xmt=AQG0U9WlwrfgyA2WsLPVzbjP8wHI6xGSpQbScFoGIS8yX-c"
+        ],
+        "loginWall": false
+      }
+    },
+    "allIgLinksFound": [
+      "https://www.instagram.com/8medicalng/"
+    ]
+  },
+  "evidencePaths": [
+    "evidence/phase2/eight_medical_428484505b.md",
+    "evidence/phase2/nsia_bd_b7.md",
+    "evidence/phase2/q_eight_medical_b7.json",
+    "evidence/phase4/eight-medical_home.json",
+    "evidence/phase4/eight-medical_home.md",
+    "evidence/phase4/eight-medical_about.json",
+    "evidence/phase4/eight-medical_about.md",
+    "evidence/phase4/eight-medical_ig_scrape.json",
+    "evidence/phase4/eight-medical_ig_scrape.md",
+    "evidence/phase4/eight-medical_ig_interact.json",
+    "evidence/phase4/eight-medical_ig_stop.json"
+  ]
+}

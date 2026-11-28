@@ -1,0 +1,76 @@
+[Skip to content](https://coldhubs.com/coldhubnews#main)
+
+Nigeria’s orange season is here, but what if the real value of an orange goes far beyond the juice we drink? From essential oils and food-grade pectin to biodegradable packaging and renewable energy, the humble orange holds possibilities that are often overlooked. Could what we routinely discard become the foundation of new industries, business opportunities and a more circular agricultural economy? Discover the untapped potential hidden in every orange.
+
+[Continue reading →](https://coldhubs.com/2026/11/27/beyond-the-fruit-nigerias-orange-season-highlights-untapped-opportunities-in-agricultural-waste-and-value-addition/)
+
+What does it take to ensure that food reaches the market in the right condition, long after it leaves the farm? At NIAEXPO 2026, ColdHubs’ Communications Manager, Chiamaka Animba, explored this question, highlighting the role of innovative cold-chain solutions in tackling post-harvest losses and shaping a more efficient agricultural value chain. Discover the key conversations and insights from ColdHubs’ participation.
+
+[Continue reading →](https://coldhubs.com/2026/11/26/coldhubs-advances-the-post-harvest-loss-management-conversation-at-niaexpo-2026/)
+
+A cyberattack on hundreds of French supermarkets exposed an unexpected vulnerability in the food supply chain: refrigeration systems. Discover what happened, why connected cooling infrastructure is at risk and what cold-chain operators must do to protect their operations.
+
+[Continue reading →](https://coldhubs.com/2026/10/31/when-hackers-target-refrigeration-is-the-digital-cold-chain-prepared-for-cyber-threats/)
+
+A fruit can look fresh but lose the aroma and flavour consumers love. Discover how active packaging technologies regulate gases, moisture and ripening to help preserve the sensory quality of fresh fruits.
+
+[Continue reading →](https://coldhubs.com/2026/10/31/beyond-shelf-life-how-active-packaging-could-help-preserve-the-taste-and-aroma-of-fresh-fruits/)
+
+As temperatures rise and climate risks intensify, Africa must rethink how it protects food after harvest. Discover why cold-chain infrastructure and food preservation belong at the centre of climate resilience
+
+[Continue reading →](https://coldhubs.com/2026/10/30/opinion-editorial-el-nino-is-a-warning-africa-cannot-tackle-food-insecurity-while-ignoring-post-harvest-losses/)
+
+As the demand for computing power and natural resources grows across the world,
+
+these innovative companies are lowering input costs, strengthening supply chains, and
+
+unlocking new revenue from underused resources.
+
+[Continue reading →](https://coldhubs.com/2026/10/19/meet-the-10-semifinalists-of-the-milken-motsepe-prize-in-circular-economy/)
+
+Explore ColdHubs’ weekly market report for 19–24 October 2026, featuring tomato, pepper, carrot, green bean and spring onion prices across Nigeria’s geopolitical zones. Get insights into price movements, supply trends, spoilage risks and cold-chain strategies to help farmers and traders make informed decisions.
+
+[Continue reading →](https://coldhubs.com/2026/10/19/nigeria-weekly-market-report-19-24-october-2026/)
+
+Africa faces a difficult question: if food innovation is advancing, why is a healthy diet still out of reach for so many? For World Food Day 2026, we examine the economics of nourishment and the systems that connect food to people.
+
+[Continue reading →](https://coldhubs.com/2026/10/16/can-innovation-make-healthy-food-affordableworld-food-day-2026/)
+
+What if your cooperative could do more than sell produce together? Discover how shared cold storage, refrigerated transport and better coordination can help members reduce avoidable losses and build a more reliable route to market.
+
+[Continue reading →](https://coldhubs.com/2026/10/14/%f0%9d%97%9b%f0%9d%97%bc%f0%9d%98%84-%f0%9d%97%96%f0%9d%97%bc%f0%9d%97%bc%f0%9d%97%bd%f0%9d%97%b2%f0%9d%97%bf%f0%9d%97%ae%f0%9d%98%81%f0%9d%97%b6%f0%9d%98%83%f0%9d%97%b2%f0%9d%98%80-%f0%9d%97%96an-build-a-shared-cold-chain-system/)
+
+What is really happening in Nigeria’s fresh food markets, and what does it mean for the people who grow, trade, transport, and sell our food? The ColdHubs Market Review uncovers the trends, price shifts, supply challenges, and market signals shaping the food business. Discover what is changing, what is driving it, and what farmers, traders, and food businesses need to watch.
+
+[Continue reading →](https://coldhubs.com/2026/10/12/coldhubs-market-weekly-fresh-produce-prices-supply-market-outlook-2/)
+
+- 1
+- [2](https://coldhubs.com/coldhubnews/page/2/)
+- [3](https://coldhubs.com/coldhubnews/page/3/)
+- [4](https://coldhubs.com/coldhubnews/page/4/)
+- …
+- [37](https://coldhubs.com/coldhubnews/page/37/)
+- [Next](https://coldhubs.com/coldhubnews/page/2/)
+
+- Search for:
+
+- [Home](https://coldhubs.com/)
+- [About Us](https://coldhubs.com/about)
+- [Our Services](https://coldhubs.com/our-services)
+- [Contact Us](https://coldhubs.com/contact)
+- [Our News](https://coldhubs.com/coldhubnews)
+- [Resources](https://coldhubs.com/resources/)
+- [Follow on Facebook](http://url/ "Follow on Facebook")[Follow on Instagram](http://url/ "Follow on Instagram")[Follow on Twitter](http://url/ "Follow on Twitter")[Send us an email](mailto:your@email "Send us an email")
+
+- [Download Our Brochure](https://coldhubs.com/contact)
+
+
+### Login
+
+Username or email address \*
+
+Password \*
+
+Remember meLog in
+
+[Lost your password?](https://coldhubs.com/my-account/lost-password/)

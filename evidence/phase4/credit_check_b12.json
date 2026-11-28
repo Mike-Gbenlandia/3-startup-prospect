@@ -1,0 +1,10 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "remainingCredits": 617,
+    "planCredits": 1000,
+    "billingPeriodStart": "2026-11-15T17:24:18.929Z",
+    "billingPeriodEnd": "2026-12-15T17:24:18.929Z"
+  }
+}

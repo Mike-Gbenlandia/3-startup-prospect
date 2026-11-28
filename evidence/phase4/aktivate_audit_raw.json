@@ -1,0 +1,226 @@
+{
+  "retrievalDate": "2026-11-27",
+  "slug": "aktivate",
+  "poolEntry": {
+    "name": "Aktivate",
+    "website": "https://useaktivate.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Early-stage Investment (round unspecified; initial Fund I portfolio)",
+    "amount": "Not disclosed",
+    "announced_date": "2026-10-21",
+    "investors": "Aries Media Ventures (Fund I)",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/aktivate-investment-round-not-specified-undisclosed-59af6f8",
+      "https://african-startups.com/news/funding/aries-media-ventures-launches-debut-fund-for-african-mediatech-startups-backs-first-three-companies/",
+      "https://useaktivate.com/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/aktivate_e48764fbae.md",
+      "evidence/phase1/hy_as_aries_mediatech.md",
+      "evidence/phase2/q_aktivate_b7.json",
+      "evidence/phase2/q_aktivate_site_b7.json"
+    ],
+    "batch_number": 7
+  },
+  "resolvedWebsite": "https://useaktivate.com/",
+  "searchCandidates": [],
+  "scrapedPages": {
+    "home": {
+      "url": "https://useaktivate.com/",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/aktivate_home.md",
+      "jsonPath": "evidence/phase4/aktivate_home.json"
+    },
+    "about": {
+      "url": "https://useaktivate.com/about",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/aktivate_about.md",
+      "jsonPath": "evidence/phase4/aktivate_about.json"
+    },
+    "blog": {
+      "url": "https://useaktivate.com/blog",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/aktivate_blog.md",
+      "jsonPath": "evidence/phase4/aktivate_blog.json"
+    }
+  },
+  "socialLinksFoundOnSite": {
+    "instagram": [
+      "https://www.instagram.com/chiomakayy/",
+      "https://www.instagram.com/mrandmrsag/",
+      "https://www.instagram.com/useaktivate/"
+    ],
+    "linkedin": [
+      "https://www.linkedin.com/company/aktivate-inc/"
+    ],
+    "twitter": [
+      "https://x.com/useaktivate"
+    ]
+  },
+  "instagramAudit": {
+    "status": "OK",
+    "url": "https://www.instagram.com/chiomakayy/",
+    "screenshotPath": "screenshots/aktivate_instagram.png",
+    "mdText": "# Chioma Kalu | CONTENT CREATOR (@chiomakayy)\n\n📍Travel || Fashion || Lifestyle\n✨ Content Creator || Social Media Manager\n✉️-> \n📿 When there’s a will, there’s a way\nLAGOS, NG\n\n10,452 followers · 7,687 following\n\n## Recent posts\n\n- [Every bite deserves a creamy touch! Golden Penny Mayonnaise turns a simple sandwich into a flavor-packed delight. Sprea…](https://instagram.com/p/DO8NF6mDJ1n) · 2025-09-23 · 1,137 likes · 122 comments\n- [Capture the moments . Outfit @ijebydazzy #chefchaouen #explorepage✨ #morocco🇲🇦 #travelphotography #instatravel](https://instagram.com/p/Ck_ZCZ4jDZc) · 2022-11-15 · 1,566 likes · 137 comments\n- [Getaway Dress @ijebydazzy . . . #explore #explorepage #instablog9ja #influencer #influencers #naijabrandchick #ghana](https://instagram.com/p/CS6TY4djqNu) · 2021-08-23 · 1,022 likes · 73 comments\n- [I had the opportunity to attend the US Digital Creator Summit in Lagos, and it was such an insightful and fun experienc…](https://instagram.com/p/DgQIncNiEup) · 2026-11-27 · 80 comments\n- [When creators gather🥵 📍 @zuralagos](https://instagram.com/p/DgIyt5IIcG6) · 2026-11-24 · 361 likes · 94 comments · 5,516 views\n- [Okay, free meal opportunity and I’m not gatekeeping. Get your new Bitnob card, spend $5 online with it, and your next C…](https://instagram.com/p/DgHpYQSomrP) · 2026-11-24 · 93 comments · 5,192 views\n- [Detty December is officially loadingggg! 🥳 It’s that time of the year again in Lagos! From events, raves, concerts and…](https://instagram.com/p/Df7c7Rxq43F) · 2026-11-19 · 84 comments · 1,713 views\n- [I love being my own favourite person and your favourite distraction. Pc @phonah_, @adeola_soge #datenight](https://instagram.com/p/DfzvRuWiFP6) · 2026-11-16 · 140 comments\n- [Please tell me I’m not the only one. Because why do I suddenly forget how to form a sentence? 😭 #behindthescene](https://instagram.com/p/DfhtbgiIcSt) · 2026-11-09 · 168 comments · 2,518 views\n- [Just enough sweetness to keep you interested, enough spice to keep you coming back. #datenight #nightoutfit](https://instagram.com/p/DfSP9GciEGL) · 2026-11-03 · 134 comments\n- [If there’s one thing we’re going to do at Fashion Week, it’s dress up and have a good time! Day 2 🤭 • And the brands?…](https://instagram.com/p/DfHQIXaopEl) · 2026-10-30 · 1,098 likes · 121 comments · 17,571 views\n- [A little Lagos Cocktail Week recap 🍸🤎✨ Good drinks, lovely people, and such a beautiful time! • Thank you @lagoscockt…](https://instagram.com/p/DfC0vuUIpdz) · 2026-10-28 · 78 comments · 1,053 views\n",
+    "interactParsed": {
+      "title": "Chioma Kalu | CONTENT CREATOR (@chiomakayy) • Instagram photos and videos",
+      "url": "https://www.instagram.com/chiomakayy/",
+      "bodyText": "Log In\nSign Up\nchiomakayy\n10.4K followers\n7,687 following\nChioma Kalu | CONTENT CREATOR\nshe/her/hers\nchiomakayy\n📍Travel || Fashion || Lifestyle\n✨ Content Creator || Social Media Manager\n✉️-> ksusanchioma@gmail.com\n📿 When there’s a w... \nmore\nBRAND DRIVE\nLAGOS COCKTAIL\nCERAVE\nFLY VALUE JET\n🇲🇦\nDESPERADOS\nFILMHOUSE\nSPUR\nADIDAS\nGLOBAL CITIZEN\nShow more posts from chiomakayy\nMeta\nAbout\nBlog\nJobs\nHelp\nAPI\nPrivacy\nConsumer Health Privacy\nTerms\nLocations\nPopular\nInstagram Lite\nMeta AI\nMuse\nThreads\nContact Uploading & Non-Users\nMeta Verified\nEnglish\nAfrikaans\nالعربية\nČeština\nDansk\nDeutsch\nΕλληνικά\nEnglish\nEnglish (UK)\nEspañol (España)\nEspañol\nفارسی\nSuomi\nFrançais\nעברית\nBahasa Indonesia\nItaliano\n日本語\n한국어\nBahasa Melayu\nNorsk\nNederlands\nPolski\nPortuguês (Brasil)\nPortuguês (Portugal)\nРусский\nSvenska\nภาษาไทย\nFilipino\nTürkçe\n中文(简体)\n中文(台灣)\nবাংলা\nગુજરાતી\nहिन्दी\nHrvatski\nMagyar\nಕನ್ನಡ\nമലയാളം\nमराठी\nनेपाली\nਪੰਜਾਬੀ\nසිංහල\nSlovenčina\nதமிழ்\nతెలుగు\nاردو\nTiếng Việt\n中文(香港)\nБългарски\nFrançais (Canada)\nRomână\nСрпски\nУкраїнська\n© 2026 Instagram from Meta\nSee photos, videos and more from chiomakayy\nSign up and never miss a post from chiomakayy.\nSign up\nLog in",
+      "domData": {
+        "posts": [
+          {
+            "href": "/gpennymayonnaise/reel/DO8NF6mDJ1n/",
+            "imgAlt": "Video by Golden Penny Mayonnaise on September 23, 2025.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/chiomakayy/p/Ck_ZCZ4jDZc/",
+            "imgAlt": "Photo by Chioma Kalu | CONTENT CREATOR on November 15, 2022.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/chiomakayy/p/CS6TY4djqNu/",
+            "imgAlt": "Photo by Chioma Kalu | CONTENT CREATOR on August 23, 2021.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/chiomakayy/p/DgQIncNiEup/",
+            "imgAlt": "Photo by Chioma Kalu | CONTENT CREATOR on November 27, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/itsireti_/reel/DgIyt5IIcG6/",
+            "imgAlt": "Video by Iretiogo Okemadu on November 24, 2026. May be an image of one or more people, makeup, dress, sundress and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/chiomakayy/reel/DgHpYQSomrP/",
+            "imgAlt": "Video by Chioma Kalu | CONTENT CREATOR on November 24, 2026. May be an image of lollipop, rose, carnation and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/chiomakayy/reel/Df7c7Rxq43F/",
+            "imgAlt": "Video by Chioma Kalu | CONTENT CREATOR on November 19, 2026. May be a selfie of camera, camcorder and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/chiomakayy/p/DfzvRuWiFP6/",
+            "imgAlt": "Photo by Chioma Kalu | CONTENT CREATOR on November 16, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/chiomakayy/reel/DfhtbgiIcSt/",
+            "imgAlt": "Video by Chioma Kalu | CONTENT CREATOR on November 09, 2026. May be an image of one or more people, braids, makeup, people smiling and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/chiomakayy/p/DfSP9GciEGL/",
+            "imgAlt": "Photo by Chioma Kalu | CONTENT CREATOR on November 03, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/chiomakayy/reel/DfHQIXaopEl/",
+            "imgAlt": "Video by Chioma Kalu | CONTENT CREATOR on October 30, 2026. May be an image of jumpsuit and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/chiomakayy/reel/DfC0vuUIpdz/",
+            "imgAlt": "Video by Chioma Kalu | CONTENT CREATOR on October 28, 2026. May be a selfie of bath robe, bangle, robe, mirror and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          }
+        ],
+        "extLinks": [
+          "https://www.threads.com/@chiomakayy?xmt=AQG0STuCoCbV86fQ2s7orXv1Mcq2ID4_bP__DEKGkKqnjtU"
+        ],
+        "loginWall": false
+      }
+    },
+    "allIgLinksFound": [
+      "https://www.instagram.com/chiomakayy/",
+      "https://www.instagram.com/mrandmrsag/",
+      "https://www.instagram.com/useaktivate/"
+    ]
+  },
+  "evidencePaths": [
+    "evidence/phase2/aktivate_e48764fbae.md",
+    "evidence/phase1/hy_as_aries_mediatech.md",
+    "evidence/phase2/q_aktivate_b7.json",
+    "evidence/phase2/q_aktivate_site_b7.json",
+    "evidence/phase4/aktivate_home.json",
+    "evidence/phase4/aktivate_home.md",
+    "evidence/phase4/aktivate_about.json",
+    "evidence/phase4/aktivate_about.md",
+    "evidence/phase4/aktivate_blog.json",
+    "evidence/phase4/aktivate_blog.md",
+    "evidence/phase4/aktivate_ig_scrape.json",
+    "evidence/phase4/aktivate_ig_scrape.md",
+    "evidence/phase4/aktivate_ig_interact.json",
+    "evidence/phase4/aktivate_ig_stop.json"
+  ]
+}
