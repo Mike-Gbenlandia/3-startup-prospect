@@ -1,0 +1,196 @@
+{
+  "retrievalDate": "2026-11-27",
+  "slug": "niteon",
+  "poolEntry": {
+    "name": "Niteon",
+    "website": "https://niteon.co/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Non-equity Grant (Wema Bank Hackaholics 7.0 Grand Prize)",
+    "amount": "NGN 60M",
+    "announced_date": "2026-11-06",
+    "investors": "Wema Bank",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/niteon-grant-60m-ngn-fdbdde3",
+      "https://guardian.ng/technology/tech/wema-bank-awards-n300m-to-11-innovators-at-hackaholics-7-0/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/niteon_sl_a4b50a5d2f.md",
+      "evidence/phase2/guardian_hackaholics7.md",
+      "evidence/phase2/wema_hackaholics7.md",
+      "evidence/phase2/web_hackaholics_rest.json"
+    ],
+    "notes": "Earlier pre-seed on 2025-08-08 (Tomi Davies, Seedstars); latest award NGN 60M grand prize on 2026-11-06. Also won NGN 60M grand prize at Wema Bank Hackaholics 7.0 (2026-11-06).",
+    "batch_number": 4
+  },
+  "resolvedWebsite": "https://niteon.co/",
+  "searchCandidates": [],
+  "scrapedPages": {
+    "home": {
+      "url": "https://niteon.co/",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/niteon_home.md",
+      "jsonPath": "evidence/phase4/niteon_home.json"
+    }
+  },
+  "socialLinksFoundOnSite": {
+    "instagram": [
+      "https://www.instagram.com/niteonhq/"
+    ],
+    "linkedin": [
+      "https://www.linkedin.com/company/niteonhq/"
+    ],
+    "twitter": [
+      "https://x.com/niteonhq"
+    ]
+  },
+  "instagramAudit": {
+    "status": "OK",
+    "url": "https://www.instagram.com/niteonhq/",
+    "screenshotPath": "screenshots/niteon_instagram.png",
+    "mdText": "# Niteon™(Google W26) (@niteonhq)\n\nB2B Agritech platform connect verified African commodity Suppliers to global buyers automated by kunte an agentic AI\nbacked by @google\n\n9,993 followers · 9 following\n\nLinks: https://www.linktr.ee/Niteon\n\n## Recent posts\n\n- [In a landmark achievement set to redefine the future of African trade, Niteonhq (Seedstars W23) has officially acquired…](https://instagram.com/p/DKzQ6c7Iic8) · 2025-06-12 · 0 comments\n- [Exciting news! Niteonhq has been selected as one of 10 Nigerian startups for the prestigious Seedstars W23 Accelerator…](https://instagram.com/p/C2HUcL-A971) · 2024-01-15 · 461 likes · 8 comments\n- [₦300 million. 11 startups. One big stage for Nigerian innovation. Wema Bank has announced the winners of Hackaholics 7.…](https://instagram.com/p/Dfh-PeDm7_5) · 2026-11-09 · 0 comments\n- [A moving man will surely meet his luck!! @niteonhq just won grand prize at the @wemabank @alat_ng Hackaholics as the to…](https://instagram.com/p/Dfg_0DLiGISay_ewZPIQAfDgP38GDKbcnEcbzw0) · 2026-11-09 · 0 comments\n- [Excited to be invited by the @lagosangel_network for Ask Me Anything 1.0 as a guest speaker. 3 years, 25,000 Enterprise…](https://instagram.com/p/DfRKpL4oiRmOp6w1LboyiJiqCVmXixoLMI8HPE0) · 2026-11-03 · 0 comments\n- [@betkingtv and @niteonhq went all out on the pitch, delivering an action-packed contest with exciting moments from both…](https://instagram.com/p/De12tlWsqGY) · 2026-10-23 · 0 comments · 457 views\n- [The @niteonhq team brought their energy to the pitch! ⚽🔥 From the build-up to the battles for possession, here are som…](https://instagram.com/p/De12bbYjlWC) · 2026-10-23 · 5 likes · 0 comments\n- [@betkingtv and @niteonhq brought the competition to the pitch at the SATH Soccer Tournament 2026, with both teams putti…](https://instagram.com/p/De10uFWDlyy) · 2026-10-23 · 0 comments\n- [#whocanrelatetothis🙋🏾‍♀️😂🙏🏾👍🏾👏](https://instagram.com/p/Ded69cXMy7H) · 2026-10-14 · 14 likes · 0 comments · 387 views\n- [Let’s celebrate Niteon as we advance to the next stage of the sath soccer tournament ❤️‍🔥💯🥳 now the question on ever…](https://instagram.com/p/DedykWVh1-A) · 2026-10-14 · 4 likes · 0 comments · 162 views\n- [@niteonhq brought their team spirit to the SATH Soccer Tournament 2026! ⚽ Meet the @niteonhq team! The knockout matches…](https://instagram.com/p/DeY-3YIDpvV) · 2026-10-12 · 0 comments\n- [🇳🇬 Happy Independence Day, Nigeria! 💚🤍💚 Today, we celebrate the strength, unity, resilience, and limitless potenti…](https://instagram.com/p/Dd8WUSTMXrR) · 2026-10-01 · 3 likes · 0 comments\n",
+    "interactParsed": {
+      "title": "Niteon™(Google W26) (@niteonhq) • Instagram photos and videos",
+      "url": "https://www.instagram.com/niteonhq/",
+      "bodyText": "Log In\nSign Up\nniteonhq\n9,993 followers\n9 following\nNiteon™(Google W26)\nniteonhq\nB2B Agritech platform connect verified African commodity Suppliers to global buyers automated by kunte an agentic AI... \nmore\nlinktr.ee/Niteon\nAds\nMedia\nNew Look\nPartnership\nEvents\nCountries\nShow more posts from niteonhq\nMeta\nAbout\nBlog\nJobs\nHelp\nAPI\nPrivacy\nConsumer Health Privacy\nTerms\nLocations\nPopular\nInstagram Lite\nMeta AI\nMuse\nThreads\nContact Uploading & Non-Users\nMeta Verified\nEnglish\nAfrikaans\nالعربية\nČeština\nDansk\nDeutsch\nΕλληνικά\nEnglish\nEnglish (UK)\nEspañol (España)\nEspañol\nفارسی\nSuomi\nFrançais\nעברית\nBahasa Indonesia\nItaliano\n日本語\n한국어\nBahasa Melayu\nNorsk\nNederlands\nPolski\nPortuguês (Brasil)\nPortuguês (Portugal)\nРусский\nSvenska\nภาษาไทย\nFilipino\nTürkçe\n中文(简体)\n中文(台灣)\nবাংলা\nગુજરાતી\nहिन्दी\nHrvatski\nMagyar\nಕನ್ನಡ\nമലയാളം\nमराठी\nनेपाली\nਪੰਜਾਬੀ\nසිංහල\nSlovenčina\nதமிழ்\nతెలుగు\nاردو\nTiếng Việt\n中文(香港)\nБългарски\nFrançais (Canada)\nRomână\nСрпски\nУкраїнська\n© 2026 Instagram from Meta\nSee photos, videos and more from niteonhq\nSign up and never miss a post from niteonhq.\nSign up\nLog in",
+      "domData": {
+        "posts": [
+          {
+            "href": "/businessafricaonline/p/DKzQ6c7Iic8/",
+            "imgAlt": "Photo by Business Africa Online on June 12, 2025.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/niteonhq/p/C2HUcL-A971/",
+            "imgAlt": "Photo by Niteon™(Google W26) on January 15, 2024.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/todaynigeriahq/p/Dfh-PeDm7_5/",
+            "imgAlt": "Photo by Today Nigeria HQ on November 09, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/thetonynwose/p/Dfg_0DLiGISay_ewZPIQAfDgP38GDKbcnEcbzw0/",
+            "imgAlt": "Photo by Dr. Tony Niteon Nwose on November 09, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/thetonynwose/p/DfRKpL4oiRmOp6w1LboyiJiqCVmXixoLMI8HPE0/",
+            "imgAlt": "Photo by Dr. Tony Niteon Nwose on November 02, 2026. May be a graphic of poster, magazine and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/satholding/reel/De12tlWsqGY/",
+            "imgAlt": "Video by Signal Alliance Technology Holding on October 23, 2026. May be an image of football, soccer, sports equipment, ball, grass, stadium and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/satholding/p/De12bbYjlWC/",
+            "imgAlt": "Photo by Signal Alliance Technology Holding on October 23, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/satholding/p/De10uFWDlyy/",
+            "imgAlt": "Photo by Signal Alliance Technology Holding on October 23, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/niteonhq/reel/Ded69cXMy7H/",
+            "imgAlt": "Video by Niteon™(Google W26) on October 14, 2026. May be an image of golf, batting, grass and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/niteonhq/reel/DedykWVh1-A/",
+            "imgAlt": "Video by Niteon™(Google W26) on October 13, 2026. May be an image of football, soccer, ball, scoreboard, sports equipment and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/satholding/p/DeY-3YIDpvV/",
+            "imgAlt": "Photo by Signal Alliance Technology Holding on October 12, 2026. May be an image of one or more people, people playing football, people playing soccer, sportswear, sports equipment, stadium and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/niteonhq/p/Dd8WUSTMXrR/",
+            "imgAlt": "Photo by Niteon™(Google W26) on October 01, 2026. May be an image of text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          }
+        ],
+        "extLinks": [
+          "https://www.threads.com/@niteonhq?xmt=AQG0mIrSHAPJwwOLYP4futGNbx_rQClQBobPcu_woTNBvbM"
+        ],
+        "loginWall": false
+      }
+    },
+    "allIgLinksFound": [
+      "https://www.instagram.com/niteonhq/"
+    ]
+  },
+  "evidencePaths": [
+    "evidence/phase2/niteon_sl_a4b50a5d2f.md",
+    "evidence/phase2/guardian_hackaholics7.md",
+    "evidence/phase2/wema_hackaholics7.md",
+    "evidence/phase2/web_hackaholics_rest.json",
+    "evidence/phase4/niteon_home.json",
+    "evidence/phase4/niteon_home.md",
+    "evidence/phase4/niteon_ig_scrape.json",
+    "evidence/phase4/niteon_ig_scrape.md",
+    "evidence/phase4/niteon_ig_interact.json",
+    "evidence/phase4/niteon_ig_stop.json"
+  ]
+}

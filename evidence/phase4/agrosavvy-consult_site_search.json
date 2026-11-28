@@ -1,0 +1,38 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.facebook.com/cascadorprogram/posts/were-thrilled-to-share-the-eight-winners-of-the-niya-x-cascador-founders-program/1448472967446754/",
+        "title": "We're thrilled to share the eight winners of the NiYA x Cascador Founders ...",
+        "description": "... (Agrosavvy Consult), Kabir Olaosebikan (Craft Planet). Additionally ... • Official Website: DTA Portal • How to Apply: 1. Go to the DTA ...",
+        "position": 1
+      },
+      {
+        "url": "https://www.instagram.com/age_godslove/",
+        "title": "God'slove Asuquo (@age_godslove)",
+        "description": "My name is God'slove Asuquo, founder of Agrosavvy consult. We transform fresh habanero pepper into value added spice product while training young people in ...",
+        "position": 2
+      },
+      {
+        "url": "https://www.instagram.com/reel/DOtkiIkDMlA/",
+        "title": "Are you a Nigerian youth startup founder or tech innovator? ...",
+        "position": 3
+      },
+      {
+        "url": "https://www.facebook.com/busayokorrecthomes/posts/-the-grant-portal-is-live-the-federal-governments-niya-cascador-founders-program/1575980514539420/",
+        "title": "THE GRANT PORTAL IS LIVE!  The Federal Government's NiYA ...",
+        "position": 4
+      },
+      {
+        "url": "https://disruptafrica.com/2026/11/13/8-nigerian-startups-bag-4k-each-at-fmyd-cascador-youth-founders-pitch-day/",
+        "title": "8 Nigerian startups bag $4k each at FMYD, Cascador youth founders ...",
+        "description": "... Agrosavvy Consult and Craft Planet. The remaining nine founders will each receive NGN1 million (US$750), and all 17 get access to ...",
+        "position": 5
+      }
+    ]
+  },
+  "id": "01a220ba-fcaa-7070-87a7-1670029587ec",
+  "creditsUsed": 2
+}

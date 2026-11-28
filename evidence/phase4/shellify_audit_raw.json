@@ -1,0 +1,77 @@
+{
+  "retrievalDate": "2026-11-27",
+  "slug": "shellify",
+  "poolEntry": {
+    "name": "Shellify",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "NiYA-Cascador Non-dilutive Grant",
+    "amount": "NGN 5M (~$3,711)",
+    "announced_date": "2026-11-10",
+    "investors": "Cascador / Nigerian Youth Academy (NiYA) / Federal Ministry of Youth Development",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://techcabal.com/2026/11/10/cascador-niya-select-eight-founders/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/fmyd_cascador_8_1d72fb117c.md",
+      "evidence/phase1/hy_techcabal_cascador_niya_8.md"
+    ],
+    "notes": "TechCabal links founder LinkedIn: https://www.linkedin.com/in/lpt-khuzaifa-aminu-92ab321b3/",
+    "batch_number": 4
+  },
+  "resolvedWebsite": "https://rangler.co/dashboard/private-capital/transactions/a033c226-6ad8-44d1-a447-7c7454edac78",
+  "searchCandidates": [
+    {
+      "url": "https://www.facebook.com/cascadorprogram/posts/were-thrilled-to-share-the-eight-winners-of-the-niya-x-cascador-founders-program/1448472967446754/",
+      "title": "We're thrilled to share the eight winners of the NiYA x Cascador Founders ...",
+      "description": "... (Shellify), Ayisat Adama Adamu, (Rèkool Access Technology), Godslove ... • Official Website: DTA Portal • How to Apply: 1. Go to the DTA ..."
+    },
+    {
+      "url": "https://www.instagram.com/reel/DfsBbQ7SLOq/",
+      "title": "From thousands of applicants to the Top 20, the journey was one ..."
+    },
+    {
+      "url": "https://www.instagram.com/p/DZxa76vsUsG/",
+      "title": "About Shellify Nigeria.",
+      "description": "... likes, 0 comments - shellifyng on June 19, 2026: \"About Shellify Nigeria ... website. Www.Jokssnailfarm.com to enjoy 50% off delivery ..."
+    },
+    {
+      "url": "https://ng.linkedin.com/in/shirly-emeka-44bba71b2",
+      "title": "Shirly Emeka - CEO Shellify Agrifoods Africa Ltd || Virtual Assistant",
+      "description": "Shellify AgriFoods Africa Ltd. Jun 2025 - Present 1 year 2 months. Aba, Abia State, Nigeria. Strategic Leadership & Vision Define and implement the overall ..."
+    },
+    {
+      "url": "https://rangler.co/dashboard/private-capital/transactions/a033c226-6ad8-44d1-a447-7c7454edac78",
+      "title": "Shellify wins NGN 5 M in non-dilutive funding through NiYA-Cascador ...",
+      "description": "This investment for Shellify, a company in Nigeria, was announced on 16 November 2026. It was worth NGN 5M. Federal Ministry of Youth ..."
+    }
+  ],
+  "scrapedPages": {
+    "home": {
+      "url": "https://rangler.co/dashboard/private-capital/transactions/a033c226-6ad8-44d1-a447-7c7454edac78",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/shellify_home.md",
+      "jsonPath": "evidence/phase4/shellify_home.json"
+    }
+  },
+  "socialLinksFoundOnSite": {
+    "instagram": [],
+    "linkedin": [],
+    "twitter": []
+  },
+  "instagramAudit": {
+    "status": "NO_IG_FOUND",
+    "url": "NOT_FOUND"
+  },
+  "evidencePaths": [
+    "evidence/phase2/fmyd_cascador_8_1d72fb117c.md",
+    "evidence/phase1/hy_techcabal_cascador_niya_8.md",
+    "evidence/phase4/shellify_site_search.json",
+    "evidence/phase4/shellify_home.json",
+    "evidence/phase4/shellify_home.md"
+  ]
+}

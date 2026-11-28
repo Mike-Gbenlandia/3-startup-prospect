@@ -1,0 +1,188 @@
+{
+  "retrievalDate": "2026-11-27",
+  "slug": "supplya",
+  "poolEntry": {
+    "name": "Supplya",
+    "website": "https://www.supplya.shop/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Equity-free prize (TC Battlefield 2026 Runner-Up)",
+    "amount": "$5K",
+    "announced_date": "2026-10-30",
+    "investors": "TechCabal Moonshot / Yango Group (TC Battlefield)",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/supplya-equity-free-prize-5000-usd-d59d15a",
+      "https://techcabal.beehiiv.com/p/acecore-wins-10-000-at-moonshot",
+      "https://liners.com/research/moonshot-2026-african-companies"
+    ],
+    "evidence_paths": [
+      "evidence/phase1/hy_techcabal_moonshot_battlefield.md",
+      "evidence/phase1/hy_liners_moonshot_2026.md",
+      "evidence/phase2/q_supplya.json",
+      "evidence/phase2/web_rem_4_cascador.json"
+    ],
+    "batch_number": 5
+  },
+  "resolvedWebsite": "https://www.supplya.shop/",
+  "searchCandidates": [],
+  "scrapedPages": {
+    "home": {
+      "url": "https://www.supplya.shop/",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/supplya_home.md",
+      "jsonPath": "evidence/phase4/supplya_home.json"
+    }
+  },
+  "socialLinksFoundOnSite": {
+    "instagram": [
+      "https://www.instagram.com/supplyashop/"
+    ],
+    "linkedin": [
+      "https://linkedin.com/company/supplyashop"
+    ],
+    "twitter": [
+      "https://x.com/supplyashop"
+    ]
+  },
+  "instagramAudit": {
+    "status": "OK",
+    "url": "https://www.instagram.com/supplyashop/",
+    "screenshotPath": "screenshots/supplya_instagram.png",
+    "mdText": "# Supplya (@supplyashop) ✓\n\nInventory you need, payments you control. Source easily with BNPL, no interest on repayment. Get started for FREE!\n\n467 followers · 86 following\n\nLinks: https://www.linktr.ee/supplya\n\n## Recent posts\n\n- [Black Friday Deals are still on. Don't miss out! 🙂 #blackfriday #deals #freeproducts #supplya #supplyashop](https://instagram.com/p/DgPs7upIL4F) · 2026-11-27 · 0 likes · 0 comments\n- [MORE PACKS. MORE VALUE. MORE STOCK! 🛒 This Black Friday, your bulk orders come with something extra! 😀🥳 Get 2 FREE p…](https://instagram.com/p/DgKFGryiEbD) · 2026-11-25 · 2 likes · 0 comments\n- [Your business deserves suppliers you can count on. Start the week right with SUPPLYA. 📲 Download the SUPPLYA app today…](https://instagram.com/p/DgFJ-ATIgAM) · 2026-11-23 · 0 likes · 0 comments\n- [Recognising the men whose contributions make a difference in our homes, workplaces and communities. Happy International…](https://instagram.com/p/Df69EFSo3My) · 2026-11-19 · 1 likes · 0 comments\n- [It's the season to shop smart and save more! 🎄🎁 Christmas deals are live on SUPPLYA, with amazing discounts on your f…](https://instagram.com/p/Df4IOqTo-To) · 2026-11-18 · 3 likes · 0 comments · 12 views\n- [What happens when customers are ready to buy, but there's not enough stock on the shelves? For many businesses, staying…](https://instagram.com/p/DfzIfDwoQM_) · 2026-11-16 · 1 likes · 0 comments\n- [Shop on SUPPLYA today and enjoy a convenient way to restock. 🛒📦 🌐 supplya.shop #supplya #SupplyaApp #convenientshopp…](https://instagram.com/p/DfreG9eIhnx) · 2026-11-13 · 0 likes · 0 comments\n- [Nutri Choco is now available and ready for dispatch. Place your order and restock today! 😉 #nutrichoco #chocolatedrink…](https://instagram.com/p/DfmJhxVoV7Y) · 2026-11-11 · 1 likes · 0 comments · 93 views\n- [A good deal for your store! Get a 50kg bag of Patriot Rice for ₦98,000 instead of ₦102,000. Take advantage of today’s o…](https://instagram.com/p/DfhOQIKIkrc) · 2026-11-09 · 2 likes · 0 comments\n- [Customers are more likely to return when they find what they need, when they need it. Find the products your business n…](https://instagram.com/p/DfXAANiIpiT) · 2026-11-05 · 0 likes · 0 comments\n- [The future is being built by founders willing to tackle difficult problems. At TC Battlefield 2026, we brought together…](https://instagram.com/p/DfR2BhYlrp-) · 2026-11-03 · 108 likes · 4 comments\n- [A refreshing deal you don't want to miss! 🥤 5Alive Berry Blast (78cl × 6) is now going for ₦5,800 instead of ₦7,000 on…](https://instagram.com/p/DfRagcMIwy5) · 2026-11-03 · 1 likes · 0 comments\n",
+    "interactParsed": {
+      "title": "Supplya (@supplyashop) • Instagram photos and videos",
+      "url": "https://www.instagram.com/supplyashop/",
+      "bodyText": "Log In\nSign Up\nsupplyashop\n467 followers\n86 following\nSupplya\nsupplyashop\nInventory you need, payments you control. Source easily with BNPL, no interest on repayment. Get started for FREE!\nlinktr.ee/supplya\nShow more posts from supplyashop\nMeta\nAbout\nBlog\nJobs\nHelp\nAPI\nPrivacy\nConsumer Health Privacy\nTerms\nLocations\nPopular\nInstagram Lite\nMeta AI\nMuse\nThreads\nContact Uploading & Non-Users\nMeta Verified\nEnglish\nAfrikaans\nالعربية\nČeština\nDansk\nDeutsch\nΕλληνικά\nEnglish\nEnglish (UK)\nEspañol (España)\nEspañol\nفارسی\nSuomi\nFrançais\nעברית\nBahasa Indonesia\nItaliano\n日本語\n한국어\nBahasa Melayu\nNorsk\nNederlands\nPolski\nPortuguês (Brasil)\nPortuguês (Portugal)\nРусский\nSvenska\nภาษาไทย\nFilipino\nTürkçe\n中文(简体)\n中文(台灣)\nবাংলা\nગુજરાતી\nहिन्दी\nHrvatski\nMagyar\nಕನ್ನಡ\nമലയാളം\nमराठी\nनेपाली\nਪੰਜਾਬੀ\nසිංහල\nSlovenčina\nதமிழ்\nతెలుగు\nاردو\nTiếng Việt\n中文(香港)\nБългарски\nFrançais (Canada)\nRomână\nСрпски\nУкраїнська\n© 2026 Instagram from Meta\nSee photos, videos and more from supplyashop\nSign up and never miss a post from supplyashop.\nSign up\nLog in",
+      "domData": {
+        "posts": [
+          {
+            "href": "/supplyashop/p/DgPs7upIL4F/",
+            "imgAlt": "Photo by Supplya on November 27, 2026. May be an image of tablet, card and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/supplyashop/p/DgKFGryiEbD/",
+            "imgAlt": "Photo by Supplya on November 25, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/supplyashop/p/DgFJ-ATIgAM/",
+            "imgAlt": "Photo by Supplya on November 23, 2026. May be a graphic of one or more people, poster, magazine and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/supplyashop/p/Df69EFSo3My/",
+            "imgAlt": "Photo by Supplya on November 19, 2026. May be a Twitter screenshot of magazine and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/supplyashop/reel/Df4IOqTo-To/",
+            "imgAlt": "Video by Supplya on November 18, 2026. May be an image of juice and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/supplyashop/p/DfzIfDwoQM_/",
+            "imgAlt": "Photo by Supplya on November 16, 2026. May be an image of one or more people, magazine and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/supplyashop/p/DfreG9eIhnx/",
+            "imgAlt": "Photo by Supplya on November 13, 2026. May be an image of text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/supplyashop/reel/DfmJhxVoV7Y/",
+            "imgAlt": "Video by Supplya on November 11, 2026. May be an image of drink, canister and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/supplyashop/p/DfhOQIKIkrc/",
+            "imgAlt": "Photo by Supplya on November 09, 2026. May be an image of petfood, wafer and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/supplyashop/p/DfXAANiIpiT/",
+            "imgAlt": "Photo by Supplya on November 05, 2026. May be an image of text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/techcabal/p/DfR2BhYlrp-/",
+            "imgAlt": "Photo by TechCabal on November 03, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/supplyashop/p/DfRagcMIwy5/",
+            "imgAlt": "Photo by Supplya on November 03, 2026. May be an image of hair product, bottle, water filter, juice, water bottle and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          }
+        ],
+        "extLinks": [
+          "https://www.threads.com/@supplyashop?xmt=AQG0NBBTxzhENLNbCg8yZjxnk2MKeNriATOzz1CHHZAtN8g"
+        ],
+        "loginWall": false
+      }
+    },
+    "allIgLinksFound": [
+      "https://www.instagram.com/supplyashop/"
+    ]
+  },
+  "evidencePaths": [
+    "evidence/phase1/hy_techcabal_moonshot_battlefield.md",
+    "evidence/phase1/hy_liners_moonshot_2026.md",
+    "evidence/phase2/q_supplya.json",
+    "evidence/phase2/web_rem_4_cascador.json",
+    "evidence/phase4/supplya_home.json",
+    "evidence/phase4/supplya_home.md",
+    "evidence/phase4/supplya_ig_scrape.json",
+    "evidence/phase4/supplya_ig_scrape.md",
+    "evidence/phase4/supplya_ig_interact.json",
+    "evidence/phase4/supplya_ig_stop.json"
+  ]
+}

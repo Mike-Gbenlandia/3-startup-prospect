@@ -1,0 +1,69 @@
+{
+  "slug": "supplya",
+  "name": "Supplya",
+  "website": "https://www.supplya.shop/",
+  "industry": "B2B E-Commerce / FMCG Inventory Credit & BNPL",
+  "city": "Lagos",
+  "what_they_do": "Lagos-based B2B commerce and inventory-financing startup (Supplyashop Technologies Ltd) connecting Nigerian retailers, supermarkets, and pharmacies across Lagos and Ogun directly to FMCG distributors and manufacturers with 0%-interest, 7-day buy-now-pay-later inventory credit.",
+  "recent_activity": "2026-10-30: Named TC Battlefield 2026 Runner-Up ($5K equity-free prize) at TechCabal Moonshot (https://techcabal.beehiiv.com/p/acecore-wins-10-000-at-moonshot); 2026-11-27: Promoted Black Friday bulk stock deals on @supplyashop Instagram (https://instagram.com/p/DgPs7upIL4F); 2026-11-03: Shared TC Battlefield 2026 recap on @supplyashop (https://instagram.com/p/DfR2BhYlrp-)",
+  "tier": "C",
+  "round_type": "Equity-free prize (TC Battlefield 2026 Runner-Up)",
+  "amount": "$5K",
+  "funding_date": "2026-10-30",
+  "investors": "TechCabal Moonshot / Yango Group (TC Battlefield)",
+  "funding_sources": "https://www.startuplist.africa/funding/supplya-equity-free-prize-5000-usd-d59d15a | https://techcabal.beehiiv.com/p/acecore-wins-10-000-at-moonshot | https://liners.com/research/moonshot-2026-african-companies",
+  "funding_confidence": "CONFIRMED_2_SOURCES",
+  "founder_or_marketing_contact": "+234 816 580 7581 (WhatsApp) | https://www.instagram.com/supplyashop/",
+  "instagram_url": "https://www.instagram.com/supplyashop/",
+  "ig_status": "OK",
+  "ig_followers": "467",
+  "ig_post_1": {
+    "raw_timestamp_text": "2026-11-27",
+    "absolute_date": "2026-11-27",
+    "type": "Photo",
+    "url": "https://instagram.com/p/DgPs7upIL4F"
+  },
+  "ig_post_2": {
+    "raw_timestamp_text": "2026-11-25",
+    "absolute_date": "2026-11-25",
+    "type": "Carousel",
+    "url": "https://instagram.com/p/DgKFGryiEbD"
+  },
+  "ig_post_3": {
+    "raw_timestamp_text": "2026-11-23",
+    "absolute_date": "2026-11-23",
+    "type": "Photo",
+    "url": "https://instagram.com/p/DgFJ-ATIgAM"
+  },
+  "ig_post_4": {
+    "raw_timestamp_text": "2026-11-19",
+    "absolute_date": "2026-11-19",
+    "type": "Photo",
+    "url": "https://instagram.com/p/Df69EFSo3My"
+  },
+  "ig_post_5": {
+    "raw_timestamp_text": "2026-11-18",
+    "absolute_date": "2026-11-18",
+    "type": "Reel",
+    "url": "https://instagram.com/p/Df4IOqTo-To"
+  },
+  "ig_days_since_latest": 0,
+  "ig_median_gap_days": 2,
+  "ig_screenshot_path": "screenshots/supplya_instagram.png",
+  "blog_url": "NOT_FOUND",
+  "blog_last_post_date": "NOT_FOUND",
+  "blog_posts_last_90_days": "NOT_FOUND",
+  "marketing_titles_found": "NONE (supplya.shop has no public team page or marketing/growth/content titles)",
+  "hiring_marketing_role": "NO (footer 'Careers' label has no active URL/open roles page on supplya.shop)",
+  "need_score": 4,
+  "score_flags": "NO_OR_STALE_BLOG_90D (+2) | NO_MARKETING_TITLE_ON_TEAM (+2)",
+  "qualified": true,
+  "signal_categories": [
+    "blog",
+    "team"
+  ],
+  "unique_offer": "0%-interest 7-day BNPL inventory credit marketplace connecting Lagos and Ogun retailers directly to FMCG manufacturers.",
+  "closest_overlap": "TBD_PHASE_5",
+  "pitch_hook": "Supplya serves 5,000+ merchants and won $5K at TC Battlefield 2026 on 2026-10-30, yet supplya.shop has unlinked placeholder 'Blog' and 'Careers' labels with zero content, no public team/marketing lead, and only 0-3 likes per promotional post on @supplyashop.",
+  "evidence_paths": "evidence/phase1/hy_techcabal_moonshot_battlefield.md | evidence/phase1/hy_liners_moonshot_2026.md | evidence/phase2/q_supplya.json | evidence/phase2/web_rem_4_cascador.json | evidence/phase4/supplya_home.json | evidence/phase4/supplya_home.md | evidence/phase4/supplya_ig_scrape.json | evidence/phase4/supplya_ig_scrape.md | evidence/phase4/supplya_ig_interact.json | screenshots/supplya_instagram.png"
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "niteon",
+  "name": "Niteon",
+  "website": "https://niteon.co/",
+  "industry": "B2B Trade / Export Marketplace, Logistics & Trade Finance",
+  "city": "Lagos",
+  "what_they_do": "Lagos-based B2B export infrastructure startup (founded by Dr. Tony Niteon Nwose) connecting verified African commodity, agriculture, fabric, and mineral manufacturers to global buyers across three arms: Niteon HQ (AI-matched marketplace via Kunte AI), Niteon Capital (trade/Sharia-compliant export financing), and Niteon Hub (supply chain & logistics).",
+  "recent_activity": "2026-11-06: Won NGN 60M Grand Prize at Wema Bank Hackaholics 7.0 in Lagos (https://guardian.ng/technology/tech/wema-bank-awards-n300m-to-11-innovators-at-hackaholics-7-0/); 2026-11-09: Celebrated Hackaholics 7.0 win on @niteonhq Instagram (https://instagram.com/p/Dfh-PeDm7_5); 2026-11-03: Invited as guest speaker at Lagos Angel Network AMA 1.0 (https://instagram.com/p/DfRKpL4oiRmOp6w1LboyiJiqCVmXixoLMI8HPE0)",
+  "tier": "C",
+  "round_type": "Non-equity Grant (Wema Bank Hackaholics 7.0 Grand Prize)",
+  "amount": "NGN 60M",
+  "funding_date": "2026-11-06",
+  "investors": "Wema Bank",
+  "funding_sources": "https://www.startuplist.africa/funding/niteon-grant-60m-ngn-fdbdde3 | https://guardian.ng/technology/tech/wema-bank-awards-n300m-to-11-innovators-at-hackaholics-7-0/",
+  "funding_confidence": "CONFIRMED_2_SOURCES",
+  "founder_or_marketing_contact": "Dr. Tony Niteon Nwose (Founder) | https://www.instagram.com/niteonhq/ | https://www.linkedin.com/company/niteonhq/",
+  "instagram_url": "https://www.instagram.com/niteonhq/",
+  "ig_status": "OK",
+  "ig_followers": "9,993",
+  "ig_post_1": {
+    "raw_timestamp_text": "2026-11-09",
+    "absolute_date": "2026-11-09",
+    "type": "Carousel",
+    "url": "https://instagram.com/p/Dfh-PeDm7_5"
+  },
+  "ig_post_2": {
+    "raw_timestamp_text": "2026-11-09",
+    "absolute_date": "2026-11-09",
+    "type": "Carousel",
+    "url": "https://instagram.com/p/Dfg_0DLiGISay_ewZPIQAfDgP38GDKbcnEcbzw0"
+  },
+  "ig_post_3": {
+    "raw_timestamp_text": "2026-11-03",
+    "absolute_date": "2026-11-03",
+    "type": "Photo",
+    "url": "https://instagram.com/p/DfRKpL4oiRmOp6w1LboyiJiqCVmXixoLMI8HPE0"
+  },
+  "ig_post_4": {
+    "raw_timestamp_text": "2026-10-23",
+    "absolute_date": "2026-10-23",
+    "type": "Reel",
+    "url": "https://instagram.com/p/De12tlWsqGY"
+  },
+  "ig_post_5": {
+    "raw_timestamp_text": "2026-10-23",
+    "absolute_date": "2026-10-23",
+    "type": "Carousel",
+    "url": "https://instagram.com/p/De12bbYjlWC"
+  },
+  "ig_days_since_latest": 18,
+  "ig_median_gap_days": 3,
+  "ig_screenshot_path": "screenshots/niteon_instagram.png",
+  "blog_url": "NOT_FOUND",
+  "blog_last_post_date": "NOT_FOUND",
+  "blog_posts_last_90_days": "NOT_FOUND",
+  "marketing_titles_found": "NONE (niteon.co has no public team directory or marketing/growth/content titles)",
+  "hiring_marketing_role": "NO (no careers or open roles page on niteon.co)",
+  "need_score": 5,
+  "score_flags": "IG_STALE_14D (+1) | NO_OR_STALE_BLOG_90D (+2) | NO_MARKETING_TITLE_ON_TEAM (+2)",
+  "qualified": true,
+  "signal_categories": [
+    "Instagram",
+    "blog",
+    "team"
+  ],
+  "unique_offer": "Integrated African B2B export stack combining an AI-matched commodity marketplace (Niteon HQ), Sharia-compliant trade finance (Niteon Capital), and logistics (Niteon Hub).",
+  "closest_overlap": "TBD_PHASE_5",
+  "pitch_hook": "Niteon won the NGN 60M Wema Bank Hackaholics 7.0 grand prize on 2026-11-06 and claims 15,311 verified manufacturers, yet @niteonhq hasn't posted in 18 days (since 2026-11-09), niteon.co has no blog or public team/marketing lead, and its site lacks spacing polish ('AtNiteon,weareaglobalteam...').",
+  "evidence_paths": "evidence/phase2/niteon_sl_a4b50a5d2f.md | evidence/phase2/guardian_hackaholics7.md | evidence/phase2/wema_hackaholics7.md | evidence/phase4/niteon_home.json | evidence/phase4/niteon_home.md | evidence/phase4/niteon_ig_scrape.json | evidence/phase4/niteon_ig_scrape.md | evidence/phase4/niteon_ig_interact.json | screenshots/niteon_instagram.png"
+}

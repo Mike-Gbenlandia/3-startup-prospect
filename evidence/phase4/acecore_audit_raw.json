@@ -1,0 +1,197 @@
+{
+  "retrievalDate": "2026-11-27",
+  "slug": "acecore",
+  "poolEntry": {
+    "name": "Acecore",
+    "website": "https://acecore.tech/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Equity-free prize (TC Battlefield 2026 Grand Prize)",
+    "amount": "$10K",
+    "announced_date": "2026-10-30",
+    "investors": "TechCabal Moonshot / Yango Group (TC Battlefield)",
+    "hq_location": "Oyigbo, Rivers State, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/acecore-equity-free-prize-10k-usd-af0d5df",
+      "https://techcabal.beehiiv.com/p/acecore-wins-10-000-at-moonshot",
+      "https://liners.com/research/moonshot-2026-african-companies"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/acecore_19538575dd.md",
+      "evidence/phase1/hy_techcabal_moonshot_battlefield.md",
+      "evidence/phase1/hy_liners_moonshot_2026.md"
+    ],
+    "batch_number": 5
+  },
+  "resolvedWebsite": "https://acecore.tech/",
+  "searchCandidates": [],
+  "scrapedPages": {
+    "home": {
+      "url": "https://acecore.tech/",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/acecore_home.md",
+      "jsonPath": "evidence/phase4/acecore_home.json"
+    },
+    "about": {
+      "url": "https://acecore.tech/about",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/acecore_about.md",
+      "jsonPath": "evidence/phase4/acecore_about.json"
+    }
+  },
+  "socialLinksFoundOnSite": {
+    "instagram": [
+      "https://www.instagram.com/acecore_inc/"
+    ],
+    "linkedin": [
+      "https://www.linkedin.com/company/acecore-incorporations/"
+    ],
+    "twitter": [
+      "https://x.com/Acecore_Inc"
+    ]
+  },
+  "instagramAudit": {
+    "status": "OK",
+    "url": "https://www.instagram.com/acecore_inc/",
+    "screenshotPath": "screenshots/acecore_instagram.png",
+    "mdText": "# Acecore Incorporations (@acecore_inc)\n\nClean energy manufacturing company, building revolutionary clean energy solutions to power homes and businesses across Africa\n\n276 followers · 7 following\n\nLinks: https://www.techcabal.com/2026/10/30/techcabal-daily-acecore-wins-10000-at-moonshot/\n\n## Recent posts\n\n- [One more home just joined the clean and renewable energy bang wagon. One more home just chose freedom and liberation fr…](https://instagram.com/p/CicKxDMqw6o) · 2022-09-13 · 39 likes · 1 comments\n- [Last Friday with Acecore. ⚡ Swipe through, L-R: the Acecore team first, then the rest of the moments from the event. Th…](https://instagram.com/p/DgP0r3YjQtr) · 2026-11-27 · 22 likes · 0 comments\n- [Building a company often comes with personal sacrifices that people rarely see. For Caleb Iwuoha, building Acecore mean…](https://instagram.com/p/DgPWAYoF0Dv) · 2026-11-27 · 20 likes · 0 comments\n- [@acecore_inc founder and CEO on stage at the company first ever launch. The future of the energy start here](https://instagram.com/p/DgAEjfSxbp0) · 2026-11-21 · 42 likes · 0 comments · 449 views\n- [The future of energy goes live TODAY at 5:30 PM WAT. ⚡ Acecore is dropping a massive reveal. This is the real-world upg…](https://instagram.com/p/Df-Fe3It7Bg) · 2026-11-20 · 8 likes · 0 comments\n- [Meet ACECORE ⚡ A Nigerian energy technology company developing locally manufactured, AI-powered energy solutions. Its f…](https://instagram.com/p/Df68waHtoFG) · 2026-11-19 · 60 likes · 13 comments · 597 views\n- [The veil comes down in 2 days. On November 20th, what has been kept entirely out of sight becomes the main event. We ar…](https://instagram.com/p/Df4hsqgN1UK) · 2026-11-18 · 10 likes · 0 comments\n- [3 days left. And this is the part where history starts paying attention. ⚡ November 20th is three days away. Three days…](https://instagram.com/p/Df2MSa8tDbU) · 2026-11-17 · 11 likes · 0 comments · 236 views\n- [4 days left. The countdown is moving. ⚡ Launch week is here, and November 20th is closing in fast. We’ve been building…](https://instagram.com/p/Dfza3JMN9DS) · 2026-11-16 · 8 likes · 0 comments\n- [Five days. That’s it. Five. 🖐️⚡ We’ve been quiet-building the future of clean energy, and now the clock is loud. 🔋 On…](https://instagram.com/p/DfxCcj8NvmA) · 2026-11-15 · 7 likes · 1 comments\n- [How much has unreliable power cost your business this year? Be honest. Lost sales, spoiled stock, fuel, repairs, custom…](https://instagram.com/p/Dfuj9wttyKa) · 2026-11-14 · 7 likes · 2 comments\n- [Only 7 days of sleep left ⏳ and we will all witness the birth of the BEST HARDWARE TECH ever seen in Africa 🌍 Acecore…](https://instagram.com/p/DfskMarNNah) · 2026-11-13 · 9 likes · 2 comments\n",
+    "interactParsed": {
+      "title": "Acecore Incorporations (@acecore_inc) • Instagram photos and videos",
+      "url": "https://www.instagram.com/acecore_inc/",
+      "bodyText": "Log In\nSign Up\nacecore_inc\n276 followers\n7 following\nAcecore Incorporations\nClean energy manufacturing company, building revolutionary clean energy solutions to power homes and businesses across... \nmore\ntechcabal.com/2026/10/30/techcabal-daily-acecore-wins-10000-at-moonshot and 3 more\nShow more posts from acecore_inc\nMeta\nAbout\nBlog\nJobs\nHelp\nAPI\nPrivacy\nConsumer Health Privacy\nTerms\nLocations\nPopular\nInstagram Lite\nMeta AI\nMuse\nThreads\nContact Uploading & Non-Users\nMeta Verified\nEnglish\nAfrikaans\nالعربية\nČeština\nDansk\nDeutsch\nΕλληνικά\nEnglish\nEnglish (UK)\nEspañol (España)\nEspañol\nفارسی\nSuomi\nFrançais\nעברית\nBahasa Indonesia\nItaliano\n日本語\n한국어\nBahasa Melayu\nNorsk\nNederlands\nPolski\nPortuguês (Brasil)\nPortuguês (Portugal)\nРусский\nSvenska\nภาษาไทย\nFilipino\nTürkçe\n中文(简体)\n中文(台灣)\nবাংলা\nગુજરાતી\nहिन्दी\nHrvatski\nMagyar\nಕನ್ನಡ\nമലയാളം\nमराठी\nनेपाली\nਪੰਜਾਬੀ\nසිංහල\nSlovenčina\nதமிழ்\nతెలుగు\nاردو\nTiếng Việt\n中文(香港)\nБългарски\nFrançais (Canada)\nRomână\nСрпски\nУкраїнська\n© 2026 Instagram from Meta\nSee photos, videos and more from acecore_inc\nSign up and never miss a post from acecore_inc.\nSign up\nLog in",
+      "domData": {
+        "posts": [
+          {
+            "href": "/acecore_inc/p/CicKxDMqw6o/",
+            "imgAlt": "Photo by Acecore Incorporations on September 13, 2022.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/acecore_inc/p/DgP0r3YjQtr/",
+            "imgAlt": "Photo by Acecore Incorporations on November 27, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/founders_huddle/p/DgPWAYoF0Dv/",
+            "imgAlt": "Photo by @founders_huddle on November 27, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/techblitblog/reel/DgAEjfSxbp0/",
+            "imgAlt": "Video by TechBlit | African Tech News on November 21, 2026. May be a Twitter screenshot of screen, microphone and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/acecore_inc/p/Df-Fe3It7Bg/",
+            "imgAlt": "Photo by Acecore Incorporations on November 20, 2026. May be an image of poster and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/beautiful__onyinye__/reel/Df68waHtoFG/",
+            "imgAlt": "Video by content creator/Social Media manager/UGC on November 19, 2026. May be an image of one or more people, magazine, screen, poster and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/acecore_inc/p/Df4hsqgN1UK/",
+            "imgAlt": "Photo by Acecore Incorporations on November 18, 2026. May be an image of poster and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/acecore_inc/reel/Df2MSa8tDbU/",
+            "imgAlt": "Video by Acecore Incorporations on November 17, 2026. May be an image of poster and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/acecore_inc/p/Dfza3JMN9DS/",
+            "imgAlt": "Photo by Acecore Incorporations on November 16, 2026. May be an image of poster and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/acecore_inc/p/DfxCcj8NvmA/",
+            "imgAlt": "Photo by Acecore Incorporations on November 15, 2026. May be an image of poster and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/acecore_inc/p/Dfuj9wttyKa/",
+            "imgAlt": "Photo by Acecore Incorporations on November 14, 2026. May be an image of poster and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/acecore_inc/p/DfskMarNNah/",
+            "imgAlt": "Photo by Acecore Incorporations on November 13, 2026. May be an image of poster and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          }
+        ],
+        "extLinks": [],
+        "loginWall": false
+      }
+    },
+    "allIgLinksFound": [
+      "https://www.instagram.com/acecore_inc/"
+    ]
+  },
+  "evidencePaths": [
+    "evidence/phase2/acecore_19538575dd.md",
+    "evidence/phase1/hy_techcabal_moonshot_battlefield.md",
+    "evidence/phase1/hy_liners_moonshot_2026.md",
+    "evidence/phase4/acecore_home.json",
+    "evidence/phase4/acecore_home.md",
+    "evidence/phase4/acecore_about.json",
+    "evidence/phase4/acecore_about.md",
+    "evidence/phase4/acecore_ig_scrape.json",
+    "evidence/phase4/acecore_ig_scrape.md",
+    "evidence/phase4/acecore_ig_interact.json",
+    "evidence/phase4/acecore_ig_stop.json"
+  ]
+}

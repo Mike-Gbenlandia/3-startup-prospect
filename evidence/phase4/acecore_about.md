@@ -1,0 +1,206 @@
+Take control of your energy & save more by installing The Acecore Powercell today. [Get yours now ↗](https://wa.me/2349015294724)
+
+×
+
+[![Acecore](https://acecore.tech/assets/acecore-white-BPOwMvKm.svg)](https://acecore.tech/)
+
+- [Our Infrastructure](https://acecore.tech/product)
+- [Pricing](https://acecore.tech/pricing)
+- [About us](https://acecore.tech/about)
+- [Support](https://acecore.tech/support#help-center)
+
+[Contact Us](https://acecore.tech/support)
+
+ABOUT US
+
+# The Acecore story
+
+Acecore Incorporations was founded to tackle Africa's power issues, driven by personal experiences revealing how inconsistent electricity disrupts innovation, business, and personal lives, thus impeding economic progress.
+
+![Solar panels representing Acecore renewable energy solutions](https://acecore.tech/assets/hero-img-CoCZJ5x-.png)
+
+- 01
+
+## Innovation
+
+
+
+Acecore pioneers clean energy innovations, integrating state-of-the-art tech into the clean energy sector for cutting-edge, efficient solutions.
+
+- 02
+
+## Sustainability
+
+
+
+Acecore is dedicated to sustainability, empowering carbon footprint reduction and clean energy adoption for a greener future.
+
+- 03
+
+## Made By Africans
+
+
+
+Acecore is committed to empowering African innovation and creating solutions that are designed and built by Africans for the rest of the wold.
+
+
+- 01
+
+## Innovation
+
+
+
+
+
+
+
+Acecore pioneers clean energy innovations, integrating state-of-the-art tech into the clean energy sector for cutting-edge, efficient solutions.
+
+- 02
+
+## Sustainability
+
+
+
+
+
+
+
+Acecore is dedicated to sustainability, empowering carbon footprint reduction and clean energy adoption for a greener future.
+
+- 03
+
+## Made By Africans
+
+
+
+
+
+
+
+Acecore is committed to empowering African innovation and creating solutions that are designed and built by Africans for the rest of the wold.
+
+
+## Who is Acecore?
+
+Acecore is a clean energy company that indigeneously designs, manufactures, and deploys clean energy solutions for homes and businesses. Acecore has built the next generation of intelligent energy solutions, helping homes and businesses generate, store, and manage power with confidence and no uncertainty
+
+Acecore Inc is an engineering power generation establishment born out of the "light up Africa" Initiative.
+
+Acecore was founded to help solve the numerous energy problems ravaging Nigeria and Africa at large.
+
+Acecore specializes in intelligent energy exploration, improvement and management.
+
+![Professional working with a solar panel](https://acecore.tech/assets/whoIsimg-DZGNT7qw.png)
+
+![Acecore branding on a dark surface](https://acecore.tech/assets/vision-img-10vu6zoj.png)
+
+## Our vision and mission
+
+Our mission is to democratize access to clean energy by building intelligent renewable energy systems that eliminate uncertainty and put people in control of how they generate, store, manage, and use power.
+
+Our vision is to revolutionize the renewable energy sector in Africa and beyond by becoming Africa’s most trusted renewable energy technology company and indigenously making reliable, intelligent energy the standard rather than the exception.
+
+## We're on a mission to transform renewable energy, guided by our core values. Here's how we're achieving it.
+
+### Quality
+
+Our primary essence is geared towards improving the quality of life through the provision of sustainable and clean energy in line with the global mission of bringing an end to carbon emissions and other forms of environmental pollution. We also have the reputation of selling premium quality products that can stand the test of time.
+
+### Innovation
+
+We are in the primary business of proffering lasting solutions to Power and environmental problems facing our society through technological innovative breakthroughs. We are on a mission to improve the energy sector and to provide Africa's next generation of innovators a foundation from which they join in to help drive Africa and the world to a more sustainable future.
+
+### Creativity
+
+Our primary goal is to transcend beyond the traditional ways of doing things, through spontaneous development of new ideas through flexibility, adaptability, and out of-the-box thinking. We are here to stir real change and to bring society closer to what it should be.
+
+### Family
+
+While the world is evolving with industrialization and modernization the family remains the heart core of any society hence our mission is to help bring the family together, improve bonding, and to encourage the instillation of core family values to help breed a world where courage, togetherness, honesty, open communication and creativity is truly encouraged. Better families, make the world even better.
+
+### Quality
+
+Our primary essence is geared towards improving the quality of life through the provision of sustainable and clean energy in line with the global mission of bringing an end to carbon emissions and other forms of environmental pollution. We also have the reputation of selling premium quality products that can stand the test of time.
+
+### Innovation
+
+We are in the primary business of proffering lasting solutions to Power and environmental problems facing our society through technological innovative breakthroughs. We are on a mission to improve the energy sector and to provide Africa's next generation of innovators a foundation from which they join in to help drive Africa and the world to a more sustainable future.
+
+### Creativity
+
+Our primary goal is to transcend beyond the traditional ways of doing things, through spontaneous development of new ideas through flexibility, adaptability, and out of-the-box thinking. We are here to stir real change and to bring society closer to what it should be.
+
+### Family
+
+While the world is evolving with industrialization and modernization the family remains the heart core of any society hence our mission is to help bring the family together, improve bonding, and to encourage the instillation of core family values to help breed a world where courage, togetherness, honesty, open communication and creativity is truly encouraged. Better families, make the world even better.
+
+MEET THE TEAM
+
+## The people powering Acecore
+
+Meet the minds building reliable energy for the next million homes.
+
+[Meet the team →](https://acecore.tech/about)
+
+## No Uncertainty  Just Control
+
+We are building intelligent energy solutions designed to power homes and businesses with reliable backup, clean energy, and complete control.
+
+[Get your power cell](https://acecore.tech/pricing) ![](data:image/svg+xml,%3csvg%20width='21'%20height='26'%20viewBox='0%200%2021%2026'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20d='M17.0535%2013.3461C17.0785%2011.4088%2018.1189%209.57564%2019.7694%208.56093C18.7282%207.07387%2016.9842%206.13103%2015.1697%206.07426C13.2344%205.87112%2011.3582%207.2323%2010.3721%207.2323C9.36679%207.2323%207.8484%206.09443%206.21335%206.12807C4.08214%206.19692%202.09531%207.40862%201.05842%209.27187C-1.17046%2013.1308%200.492086%2018.8022%202.62717%2021.9215C3.6954%2023.449%204.94386%2025.1551%206.57743%2025.0946C8.17598%2025.0283%208.77301%2024.0753%2010.7026%2024.0753C12.6143%2024.0753%2013.1744%2025.0946%2014.8411%2025.0562C16.5565%2025.0283%2017.6372%2023.5219%2018.6679%2021.9801C19.4355%2020.8917%2020.0261%2019.6888%2020.4179%2018.416C18.4021%2017.5634%2017.0559%2015.5348%2017.0535%2013.3461Z'%20fill='black'/%3e%3cpath%20d='M13.9054%204.02285C14.8406%202.9001%2015.3014%201.457%2015.1898%200C13.7609%200.150076%2012.4411%200.832985%2011.4932%201.91266C10.5662%202.96756%2010.0839%204.38527%2010.1751%205.78658C11.6045%205.8013%2013.0097%205.1369%2013.9054%204.02285Z'%20fill='black'/%3e%3c/svg%3e)![](data:image/svg+xml,%3csvg%20width='23'%20height='26'%20viewBox='0%200%2023%2026'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20d='M16.291%2016.9189L2.47949%2024.7686C1.86043%2025.1196%201.29264%2025.1784%200.857422%2024.9922L12.6104%2013.2383L16.291%2016.9189ZM11.9199%2012.5479L0.178711%2024.291C0.0633333%2024.0301%200%2023.7097%200%2023.3369V1.75781C4.15551e-05%201.38628%200.0627041%201.06647%200.177734%200.805665L11.9199%2012.5479ZM21.5068%2011.1396C22.8699%2011.9144%2022.8699%2013.1823%2021.5068%2013.958L17.1709%2016.4199L13.2998%2012.5488L17.1709%208.67578L21.5068%2011.1396ZM0.855469%200.104493C1.29092%20-0.0828472%201.8596%20-0.0241368%202.47949%200.328126L16.291%208.17578L12.6094%2011.8584L0.855469%200.104493Z'%20fill='black'/%3e%3c/svg%3e)Download app
+
+![](https://acecore.tech/assets/Powercell3-BQgLn-_G.svg)![](https://acecore.tech/assets/iphone-DNo4-p1Q.svg)
+
+![](https://acecore.tech/assets/Powercell3-BQgLn-_G.svg)![](https://acecore.tech/assets/iphone-DNo4-p1Q.svg)
+
+[![Acecore](https://acecore.tech/assets/acecore-white-BPOwMvKm.svg)](https://acecore.tech/)
+
+## Company
+
+- [About](https://acecore.tech/about)
+
+## Explore
+
+- [Problems](https://acecore.tech/product)
+- [Solutions](https://acecore.tech/product)
+- [Support](https://acecore.tech/support#help-center)
+- [Powercore App](https://acecore.tech/product#productPowercoreApp)
+- [The Powercell](https://acecore.tech/product)
+
+## Sitemap
+
+- [Homepage](https://acecore.tech/)
+- [Product](https://acecore.tech/product)
+- [Pricing](https://acecore.tech/pricing)
+- [About us](https://acecore.tech/about)
+
+## Support
+
+- [Help Center](https://acecore.tech/support)
+- [User Manual](https://acecore.tech/docs/acecore-powercell-user-manual.pdf)
+- [Warranty](https://acecore.tech/support)
+- [Financing](https://acecore.tech/support)
+
+## Download
+
+- [User Manual (PDF)](https://acecore.tech/docs/acecore-powercell-user-manual.pdf)
+- Apple Store
+- Google Play Store
+- [Term of Use](https://acecore.tech/docs/Acecore%20Term%20of%20use.pdf)
+
+[Privacy](https://acecore.tech/terms)\| [Terms](https://acecore.tech/terms)
+
+Acecore 2026; All Rights Reserved
+
+- [![](data:image/svg+xml,%3csvg%20width='30'%20height='30'%20viewBox='0%200%2030%2030'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3crect%20width='30'%20height='30'%20rx='6'%20fill='%2314201D'/%3e%3cg%20clip-path='url(%23clip0_2511_915)'%3e%3cmask%20id='mask0_2511_915'%20style='mask-type:luminance'%20maskUnits='userSpaceOnUse'%20x='7'%20y='7'%20width='16'%20height='16'%3e%3cpath%20d='M23%207H7V23H23V7Z'%20fill='white'/%3e%3c/mask%3e%3cg%20mask='url(%23mask0_2511_915)'%3e%3cpath%20d='M16.5222%2013.7715L22.4785%207H21.067L15.8952%2012.8795L11.7644%207H7L13.2466%2015.8909L7%2022.9918H8.41155L13.8732%2016.7828L18.2357%2022.9918H23L16.5222%2013.7715ZM14.5889%2015.9692L13.9559%2015.0839L8.92015%208.03921H11.0882L15.1522%2013.7245L15.7851%2014.6098L21.0677%2021.9999H18.8997L14.5889%2015.9692Z'%20fill='%2304B397'/%3e%3c/g%3e%3c/g%3e%3cdefs%3e%3cclipPath%20id='clip0_2511_915'%3e%3crect%20width='16'%20height='16'%20fill='white'%20transform='translate(7%207)'/%3e%3c/clipPath%3e%3c/defs%3e%3c/svg%3e)](https://x.com/Acecore_Inc)
+- [![](data:image/svg+xml,%3csvg%20width='30'%20height='30'%20viewBox='0%200%2030%2030'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3crect%20width='30'%20height='30'%20rx='6'%20fill='%2314201D'/%3e%3cg%20clip-path='url(%23clip0_2511_922)'%3e%3cpath%20d='M14.9273%206.92773C12.7546%206.92773%2012.482%206.93723%2011.6287%206.97607C10.777%207.01507%2010.1957%207.1499%209.68704%207.34773C9.16088%207.55206%208.71456%207.82538%208.2699%208.27021C7.82491%208.71487%207.55158%209.16119%207.34658%209.68718C7.14825%2010.196%207.01326%2010.7775%206.97492%2011.6288C6.93676%2012.4821%206.92676%2012.755%206.92676%2014.9276C6.92676%2017.1002%206.93642%2017.372%206.97509%2018.2254C7.01426%2019.077%207.14909%2019.6583%207.34675%2020.167C7.55125%2020.6931%207.82457%2021.1395%208.2694%2021.5841C8.71389%2022.0291%209.16021%2022.3031%209.68604%2022.5074C10.195%2022.7053%2010.7765%2022.8401%2011.628%2022.8791C12.4813%2022.9179%2012.7538%2022.9274%2014.9263%2022.9274C17.0991%2022.9274%2017.3709%2022.9179%2018.2242%2022.8791C19.0759%2022.8401%2019.6578%2022.7053%2020.1668%2022.5074C20.6928%2022.3031%2021.1385%2022.0291%2021.583%2021.5841C22.028%2021.1395%2022.3013%2020.6931%2022.5063%2020.1671C22.7029%2019.6583%2022.8379%2019.0768%2022.8779%2018.2255C22.9163%2017.3722%2022.9263%2017.1002%2022.9263%2014.9276C22.9263%2012.755%2022.9163%2012.4823%2022.8779%2011.629C22.8379%2010.7773%2022.7029%2010.196%2022.5063%209.68735C22.3013%209.16119%2022.028%208.71487%2021.583%208.27021C21.138%207.82522%2020.693%207.55189%2020.1663%207.34773C19.6563%207.1499%2019.0747%207.01507%2018.223%206.97607C17.3697%206.93723%2017.0981%206.92773%2014.9248%206.92773H14.9273ZM14.2096%208.36937C14.4226%208.36904%2014.6603%208.36937%2014.9273%208.36937C17.0632%208.36937%2017.3164%208.37704%2018.1599%208.41537C18.9399%208.45104%2019.3632%208.58137%2019.6452%208.69087C20.0185%208.83586%2020.2847%209.00919%2020.5645%209.28919C20.8445%209.56918%2021.0178%209.83584%2021.1631%2010.2092C21.2726%2010.4908%2021.4031%2010.9142%2021.4386%2011.6941C21.477%2012.5375%2021.4853%2012.7908%2021.4853%2014.9257C21.4853%2017.0607%2021.477%2017.314%2021.4386%2018.1574C21.403%2018.9373%2021.2726%2019.3607%2021.1631%2019.6423C21.0181%2020.0156%2020.8445%2020.2815%2020.5645%2020.5613C20.2845%2020.8413%2020.0187%2021.0146%2019.6452%2021.1596C19.3635%2021.2696%2018.9399%2021.3996%2018.1599%2021.4353C17.3166%2021.4736%2017.0632%2021.482%2014.9273%2021.482C12.7911%2021.482%2012.538%2021.4736%2011.6947%2021.4353C10.9147%2021.3993%2010.4914%2021.269%2010.2092%2021.1595C9.83587%2021.0145%209.56921%2020.8411%209.28921%2020.5611C9.00922%2020.2811%208.83589%2020.0151%208.69056%2019.6417C8.58106%2019.36%208.45056%2018.9367%208.41506%2018.1567C8.37673%2017.3134%208.36906%2017.06%208.36906%2014.9237C8.36906%2012.7875%208.37673%2012.5355%208.41506%2011.6921C8.45073%2010.9122%208.58106%2010.4888%208.69056%2010.2068C8.83555%209.83351%209.00922%209.56685%209.28921%209.28686C9.56921%209.00686%209.83587%208.83353%2010.2092%208.6882C10.4912%208.5782%2010.9147%208.44821%2011.6947%208.41237C12.4326%208.37904%2012.7186%208.36904%2014.2096%208.36737V8.36937ZM19.1975%209.69768C18.6675%209.69768%2018.2375%2010.1272%2018.2375%2010.6573C18.2375%2011.1873%2018.6675%2011.6173%2019.1975%2011.6173C19.7275%2011.6173%2020.1575%2011.1873%2020.1575%2010.6573C20.1575%2010.1273%2019.7275%209.69735%2019.1975%209.69735V9.69768ZM14.9273%2010.8193C12.6585%2010.8193%2010.819%2012.6588%2010.819%2014.9276C10.819%2017.1964%2012.6585%2019.035%2014.9273%2019.035C17.1961%2019.035%2019.0349%2017.1964%2019.0349%2014.9276C19.0349%2012.6588%2017.1961%2010.8193%2014.9273%2010.8193ZM14.9273%2012.261C16.3999%2012.261%2017.5939%2013.4548%2017.5939%2014.9276C17.5939%2016.4002%2016.3999%2017.5942%2014.9273%2017.5942C13.4545%2017.5942%2012.2607%2016.4002%2012.2607%2014.9276C12.2607%2013.4548%2013.4545%2012.261%2014.9273%2012.261Z'%20fill='%2304B397'/%3e%3c/g%3e%3cdefs%3e%3cclipPath%20id='clip0_2511_922'%3e%3crect%20width='16'%20height='15.9995'%20fill='white'%20transform='translate(6.92676%206.92773)'/%3e%3c/clipPath%3e%3c/defs%3e%3c/svg%3e)](https://www.instagram.com/acecore_inc/)
+- [![](data:image/svg+xml,%3csvg%20width='30'%20height='30'%20viewBox='0%200%2030%2030'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3crect%20width='30'%20height='30'%20rx='6'%20fill='%2314201D'/%3e%3cpath%20d='M7.50324%2011.907H10.5458V21.0616H7.50324V11.907ZM9.04449%207.49414C8.00387%207.49414%207.32324%208.17758%207.32324%209.07589C7.32324%209.95452%207.98362%2010.6571%209.00455%2010.6571H9.02424C10.0851%2010.6571%2010.7455%209.95395%2010.7455%209.07589C10.7258%208.17758%2010.0851%207.49414%209.04393%207.49414H9.04449ZM18.0141%2011.6926C16.3992%2011.6926%2015.6764%2012.5803%2015.2719%2013.2041V11.9075H12.2294C12.2693%2012.7665%2012.2294%2021.0622%2012.2294%2021.0622H15.2719V15.9502C15.2719%2015.6768%2015.2916%2015.4035%2015.3721%2015.2077C15.592%2014.661%2016.0926%2014.0951%2016.933%2014.0951C18.0338%2014.0951%2018.4742%2014.9343%2018.4742%2016.1651V21.0622H21.5168V15.813C21.5168%2013.001%2020.0155%2011.6926%2018.0136%2011.6926H18.0141Z'%20fill='%2304B397'/%3e%3c/svg%3e)](https://www.linkedin.com/company/acecore-incorporations/)
+- [![](data:image/svg+xml,%3csvg%20width='30'%20height='30'%20viewBox='0%200%2030%2030'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cg%20clip-path='url(%23clip0_2511_926)'%3e%3crect%20width='30'%20height='30'%20rx='6'%20fill='%2314201D'/%3e%3cpath%20d='M19.6562%2016.1622L20.1573%2012.8925H17.0201V10.771C17.0201%209.87634%2017.4578%209.00469%2018.8632%209.00469H20.2897V6.22079C20.2897%206.22079%2018.9957%206%2017.7573%206C15.175%206%2013.4855%207.56474%2013.4855%2010.4005V12.8925H10.6133V16.1622H13.4855V24.0646C14.0615%2024.1549%2014.6509%2024.2029%2015.2518%2024.2029C15.8528%2024.2029%2016.4422%2024.1549%2017.0182%2024.0646V16.1622H19.6523H19.6562Z'%20fill='%2304B397'/%3e%3c/g%3e%3cdefs%3e%3cclipPath%20id='clip0_2511_926'%3e%3crect%20width='30'%20height='30'%20rx='6'%20fill='white'/%3e%3c/clipPath%3e%3c/defs%3e%3c/svg%3e)](https://www.facebook.com/AceCore.io)
+
+![](https://acecore.tech/assets/background-BDBHyedC.png)![](https://acecore.tech/assets/homeframe-BmnrTtZq.png)![](https://acecore.tech/assets/background-BDBHyedC.png)![](https://acecore.tech/assets/homeframe-BmnrTtZq.png)![](https://acecore.tech/assets/background-BDBHyedC.png)![](https://acecore.tech/assets/homeframe-BmnrTtZq.png)![](https://acecore.tech/assets/background-BDBHyedC.png)![](https://acecore.tech/assets/homeframe-BmnrTtZq.png)
+
+![](https://acecore.tech/assets/background-BDBHyedC.png)![](https://acecore.tech/assets/homeframe-BmnrTtZq.png)![](https://acecore.tech/assets/background-BDBHyedC.png)![](https://acecore.tech/assets/homeframe-BmnrTtZq.png)
+
+![Acecore](https://acecore.tech/assets/acecore-white-BPOwMvKm.svg)
+
+Loading

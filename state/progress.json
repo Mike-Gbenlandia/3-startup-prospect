@@ -8,9 +8,9 @@
     },
     "audit": {
       "DROPPED": 270,
-      "DONE": 45,
+      "DONE": 50,
       "BLOCKED": 1,
-      "PENDING": 76
+      "PENDING": 71
     },
     "total_candidates": 392
   },
@@ -19,6 +19,6 @@
     "step": null,
     "open_session_ids": []
   },
-  "next_action": "Fetch and audit Batch 9 (shellify, agrosavvy-consult, niteon, acecore, supplya)",
-  "last_updated": "2026-11-28T05:53:17.907Z"
+  "next_action": "Fetch and audit Batch 10: navidyn, krosai, maliyo-games, gazuntype, fer-factor",
+  "last_updated": "2026-11-28T05:58:14.630Z"
 }
