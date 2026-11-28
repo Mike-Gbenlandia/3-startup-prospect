@@ -2173,5 +2173,348 @@
     "closest_overlap": "TBD_PHASE_5",
     "pitch_hook": "UpSmart Energies won NiYA-Cascador grant capital on 2026-11-10, yet its WordPress site upsmartenergies.com has an Elementor placeholder homepage, empty /our-story/ and /contact/ pages, 0 blog posts on /blogs/ ('No results'), no linked Instagram account, and no public marketing lead.",
     "evidence_paths": "evidence/phase1/hy_sl_ng_grant.md | evidence/phase1/hy_sl_ng_renew_2026.md | evidence/phase4/upsmart-energies_search2.json | evidence/phase4/upsmart-energies_sl.md | evidence/phase4/upsmart-energies_home.json | evidence/phase4/upsmart-energies_home.md | evidence/phase4/upsmart-energies_about.md | evidence/phase4/upsmart-energies_blog.md | evidence/phase4/upsmart-energies_contact.md"
+  },
+  {
+    "slug": "drych-digital",
+    "name": "Drych Digital",
+    "website": "https://drychdigital.com/",
+    "industry": "Green IT / Low-Carbon Digital & Creative Agency",
+    "city": "Abuja",
+    "what_they_do": "Abuja-based, women-owned Green IT startup and carbon-negative creative agency (Drych Digital Limited, RC-8992375) that builds low-carbon websites, mobile apps, branding, and 2D/3D animations alongside digital sustainability tools like Website Carbon Evaluator and Eco Sleep.",
+    "recent_activity": "2026-11-10: Won NGN 1M (~$742) non-dilutive growth award at the NiYA x Cascador Founders Programme Pitch Day in Abuja (https://www.startuplist.africa/funding/drych-digital-grant-1m-ngn-6acd88b); 2026-10-28: Posted about David Ogebe's post-funding training session on @drychdigital Instagram (https://instagram.com/p/DfCeUu_OAhm); 2026-08: Published Kieva - Veni Vidi Vici character design portfolio work on drychdigital.com",
+    "tier": "C",
+    "round_type": "NiYA-Cascador Non-dilutive Grant",
+    "amount": "NGN 1M (~$742)",
+    "funding_date": "2026-11-10",
+    "investors": "Cascador / Nigerian Youth Academy (NiYA) / Federal Ministry of Youth Development",
+    "funding_sources": "https://www.startuplist.africa/funding/drych-digital-grant-1m-ngn-6acd88b | https://techbuild.africa/entrepreneurs-%e2%82%a65m-fmyd-niya-cascador-pitch-day/",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "founder_or_marketing_contact": "hello@drychdigital.com | drych@drychdigital.com | +234 911 5977 413",
+    "instagram_url": "https://www.instagram.com/drychdigital/",
+    "ig_status": "OK",
+    "ig_followers": "23",
+    "ig_post_1": {
+      "raw_timestamp_text": "2026-10-28",
+      "absolute_date": "2026-10-28",
+      "type": "Photo",
+      "url": "https://instagram.com/p/DfCeUu_OAhm"
+    },
+    "ig_post_2": {
+      "raw_timestamp_text": "2026-06-05",
+      "absolute_date": "2026-06-05",
+      "type": "Carousel",
+      "url": "https://instagram.com/p/DZOMLEoDXgh"
+    },
+    "ig_post_3": {
+      "raw_timestamp_text": "2026-03-08",
+      "absolute_date": "2026-03-08",
+      "type": "Reel",
+      "url": "https://instagram.com/p/DVo06edDrx_"
+    },
+    "ig_post_4": {
+      "raw_timestamp_text": "2025-03-08",
+      "absolute_date": "2025-03-08",
+      "type": "Reel",
+      "url": "https://instagram.com/p/DG9FaZHN9ol"
+    },
+    "ig_post_5": "NOT_FOUND",
+    "ig_days_since_latest": 30,
+    "ig_median_gap_days": 145,
+    "ig_screenshot_path": "screenshots/drych-digital_instagram.png",
+    "blog_url": "https://drychdigital.com/blog",
+    "blog_last_post_date": "2026-02-20",
+    "blog_posts_last_90_days": 0,
+    "marketing_titles_found": "NONE (no public team directory or named marketing/growth/content lead on drychdigital.com)",
+    "hiring_marketing_role": "NO (https://drychdigital.com/careers states 'We're not looking for a specific role' / generalists welcome)",
+    "need_score": 8,
+    "score_flags": "IG_STALE_14D (+1) | IG_MEDIAN_GAP_14D (+2) | IG_IRREGULAR_GAP (+1) | NO_OR_STALE_BLOG_90D (+2) | NO_MARKETING_TITLE_ON_TEAM (+2)",
+    "qualified": true,
+    "signal_categories": [
+      "Instagram",
+      "blog",
+      "team"
+    ],
+    "unique_offer": "Abuja carbon-negative digital studio pairing low-carbon web engineering and Eco Sleep optimization with branding and 2D/3D animation.",
+    "closest_overlap": "TBD_PHASE_5",
+    "pitch_hook": "Drych Digital pitches branding, SEO, and content writing and won NiYA-Cascador backing on 2026-11-10, yet its own @drychdigital Instagram has only 23 followers and 4 posts total (145-day median gap), its blog hasn't published since 2026-02-20, and it lists no public marketing lead.",
+    "evidence_paths": "evidence/phase2/drych_digital_8c8790f64c.md | evidence/phase2/web_b4_misc.json | evidence/phase4/drych-digital_home.json | evidence/phase4/drych-digital_home.md | evidence/phase4/drych-digital_about.json | evidence/phase4/drych-digital_about.md | evidence/phase4/drych-digital_blog.json | evidence/phase4/drych-digital_blog.md | evidence/phase4/drych-digital_careers.json | evidence/phase4/drych-digital_careers.md | evidence/phase4/drych-digital_ig_scrape.json | evidence/phase4/drych-digital_ig_scrape.md | evidence/phase4/drych-digital_ig_interact.json | screenshots/drych-digital_instagram.png"
+  },
+  {
+    "slug": "craft-planet",
+    "name": "Craft Planet",
+    "website": "https://craftplanet.org/",
+    "industry": "CleanTech / Plastic Recycling & Sustainable Building Materials",
+    "city": "Abuja / Kaduna",
+    "what_they_do": "Nigerian climate-tech social enterprise (operations in Bwari, Abuja and Kaduna, founded by Kabir Olaosebikan and Hanatu Abdulakeem) that collects and processes plastic waste into eco-bricks, interlocking tiles, and sustainable building materials while empowering women and community collectors.",
+    "recent_activity": "2026-11-10: Won NGN 5M (~$3,711) non-dilutive grant among Top 8 of the FMYD/NiYA-Cascador Founders Programme (https://techcabal.com/2026/11/10/cascador-niya-select-eight-founders/); 2026-11-06: Won NGN 40M Social Impact 1st place at Wema Bank Hackaholics 7.0 (https://www.instagram.com/p/DfebqWOoIRb); 2026-11-17: Featured in NiYA-Cascador Top 8 recap reel on @craftplanet_ltd Instagram (https://instagram.com/p/Df1rizGIRd8)",
+    "tier": "C",
+    "round_type": "NiYA-Cascador Non-dilutive Grant",
+    "amount": "NGN 5M (~$3,711)",
+    "funding_date": "2026-11-10",
+    "investors": "Cascador / Nigerian Youth Academy (NiYA) / Federal Ministry of Youth Development",
+    "funding_sources": "https://www.startuplist.africa/funding/craft-planet-grant-5m-ngn-624c65a | https://techcabal.com/2026/11/10/cascador-niya-select-eight-founders/",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "founder_or_marketing_contact": "Kabir Olaosebikan (CEO) | Hanatu Abdulakeem (Co-Founder & Communication Lead) | contact@craftplanet.org | info@craftplanet.org | +234 813 215 5445",
+    "instagram_url": "https://www.instagram.com/craftPlanet_ltd/",
+    "ig_status": "OK",
+    "ig_followers": "781",
+    "ig_post_1": {
+      "raw_timestamp_text": "2026-11-17",
+      "absolute_date": "2026-11-17",
+      "type": "Reel",
+      "url": "https://instagram.com/p/Df1rizGIRd8"
+    },
+    "ig_post_2": {
+      "raw_timestamp_text": "2026-11-11",
+      "absolute_date": "2026-11-11",
+      "type": "Reel",
+      "url": "https://instagram.com/p/DfmRkSeI_cS"
+    },
+    "ig_post_3": {
+      "raw_timestamp_text": "2026-11-08",
+      "absolute_date": "2026-11-08",
+      "type": "Reel",
+      "url": "https://instagram.com/p/DfebqWOoIRb"
+    },
+    "ig_post_4": {
+      "raw_timestamp_text": "2026-11-02",
+      "absolute_date": "2026-11-02",
+      "type": "Photo",
+      "url": "https://instagram.com/p/DfOyGu5olwd"
+    },
+    "ig_post_5": {
+      "raw_timestamp_text": "2026-10-29",
+      "absolute_date": "2026-10-29",
+      "type": "Reel",
+      "url": "https://instagram.com/p/DfEnQAcsHHu"
+    },
+    "ig_days_since_latest": 10,
+    "ig_median_gap_days": 5,
+    "ig_screenshot_path": "screenshots/craft-planet_instagram.png",
+    "blog_url": "NOT_FOUND",
+    "blog_last_post_date": "NOT_FOUND",
+    "blog_posts_last_90_days": "NOT_FOUND",
+    "marketing_titles_found": "NONE (craftplanet.org/teams/ lists Kabir Olaosebikan CEO, Hanatu Abdulakeem Co-Founder | Communication Lead, Aminat Abdulazeez COO, and two Plant Managers; no dedicated marketing, growth, or content title)",
+    "hiring_marketing_role": "NO (no careers or open roles page on craftplanet.org)",
+    "need_score": 4,
+    "score_flags": "NO_OR_STALE_BLOG_90D (+2) | NO_MARKETING_TITLE_ON_TEAM (+2)",
+    "qualified": true,
+    "signal_categories": [
+      "blog",
+      "team"
+    ],
+    "unique_offer": "Nigerian circular-economy manufacturer turning recovered plastic waste into eco-bricks and interlocking paving tiles claimed to be 3x stronger than concrete.",
+    "closest_overlap": "TBD_PHASE_5",
+    "pitch_hook": "Craft Planet won both NGN 40M at Wema Hackaholics 7.0 (2026-11-06) and NGN 5M from NiYA-Cascador (2026-11-10), yet craftplanet.org has no blog, still has broken WordPress theme links (ninzio.com) and typos ('Modular Hosing'), and lists no dedicated marketing or growth lead.",
+    "evidence_paths": "evidence/phase2/craft_planet_758423b5d5.md | evidence/phase1/hy_techcabal_cascador_niya_8.md | evidence/phase2/guardian_hackaholics7.md | evidence/phase2/wema_hackaholics7.md | evidence/phase4/craft-planet_home.json | evidence/phase4/craft-planet_home.md | evidence/phase4/craft-planet_about.json | evidence/phase4/craft-planet_about.md | evidence/phase4/craft-planet_team.json | evidence/phase4/craft-planet_team.md | evidence/phase4/craft-planet_ig_scrape.json | evidence/phase4/craft-planet_ig_scrape.md | evidence/phase4/craft-planet_ig_interact.json | screenshots/craft-planet_instagram.png"
+  },
+  {
+    "slug": "rekool",
+    "name": "Rekool",
+    "website": "https://rekool.ng/",
+    "industry": "CleanTech / Solar Cold-Chain & Renewable Cooling",
+    "city": "Kano",
+    "what_they_do": "Kano-based renewable cooling startup (Rèkool Access Technologies, founded Dec 2022 by Aisha Adama Adamu and Musa Usman Kuku) building Vacci-Safe solar-powered, PCM thermal-storage, IoT-monitored refrigerators and cold rooms for rural healthcare clinics, farmers, and SMEs across Northern Nigeria.",
+    "recent_activity": "2026-11-10: Won NGN 5M (~$3,711) non-dilutive grant among Top 8 of the NiYA-Cascador Founders Programme (https://techcabal.com/2026/11/10/cascador-niya-select-eight-founders/); 2026-10-28: Featured on NiYA x Cascador Founders Programme Day 8 Instagram post (https://instagram.com/p/DfCcahOlzW5); 2026-07-25: Highlighted CEO Aisha Adama Adamu on @rekool_access_ Instagram (https://instagram.com/p/DbNGduSoPRc)",
+    "tier": "C",
+    "round_type": "NiYA-Cascador Non-dilutive Grant",
+    "amount": "NGN 5M (~$3,711)",
+    "funding_date": "2026-11-10",
+    "investors": "Cascador / Nigerian Youth Academy (NiYA) / Federal Ministry of Youth Development",
+    "funding_sources": "https://www.startuplist.africa/funding/rekool-grant-5m-ngn-7b3b0c8 | https://techcabal.com/2026/11/10/cascador-niya-select-eight-founders/",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "founder_or_marketing_contact": "Aisha Adama Adamu (Founder & CEO) | Musa Usman Kuku (COO & Co-Founder) | Info@rekool.ng | +2348134562257",
+    "instagram_url": "https://www.instagram.com/rekool_access_/",
+    "ig_status": "OK",
+    "ig_followers": "42",
+    "ig_post_1": {
+      "raw_timestamp_text": "2026-10-28",
+      "absolute_date": "2026-10-28",
+      "type": "Photo",
+      "url": "https://instagram.com/p/DfDfu55IYjw"
+    },
+    "ig_post_2": {
+      "raw_timestamp_text": "2026-10-28",
+      "absolute_date": "2026-10-28",
+      "type": "Reel",
+      "url": "https://instagram.com/p/DfDfaZdIOUs"
+    },
+    "ig_post_3": {
+      "raw_timestamp_text": "2026-10-28",
+      "absolute_date": "2026-10-28",
+      "type": "Carousel",
+      "url": "https://instagram.com/p/DfCcahOlzW5"
+    },
+    "ig_post_4": {
+      "raw_timestamp_text": "2026-07-25",
+      "absolute_date": "2026-07-25",
+      "type": "Photo",
+      "url": "https://instagram.com/p/DbNGduSoPRc"
+    },
+    "ig_post_5": {
+      "raw_timestamp_text": "2026-02-22",
+      "absolute_date": "2026-02-22",
+      "type": "Photo",
+      "url": "https://instagram.com/p/DVENQiDDG59"
+    },
+    "ig_days_since_latest": 30,
+    "ig_median_gap_days": 47.5,
+    "ig_screenshot_path": "screenshots/rekool_instagram.png",
+    "blog_url": "https://rekool.ng/blog/",
+    "blog_last_post_date": "NOT_FOUND",
+    "blog_posts_last_90_days": 0,
+    "marketing_titles_found": "NONE (rekool.ng/about/ lists CEO Aisha Adama Adamu, Chief Communication Officer / Admin Support Head Khadija Muazu, COO Musa Usman Kuku, Admin/HR Aisha Ibrahim, and Accounting Manager Fa'iza Suleiman; no marketing, growth, or content title)",
+    "hiring_marketing_role": "NO (no careers or open roles page on rekool.ng)",
+    "need_score": 8,
+    "score_flags": "IG_STALE_14D (+1) | IG_MEDIAN_GAP_14D (+2) | IG_IRREGULAR_GAP (+1) | NO_OR_STALE_BLOG_90D (+2) | NO_MARKETING_TITLE_ON_TEAM (+2)",
+    "qualified": true,
+    "signal_categories": [
+      "Instagram",
+      "blog",
+      "team"
+    ],
+    "unique_offer": "Solar-powered, phase-change-material and IoT-enabled vaccine and agricultural cold-chain storage built for off-grid Northern Nigeria.",
+    "closest_overlap": "TBD_PHASE_5",
+    "pitch_hook": "Rekool won NGN 5M in NiYA-Cascador backing on 2026-11-10 and serves 26+ clinics and 50+ farmers, yet its @rekool_access_ Instagram has 42 followers and irregular 47.5-day median gaps, its /blog/ page has 0 posts, its homepage has duplicated placeholder text, and it has no marketing lead.",
+    "evidence_paths": "evidence/phase2/fmyd_cascador_8_1d72fb117c.md | evidence/phase1/hy_techcabal_cascador_niya_8.md | evidence/phase1/hy_sl_ng_grant.md | evidence/phase4/rekool_home.json | evidence/phase4/rekool_home.md | evidence/phase4/rekool_about.json | evidence/phase4/rekool_about.md | evidence/phase4/rekool_blog.json | evidence/phase4/rekool_blog.md | evidence/phase4/rekool_ig_scrape.json | evidence/phase4/rekool_ig_scrape.md | evidence/phase4/rekool_ig_interact.json | screenshots/rekool_instagram.png"
+  },
+  {
+    "slug": "sewpro",
+    "name": "SewPro",
+    "website": "https://www.sewpro.app/",
+    "industry": "FashionTech / SaaS for Tailors & Fashion Businesses",
+    "city": "Abuja",
+    "what_they_do": "Abuja-based fashion-tech startup (Sewprofessional Nigeria Ltd, founded by Andrew Ogbeh) offering the SewPro mobile app for tailors and fashion entrepreneurs to store client measurements, co-create designs, automate pickup/payment reminders, and manage invoicing.",
+    "recent_activity": "2026-11-10: Won NGN 5M (~$3,711) non-dilutive grant among Top 8 of the FMYD/NiYA-Cascador Founders Programme (https://techcabal.com/2026/11/10/cascador-niya-select-eight-founders/); 2026-11-24: Published product explainer carousel on @sewpro_ Instagram (https://instagram.com/p/DgIJe0QkTYT); 2026-11-17: Featured in NiYA-Cascador Top 20 recap reel (https://instagram.com/p/Df1k9cvhosI)",
+    "tier": "C",
+    "round_type": "NiYA-Cascador Non-dilutive Grant",
+    "amount": "NGN 5M (~$3,711)",
+    "funding_date": "2026-11-10",
+    "investors": "Cascador / Nigerian Youth Academy (NiYA) / Federal Ministry of Youth Development",
+    "funding_sources": "https://www.startuplist.africa/funding/sewpro-grant-5m-ngn-e0fa5fa | https://techcabal.com/2026/11/10/cascador-niya-select-eight-founders/",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "founder_or_marketing_contact": "Andrew Ogbeh (Founder) | support@sewpro.app | +234 902 852 1833",
+    "instagram_url": "https://www.instagram.com/sewpro_/",
+    "ig_status": "OK",
+    "ig_followers": "423",
+    "ig_post_1": {
+      "raw_timestamp_text": "2026-11-24",
+      "absolute_date": "2026-11-24",
+      "type": "Carousel",
+      "url": "https://instagram.com/p/DgIJe0QkTYT"
+    },
+    "ig_post_2": {
+      "raw_timestamp_text": "2026-11-17",
+      "absolute_date": "2026-11-17",
+      "type": "Reel",
+      "url": "https://instagram.com/p/Df1k9cvhosI"
+    },
+    "ig_post_3": {
+      "raw_timestamp_text": "2026-11-09",
+      "absolute_date": "2026-11-09",
+      "type": "Reel",
+      "url": "https://instagram.com/p/DfiAE8zoa_y"
+    },
+    "ig_post_4": {
+      "raw_timestamp_text": "2026-11-09",
+      "absolute_date": "2026-11-09",
+      "type": "Reel",
+      "url": "https://instagram.com/p/DfhyaweR2S9"
+    },
+    "ig_post_5": {
+      "raw_timestamp_text": "2026-11-09",
+      "absolute_date": "2026-11-09",
+      "type": "Reel",
+      "url": "https://instagram.com/p/DfhYN9loGHR"
+    },
+    "ig_days_since_latest": 3,
+    "ig_median_gap_days": 3.5,
+    "ig_screenshot_path": "screenshots/sewpro_instagram.png",
+    "blog_url": "NOT_FOUND",
+    "blog_last_post_date": "NOT_FOUND",
+    "blog_posts_last_90_days": "NOT_FOUND",
+    "marketing_titles_found": "NONE (sewpro.app/about-us names only Founder Andrew Ogbeh; no public team directory or marketing/growth/content titles)",
+    "hiring_marketing_role": "NO (no careers or open roles page on sewpro.app)",
+    "need_score": 4,
+    "score_flags": "NO_OR_STALE_BLOG_90D (+2) | NO_MARKETING_TITLE_ON_TEAM (+2)",
+    "qualified": true,
+    "signal_categories": [
+      "blog",
+      "team"
+    ],
+    "unique_offer": "All-in-one tailoring management mobile app for African fashion entrepreneurs covering client measurements, design approvals, deadline alerts, and in-app payments.",
+    "closest_overlap": "TBD_PHASE_5",
+    "pitch_hook": "SewPro claims 10k+ fashion business users and won NGN 5M in NiYA-Cascador funding on 2026-11-10, yet sewpro.app has no blog or SEO content engine, no public marketing or growth lead beyond founder Andrew Ogbeh, and no web-linked Instagram profile in its site footer.",
+    "evidence_paths": "evidence/phase2/fmyd_cascador_8_1d72fb117c.md | evidence/phase1/hy_techcabal_cascador_niya_8.md | evidence/phase1/hy_sl_ng_grant_2026.md | evidence/phase4/sewpro_home.json | evidence/phase4/sewpro_home.md | evidence/phase4/sewpro_about.json | evidence/phase4/sewpro_about.md | evidence/phase4/sewpro_ig_scrape.json | evidence/phase4/sewpro_ig_scrape.md | evidence/phase4/sewpro_ig_interact.json | screenshots/sewpro_instagram.png"
+  },
+  {
+    "slug": "zannytecture",
+    "name": "Zannytecture",
+    "website": "https://zannytecture.com/",
+    "industry": "CleanTech / Upcycled Furniture & Waste Transformation",
+    "city": "Lagos",
+    "what_they_do": "Lagos-based upcycling and sustainable design studio (Zannytecture Recycling Company Limited, founded 2021 by Zainab Kadiri-Lawal) crafting furniture, decor, and tote bags from discarded tyres, glass/PET bottles, and sachet waste, plus running waste-to-wealth workshops (500+ people trained).",
+    "recent_activity": "2026-11-10: Won NGN 1M (~$742) non-dilutive growth award in the NiYA x Cascador Founders Programme (https://www.startuplist.africa/funding/zannytecture-grant-1m-ngn-87be0fd); 2026-10-21: Announced NiYA x Cascador shortlist out of 19,000+ applicants on @zannytecture Instagram (https://instagram.com/p/DewX-pDDbCx); 2026-11-19: Founder Kadiri-Lawal Zainab Abike shared YabaTech graduation milestone collab post on @zannytecture (https://instagram.com/p/Df6avffkYAi)",
+    "tier": "C",
+    "round_type": "NiYA-Cascador Non-dilutive Grant",
+    "amount": "NGN 1M (~$742)",
+    "funding_date": "2026-11-10",
+    "investors": "Cascador / Nigerian Youth Academy (NiYA) / Federal Ministry of Youth Development",
+    "funding_sources": "https://www.startuplist.africa/funding/zannytecture-grant-1m-ngn-87be0fd | https://www.startuplist.africa/startups/zannytecture",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "founder_or_marketing_contact": "Zainab Kadiri-Lawal (Founder) | +234 813 810 7737 | https://instagram.com/zannytecture",
+    "instagram_url": "https://www.instagram.com/zannytecture/",
+    "ig_status": "OK",
+    "ig_followers": "938",
+    "ig_post_1": {
+      "raw_timestamp_text": "2026-11-19",
+      "absolute_date": "2026-11-19",
+      "type": "Carousel",
+      "url": "https://instagram.com/p/Df6avffkYAi"
+    },
+    "ig_post_2": {
+      "raw_timestamp_text": "2026-10-25",
+      "absolute_date": "2026-10-25",
+      "type": "Reel",
+      "url": "https://instagram.com/p/De6xEDatnQl"
+    },
+    "ig_post_3": {
+      "raw_timestamp_text": "2026-10-21",
+      "absolute_date": "2026-10-21",
+      "type": "Carousel",
+      "url": "https://instagram.com/p/DewX-pDDbCx"
+    },
+    "ig_post_4": {
+      "raw_timestamp_text": "2026-08-01",
+      "absolute_date": "2026-08-01",
+      "type": "Carousel",
+      "url": "https://instagram.com/p/DbfKJsIDZ_0"
+    },
+    "ig_post_5": {
+      "raw_timestamp_text": "2026-07-21",
+      "absolute_date": "2026-07-21",
+      "type": "Reel",
+      "url": "https://instagram.com/p/DbDuAGDB1hj"
+    },
+    "ig_days_since_latest": 8,
+    "ig_median_gap_days": 18,
+    "ig_screenshot_path": "screenshots/zannytecture_instagram.png",
+    "blog_url": "NOT_FOUND",
+    "blog_last_post_date": "NOT_FOUND",
+    "blog_posts_last_90_days": "NOT_FOUND",
+    "marketing_titles_found": "NONE (zannytecture.com names only Founder Zainab Kadiri-Lawal; no public team directory or marketing/growth/content titles)",
+    "hiring_marketing_role": "NO (no careers or open roles page on zannytecture.com)",
+    "need_score": 7,
+    "score_flags": "IG_MEDIAN_GAP_14D (+2) | IG_IRREGULAR_GAP (+1) | NO_OR_STALE_BLOG_90D (+2) | NO_MARKETING_TITLE_ON_TEAM (+2)",
+    "qualified": true,
+    "signal_categories": [
+      "Instagram",
+      "blog",
+      "team"
+    ],
+    "unique_offer": "Lagos sustainable furniture and decor brand transforming tyres, glass bottles, and sachet waste into handcrafted pieces alongside paid workshops.",
+    "closest_overlap": "TBD_PHASE_5",
+    "pitch_hook": "Zannytecture sells handcrafted upcycled furniture online and won NiYA-Cascador backing on 2026-11-10, yet its @zannytecture Instagram has irregular 18-day median post gaps (up to 81 days between posts), its e-commerce site lacks a blog, and it has no dedicated marketing lead.",
+    "evidence_paths": "evidence/phase1/hy_sl_ng_grant.md | evidence/phase2/web_rem_4_cascador.json | evidence/phase4/zannytecture_site_search.json | evidence/phase4/zannytecture_sl.json | evidence/phase4/zannytecture_sl.md | evidence/phase4/zannytecture_home.json | evidence/phase4/zannytecture_home.md | evidence/phase4/zannytecture_ig_scrape.json | evidence/phase4/zannytecture_ig_scrape.md | evidence/phase4/zannytecture_ig_interact.json | screenshots/zannytecture_instagram.png"
   }
 ]

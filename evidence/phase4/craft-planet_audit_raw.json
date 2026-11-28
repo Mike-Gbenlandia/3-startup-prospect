@@ -1,0 +1,224 @@
+{
+  "retrievalDate": "2026-11-27",
+  "slug": "craft-planet",
+  "poolEntry": {
+    "name": "Craft Planet",
+    "website": "https://craftplanet.org/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "NiYA-Cascador Non-dilutive Grant",
+    "amount": "NGN 5M (~$3,711)",
+    "announced_date": "2026-11-10",
+    "investors": "Cascador / Nigerian Youth Academy (NiYA) / Federal Ministry of Youth Development",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/craft-planet-grant-5m-ngn-624c65a",
+      "https://techcabal.com/2026/11/10/cascador-niya-select-eight-founders/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/craft_planet_758423b5d5.md",
+      "evidence/phase1/hy_techcabal_cascador_niya_8.md",
+      "evidence/phase2/guardian_hackaholics7.md",
+      "evidence/phase2/wema_hackaholics7.md"
+    ],
+    "batch_number": 4,
+    "notes": "Also won NGN 40M Social Impact 1st place at Wema Bank Hackaholics 7.0 (2026-11-06)."
+  },
+  "resolvedWebsite": "https://craftplanet.org/",
+  "searchCandidates": [],
+  "scrapedPages": {
+    "home": {
+      "url": "https://craftplanet.org/",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/craft-planet_home.md",
+      "jsonPath": "evidence/phase4/craft-planet_home.json"
+    },
+    "about": {
+      "url": "https://craftplanet.org/about-us",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/craft-planet_about.md",
+      "jsonPath": "evidence/phase4/craft-planet_about.json"
+    },
+    "team": {
+      "url": "https://craftplanet.org/teams",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/craft-planet_team.md",
+      "jsonPath": "evidence/phase4/craft-planet_team.json"
+    }
+  },
+  "socialLinksFoundOnSite": {
+    "instagram": [
+      "https://www.instagram.com/craftPlanet_ltd/",
+      "https://www.instagram.com/craftplanet_ltd/",
+      "https://www.instagram.com/kabir_olaosebikan/",
+      "https://www.instagram.com/hanatu.hakeem/"
+    ],
+    "linkedin": [
+      "https://www.linkedin.com/company/craftplanet",
+      "https://www.linkedin.com/company/99806798/",
+      "https://ng.linkedin.com/in/kabir-olaosebikan-a2955a146",
+      "http://www.linkedin.com/in/hanatu-abdulakeem-b22554261",
+      "https://www.linkedin.com/"
+    ],
+    "twitter": [
+      "https://twitter.com/"
+    ]
+  },
+  "instagramAudit": {
+    "status": "OK",
+    "url": "https://www.instagram.com/craftPlanet_ltd/",
+    "screenshotPath": "screenshots/craft-planet_instagram.png",
+    "mdText": "# CraftPlanetLTD (@craftplanet_ltd)\n\n♻️ We design & produce sustainable building materials 3x stronger than regular concretes from recycled plastics. #WeBuildForEarth 🌏💚\n\n781 followers · 52 following\n\n## Recent posts\n\n- [From thousands of applicants to the Top 20, the journey was one of learning, growth, resilience and remarkable achievem…](https://instagram.com/p/Df1rizGIRd8) · 2026-11-17 · 16 likes · 2 comments · 199 views\n- [Another milestone worth celebrating! 🎉 Craft Planet is proud to be among the Top 8 of the @nigerianyouthacademy NiYA ×…](https://instagram.com/p/DfmRkSeI_cS) · 2026-11-11 · 38 likes · 2 comments · 631 views\n- [One mission. One big win! 🏆 From the Kano regional pitch to the grand finale in Lagos, our journey at @wemabank Hackah…](https://instagram.com/p/DfebqWOoIRb) · 2026-11-08 · 42 likes · 8 comments · 596 views\n- [Hello, November! A new month brings another opportunity to learn, innovate, take action, and make a difference. As we s…](https://instagram.com/p/DfOyGu5olwd) · 2026-11-02 · 5 likes · 0 comments\n- [There’s more to waste than meets the eye. 🌍 From where it ends up to what it takes to recycle it, there are things we…](https://instagram.com/p/DfEnQAcsHHu) · 2026-10-29 · 4 likes · 1 comments · 67 views\n- [Environmental change becomes stronger when communities are part of it. Through initiatives like the Green Women Champio…](https://instagram.com/p/De9HwZciKSa) · 2026-10-26 · 4 likes · 0 comments\n- [Who do you think can make our planet better? The answer starts with you! From the choices we make every day to how we m…](https://instagram.com/p/De1RzFkohV2) · 2026-10-23 · 3 likes · 0 comments · 74 views\n- [Day 4, and the momentum keeps building! ㅤ Meet Adedini Solomon Tolulope and Kabir Olaosebikan, our Day 4 Founder Captai…](https://instagram.com/p/DeylszwlyhB) · 2026-10-22 · 23 likes · 0 comments\n- [Every great solution starts with a vision. But a vision becomes meaningful when we take steps to turn it into reality.…](https://instagram.com/p/DetinVqIVbI) · 2026-10-20 · 9 likes · 0 comments\n- [Quick quiz: How well do you know circular economy & upcycling? Drop your score in the comment👇 #CircularEconomy #Susta…](https://instagram.com/p/DejTwy3Iwvp) · 2026-10-16 · 6 likes · 0 comments · 58 views\n- [Small actions matter. Plastic waste shouldn’t be carelessly discarded on our streets, dumped in drains, or left to poll…](https://instagram.com/p/DebcpgPopSZ) · 2026-10-13 · 8 likes · 0 comments\n- [Who says waste can’t build the future? At Craft Planet, we’re turning plastic waste into building materials, creating g…](https://instagram.com/p/DeSA0Nbsvj9) · 2026-10-09 · 17 likes · 2 comments · 241 views\n",
+    "interactParsed": {
+      "title": "CraftPlanetLTD (@craftplanet_ltd) • Instagram photos and videos",
+      "url": "https://www.instagram.com/craftPlanet_ltd/",
+      "bodyText": "Log In\nSign Up\ncraftplanet_ltd\n781 followers\n52 following\nCraftPlanetLTD\n♻️ We design & produce sustainable building materials 3x stronger than regular concretes from recycled plastics... \nmore\nShow more posts from craftPlanet_ltd\nMeta\nAbout\nBlog\nJobs\nHelp\nAPI\nPrivacy\nConsumer Health Privacy\nTerms\nLocations\nPopular\nInstagram Lite\nMeta AI\nMuse\nThreads\nContact Uploading & Non-Users\nMeta Verified\nEnglish\nAfrikaans\nالعربية\nČeština\nDansk\nDeutsch\nΕλληνικά\nEnglish\nEnglish (UK)\nEspañol (España)\nEspañol\nفارسی\nSuomi\nFrançais\nעברית\nBahasa Indonesia\nItaliano\n日本語\n한국어\nBahasa Melayu\nNorsk\nNederlands\nPolski\nPortuguês (Brasil)\nPortuguês (Portugal)\nРусский\nSvenska\nภาษาไทย\nFilipino\nTürkçe\n中文(简体)\n中文(台灣)\nবাংলা\nગુજરાતી\nहिन्दी\nHrvatski\nMagyar\nಕನ್ನಡ\nമലയാളം\nमराठी\nनेपाली\nਪੰਜਾਬੀ\nසිංහල\nSlovenčina\nதமிழ்\nతెలుగు\nاردو\nTiếng Việt\n中文(香港)\nБългарски\nFrançais (Canada)\nRomână\nСрпски\nУкраїнська\n© 2026 Instagram from Meta\nSee photos, videos and more from craftplanet_ltd\nSign up and never miss a post from craftplanet_ltd.\nSign up\nLog in",
+      "domData": {
+        "posts": [
+          {
+            "href": "/nigerianyouthacademy/reel/Df1rizGIRd8/",
+            "imgAlt": "Video by Nigerian Youth Academy on November 17, 2026. May be an image of dais and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/craftplanet_ltd/reel/DfmRkSeI_cS/",
+            "imgAlt": "Video by CraftPlanetLTD on November 11, 2026. May be an image of dais and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/craftplanet_ltd/reel/DfebqWOoIRb/",
+            "imgAlt": "Video by CraftPlanetLTD on November 08, 2026. May be an image of one or more people, toecap shoes, carpet, dinner jacket and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/craftplanet_ltd/p/DfOyGu5olwd/",
+            "imgAlt": "Photo by CraftPlanetLTD on November 01, 2026. May be an image of text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/craftplanet_ltd/reel/DfEnQAcsHHu/",
+            "imgAlt": "Video by CraftPlanetLTD on October 29, 2026. May be an image of one or more people, desk, screen, office and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/craftplanet_ltd/p/De9HwZciKSa/",
+            "imgAlt": "Photo by CraftPlanetLTD on October 26, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/craftplanet_ltd/reel/De1RzFkohV2/",
+            "imgAlt": "Video by CraftPlanetLTD on October 23, 2026. May be a meme of one or more people, headscarf, head covering, office and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/nigerianyouthacademy/p/DeylszwlyhB/",
+            "imgAlt": "Photo by Nigerian Youth Academy on October 22, 2026. May be an image of text.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/craftplanet_ltd/p/DetinVqIVbI/",
+            "imgAlt": "Photo by CraftPlanetLTD on October 20, 2026. May be an image of text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/craftplanet_ltd/reel/DejTwy3Iwvp/",
+            "imgAlt": "Video by CraftPlanetLTD on October 16, 2026. May be a meme of crossword puzzle and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/craftplanet_ltd/p/DebcpgPopSZ/",
+            "imgAlt": "Photo by CraftPlanetLTD on October 13, 2026. May be an image of bottle, plastic bag, water bottle, garbage, plant and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/craftplanet_ltd/reel/DeSA0Nbsvj9/",
+            "imgAlt": "Video by CraftPlanetLTD on October 09, 2026. May be an image of one or more people, people smiling, scarf, headscarf, turban, head covering and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          }
+        ],
+        "extLinks": [],
+        "loginWall": false
+      }
+    },
+    "allIgLinksFound": [
+      "https://www.instagram.com/craftPlanet_ltd/",
+      "https://www.instagram.com/craftplanet_ltd/",
+      "https://www.instagram.com/kabir_olaosebikan/",
+      "https://www.instagram.com/hanatu.hakeem/"
+    ]
+  },
+  "evidencePaths": [
+    "evidence/phase2/craft_planet_758423b5d5.md",
+    "evidence/phase1/hy_techcabal_cascador_niya_8.md",
+    "evidence/phase2/guardian_hackaholics7.md",
+    "evidence/phase2/wema_hackaholics7.md",
+    "evidence/phase4/craft-planet_home.json",
+    "evidence/phase4/craft-planet_home.md",
+    "evidence/phase4/craft-planet_about.json",
+    "evidence/phase4/craft-planet_about.md",
+    "evidence/phase4/craft-planet_team.json",
+    "evidence/phase4/craft-planet_team.md",
+    "evidence/phase4/craft-planet_ig_scrape.json",
+    "evidence/phase4/craft-planet_ig_scrape.md",
+    "evidence/phase4/craft-planet_ig_interact.json",
+    "evidence/phase4/craft-planet_ig_stop.json"
+  ]
+}

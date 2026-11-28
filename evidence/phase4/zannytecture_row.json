@@ -1,0 +1,70 @@
+{
+  "slug": "zannytecture",
+  "name": "Zannytecture",
+  "website": "https://zannytecture.com/",
+  "industry": "CleanTech / Upcycled Furniture & Waste Transformation",
+  "city": "Lagos",
+  "what_they_do": "Lagos-based upcycling and sustainable design studio (Zannytecture Recycling Company Limited, founded 2021 by Zainab Kadiri-Lawal) crafting furniture, decor, and tote bags from discarded tyres, glass/PET bottles, and sachet waste, plus running waste-to-wealth workshops (500+ people trained).",
+  "recent_activity": "2026-11-10: Won NGN 1M (~$742) non-dilutive growth award in the NiYA x Cascador Founders Programme (https://www.startuplist.africa/funding/zannytecture-grant-1m-ngn-87be0fd); 2026-10-21: Announced NiYA x Cascador shortlist out of 19,000+ applicants on @zannytecture Instagram (https://instagram.com/p/DewX-pDDbCx); 2026-11-19: Founder Kadiri-Lawal Zainab Abike shared YabaTech graduation milestone collab post on @zannytecture (https://instagram.com/p/Df6avffkYAi)",
+  "tier": "C",
+  "round_type": "NiYA-Cascador Non-dilutive Grant",
+  "amount": "NGN 1M (~$742)",
+  "funding_date": "2026-11-10",
+  "investors": "Cascador / Nigerian Youth Academy (NiYA) / Federal Ministry of Youth Development",
+  "funding_sources": "https://www.startuplist.africa/funding/zannytecture-grant-1m-ngn-87be0fd | https://www.startuplist.africa/startups/zannytecture",
+  "funding_confidence": "CONFIRMED_1_SOURCE",
+  "founder_or_marketing_contact": "Zainab Kadiri-Lawal (Founder) | +234 813 810 7737 | https://instagram.com/zannytecture",
+  "instagram_url": "https://www.instagram.com/zannytecture/",
+  "ig_status": "OK",
+  "ig_followers": "938",
+  "ig_post_1": {
+    "raw_timestamp_text": "2026-11-19",
+    "absolute_date": "2026-11-19",
+    "type": "Carousel",
+    "url": "https://instagram.com/p/Df6avffkYAi"
+  },
+  "ig_post_2": {
+    "raw_timestamp_text": "2026-10-25",
+    "absolute_date": "2026-10-25",
+    "type": "Reel",
+    "url": "https://instagram.com/p/De6xEDatnQl"
+  },
+  "ig_post_3": {
+    "raw_timestamp_text": "2026-10-21",
+    "absolute_date": "2026-10-21",
+    "type": "Carousel",
+    "url": "https://instagram.com/p/DewX-pDDbCx"
+  },
+  "ig_post_4": {
+    "raw_timestamp_text": "2026-08-01",
+    "absolute_date": "2026-08-01",
+    "type": "Carousel",
+    "url": "https://instagram.com/p/DbfKJsIDZ_0"
+  },
+  "ig_post_5": {
+    "raw_timestamp_text": "2026-07-21",
+    "absolute_date": "2026-07-21",
+    "type": "Reel",
+    "url": "https://instagram.com/p/DbDuAGDB1hj"
+  },
+  "ig_days_since_latest": 8,
+  "ig_median_gap_days": 18,
+  "ig_screenshot_path": "screenshots/zannytecture_instagram.png",
+  "blog_url": "NOT_FOUND",
+  "blog_last_post_date": "NOT_FOUND",
+  "blog_posts_last_90_days": "NOT_FOUND",
+  "marketing_titles_found": "NONE (zannytecture.com names only Founder Zainab Kadiri-Lawal; no public team directory or marketing/growth/content titles)",
+  "hiring_marketing_role": "NO (no careers or open roles page on zannytecture.com)",
+  "need_score": 7,
+  "score_flags": "IG_MEDIAN_GAP_14D (+2) | IG_IRREGULAR_GAP (+1) | NO_OR_STALE_BLOG_90D (+2) | NO_MARKETING_TITLE_ON_TEAM (+2)",
+  "qualified": true,
+  "signal_categories": [
+    "Instagram",
+    "blog",
+    "team"
+  ],
+  "unique_offer": "Lagos sustainable furniture and decor brand transforming tyres, glass bottles, and sachet waste into handcrafted pieces alongside paid workshops.",
+  "closest_overlap": "TBD_PHASE_5",
+  "pitch_hook": "Zannytecture sells handcrafted upcycled furniture online and won NiYA-Cascador backing on 2026-11-10, yet its @zannytecture Instagram has irregular 18-day median post gaps (up to 81 days between posts), its e-commerce site lacks a blog, and it has no dedicated marketing lead.",
+  "evidence_paths": "evidence/phase1/hy_sl_ng_grant.md | evidence/phase2/web_rem_4_cascador.json | evidence/phase4/zannytecture_site_search.json | evidence/phase4/zannytecture_sl.json | evidence/phase4/zannytecture_sl.md | evidence/phase4/zannytecture_home.json | evidence/phase4/zannytecture_home.md | evidence/phase4/zannytecture_ig_scrape.json | evidence/phase4/zannytecture_ig_scrape.md | evidence/phase4/zannytecture_ig_interact.json | screenshots/zannytecture_instagram.png"
+}

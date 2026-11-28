@@ -8,9 +8,9 @@
     },
     "audit": {
       "DROPPED": 270,
-      "DONE": 40,
+      "DONE": 45,
       "BLOCKED": 1,
-      "PENDING": 81
+      "PENDING": 76
     },
     "total_candidates": 392
   },
@@ -19,6 +19,6 @@
     "step": null,
     "open_session_ids": []
   },
-  "next_action": "Fetch and audit Batch 8 (zannytecture, drych-digital, craft-planet, rekool, sewpro)",
-  "last_updated": "2026-11-27T14:35:31.532Z"
+  "next_action": "Fetch and audit Batch 9 (shellify, agrosavvy-consult, niteon, acecore, supplya)",
+  "last_updated": "2026-11-28T05:53:17.907Z"
 }

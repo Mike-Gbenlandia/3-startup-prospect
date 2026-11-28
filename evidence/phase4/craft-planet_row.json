@@ -1,0 +1,69 @@
+{
+  "slug": "craft-planet",
+  "name": "Craft Planet",
+  "website": "https://craftplanet.org/",
+  "industry": "CleanTech / Plastic Recycling & Sustainable Building Materials",
+  "city": "Abuja / Kaduna",
+  "what_they_do": "Nigerian climate-tech social enterprise (operations in Bwari, Abuja and Kaduna, founded by Kabir Olaosebikan and Hanatu Abdulakeem) that collects and processes plastic waste into eco-bricks, interlocking tiles, and sustainable building materials while empowering women and community collectors.",
+  "recent_activity": "2026-11-10: Won NGN 5M (~$3,711) non-dilutive grant among Top 8 of the FMYD/NiYA-Cascador Founders Programme (https://techcabal.com/2026/11/10/cascador-niya-select-eight-founders/); 2026-11-06: Won NGN 40M Social Impact 1st place at Wema Bank Hackaholics 7.0 (https://www.instagram.com/p/DfebqWOoIRb); 2026-11-17: Featured in NiYA-Cascador Top 8 recap reel on @craftplanet_ltd Instagram (https://instagram.com/p/Df1rizGIRd8)",
+  "tier": "C",
+  "round_type": "NiYA-Cascador Non-dilutive Grant",
+  "amount": "NGN 5M (~$3,711)",
+  "funding_date": "2026-11-10",
+  "investors": "Cascador / Nigerian Youth Academy (NiYA) / Federal Ministry of Youth Development",
+  "funding_sources": "https://www.startuplist.africa/funding/craft-planet-grant-5m-ngn-624c65a | https://techcabal.com/2026/11/10/cascador-niya-select-eight-founders/",
+  "funding_confidence": "CONFIRMED_2_SOURCES",
+  "founder_or_marketing_contact": "Kabir Olaosebikan (CEO) | Hanatu Abdulakeem (Co-Founder & Communication Lead) | contact@craftplanet.org | info@craftplanet.org | +234 813 215 5445",
+  "instagram_url": "https://www.instagram.com/craftPlanet_ltd/",
+  "ig_status": "OK",
+  "ig_followers": "781",
+  "ig_post_1": {
+    "raw_timestamp_text": "2026-11-17",
+    "absolute_date": "2026-11-17",
+    "type": "Reel",
+    "url": "https://instagram.com/p/Df1rizGIRd8"
+  },
+  "ig_post_2": {
+    "raw_timestamp_text": "2026-11-11",
+    "absolute_date": "2026-11-11",
+    "type": "Reel",
+    "url": "https://instagram.com/p/DfmRkSeI_cS"
+  },
+  "ig_post_3": {
+    "raw_timestamp_text": "2026-11-08",
+    "absolute_date": "2026-11-08",
+    "type": "Reel",
+    "url": "https://instagram.com/p/DfebqWOoIRb"
+  },
+  "ig_post_4": {
+    "raw_timestamp_text": "2026-11-02",
+    "absolute_date": "2026-11-02",
+    "type": "Photo",
+    "url": "https://instagram.com/p/DfOyGu5olwd"
+  },
+  "ig_post_5": {
+    "raw_timestamp_text": "2026-10-29",
+    "absolute_date": "2026-10-29",
+    "type": "Reel",
+    "url": "https://instagram.com/p/DfEnQAcsHHu"
+  },
+  "ig_days_since_latest": 10,
+  "ig_median_gap_days": 5,
+  "ig_screenshot_path": "screenshots/craft-planet_instagram.png",
+  "blog_url": "NOT_FOUND",
+  "blog_last_post_date": "NOT_FOUND",
+  "blog_posts_last_90_days": "NOT_FOUND",
+  "marketing_titles_found": "NONE (craftplanet.org/teams/ lists Kabir Olaosebikan CEO, Hanatu Abdulakeem Co-Founder | Communication Lead, Aminat Abdulazeez COO, and two Plant Managers; no dedicated marketing, growth, or content title)",
+  "hiring_marketing_role": "NO (no careers or open roles page on craftplanet.org)",
+  "need_score": 4,
+  "score_flags": "NO_OR_STALE_BLOG_90D (+2) | NO_MARKETING_TITLE_ON_TEAM (+2)",
+  "qualified": true,
+  "signal_categories": [
+    "blog",
+    "team"
+  ],
+  "unique_offer": "Nigerian circular-economy manufacturer turning recovered plastic waste into eco-bricks and interlocking paving tiles claimed to be 3x stronger than concrete.",
+  "closest_overlap": "TBD_PHASE_5",
+  "pitch_hook": "Craft Planet won both NGN 40M at Wema Hackaholics 7.0 (2026-11-06) and NGN 5M from NiYA-Cascador (2026-11-10), yet craftplanet.org has no blog, still has broken WordPress theme links (ninzio.com) and typos ('Modular Hosing'), and lists no dedicated marketing or growth lead.",
+  "evidence_paths": "evidence/phase2/craft_planet_758423b5d5.md | evidence/phase1/hy_techcabal_cascador_niya_8.md | evidence/phase2/guardian_hackaholics7.md | evidence/phase2/wema_hackaholics7.md | evidence/phase4/craft-planet_home.json | evidence/phase4/craft-planet_home.md | evidence/phase4/craft-planet_about.json | evidence/phase4/craft-planet_about.md | evidence/phase4/craft-planet_team.json | evidence/phase4/craft-planet_team.md | evidence/phase4/craft-planet_ig_scrape.json | evidence/phase4/craft-planet_ig_scrape.md | evidence/phase4/craft-planet_ig_interact.json | screenshots/craft-planet_instagram.png"
+}

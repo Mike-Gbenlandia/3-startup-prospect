@@ -1,0 +1,38 @@
+{
+  "httpStatus": 200,
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://ng.linkedin.com/company/zannytecture-recycling-company-ltd",
+        "title": "Zannytecture Recycling Company Ltd",
+        "description": "Zannytecture Recycling Company Limited is a social enterprise at the forefront of creative waste transformation and environmental sustainability in Nigeria.",
+        "position": 1
+      },
+      {
+        "url": "https://www.instagram.com/reel/DbDuAGDB1hj/",
+        "title": "Eight months ago, Kadiri-Lawal Zainab Abike walked onto the stage ...",
+        "position": 2
+      },
+      {
+        "url": "https://www.facebook.com/Zannytecture/posts/our-latest-newsletter-is-live-%EF%B8%8Fit-captures-the-stories-progress-lessons-and-impa/1154628630171816/",
+        "title": "Our latest newsletter is live. ♻️ It captures the stories, progress ...",
+        "description": "At Zannytecture Recycling Company Limited (@zannytecture), we're rewriting the story of waste…one that turns what's discarded into what's desired ...",
+        "position": 3
+      },
+      {
+        "url": "https://www.legit.ng/business-economy/economy/1687909-meet-zannytecture-nigerian-startup-transforming-waste-treasures/",
+        "title": "Meet Zannytecture: Nigerian Startup Transforming Waste Into Treasures",
+        "description": "Nigerian startup zannytecture is transforming tyres and plastic bottles into eco-friendly furniture and empowering communities through ...",
+        "position": 4
+      },
+      {
+        "url": "https://www.instagram.com/reel/DUptLrOCMlu/",
+        "title": "She saw waste. Nigeria saw furniture, because waste wasn't the end of the ...",
+        "position": 5
+      }
+    ]
+  },
+  "id": "01a220b2-8cc5-71eb-a3da-9f3282809aaf",
+  "creditsUsed": 2
+}

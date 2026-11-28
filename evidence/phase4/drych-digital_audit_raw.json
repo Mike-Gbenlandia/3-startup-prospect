@@ -1,0 +1,143 @@
+{
+  "retrievalDate": "2026-11-27",
+  "slug": "drych-digital",
+  "poolEntry": {
+    "name": "Drych Digital",
+    "website": "https://drychdigital.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "NiYA-Cascador Non-dilutive Grant",
+    "amount": "NGN 1M (~$742)",
+    "announced_date": "2026-11-10",
+    "investors": "Cascador / Nigerian Youth Academy (NiYA) / Federal Ministry of Youth Development",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/drych-digital-grant-1m-ngn-6acd88b"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/drych_digital_8c8790f64c.md",
+      "evidence/phase2/web_b4_misc.json"
+    ],
+    "batch_number": 4
+  },
+  "resolvedWebsite": "https://drychdigital.com/",
+  "searchCandidates": [],
+  "scrapedPages": {
+    "home": {
+      "url": "https://drychdigital.com/",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/drych-digital_home.md",
+      "jsonPath": "evidence/phase4/drych-digital_home.json"
+    },
+    "about": {
+      "url": "https://drychdigital.com/about",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/drych-digital_about.md",
+      "jsonPath": "evidence/phase4/drych-digital_about.json"
+    },
+    "blog": {
+      "url": "https://drychdigital.com/blog",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/drych-digital_blog.md",
+      "jsonPath": "evidence/phase4/drych-digital_blog.json"
+    },
+    "careers": {
+      "url": "https://drychdigital.com/careers",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/drych-digital_careers.md",
+      "jsonPath": "evidence/phase4/drych-digital_careers.json"
+    }
+  },
+  "socialLinksFoundOnSite": {
+    "instagram": [
+      "https://www.instagram.com/drychdigital/"
+    ],
+    "linkedin": [
+      "https://www.linkedin.com/company/drychdigital"
+    ],
+    "twitter": [
+      "https://x.com/drychdigital"
+    ]
+  },
+  "instagramAudit": {
+    "status": "OK",
+    "url": "https://www.instagram.com/drychdigital/",
+    "screenshotPath": "screenshots/drych-digital_instagram.png",
+    "mdText": "# Drych Digital| Creative Agency| Web Design| 3D Animation (@drychdigital)\n\nWe make your brand hot and profitable\nCarbon-negative, women-owned creative and digital agency\nWeb Design • Branding • Ads • Animation • Strategy\n\n23 followers · 36 following\n\n## Recent posts\n\n- [Prepping your business for post-funding! A very insightful class with David Ogebe on \"After the Funding - Building a Ne…](https://instagram.com/p/DfCeUu_OAhm) · 2026-10-28 · 251 likes · 0 comments\n- [It's World Environment Day 🌱 This year's theme is \"Inspired by Nature. For Climate. For Our Future\". This is another r…](https://instagram.com/p/DZOMLEoDXgh) · 2026-06-05 · 7 likes · 1 comments\n- [Happy International Women's Day](https://instagram.com/p/DVo06edDrx_) · 2026-03-08 · 4 likes · 0 comments · 13 views\n- [Happy International Women’s Day! ✨ As a women-owned company, Drych Digital proudly celebrates the strength, resilience,…](https://instagram.com/p/DG9FaZHN9ol) · 2025-03-08 · 10 likes · 0 comments · 38 views\n",
+    "interactParsed": {
+      "title": "Drych Digital| Creative Agency| Web Design| 3D Animation (@drychdigital) • Instagram photos and videos",
+      "url": "https://www.instagram.com/drychdigital/",
+      "bodyText": "Log In\nSign Up\ndrychdigital\n23 followers\n36 following\nDrych Digital| Creative Agency| Web Design| 3D Animation\ndrychdigital\nWe make your brand hot and profitable\nCarbon-negative, women-owned creative and digital agency\nWeb Design • Branding •... \nmore\nwww.drychdigital.com and 1 more\nOur Services\nPolicies\nShow more posts from drychdigital\nMeta\nAbout\nBlog\nJobs\nHelp\nAPI\nPrivacy\nConsumer Health Privacy\nTerms\nLocations\nPopular\nInstagram Lite\nMeta AI\nMuse\nThreads\nContact Uploading & Non-Users\nMeta Verified\nEnglish\nAfrikaans\nالعربية\nČeština\nDansk\nDeutsch\nΕλληνικά\nEnglish\nEnglish (UK)\nEspañol (España)\nEspañol\nفارسی\nSuomi\nFrançais\nעברית\nBahasa Indonesia\nItaliano\n日本語\n한국어\nBahasa Melayu\nNorsk\nNederlands\nPolski\nPortuguês (Brasil)\nPortuguês (Portugal)\nРусский\nSvenska\nภาษาไทย\nFilipino\nTürkçe\n中文(简体)\n中文(台灣)\nবাংলা\nગુજરાતી\nहिन्दी\nHrvatski\nMagyar\nಕನ್ನಡ\nമലയാളം\nमराठी\nनेपाली\nਪੰਜਾਬੀ\nසිංහල\nSlovenčina\nதமிழ்\nతెలుగు\nاردو\nTiếng Việt\n中文(香港)\nБългарски\nFrançais (Canada)\nRomână\nСрпски\nУкраїнська\n© 2026 Instagram from Meta\nSee photos, videos and more from drychdigital\nSign up and never miss a post from drychdigital.\nSign up\nLog in",
+      "domData": {
+        "posts": [
+          {
+            "href": "/drychdigital/p/DfCeUu_OAhm/",
+            "imgAlt": "Photo by Drych Digital| Creative Agency| Web Design| 3D Animation on October 28, 2026. May be a cartoon of text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/drychdigital/p/DZOMLEoDXgh/",
+            "imgAlt": "Photo by Drych Digital| Creative Agency| Web Design| 3D Animation on June 05, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/drychdigital/reel/DVo06edDrx_/",
+            "imgAlt": "Video by Drych Digital| Creative Agency| Web Design| 3D Animation on March 08, 2026.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/drychdigital/reel/DG9FaZHN9ol/",
+            "imgAlt": "Video by Drych Digital| Creative Agency| Web Design| 3D Animation on March 08, 2025.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          }
+        ],
+        "extLinks": [
+          "https://www.threads.com/@drychdigital?xmt=AQG0WrsK9IQyvKQ9tP44w2u91G1eu0JqJCnWfrdI2lTyZIg"
+        ],
+        "loginWall": false
+      }
+    },
+    "allIgLinksFound": [
+      "https://www.instagram.com/drychdigital/"
+    ]
+  },
+  "evidencePaths": [
+    "evidence/phase2/drych_digital_8c8790f64c.md",
+    "evidence/phase2/web_b4_misc.json",
+    "evidence/phase4/drych-digital_home.json",
+    "evidence/phase4/drych-digital_home.md",
+    "evidence/phase4/drych-digital_about.json",
+    "evidence/phase4/drych-digital_about.md",
+    "evidence/phase4/drych-digital_blog.json",
+    "evidence/phase4/drych-digital_blog.md",
+    "evidence/phase4/drych-digital_careers.json",
+    "evidence/phase4/drych-digital_careers.md",
+    "evidence/phase4/drych-digital_ig_scrape.json",
+    "evidence/phase4/drych-digital_ig_scrape.md",
+    "evidence/phase4/drych-digital_ig_interact.json",
+    "evidence/phase4/drych-digital_ig_stop.json"
+  ]
+}

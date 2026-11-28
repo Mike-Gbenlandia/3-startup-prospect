@@ -1,0 +1,65 @@
+{
+  "retrievalDate": "2026-11-27",
+  "slug": "zannytecture",
+  "poolEntry": {
+    "name": "Zannytecture",
+    "website": "NOT_FOUND",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "NiYA-Cascador Non-dilutive Grant",
+    "amount": "NGN 1M (~$742)",
+    "announced_date": "2026-11-10",
+    "investors": "Cascador / Nigerian Youth Academy (NiYA) / Federal Ministry of Youth Development",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_1_SOURCE",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/zannytecture-grant-1m-ngn-87be0fd"
+    ],
+    "evidence_paths": [
+      "evidence/phase1/hy_sl_ng_grant.md",
+      "evidence/phase2/web_rem_4_cascador.json"
+    ],
+    "batch_number": 4
+  },
+  "resolvedWebsite": "NOT_FOUND",
+  "searchCandidates": [
+    {
+      "url": "https://ng.linkedin.com/company/zannytecture-recycling-company-ltd",
+      "title": "Zannytecture Recycling Company Ltd",
+      "description": "Zannytecture Recycling Company Limited is a social enterprise at the forefront of creative waste transformation and environmental sustainability in Nigeria."
+    },
+    {
+      "url": "https://www.instagram.com/reel/DbDuAGDB1hj/",
+      "title": "Eight months ago, Kadiri-Lawal Zainab Abike walked onto the stage ..."
+    },
+    {
+      "url": "https://www.facebook.com/Zannytecture/posts/our-latest-newsletter-is-live-%EF%B8%8Fit-captures-the-stories-progress-lessons-and-impa/1154628630171816/",
+      "title": "Our latest newsletter is live. ♻️ It captures the stories, progress ...",
+      "description": "At Zannytecture Recycling Company Limited (@zannytecture), we're rewriting the story of waste…one that turns what's discarded into what's desired ..."
+    },
+    {
+      "url": "https://www.legit.ng/business-economy/economy/1687909-meet-zannytecture-nigerian-startup-transforming-waste-treasures/",
+      "title": "Meet Zannytecture: Nigerian Startup Transforming Waste Into Treasures",
+      "description": "Nigerian startup zannytecture is transforming tyres and plastic bottles into eco-friendly furniture and empowering communities through ..."
+    },
+    {
+      "url": "https://www.instagram.com/reel/DUptLrOCMlu/",
+      "title": "She saw waste. Nigeria saw furniture, because waste wasn't the end of the ..."
+    }
+  ],
+  "scrapedPages": {},
+  "socialLinksFoundOnSite": {
+    "instagram": [],
+    "linkedin": [],
+    "twitter": []
+  },
+  "instagramAudit": {
+    "status": "NO_IG_FOUND",
+    "url": "NOT_FOUND"
+  },
+  "evidencePaths": [
+    "evidence/phase1/hy_sl_ng_grant.md",
+    "evidence/phase2/web_rem_4_cascador.json",
+    "evidence/phase4/zannytecture_site_search.json"
+  ]
+}

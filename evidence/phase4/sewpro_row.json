@@ -1,0 +1,69 @@
+{
+  "slug": "sewpro",
+  "name": "SewPro",
+  "website": "https://www.sewpro.app/",
+  "industry": "FashionTech / SaaS for Tailors & Fashion Businesses",
+  "city": "Abuja",
+  "what_they_do": "Abuja-based fashion-tech startup (Sewprofessional Nigeria Ltd, founded by Andrew Ogbeh) offering the SewPro mobile app for tailors and fashion entrepreneurs to store client measurements, co-create designs, automate pickup/payment reminders, and manage invoicing.",
+  "recent_activity": "2026-11-10: Won NGN 5M (~$3,711) non-dilutive grant among Top 8 of the FMYD/NiYA-Cascador Founders Programme (https://techcabal.com/2026/11/10/cascador-niya-select-eight-founders/); 2026-11-24: Published product explainer carousel on @sewpro_ Instagram (https://instagram.com/p/DgIJe0QkTYT); 2026-11-17: Featured in NiYA-Cascador Top 20 recap reel (https://instagram.com/p/Df1k9cvhosI)",
+  "tier": "C",
+  "round_type": "NiYA-Cascador Non-dilutive Grant",
+  "amount": "NGN 5M (~$3,711)",
+  "funding_date": "2026-11-10",
+  "investors": "Cascador / Nigerian Youth Academy (NiYA) / Federal Ministry of Youth Development",
+  "funding_sources": "https://www.startuplist.africa/funding/sewpro-grant-5m-ngn-e0fa5fa | https://techcabal.com/2026/11/10/cascador-niya-select-eight-founders/",
+  "funding_confidence": "CONFIRMED_2_SOURCES",
+  "founder_or_marketing_contact": "Andrew Ogbeh (Founder) | support@sewpro.app | +234 902 852 1833",
+  "instagram_url": "https://www.instagram.com/sewpro_/",
+  "ig_status": "OK",
+  "ig_followers": "423",
+  "ig_post_1": {
+    "raw_timestamp_text": "2026-11-24",
+    "absolute_date": "2026-11-24",
+    "type": "Carousel",
+    "url": "https://instagram.com/p/DgIJe0QkTYT"
+  },
+  "ig_post_2": {
+    "raw_timestamp_text": "2026-11-17",
+    "absolute_date": "2026-11-17",
+    "type": "Reel",
+    "url": "https://instagram.com/p/Df1k9cvhosI"
+  },
+  "ig_post_3": {
+    "raw_timestamp_text": "2026-11-09",
+    "absolute_date": "2026-11-09",
+    "type": "Reel",
+    "url": "https://instagram.com/p/DfiAE8zoa_y"
+  },
+  "ig_post_4": {
+    "raw_timestamp_text": "2026-11-09",
+    "absolute_date": "2026-11-09",
+    "type": "Reel",
+    "url": "https://instagram.com/p/DfhyaweR2S9"
+  },
+  "ig_post_5": {
+    "raw_timestamp_text": "2026-11-09",
+    "absolute_date": "2026-11-09",
+    "type": "Reel",
+    "url": "https://instagram.com/p/DfhYN9loGHR"
+  },
+  "ig_days_since_latest": 3,
+  "ig_median_gap_days": 3.5,
+  "ig_screenshot_path": "screenshots/sewpro_instagram.png",
+  "blog_url": "NOT_FOUND",
+  "blog_last_post_date": "NOT_FOUND",
+  "blog_posts_last_90_days": "NOT_FOUND",
+  "marketing_titles_found": "NONE (sewpro.app/about-us names only Founder Andrew Ogbeh; no public team directory or marketing/growth/content titles)",
+  "hiring_marketing_role": "NO (no careers or open roles page on sewpro.app)",
+  "need_score": 4,
+  "score_flags": "NO_OR_STALE_BLOG_90D (+2) | NO_MARKETING_TITLE_ON_TEAM (+2)",
+  "qualified": true,
+  "signal_categories": [
+    "blog",
+    "team"
+  ],
+  "unique_offer": "All-in-one tailoring management mobile app for African fashion entrepreneurs covering client measurements, design approvals, deadline alerts, and in-app payments.",
+  "closest_overlap": "TBD_PHASE_5",
+  "pitch_hook": "SewPro claims 10k+ fashion business users and won NGN 5M in NiYA-Cascador funding on 2026-11-10, yet sewpro.app has no blog or SEO content engine, no public marketing or growth lead beyond founder Andrew Ogbeh, and no web-linked Instagram profile in its site footer.",
+  "evidence_paths": "evidence/phase2/fmyd_cascador_8_1d72fb117c.md | evidence/phase1/hy_techcabal_cascador_niya_8.md | evidence/phase1/hy_sl_ng_grant_2026.md | evidence/phase4/sewpro_home.json | evidence/phase4/sewpro_home.md | evidence/phase4/sewpro_about.json | evidence/phase4/sewpro_about.md | evidence/phase4/sewpro_ig_scrape.json | evidence/phase4/sewpro_ig_scrape.md | evidence/phase4/sewpro_ig_interact.json | screenshots/sewpro_instagram.png"
+}

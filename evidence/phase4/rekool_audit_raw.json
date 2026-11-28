@@ -1,0 +1,195 @@
+{
+  "retrievalDate": "2026-11-27",
+  "slug": "rekool",
+  "poolEntry": {
+    "name": "Rekool",
+    "website": "https://rekool.ng/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "NiYA-Cascador Non-dilutive Grant",
+    "amount": "NGN 5M (~$3,711)",
+    "announced_date": "2026-11-10",
+    "investors": "Cascador / Nigerian Youth Academy (NiYA) / Federal Ministry of Youth Development",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/rekool-grant-5m-ngn-7b3b0c8",
+      "https://techcabal.com/2026/11/10/cascador-niya-select-eight-founders/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/fmyd_cascador_8_1d72fb117c.md",
+      "evidence/phase1/hy_techcabal_cascador_niya_8.md",
+      "evidence/phase1/hy_sl_ng_grant.md"
+    ],
+    "batch_number": 4
+  },
+  "resolvedWebsite": "https://rekool.ng/",
+  "searchCandidates": [],
+  "scrapedPages": {
+    "home": {
+      "url": "https://rekool.ng/",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/rekool_home.md",
+      "jsonPath": "evidence/phase4/rekool_home.json"
+    },
+    "about": {
+      "url": "https://rekool.ng/about",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/rekool_about.md",
+      "jsonPath": "evidence/phase4/rekool_about.json"
+    },
+    "blog": {
+      "url": "https://rekool.ng/blog",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/rekool_blog.md",
+      "jsonPath": "evidence/phase4/rekool_blog.json"
+    }
+  },
+  "socialLinksFoundOnSite": {
+    "instagram": [
+      "https://www.instagram.com/rekool_access_/"
+    ],
+    "linkedin": [
+      "https://www.linkedin.com/company/rekool-page/"
+    ],
+    "twitter": []
+  },
+  "instagramAudit": {
+    "status": "OK",
+    "url": "https://www.instagram.com/rekool_access_/",
+    "screenshotPath": "screenshots/rekool_instagram.png",
+    "mdText": "# Rèkool Access (@rekool_access_)\n\n42 followers · 9 following\n\n## Recent posts\n\n- [Over 20 million people who would have otherwise been paralyzed by polio are able to walk today. This progress was made…](https://instagram.com/p/DfDfu55IYjw) · 2026-10-28 · 1 likes · 0 comments\n- [Vaccines protect millions of children around the world from polio every year. But in conflicts, fragile contexts and th…](https://instagram.com/p/DfDfaZdIOUs) · 2026-10-28 · 0 likes · 0 comments · 23 views\n- [Day 8, and guess who's taking the lead? ㅤ The energy is high, the ideas are flowing, and another set of founders is ste…](https://instagram.com/p/DfCcahOlzW5) · 2026-10-28 · 148 likes · 0 comments\n- [🚀 Inspiring the Next Generation of Founders The future belongs to those bold enough to build it. Today, our CEO, Aisha…](https://instagram.com/p/DbNGduSoPRc) · 2026-07-25 · 1 likes · 0 comments\n- [Dear Sulaiman Abdulganiyu, your contributions have really made a difference to our team, and we appreciate you.](https://instagram.com/p/DVENQiDDG59) · 2026-02-22 · 2 likes · 0 comments\n- [Dear Aliyu Abubakar Adamu, congratulations. Your quiet dedication and unwavering support are the backbone of our team's…](https://instagram.com/p/DUZIUVRjH9U) · 2026-02-05 · 0 likes · 0 comments\n- [We celebrate your passion and commitment, fostering a culture of excellence and success at Rèkool Access Technology. Co…](https://instagram.com/p/DUQ2GbAjMmF) · 2026-02-02 · 4 likes · 0 comments\n- [More than 60% of rural Nigerian clinics lack stable electricity. That means health workers must often choose between sa…](https://instagram.com/p/DTz9nvfjaGU) · 2026-01-22 · 4 likes · 0 comments\n- [From vaccine preservation to food security, cooling has become one of humanity’s most urgent needs. Rèkool Access is pi…](https://instagram.com/p/DTahRtzjKf5) · 2026-01-12 · 2 likes · 0 comments\n- [In many rural parts of Africa, a sudden power cut can mean more than darkness, it can mean the loss of life-saving vacc…](https://instagram.com/p/DTIJKV0DC5G) · 2026-01-05 · 2 likes · 0 comments\n- [Happy and Blessed New Year from all of us at Rèkool Access Technology! May this year bring you joy that fills your hear…](https://instagram.com/p/DS92cG6DDe5) · 2026-01-01 · 3 likes · 0 comments\n- [Cooling Without Carbon Traditional vaccine cooling systems rely on diesel or kerosene both costly and carbon-intensive.…](https://instagram.com/p/DSBABHrDF7T) · 2025-12-08 · 2 likes · 0 comments\n",
+    "interactParsed": {
+      "title": "Rèkool Access (@rekool_access_) • Instagram photos and videos",
+      "url": "https://www.instagram.com/rekool_access_/",
+      "bodyText": "Log In\nSign Up\nrekool_access_\n42 followers\n9 following\nRèkool Access\nHigh\nHighlight\nHappy New Month\nShow more posts from rekool_access_\nMeta\nAbout\nBlog\nJobs\nHelp\nAPI\nPrivacy\nConsumer Health Privacy\nTerms\nLocations\nPopular\nInstagram Lite\nMeta AI\nMuse\nThreads\nContact Uploading & Non-Users\nMeta Verified\nEnglish\nAfrikaans\nالعربية\nČeština\nDansk\nDeutsch\nΕλληνικά\nEnglish\nEnglish (UK)\nEspañol (España)\nEspañol\nفارسی\nSuomi\nFrançais\nעברית\nBahasa Indonesia\nItaliano\n日本語\n한국어\nBahasa Melayu\nNorsk\nNederlands\nPolski\nPortuguês (Brasil)\nPortuguês (Portugal)\nРусский\nSvenska\nภาษาไทย\nFilipino\nTürkçe\n中文(简体)\n中文(台灣)\nবাংলা\nગુજરાતી\nहिन्दी\nHrvatski\nMagyar\nಕನ್ನಡ\nമലയാളം\nमराठी\nनेपाली\nਪੰਜਾਬੀ\nසිංහල\nSlovenčina\nதமிழ்\nతెలుగు\nاردو\nTiếng Việt\n中文(香港)\nБългарски\nFrançais (Canada)\nRomână\nСрпски\nУкраїнська\n© 2026 Instagram from Meta\nSee photos, videos and more from rekool_access_\nSign up and never miss a post from rekool_access_.\nSign up\nLog in",
+      "domData": {
+        "posts": [
+          {
+            "href": "/rekool_access_/p/DfDfu55IYjw/",
+            "imgAlt": "Photo by Rèkool Access on October 28, 2026. May be an image of text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/rekool_access_/reel/DfDfaZdIOUs/",
+            "imgAlt": "Video by Rèkool Access on October 28, 2026. May be an image of child, poster and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/nigerianyouthacademy/p/DfCcahOlzW5/",
+            "imgAlt": "Photo by Nigerian Youth Academy on October 28, 2026. May be an image of text.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/rekool_access_/p/DbNGduSoPRc/",
+            "imgAlt": "Photo by Rèkool Access on July 24, 2026.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/rekool_access_/p/DVENQiDDG59/",
+            "imgAlt": "Photo by Rèkool Access on February 22, 2026.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/rekool_access_/p/DUZIUVRjH9U/",
+            "imgAlt": "Photo by Rèkool Access on February 05, 2026.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/rekool_access_/p/DUQ2GbAjMmF/",
+            "imgAlt": "Photo by Rèkool Access on February 02, 2026.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/rekool_access_/p/DTz9nvfjaGU/",
+            "imgAlt": "Photo by Rèkool Access on January 22, 2026.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/rekool_access_/p/DTahRtzjKf5/",
+            "imgAlt": "Photo by Rèkool Access on January 12, 2026.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/rekool_access_/p/DTIJKV0DC5G/",
+            "imgAlt": "Photo by Rèkool Access on January 05, 2026.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/rekool_access_/p/DS92cG6DDe5/",
+            "imgAlt": "Photo by Rèkool Access on January 01, 2026.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/rekool_access_/p/DSBABHrDF7T/",
+            "imgAlt": "Photo by Rèkool Access on December 08, 2025.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          }
+        ],
+        "extLinks": [],
+        "loginWall": false
+      }
+    },
+    "allIgLinksFound": [
+      "https://www.instagram.com/rekool_access_/"
+    ]
+  },
+  "evidencePaths": [
+    "evidence/phase2/fmyd_cascador_8_1d72fb117c.md",
+    "evidence/phase1/hy_techcabal_cascador_niya_8.md",
+    "evidence/phase1/hy_sl_ng_grant.md",
+    "evidence/phase4/rekool_home.json",
+    "evidence/phase4/rekool_home.md",
+    "evidence/phase4/rekool_about.json",
+    "evidence/phase4/rekool_about.md",
+    "evidence/phase4/rekool_blog.json",
+    "evidence/phase4/rekool_blog.md",
+    "evidence/phase4/rekool_ig_scrape.json",
+    "evidence/phase4/rekool_ig_scrape.md",
+    "evidence/phase4/rekool_ig_interact.json",
+    "evidence/phase4/rekool_ig_stop.json"
+  ]
+}

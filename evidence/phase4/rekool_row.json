@@ -1,0 +1,70 @@
+{
+  "slug": "rekool",
+  "name": "Rekool",
+  "website": "https://rekool.ng/",
+  "industry": "CleanTech / Solar Cold-Chain & Renewable Cooling",
+  "city": "Kano",
+  "what_they_do": "Kano-based renewable cooling startup (Rèkool Access Technologies, founded Dec 2022 by Aisha Adama Adamu and Musa Usman Kuku) building Vacci-Safe solar-powered, PCM thermal-storage, IoT-monitored refrigerators and cold rooms for rural healthcare clinics, farmers, and SMEs across Northern Nigeria.",
+  "recent_activity": "2026-11-10: Won NGN 5M (~$3,711) non-dilutive grant among Top 8 of the NiYA-Cascador Founders Programme (https://techcabal.com/2026/11/10/cascador-niya-select-eight-founders/); 2026-10-28: Featured on NiYA x Cascador Founders Programme Day 8 Instagram post (https://instagram.com/p/DfCcahOlzW5); 2026-07-25: Highlighted CEO Aisha Adama Adamu on @rekool_access_ Instagram (https://instagram.com/p/DbNGduSoPRc)",
+  "tier": "C",
+  "round_type": "NiYA-Cascador Non-dilutive Grant",
+  "amount": "NGN 5M (~$3,711)",
+  "funding_date": "2026-11-10",
+  "investors": "Cascador / Nigerian Youth Academy (NiYA) / Federal Ministry of Youth Development",
+  "funding_sources": "https://www.startuplist.africa/funding/rekool-grant-5m-ngn-7b3b0c8 | https://techcabal.com/2026/11/10/cascador-niya-select-eight-founders/",
+  "funding_confidence": "CONFIRMED_2_SOURCES",
+  "founder_or_marketing_contact": "Aisha Adama Adamu (Founder & CEO) | Musa Usman Kuku (COO & Co-Founder) | Info@rekool.ng | +2348134562257",
+  "instagram_url": "https://www.instagram.com/rekool_access_/",
+  "ig_status": "OK",
+  "ig_followers": "42",
+  "ig_post_1": {
+    "raw_timestamp_text": "2026-10-28",
+    "absolute_date": "2026-10-28",
+    "type": "Photo",
+    "url": "https://instagram.com/p/DfDfu55IYjw"
+  },
+  "ig_post_2": {
+    "raw_timestamp_text": "2026-10-28",
+    "absolute_date": "2026-10-28",
+    "type": "Reel",
+    "url": "https://instagram.com/p/DfDfaZdIOUs"
+  },
+  "ig_post_3": {
+    "raw_timestamp_text": "2026-10-28",
+    "absolute_date": "2026-10-28",
+    "type": "Carousel",
+    "url": "https://instagram.com/p/DfCcahOlzW5"
+  },
+  "ig_post_4": {
+    "raw_timestamp_text": "2026-07-25",
+    "absolute_date": "2026-07-25",
+    "type": "Photo",
+    "url": "https://instagram.com/p/DbNGduSoPRc"
+  },
+  "ig_post_5": {
+    "raw_timestamp_text": "2026-02-22",
+    "absolute_date": "2026-02-22",
+    "type": "Photo",
+    "url": "https://instagram.com/p/DVENQiDDG59"
+  },
+  "ig_days_since_latest": 30,
+  "ig_median_gap_days": 47.5,
+  "ig_screenshot_path": "screenshots/rekool_instagram.png",
+  "blog_url": "https://rekool.ng/blog/",
+  "blog_last_post_date": "NOT_FOUND",
+  "blog_posts_last_90_days": 0,
+  "marketing_titles_found": "NONE (rekool.ng/about/ lists CEO Aisha Adama Adamu, Chief Communication Officer / Admin Support Head Khadija Muazu, COO Musa Usman Kuku, Admin/HR Aisha Ibrahim, and Accounting Manager Fa'iza Suleiman; no marketing, growth, or content title)",
+  "hiring_marketing_role": "NO (no careers or open roles page on rekool.ng)",
+  "need_score": 8,
+  "score_flags": "IG_STALE_14D (+1) | IG_MEDIAN_GAP_14D (+2) | IG_IRREGULAR_GAP (+1) | NO_OR_STALE_BLOG_90D (+2) | NO_MARKETING_TITLE_ON_TEAM (+2)",
+  "qualified": true,
+  "signal_categories": [
+    "Instagram",
+    "blog",
+    "team"
+  ],
+  "unique_offer": "Solar-powered, phase-change-material and IoT-enabled vaccine and agricultural cold-chain storage built for off-grid Northern Nigeria.",
+  "closest_overlap": "TBD_PHASE_5",
+  "pitch_hook": "Rekool won NGN 5M in NiYA-Cascador backing on 2026-11-10 and serves 26+ clinics and 50+ farmers, yet its @rekool_access_ Instagram has 42 followers and irregular 47.5-day median gaps, its /blog/ page has 0 posts, its homepage has duplicated placeholder text, and it has no marketing lead.",
+  "evidence_paths": "evidence/phase2/fmyd_cascador_8_1d72fb117c.md | evidence/phase1/hy_techcabal_cascador_niya_8.md | evidence/phase1/hy_sl_ng_grant.md | evidence/phase4/rekool_home.json | evidence/phase4/rekool_home.md | evidence/phase4/rekool_about.json | evidence/phase4/rekool_about.md | evidence/phase4/rekool_blog.json | evidence/phase4/rekool_blog.md | evidence/phase4/rekool_ig_scrape.json | evidence/phase4/rekool_ig_scrape.md | evidence/phase4/rekool_ig_interact.json | screenshots/rekool_instagram.png"
+}

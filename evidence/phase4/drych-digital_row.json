@@ -1,0 +1,65 @@
+{
+  "slug": "drych-digital",
+  "name": "Drych Digital",
+  "website": "https://drychdigital.com/",
+  "industry": "Green IT / Low-Carbon Digital & Creative Agency",
+  "city": "Abuja",
+  "what_they_do": "Abuja-based, women-owned Green IT startup and carbon-negative creative agency (Drych Digital Limited, RC-8992375) that builds low-carbon websites, mobile apps, branding, and 2D/3D animations alongside digital sustainability tools like Website Carbon Evaluator and Eco Sleep.",
+  "recent_activity": "2026-11-10: Won NGN 1M (~$742) non-dilutive growth award at the NiYA x Cascador Founders Programme Pitch Day in Abuja (https://www.startuplist.africa/funding/drych-digital-grant-1m-ngn-6acd88b); 2026-10-28: Posted about David Ogebe's post-funding training session on @drychdigital Instagram (https://instagram.com/p/DfCeUu_OAhm); 2026-08: Published Kieva - Veni Vidi Vici character design portfolio work on drychdigital.com",
+  "tier": "C",
+  "round_type": "NiYA-Cascador Non-dilutive Grant",
+  "amount": "NGN 1M (~$742)",
+  "funding_date": "2026-11-10",
+  "investors": "Cascador / Nigerian Youth Academy (NiYA) / Federal Ministry of Youth Development",
+  "funding_sources": "https://www.startuplist.africa/funding/drych-digital-grant-1m-ngn-6acd88b | https://techbuild.africa/entrepreneurs-%e2%82%a65m-fmyd-niya-cascador-pitch-day/",
+  "funding_confidence": "CONFIRMED_2_SOURCES",
+  "founder_or_marketing_contact": "hello@drychdigital.com | drych@drychdigital.com | +234 911 5977 413",
+  "instagram_url": "https://www.instagram.com/drychdigital/",
+  "ig_status": "OK",
+  "ig_followers": "23",
+  "ig_post_1": {
+    "raw_timestamp_text": "2026-10-28",
+    "absolute_date": "2026-10-28",
+    "type": "Photo",
+    "url": "https://instagram.com/p/DfCeUu_OAhm"
+  },
+  "ig_post_2": {
+    "raw_timestamp_text": "2026-06-05",
+    "absolute_date": "2026-06-05",
+    "type": "Carousel",
+    "url": "https://instagram.com/p/DZOMLEoDXgh"
+  },
+  "ig_post_3": {
+    "raw_timestamp_text": "2026-03-08",
+    "absolute_date": "2026-03-08",
+    "type": "Reel",
+    "url": "https://instagram.com/p/DVo06edDrx_"
+  },
+  "ig_post_4": {
+    "raw_timestamp_text": "2025-03-08",
+    "absolute_date": "2025-03-08",
+    "type": "Reel",
+    "url": "https://instagram.com/p/DG9FaZHN9ol"
+  },
+  "ig_post_5": "NOT_FOUND",
+  "ig_days_since_latest": 30,
+  "ig_median_gap_days": 145,
+  "ig_screenshot_path": "screenshots/drych-digital_instagram.png",
+  "blog_url": "https://drychdigital.com/blog",
+  "blog_last_post_date": "2026-02-20",
+  "blog_posts_last_90_days": 0,
+  "marketing_titles_found": "NONE (no public team directory or named marketing/growth/content lead on drychdigital.com)",
+  "hiring_marketing_role": "NO (https://drychdigital.com/careers states 'We're not looking for a specific role' / generalists welcome)",
+  "need_score": 8,
+  "score_flags": "IG_STALE_14D (+1) | IG_MEDIAN_GAP_14D (+2) | IG_IRREGULAR_GAP (+1) | NO_OR_STALE_BLOG_90D (+2) | NO_MARKETING_TITLE_ON_TEAM (+2)",
+  "qualified": true,
+  "signal_categories": [
+    "Instagram",
+    "blog",
+    "team"
+  ],
+  "unique_offer": "Abuja carbon-negative digital studio pairing low-carbon web engineering and Eco Sleep optimization with branding and 2D/3D animation.",
+  "closest_overlap": "TBD_PHASE_5",
+  "pitch_hook": "Drych Digital pitches branding, SEO, and content writing and won NiYA-Cascador backing on 2026-11-10, yet its own @drychdigital Instagram has only 23 followers and 4 posts total (145-day median gap), its blog hasn't published since 2026-02-20, and it lists no public marketing lead.",
+  "evidence_paths": "evidence/phase2/drych_digital_8c8790f64c.md | evidence/phase2/web_b4_misc.json | evidence/phase4/drych-digital_home.json | evidence/phase4/drych-digital_home.md | evidence/phase4/drych-digital_about.json | evidence/phase4/drych-digital_about.md | evidence/phase4/drych-digital_blog.json | evidence/phase4/drych-digital_blog.md | evidence/phase4/drych-digital_careers.json | evidence/phase4/drych-digital_careers.md | evidence/phase4/drych-digital_ig_scrape.json | evidence/phase4/drych-digital_ig_scrape.md | evidence/phase4/drych-digital_ig_interact.json | screenshots/drych-digital_instagram.png"
+}

@@ -1,14 +1,14 @@
 # HANDOFF
 
 - **Finished**:
-  - Phase 0, 1 (392 raw), 2 (122 verified, 270 rejected), Phase 3 Pilot of 5, Phase 4 Tier A (10), Tier B (2), and first 23 Tier C (`telios`..`upsmart-energies`).
-  - Batch 7 finalized & pushed: `sparklean-station-nigeria` (score 6 Q, `/auth` portal), `parakletus-hub-nigeria` (score 6 Q via `parakletushub.com`/`pln.ng`), `biuda` (score 4 Q), `backel` (score 9 Q), `upsmart-energies` (score 6 Q via `upsmartenergies.com`).
-  - Total audited `DONE`: 40 (`31` qualified, `9` not qualified), `1` `BLOCKED` (`friendnpal`), `81` `PENDING` (`79` Tier C + `2` Tier D).
+  - Phase 0, 1 (392 raw), 2 (122 verified, 270 rejected), Phase 3 Pilot of 5, Phase 4 Tier A (10), Tier B (2), and first 28 Tier C (`telios`..`zannytecture`).
+  - Batch 8 finalized & pushed: `drych-digital` (score 8 Q), `craft-planet` (score 4 Q), `rekool` (score 8 Q), `sewpro` (score 4 Q), `zannytecture` (score 7 Q via `zannytecture.com` discovered on Startuplist Africa).
+  - Total audited `DONE`: 45 (`36` qualified, `9` not qualified), `1` `BLOCKED` (`friendnpal`), `76` `PENDING` (`74` Tier C + `2` Tier D).
 - **Next**:
-  - Fetch & audit Batch 8 (`zannytecture`, `drych-digital`, `craft-planet`, `rekool`, `sewpro`), then remaining Tier C & D startups in batches of 5.
+  - Fetch & audit Batch 9 (`shellify`, `agrosavvy-consult`, `niteon`, `acecore`, `supplya`), then remaining Tier C & D startups in batches of 5.
   - Inspect every IG screenshot via `view_file`, finalize via `phase3_finalize_row.ts`, and update `HANDOFF.md` + push every 5 startups.
 - **Must Not Redo**:
-  - Do NOT re-run Phase 0–2, Pilot 5, `friendnpal`, Tier A (10), Tier B (2), or first 23 Tier C startups (`telios`..`upsmart-energies`).
+  - Do NOT re-run Phase 0–2, Pilot 5, `friendnpal`, Tier A (10), Tier B (2), or first 28 Tier C startups (`telios`..`zannytecture`).
 - **Open Problems**:
   - `friendnpal`: HTTP 500 `SCRAPE_ALL_ENGINES_FAILED` (`BLOCKED`).
   - `peoplepulse`: `/careers` HTTP 500 (`BLOCKED`).

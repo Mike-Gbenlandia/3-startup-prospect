@@ -1,0 +1,20 @@
+# CraftPlanetLTD (@craftplanet_ltd)
+
+♻️ We design & produce sustainable building materials 3x stronger than regular concretes from recycled plastics. #WeBuildForEarth 🌏💚
+
+781 followers · 52 following
+
+## Recent posts
+
+- [From thousands of applicants to the Top 20, the journey was one of learning, growth, resilience and remarkable achievem…](https://instagram.com/p/Df1rizGIRd8) · 2026-11-17 · 16 likes · 2 comments · 199 views
+- [Another milestone worth celebrating! 🎉 Craft Planet is proud to be among the Top 8 of the @nigerianyouthacademy NiYA ×…](https://instagram.com/p/DfmRkSeI_cS) · 2026-11-11 · 38 likes · 2 comments · 631 views
+- [One mission. One big win! 🏆 From the Kano regional pitch to the grand finale in Lagos, our journey at @wemabank Hackah…](https://instagram.com/p/DfebqWOoIRb) · 2026-11-08 · 42 likes · 8 comments · 596 views
+- [Hello, November! A new month brings another opportunity to learn, innovate, take action, and make a difference. As we s…](https://instagram.com/p/DfOyGu5olwd) · 2026-11-02 · 5 likes · 0 comments
+- [There’s more to waste than meets the eye. 🌍 From where it ends up to what it takes to recycle it, there are things we…](https://instagram.com/p/DfEnQAcsHHu) · 2026-10-29 · 4 likes · 1 comments · 67 views
+- [Environmental change becomes stronger when communities are part of it. Through initiatives like the Green Women Champio…](https://instagram.com/p/De9HwZciKSa) · 2026-10-26 · 4 likes · 0 comments
+- [Who do you think can make our planet better? The answer starts with you! From the choices we make every day to how we m…](https://instagram.com/p/De1RzFkohV2) · 2026-10-23 · 3 likes · 0 comments · 74 views
+- [Day 4, and the momentum keeps building! ㅤ Meet Adedini Solomon Tolulope and Kabir Olaosebikan, our Day 4 Founder Captai…](https://instagram.com/p/DeylszwlyhB) · 2026-10-22 · 23 likes · 0 comments
+- [Every great solution starts with a vision. But a vision becomes meaningful when we take steps to turn it into reality.…](https://instagram.com/p/DetinVqIVbI) · 2026-10-20 · 9 likes · 0 comments
+- [Quick quiz: How well do you know circular economy & upcycling? Drop your score in the comment👇 #CircularEconomy #Susta…](https://instagram.com/p/DejTwy3Iwvp) · 2026-10-16 · 6 likes · 0 comments · 58 views
+- [Small actions matter. Plastic waste shouldn’t be carelessly discarded on our streets, dumped in drains, or left to poll…](https://instagram.com/p/DebcpgPopSZ) · 2026-10-13 · 8 likes · 0 comments
+- [Who says waste can’t build the future? At Craft Planet, we’re turning plastic waste into building materials, creating g…](https://instagram.com/p/DeSA0Nbsvj9) · 2026-10-09 · 17 likes · 2 comments · 241 views
