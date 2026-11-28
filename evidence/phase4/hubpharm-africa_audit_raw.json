@@ -1,0 +1,215 @@
+{
+  "retrievalDate": "2026-11-27",
+  "slug": "hubpharm-africa",
+  "poolEntry": {
+    "name": "HubPharm Africa",
+    "website": "https://hubpharmafrica.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Equity-free Grand Prize (2nd ECOWAS Startup Awards)",
+    "amount": "$30K",
+    "announced_date": "2026-10-02",
+    "investors": "ECOWAS Commission",
+    "hq_location": "Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.ecowas.int/ecowas-celebrates-innovation-as-hubpharm-africa-wins-second-startup-awards/",
+      "https://www.trysignalbase.com/news/funding/hubpharm-africa-raises-30k-to-expand-specialty-pharmacy-access"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/hubpharm_ecowas_b7.md",
+      "evidence/phase2/hubpharm_africa_6287e52a2c.md",
+      "evidence/phase2/q_hubpharm_b7.json"
+    ],
+    "batch_number": 7
+  },
+  "resolvedWebsite": "https://hubpharmafrica.com/",
+  "searchCandidates": [],
+  "scrapedPages": {
+    "home": {
+      "url": "https://hubpharmafrica.com/",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/hubpharm-africa_home.md",
+      "jsonPath": "evidence/phase4/hubpharm-africa_home.json"
+    },
+    "team": {
+      "url": "https://hubpharmafrica.com/leadership",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/hubpharm-africa_team.md",
+      "jsonPath": "evidence/phase4/hubpharm-africa_team.json"
+    },
+    "blog": {
+      "url": "https://hubpharmafrica.com/blog",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/hubpharm-africa_blog.md",
+      "jsonPath": "evidence/phase4/hubpharm-africa_blog.json"
+    }
+  },
+  "socialLinksFoundOnSite": {
+    "instagram": [
+      "https://www.instagram.com/hubpharm.africa/"
+    ],
+    "linkedin": [
+      "https://www.linkedin.com/company/88055015/"
+    ],
+    "twitter": [
+      "https://twitter.com/hubpharmafrika"
+    ]
+  },
+  "instagramAudit": {
+    "status": "OK",
+    "url": "https://www.instagram.com/hubpharm.africa/",
+    "screenshotPath": "screenshots/hubpharm-africa_instagram.png",
+    "mdText": "# Hubpharm| Leading AI-powered healthcare & Pharmacy (@hubpharm.africa)\n\nAI-powered 🇳🇬 |\n💊Affordable prices | Prompt Delivery 🇳🇬🇿🇦🇬🇭🇬🇧🇺🇲🇨🇦🇩🇪 | Personalized Care\nRegistered with PCN\n\n3,946 followers · 1,270 following\n\nLinks: https://www.linktr.ee/hubpharm.africa\n\n## Recent posts\n\n- [We just won the ECOWAS Startup Award... what a way to start the new month! We’re still taking it in, and honestly, this…](https://instagram.com/p/Dd9KyYkDLpm) · 2026-10-01 · 43 likes · 22 comments\n- [Meet Sesan Kareem, Founder & President of HubPharm Africa. HubPharm Africa is leveraging technology, AI and coordinated…](https://instagram.com/p/DckLkxYIlDf) · 2026-08-28 · 13 likes · 3 comments\n- [“Science is not enough. Access is the real problem,” said Tope Kareem, Co-Founder & CEO of HubPharm Africa @hubpharm.af…](https://instagram.com/p/DTcgqWWjGwh) · 2026-01-13 · 41 likes · 1 comments\n- [One place for all your health needs. 💙 Medicines, clinicians, free health checks, and more. At HubPharm, getting care…](https://instagram.com/p/DgPXzHrDXkw) · 2026-11-27 · 2 likes · 0 comments\n- [Your fertility journey, our partnership. 🌸 Genuine medicines. Expert pharmacists. Discreet delivery. 💬 +234 705 050 5…](https://instagram.com/p/DgKQQpejI_7) · 2026-11-25 · 52 likes · 0 comments\n- [Smart choice or not? 🤔💊 Every time we use antibiotics wrongly, germs get stronger, and that’s how drug-resistant infe…](https://instagram.com/p/DgId1pFMZzV) · 2026-11-24 · 2 likes · 0 comments\n- [Happy New Week! 💙](https://instagram.com/p/DgFF2Sjt8gV) · 2026-11-23 · 2 likes · 0 comments · 21 views\n- [“I’m fine.” “It will pass.” “I’ll go next month.” 😅 Sound familiar? Happy International Men’s Day! 💙 To the men who l…](https://instagram.com/p/Df9T0kLjFK_) · 2026-11-20 · 65 likes · 0 comments\n- [Today, we celebrate the men who show up, keep going, care for others, dream big and make a difference in ways both seen…](https://instagram.com/p/Df60ZSMDEq_) · 2026-11-19 · 48 likes · 0 comments\n- [It’s World Antimicrobial Awareness Week, so here’s the advice: take antibiotics exactly as prescribed, never share them…](https://instagram.com/p/Df4J3Mil5he) · 2026-11-18 · 2 likes · 0 comments\n- [A little advice for the dry season: keep the rats out and your food covered. 🐀💙 Lassa fever cases rise from December…](https://instagram.com/p/Df1kWJPl17b) · 2026-11-17 · 2 likes · 0 comments\n- [Whatever your answer, we’re one message away. Chat with Afiya or our pharmacists on WhatsApp: 07050505001 🌿 Tell us in…](https://instagram.com/p/DfzT7BWF3g8) · 2026-11-16 · 3 likes · 0 comments\n",
+    "interactParsed": {
+      "title": "Hubpharm| Leading AI-powered healthcare & Pharmacy (@hubpharm.africa) • Instagram photos and videos",
+      "url": "https://www.instagram.com/hubpharm.africa/",
+      "bodyText": "Log In\nSign Up\nhubpharm.africa\n3,946 followers\n1,270 following\nHubpharm| Leading AI-powered healthcare & Pharmacy\nhubpharm.africa\nAI-powered 🇳🇬 |\n💊Affordable prices | Prompt Delivery 🇳🇬🇿🇦🇬🇭🇬🇧🇺🇲🇨🇦🇩🇪 | Personalized Care\nRegistered with PCN\nlinktr.ee/hubpharm.africa\nPartnership\nDelivery\nHealth needs\nConsultation\nDiaspora\nOutreaches\nReviews\nAbout Us\nProducts\nAfiya\nShow more posts from hubpharm.africa\nMeta\nAbout\nBlog\nJobs\nHelp\nAPI\nPrivacy\nConsumer Health Privacy\nTerms\nLocations\nPopular\nInstagram Lite\nMeta AI\nMuse\nThreads\nContact Uploading & Non-Users\nMeta Verified\nEnglish\nAfrikaans\nالعربية\nČeština\nDansk\nDeutsch\nΕλληνικά\nEnglish\nEnglish (UK)\nEspañol (España)\nEspañol\nفارسی\nSuomi\nFrançais\nעברית\nBahasa Indonesia\nItaliano\n日本語\n한국어\nBahasa Melayu\nNorsk\nNederlands\nPolski\nPortuguês (Brasil)\nPortuguês (Portugal)\nРусский\nSvenska\nภาษาไทย\nFilipino\nTürkçe\n中文(简体)\n中文(台灣)\nবাংলা\nગુજરાતી\nहिन्दी\nHrvatski\nMagyar\nಕನ್ನಡ\nമലയാളം\nमराठी\nनेपाली\nਪੰਜਾਬੀ\nසිංහල\nSlovenčina\nதமிழ்\nతెలుగు\nاردو\nTiếng Việt\n中文(香港)\nБългарски\nFrançais (Canada)\nRomână\nСрпски\nУкраїнська\n© 2026 Instagram from Meta\nSee photos, videos and more from hubpharm.africa\nSign up and never miss a post from hubpharm.africa.\nSign up\nLog in",
+      "domData": {
+        "posts": [
+          {
+            "href": "/hubpharm.africa/p/Dd9KyYkDLpm/",
+            "imgAlt": "Photo by Hubpharm| Leading AI-powered healthcare & Pharmacy on October 01, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/lasgmist/reel/DckLkxYIlDf/",
+            "imgAlt": "Video by Min of Innovation, Science and Technology on August 27, 2026.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/auroratechaward/p/DTcgqWWjGwh/",
+            "imgAlt": "Photo by Aurora Tech Award on January 13, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/hubpharm.africa/p/DgPXzHrDXkw/",
+            "imgAlt": "Photo by Hubpharm| Leading AI-powered healthcare & Pharmacy on November 27, 2026. May be an image of text.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/hubpharm.africa/p/DgKQQpejI_7/",
+            "imgAlt": "Photo by Hubpharm| Leading AI-powered healthcare & Pharmacy on November 25, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/hubpharm.africa/p/DgId1pFMZzV/",
+            "imgAlt": "Photo by Hubpharm| Leading AI-powered healthcare & Pharmacy on November 24, 2026. May be a Twitter screenshot of poster and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/hubpharm.africa/reel/DgFF2Sjt8gV/",
+            "imgAlt": "Video by Hubpharm| Leading AI-powered healthcare & Pharmacy on November 23, 2026. May be a graphic of ointment, poster, magazine and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/hubpharm.africa/p/Df9T0kLjFK_/",
+            "imgAlt": "Photo by Hubpharm| Leading AI-powered healthcare & Pharmacy on November 20, 2026. May be an image of text.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/hubpharm.africa/p/Df60ZSMDEq_/",
+            "imgAlt": "Photo by Hubpharm| Leading AI-powered healthcare & Pharmacy on November 19, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/hubpharm.africa/p/Df4J3Mil5he/",
+            "imgAlt": "Photo by Hubpharm| Leading AI-powered healthcare & Pharmacy on November 18, 2026. May be an image of text.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/hubpharm.africa/p/Df1kWJPl17b/",
+            "imgAlt": "Photo by Hubpharm| Leading AI-powered healthcare & Pharmacy on November 17, 2026. May be an image of text.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/hubpharm.africa/p/DfzT7BWF3g8/",
+            "imgAlt": "Photo by Hubpharm| Leading AI-powered healthcare & Pharmacy on November 16, 2026. May be an image of medicine, poster, ointment and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          }
+        ],
+        "extLinks": [
+          "https://www.threads.com/@hubpharm.africa?xmt=AQG00Qch2_BSn3blr2aN5WQwrdkwADas6kE0g8PNbNLe_LM"
+        ],
+        "loginWall": false
+      }
+    },
+    "allIgLinksFound": [
+      "https://www.instagram.com/hubpharm.africa/"
+    ]
+  },
+  "evidencePaths": [
+    "evidence/phase2/hubpharm_ecowas_b7.md",
+    "evidence/phase2/hubpharm_africa_6287e52a2c.md",
+    "evidence/phase2/q_hubpharm_b7.json",
+    "evidence/phase4/hubpharm-africa_home.json",
+    "evidence/phase4/hubpharm-africa_home.md",
+    "evidence/phase4/hubpharm-africa_team.json",
+    "evidence/phase4/hubpharm-africa_team.md",
+    "evidence/phase4/hubpharm-africa_blog.json",
+    "evidence/phase4/hubpharm-africa_blog.md",
+    "evidence/phase4/hubpharm-africa_ig_scrape.json",
+    "evidence/phase4/hubpharm-africa_ig_scrape.md",
+    "evidence/phase4/hubpharm-africa_ig_interact.json",
+    "evidence/phase4/hubpharm-africa_ig_stop.json"
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "retrievalDate": "2026-11-27",
+  "slug": "deluxe-entertainment-studios",
+  "poolEntry": {
+    "name": "Deluxe Entertainment Studios",
+    "website": "https://www.deluxecreation.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Non-dilutive Grant (Google Play Indie Games Fund Africa 2026)",
+    "amount": "Not disclosed ($1M total fund across 10 studios)",
+    "announced_date": "2026-10-28",
+    "investors": "Google Play / Google",
+    "hq_location": "Lagos, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/deluxe-entertainment-studios-grant-undisclosed-4568457",
+      "https://african-startups.com/news/funding/meet-the-10-african-gaming-studios-selected-for-google-plays-1-million-indie-games-fund/"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/deluxe_entertainment_studios_a4c6e7965d.md",
+      "evidence/phase1/hy_as_google_indie_games.md"
+    ],
+    "batch_number": 6
+  },
+  "resolvedWebsite": "https://www.deluxecreation.com/",
+  "searchCandidates": [],
+  "scrapedPages": {
+    "home": {
+      "url": "https://www.deluxecreation.com/",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/deluxe-entertainment-studios_home.md",
+      "jsonPath": "evidence/phase4/deluxe-entertainment-studios_home.json"
+    },
+    "about": {
+      "url": "https://www.deluxecreation.com/about-us.html",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/deluxe-entertainment-studios_about.md",
+      "jsonPath": "evidence/phase4/deluxe-entertainment-studios_about.json"
+    },
+    "blog": {
+      "url": "https://www.deluxecreation.com/news.html",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/deluxe-entertainment-studios_blog.md",
+      "jsonPath": "evidence/phase4/deluxe-entertainment-studios_blog.json"
+    }
+  },
+  "socialLinksFoundOnSite": {
+    "instagram": [
+      "https://www.instagram.com/deluxecreation/"
+    ],
+    "linkedin": [],
+    "twitter": [
+      "https://www.twitter.com/deluxecreation"
+    ]
+  },
+  "instagramAudit": {
+    "status": "OK",
+    "url": "https://www.instagram.com/deluxecreation/",
+    "screenshotPath": "screenshots/deluxe-entertainment-studios_instagram.png",
+    "mdText": "# Deluxe Creation Studios (@deluxecreation)\n\nWe've got game 😎, bold visuals ✨ & unique stories that take Africa to the world. Home of @adventuresofchike @therastasanta @urbanfurygame + more\n\n570 followers · 247 following\n\nLinks: https://www.deluxecreation.com/\n\n## Recent posts\n\n- [In 2014 I released my first game, App Rush, on @googleplay . Over the years I’ve gone on to release titles like @advent…](https://instagram.com/p/DRCNt-gjDdg) · 2025-11-14 · 310 likes · 61 comments\n- [Dec 2025 wasn’t just festive, it was explosive. Now the tale comes to PC. Rasta Santa January 2026 #rastasanta #happyne…](https://instagram.com/p/DS-kpnBiCsV) · 2026-01-01 · 45 likes · 1 comments\n- [2025 🔥 the world noticed 2026 🚀 we level up 🚀 #DeluxeGames #MadeInLagos #PlayedByTheWorld #indiegamedev #WeveGotGame](https://instagram.com/p/DVZDpMSCL7b) · 2026-03-02 · 99 likes · 13 comments · 1,826 views\n- [Throwback to @africacomicade #gamathon2026 🔥 #indiegames #gamedev #rastasanta #dambe](https://instagram.com/p/Df7n6W2hKK3) · 2026-11-19 · 50 likes · 0 comments · 422 views\n- [The #gamathon2026 experience! Shout out to @africacomicade for another great event 🫡🚀 see you 2027 🚀](https://instagram.com/p/DfRvq3wCHL6) · 2026-11-03 · 41 likes · 2 comments\n- [Getting selected means a lot to us. We’ve been making games in Africa for over a decade, and getting our games discover…](https://instagram.com/p/DfDFCQpIEqG) · 2026-10-28 · 37 likes · 9 comments · 420 views\n- [This game rasta santa by @deluxecreation is something you should start playing now. During my livestream you can win se…](https://instagram.com/p/DRcfGSgCLMI) · 2025-11-24 · 63 likes · 5 comments · 1,398 views\n- [Done miss Afro game showcase by @narratify.agency tomorrow 🔥🚀 Wishlist Rasta Santa on steam 🫡 #narratifyagency #rast…](https://instagram.com/p/DZ-q1wlKhE4) · 2026-06-24 · 39 likes · 0 comments\n- [#dambe](https://instagram.com/p/DUamkGADXoh) · 2026-02-06 · 95 likes · 0 comments\n- [This game is brutal 🔥 play as sorcerer stickman, hunt monsters, collect their remains and stop the apocalypse ☄️ #indi…](https://instagram.com/p/DUXhHMOiPzs) · 2026-02-05 · 22 likes · 4 comments · 1,442 views\n- [You do not want to fail in this game. Download rasta santa now on appstore or playstore. Edited by @acexblack_ #artgodw…](https://instagram.com/p/DSAnu_wiE2c) · 2025-12-08 · 83 likes · 9 comments · 1,852 views\n- [@therastasanta won the second award this year thanks to @gamesweekafrica congratulations to the team at @deluxecreation…](https://instagram.com/p/DR31CMvjJf0) · 2025-12-05 · 185 likes · 32 comments · 4,609 views\n",
+    "interactParsed": {
+      "title": "Deluxe Creation Studios (@deluxecreation) • Instagram photos and videos",
+      "url": "https://www.instagram.com/deluxecreation/",
+      "bodyText": "Log In\nSign Up\ndeluxecreation\n570 followers\n247 following\nDeluxe Creation Studios\ndeluxecreation\nWe've got game 😎, bold visuals ✨ & unique stories that take Africa to the world. Home of @adventuresofchike... \nmore\nwww.deluxecreation.com\nShow more posts from deluxecreation\nMeta\nAbout\nBlog\nJobs\nHelp\nAPI\nPrivacy\nConsumer Health Privacy\nTerms\nLocations\nPopular\nInstagram Lite\nMeta AI\nMuse\nThreads\nContact Uploading & Non-Users\nMeta Verified\nEnglish\nAfrikaans\nالعربية\nČeština\nDansk\nDeutsch\nΕλληνικά\nEnglish\nEnglish (UK)\nEspañol (España)\nEspañol\nفارسی\nSuomi\nFrançais\nעברית\nBahasa Indonesia\nItaliano\n日本語\n한국어\nBahasa Melayu\nNorsk\nNederlands\nPolski\nPortuguês (Brasil)\nPortuguês (Portugal)\nРусский\nSvenska\nภาษาไทย\nFilipino\nTürkçe\n中文(简体)\n中文(台灣)\nবাংলা\nગુજરાતી\nहिन्दी\nHrvatski\nMagyar\nಕನ್ನಡ\nമലയാളം\nमराठी\nनेपाली\nਪੰਜਾਬੀ\nසිංහල\nSlovenčina\nதமிழ்\nతెలుగు\nاردو\nTiếng Việt\n中文(香港)\nБългарски\nFrançais (Canada)\nRomână\nСрпски\nУкраїнська\n© 2026 Instagram from Meta\nSee photos, videos and more from deluxecreation\nSign up and never miss a post from deluxecreation.\nSign up\nLog in",
+      "domData": {
+        "posts": [
+          {
+            "href": "/edushola/p/DRCNt-gjDdg/",
+            "imgAlt": "Photo by Edu Shola on November 14, 2025.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/deluxecreation/p/DS-kpnBiCsV/",
+            "imgAlt": "Photo by Deluxe Creation Studios on January 01, 2026.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/deluxecreation/reel/DVZDpMSCL7b/",
+            "imgAlt": "Video by Deluxe Creation Studios on March 02, 2026.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/deluxecreation/reel/Df7n6W2hKK3/",
+            "imgAlt": "Video by Deluxe Creation Studios on November 19, 2026. May be an image of poster and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/deluxecreation/p/DfRvq3wCHL6/",
+            "imgAlt": "Photo by Deluxe Creation Studios on November 03, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/deluxecreation/reel/DfDFCQpIEqG/",
+            "imgAlt": "Video by Deluxe Creation Studios on October 28, 2026. May be a graphic of poster and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/artgodwinking/reel/DRcfGSgCLMI/",
+            "imgAlt": "Video by Jackson Godwin on November 24, 2025.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/deluxecreation/p/DZ-q1wlKhE4/",
+            "imgAlt": "Photo by Deluxe Creation Studios on June 24, 2026.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/decoyocelot/p/DUamkGADXoh/",
+            "imgAlt": "Photo by Akdogan Ali on February 06, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/deluxecreation/reel/DUXhHMOiPzs/",
+            "imgAlt": "Video by Deluxe Creation Studios on February 04, 2026.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/artgodwinking/reel/DSAnu_wiE2c/",
+            "imgAlt": "Video by Jackson Godwin on December 08, 2025.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/edushola/reel/DR31CMvjJf0/",
+            "imgAlt": "Video by Edu Shola on December 04, 2025.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          }
+        ],
+        "extLinks": [
+          "https://www.threads.com/@deluxecreation?xmt=AQG0Z7k83s8mRDxxkDhRuUYfIf2L0KFRVFCK-99ccmZeuRY"
+        ],
+        "loginWall": false
+      }
+    },
+    "allIgLinksFound": [
+      "https://www.instagram.com/deluxecreation/"
+    ]
+  },
+  "evidencePaths": [
+    "evidence/phase2/deluxe_entertainment_studios_a4c6e7965d.md",
+    "evidence/phase1/hy_as_google_indie_games.md",
+    "evidence/phase4/deluxe-entertainment-studios_home.json",
+    "evidence/phase4/deluxe-entertainment-studios_home.md",
+    "evidence/phase4/deluxe-entertainment-studios_about.json",
+    "evidence/phase4/deluxe-entertainment-studios_about.md",
+    "evidence/phase4/deluxe-entertainment-studios_blog.json",
+    "evidence/phase4/deluxe-entertainment-studios_blog.md",
+    "evidence/phase4/deluxe-entertainment-studios_ig_scrape.json",
+    "evidence/phase4/deluxe-entertainment-studios_ig_scrape.md",
+    "evidence/phase4/deluxe-entertainment-studios_ig_interact.json",
+    "evidence/phase4/deluxe-entertainment-studios_ig_stop.json"
+  ]
+}

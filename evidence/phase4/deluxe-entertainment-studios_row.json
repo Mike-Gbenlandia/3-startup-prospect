@@ -1,0 +1,49 @@
+{
+  "slug": "deluxe-entertainment-studios",
+  "audit_status": "DONE",
+  "website_verified": "https://www.deluxecreation.com/",
+  "instagram_url": "https://www.instagram.com/deluxecreation/",
+  "instagram_followers": 570,
+  "ig_latest_post_date": "2026-11-19",
+  "ig_days_since_latest": 8,
+  "ig_post_dates_last5": [
+    "2026-11-19",
+    "2026-11-03",
+    "2026-10-28",
+    "2026-06-24",
+    "2026-02-06"
+  ],
+  "ig_median_gap_days": 71,
+  "ig_last5_formats": "Reel,Carousel,Reel,Photo,Carousel",
+  "ig_frequency_note": "Skipped 3 pinned top-row posts (2025-11-14 WeArePlay carousel DRCNt-gjDdg, 2026-01-01 DS-kpnBiCsV, 2026-03-02 DVZDpMSCL7b) and out-of-order collab reel 2025-11-24 DRcfGSgCLMI between 10-28 and 06-24; chronological gaps 16d, 6d, 126d, 138d (median 71d, irregular longest 138d > 3*6d).",
+  "blog_url": "https://www.deluxecreation.com/news.html",
+  "blog_latest_post_date": "2026-04-21",
+  "blog_posts_last_90d": 0,
+  "team_page_url": "https://www.deluxecreation.com/about-us.html",
+  "team_marketing_roles_found": "NONE",
+  "careers_page_url": "NOT_FOUND",
+  "hiring_marketing_role": "NO",
+  "need_score": 7,
+  "need_signals": "IG_MEDIAN_GAP_14D (+2) | IG_IRREGULAR_GAP (+1) | NO_OR_STALE_BLOG_90D (+2) | NO_MARKETING_TITLE_ON_TEAM (+2)",
+  "qualified": "YES",
+  "disqualification_reason": "NONE",
+  "source_urls": [
+    "https://www.deluxecreation.com/",
+    "https://www.deluxecreation.com/about-us.html",
+    "https://www.deluxecreation.com/news.html",
+    "https://www.instagram.com/deluxecreation/",
+    "https://www.startuplist.africa/funding/deluxe-entertainment-studios-grant-undisclosed-4568457",
+    "https://african-startups.com/news/funding/meet-the-10-african-gaming-studios-selected-for-google-plays-1-million-indie-games-fund/"
+  ],
+  "evidence_paths": [
+    "evidence/phase4/deluxe-entertainment-studios_audit_raw.json",
+    "evidence/phase4/deluxe-entertainment-studios_home.md",
+    "evidence/phase4/deluxe-entertainment-studios_about.md",
+    "evidence/phase4/deluxe-entertainment-studios_blog.md",
+    "evidence/phase4/deluxe-entertainment-studios_ig_scrape.md",
+    "screenshots/deluxe-entertainment-studios_instagram.png",
+    "evidence/phase2/deluxe_entertainment_studios_a4c6e7965d.md",
+    "evidence/phase1/hy_as_google_indie_games.md"
+  ],
+  "raw_timestamp_text": "IG: Top row (2025-11-14, 2026-01-01, 2026-03-02) visually pinned on screenshots/deluxe-entertainment-studios_instagram.png; non-pinned posts 2026-11-19 (Df7n6W2hKK3), 2026-11-03 (DfRvq3wCHL6), 2026-10-28 (DfDFCQpIEqG), 2026-06-24 (DZ-q1wlKhE4), 2026-02-06 (DUamkGADXoh) [collab 2025-11-24 DRcfGSgCLMI sits between 10-28 and 06-24]. News (/news.html): latest entry 21 April 2026 (PocketGamer.biz link), 0 posts in last 90d. About (/about-us.html): founded by Edu Shola, no team roster or marketing roles."
+}

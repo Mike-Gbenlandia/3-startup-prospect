@@ -1,0 +1,201 @@
+{
+  "retrievalDate": "2026-11-27",
+  "slug": "tryctor",
+  "poolEntry": {
+    "name": "Tryctor",
+    "website": "https://www.tryctor.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Equity-free Prize (NSIA Prize for Innovation 4.0 Demo Day / Wema Bank)",
+    "amount": "$4K",
+    "announced_date": "2026-10-24",
+    "investors": "Wema Bank / NSIA Prize for Innovation 4.0",
+    "hq_location": "Ilorin, Kwara State, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/funding/tryctor-equity-free-prize-4000-usd-7b459b4",
+      "https://businessday.ng/news/article/nsia-awards-275000-to-nigerian-startups-come-again-foods-leads-winners/",
+      "https://www.startuplist.africa/startups/tryctor"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/nsia_bd_b7.md",
+      "evidence/phase2/q_tryctor_b7.json",
+      "evidence/phase2/web_b4_misc.json"
+    ],
+    "batch_number": 7
+  },
+  "resolvedWebsite": "https://www.tryctor.com/",
+  "searchCandidates": [],
+  "scrapedPages": {
+    "home": {
+      "url": "https://www.tryctor.com/",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/tryctor_home.md",
+      "jsonPath": "evidence/phase4/tryctor_home.json"
+    },
+    "blog": {
+      "url": "https://www.tryctor.com/blog",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/tryctor_blog.md",
+      "jsonPath": "evidence/phase4/tryctor_blog.json"
+    }
+  },
+  "socialLinksFoundOnSite": {
+    "instagram": [
+      "https://www.instagram.com/tryctor/"
+    ],
+    "linkedin": [],
+    "twitter": [
+      "https://x.com/TryctorNG/status/1366741695883321344"
+    ]
+  },
+  "instagramAudit": {
+    "status": "OK",
+    "url": "https://www.instagram.com/tryctor/",
+    "screenshotPath": "screenshots/tryctor_instagram.png",
+    "mdText": "# tryctor (@tryctor)\n\nMini tractor for Africa\n\n76 followers · 44 following\n\nLinks: https://www.forms.gle/j6C49dG3Vn3KxxCCA\n\n## Recent posts\n\n- [👀 A Must-Watch Video Alert! 🎥 Featuring Tryctor! 🚜! 🌱 #WatchTheVideo #NigerianFarmers #AfricanFarmers #Tryctor #Sma…](https://instagram.com/p/CyjBGbmN6kR) · 2023-10-18 · 14 likes · 5 comments · 301 views\n- [The fourth edition of the NSIA Prize for Innovation continues to celebrate innovators transforming promising ideas into…](https://instagram.com/p/DfCOM-oDOee) · 2026-10-28 · 50 likes · 1 comments\n- [Governor Otu distributes 108 of our Tryctors to Farmers in Cross Rivers State as part of effort to strengthen food secu…](https://instagram.com/p/DQMTS95iOIB) · 2025-10-24 · 10 likes · 1 comments · 542 views\n- [@tractracglobal In collaboration with the Mastercard Foundation, is empowering young people by distributing 160 Tryctor…](https://instagram.com/p/DOvyi9LiBXz) · 2025-09-18 · 10 likes · 0 comments · 111 views\n- [Meet the Tryctor 🚜 A three-wheeled, fully assembled mini-tractor manufactured in Nigeria. The Tryctor comes with labor…](https://instagram.com/p/DGZ59n8zxlc) · 2025-02-23 · 8 likes · 1 comments\n- [🌱🚜𝐓𝐫𝐲𝐜𝐭𝐨𝐫 𝐊𝐢𝐜𝐤𝐬 𝐎𝐟𝐟 𝟐𝟎𝟐𝟓 𝐰𝐢𝐭𝐡 𝐀𝐠𝐫𝐢𝐜𝐮𝐥𝐭𝐮𝐫𝐚𝐥 𝐄𝐦𝐩𝐨𝐰𝐞𝐫𝐦𝐞𝐧𝐭! 🚜🌱 We’re exci…](https://instagram.com/p/DGZ4j7ATfG2) · 2025-02-23 · 10 likes · 1 comments\n- [A great collaboration with @tractracglobal - 💪🏽 Empowering thousands of farmers in Nigeria. #Staytuned for more….](https://instagram.com/p/DGZ03I3TSV4) · 2025-02-23 · 8 likes · 2 comments · 143 views\n- [#tryctor #minitractor #madeiinnigeria](https://instagram.com/p/CzHpHlutTMX) · 2023-11-01 · 7 likes · 0 comments · 147 views\n- [Introducing the All-New Tryctor Steering Wheel Model! 🌟 Key Features 🌟 ✅ Responsive Steering: Experience precise cont…](https://instagram.com/p/CyRatLdtmt4) · 2023-10-11 · 8 likes · 1 comments\n- [DISCLAIMER!!! This disclaimer serves as a formal notice to the public, our clients, partners and particularly the Niger…](https://instagram.com/p/CxJJ7zwqVXj) · 2023-09-13 · 5 likes · 0 comments\n- [We are happy to announce our 'Pay-As-You-Go' financing scheme to own a Tryctor through instalmental payments. To apply…](https://instagram.com/p/Ccq43lrtTun) · 2022-04-22 · 5 likes · 0 comments\n- [Today, International Women’s Day 2022 is indeed a big day for women’s rights in Nigeria in light of the recent reviews…](https://instagram.com/p/Ca1gFUkuK9w) · 2022-03-08 · 4 likes · 0 comments\n",
+    "interactParsed": {
+      "title": "tryctor • Instagram photos and videos",
+      "url": "https://www.instagram.com/tryctor/",
+      "bodyText": "Log In\nSign Up\ntryctor\n76 followers\n44 following\ntryctor\nMini tractor for Africa\nforms.gle/j6C49dG3Vn3KxxCCA\nShow more posts from tryctor\nMeta\nAbout\nBlog\nJobs\nHelp\nAPI\nPrivacy\nConsumer Health Privacy\nTerms\nLocations\nPopular\nInstagram Lite\nMeta AI\nMuse\nThreads\nContact Uploading & Non-Users\nMeta Verified\nEnglish\nAfrikaans\nالعربية\nČeština\nDansk\nDeutsch\nΕλληνικά\nEnglish\nEnglish (UK)\nEspañol (España)\nEspañol\nفارسی\nSuomi\nFrançais\nעברית\nBahasa Indonesia\nItaliano\n日本語\n한국어\nBahasa Melayu\nNorsk\nNederlands\nPolski\nPortuguês (Brasil)\nPortuguês (Portugal)\nРусский\nSvenska\nภาษาไทย\nFilipino\nTürkçe\n中文(简体)\n中文(台灣)\nবাংলা\nગુજરાતી\nहिन्दी\nHrvatski\nMagyar\nಕನ್ನಡ\nമലയാളം\nमराठी\nनेपाली\nਪੰਜਾਬੀ\nසිංහල\nSlovenčina\nதமிழ்\nతెలుగు\nاردو\nTiếng Việt\n中文(香港)\nБългарски\nFrançais (Canada)\nRomână\nСрпски\nУкраїнська\n© 2026 Instagram from Meta\nSee photos, videos and more from tryctor\nSign up and never miss a post from tryctor.\nSign up\nLog in",
+      "domData": {
+        "posts": [
+          {
+            "href": "/tryctor/reel/CyjBGbmN6kR/",
+            "imgAlt": "Video by tryctor on October 18, 2023.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/nsiainnovationprize/p/DfCOM-oDOee/",
+            "imgAlt": "Photo by NSIA Prize for Innovation on October 28, 2026.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/tryctor/reel/DQMTS95iOIB/",
+            "imgAlt": "Video by tryctor on October 24, 2025.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/tryctor/reel/DOvyi9LiBXz/",
+            "imgAlt": "Video by tryctor on September 18, 2025.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/tryctor/p/DGZ59n8zxlc/",
+            "imgAlt": "Photo by tryctor on February 22, 2025.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/tryctor/p/DGZ4j7ATfG2/",
+            "imgAlt": "Photo by tryctor on February 22, 2025.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          },
+          {
+            "href": "/tryctor/reel/DGZ03I3TSV4/",
+            "imgAlt": "Video by tryctor on February 22, 2025.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/tryctor/reel/CzHpHlutTMX/",
+            "imgAlt": "Video by tryctor on November 01, 2023.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/tryctor/p/CyRatLdtmt4/",
+            "imgAlt": "Photo by tryctor on October 11, 2023.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/tryctor/p/CxJJ7zwqVXj/",
+            "imgAlt": "Photo by tryctor on September 13, 2023.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/tryctor/p/Ccq43lrtTun/",
+            "imgAlt": "Photo by tryctor on April 22, 2022.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/tryctor/p/Ca1gFUkuK9w/",
+            "imgAlt": "Photo by tryctor on March 08, 2022.",
+            "svgs": [
+              "Carousel"
+            ],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": true
+          }
+        ],
+        "extLinks": [],
+        "loginWall": false
+      }
+    },
+    "allIgLinksFound": [
+      "https://www.instagram.com/tryctor/"
+    ]
+  },
+  "evidencePaths": [
+    "evidence/phase2/nsia_bd_b7.md",
+    "evidence/phase2/q_tryctor_b7.json",
+    "evidence/phase2/web_b4_misc.json",
+    "evidence/phase4/tryctor_home.json",
+    "evidence/phase4/tryctor_home.md",
+    "evidence/phase4/tryctor_blog.json",
+    "evidence/phase4/tryctor_blog.md",
+    "evidence/phase4/tryctor_ig_scrape.json",
+    "evidence/phase4/tryctor_ig_scrape.md",
+    "evidence/phase4/tryctor_ig_interact.json",
+    "evidence/phase4/tryctor_ig_stop.json"
+  ]
+}

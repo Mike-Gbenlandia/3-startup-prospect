@@ -1,14 +1,14 @@
 # HANDOFF
 
 - **Finished**:
-  - Phase 0, 1 (392 raw), 2 (122 verified, 270 rejected), Phase 3 Pilot of 5, Phase 4 Tier A (10), Tier B (2), and first 38 Tier C (`telios`..`fer-factor`).
-  - Batch 10 finalized: `navidyn` (score 7 Q), `krosai` (score 4 Q), `maliyo-games` (score 0 NQ), `gazuntype` (score 6 Q), `fer-factor` (score 6 Q).
-  - Total audited `DONE`: 55 (`45` qualified, `10` not qualified), `1` `BLOCKED` (`friendnpal`), `66` `PENDING` (`64` Tier C + `2` Tier D).
+  - Phase 0, 1 (392 raw), 2 (122 verified, 270 rejected), Phase 3 Pilot of 5, Phase 4 Tier A (10), Tier B (2), and first 43 Tier C (`telios`..`tryctor`).
+  - Batch 11 finalized: `deluxe-entertainment-studios` (score 7 Q), `come-again-foods` (score 4 Q), `harthio` (score 2 NQ), `hubpharm-africa` (score 0 NQ), `tryctor` (score 9 Q).
+  - Total audited `DONE`: 60 (`48` qualified, `12` not qualified), `1` `BLOCKED` (`friendnpal`), `61` `PENDING` (`59` Tier C + `2` Tier D).
 - **Next**:
-  - Fetch & audit Batch 11 (`deluxe-entertainment-studios`, `come-again-foods`, `harthio`, `hubpharm-africa`, `tryctor`), then remaining Tier C & D startups in batches of 5.
+  - Fetch & audit Batch 12 (`eight-medical`, `uwana-energy`, `aktivate`, `cold-hubs`, `adaptive-atelier`), then remaining Tier C & D startups in batches of 5.
   - Inspect every IG screenshot via `view_file`, finalize via `phase3_finalize_row.ts`, and update `HANDOFF.md` + commit/push every 5 startups.
 - **Must Not Redo**:
-  - Do NOT re-run Phase 0–2, Pilot 5, `friendnpal`, Tier A (10), Tier B (2), or first 38 Tier C startups (`telios`..`fer-factor`).
+  - Do NOT re-run Phase 0–2, Pilot 5, `friendnpal`, Tier A (10), Tier B (2), or first 43 Tier C startups (`telios`..`tryctor`).
 - **Open Problems**:
   - `friendnpal`: HTTP 500 `SCRAPE_ALL_ENGINES_FAILED` (`BLOCKED`).
   - `peoplepulse`: `/careers` HTTP 500 (`BLOCKED`).

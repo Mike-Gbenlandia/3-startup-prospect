@@ -1,0 +1,48 @@
+{
+  "slug": "come-again-foods",
+  "audit_status": "DONE",
+  "website_verified": "https://comeagainfoods.com/",
+  "instagram_url": "https://www.instagram.com/nelliesnigeria/",
+  "instagram_followers": 122445,
+  "ig_latest_post_date": "2026-11-27",
+  "ig_days_since_latest": 0,
+  "ig_post_dates_last5": [
+    "2026-11-27",
+    "2026-11-27",
+    "2026-11-27",
+    "2026-11-26",
+    "2026-11-26"
+  ],
+  "ig_median_gap_days": 0,
+  "ig_last5_formats": "Photo,Carousel,Reel,Reel,Photo",
+  "ig_frequency_note": "Skipped 3 pinned top-row posts (2025-08-11 DNOOuFwM4w1, 2025-07-30 DMvLfBCRfDi, 2025-06-15 DK6VTcco0RG); posts multiple times daily on @nelliesnigeria.",
+  "blog_url": "NOT_FOUND",
+  "blog_latest_post_date": "NOT_FOUND",
+  "blog_posts_last_90d": 0,
+  "team_page_url": "https://comeagainfoods.com/home/",
+  "team_marketing_roles_found": "NONE",
+  "careers_page_url": "NOT_FOUND",
+  "hiring_marketing_role": "NO",
+  "need_score": 4,
+  "need_signals": "NO_OR_STALE_BLOG_90D (+2) | NO_MARKETING_TITLE_ON_TEAM (+2)",
+  "qualified": "YES",
+  "disqualification_reason": "NONE",
+  "source_urls": [
+    "https://comeagainfoods.com/",
+    "https://comeagainfoods.com/home/",
+    "https://www.instagram.com/nelliesnigeria/",
+    "https://businessday.ng/news/article/nsia-awards-275000-to-nigerian-startups-come-again-foods-leads-winners/",
+    "https://african-startups.com/countries/nigeria/nigerias-nsia-awards-220k-in-cash-and-equity-to-three-winners-of-its-prize-for-innovation-4-0/"
+  ],
+  "evidence_paths": [
+    "evidence/phase4/come-again-foods_audit_raw.json",
+    "evidence/phase4/come-again-foods_home.md",
+    "evidence/phase4/come-again-foods_story.md",
+    "evidence/phase4/come-again-foods_ig_scrape.md",
+    "screenshots/come-again-foods_instagram.png",
+    "evidence/phase2/nsia_bd_b7.md",
+    "evidence/phase2/come_again_foods_70ca297135.md",
+    "evidence/phase1/hy_as_nsia_4.md"
+  ],
+  "raw_timestamp_text": "IG (@nelliesnigeria): top 3 (2025-08-11, 2025-07-30, 2025-06-15) pinned; non-pinned top 5: 2026-11-27 (DgQKcx1Oy1U, DgPi7IujaxH, DgPGARRh_Ek), 2026-11-26 (DgNiD3-uQCg, DgM8fSNuhkE). Site (comeagainfoods.com & /home/): WooCommerce store + short Our Story section, no blog and no team members or marketing titles."
+}

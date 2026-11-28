@@ -1,0 +1,213 @@
+{
+  "retrievalDate": "2026-11-27",
+  "slug": "harthio",
+  "poolEntry": {
+    "name": "Harthio",
+    "website": "https://harthio.com/",
+    "tier": "C",
+    "status": "VERIFIED",
+    "round_type_exact": "Grant (Wema Bank Hackaholics 7.0 3rd Place Social Impact) / Micro-seed",
+    "amount": "NGN 20M (+ $1.5K-$2K Signalbase micro-seed)",
+    "announced_date": "2026-11-06",
+    "investors": "Wema Bank",
+    "hq_location": "Akure, Ondo State, Nigeria",
+    "funding_confidence": "CONFIRMED_2_SOURCES",
+    "source_urls": [
+      "https://www.startuplist.africa/startups/harthio",
+      "https://www.trysignalbase.com/news/funding/harthio-raises-2k-in-seed-funding"
+    ],
+    "evidence_paths": [
+      "evidence/phase2/harthio_sl_b7.md",
+      "evidence/phase2/harthio_a74cb0eb65.md",
+      "evidence/phase2/guardian_hackaholics7.md",
+      "evidence/phase2/wema_hackaholics7.md"
+    ],
+    "batch_number": 7,
+    "notes": "Also won NGN 20M Social Impact 3rd place at Wema Bank Hackaholics 7.0 (2026-11-06)."
+  },
+  "resolvedWebsite": "https://harthio.com/",
+  "searchCandidates": [],
+  "scrapedPages": {
+    "home": {
+      "url": "https://harthio.com/",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/harthio_home.md",
+      "jsonPath": "evidence/phase4/harthio_home.json"
+    },
+    "about": {
+      "url": "https://www.harthio.com/about",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/harthio_about.md",
+      "jsonPath": "evidence/phase4/harthio_about.json"
+    },
+    "blog": {
+      "url": "https://www.harthio.com/blog",
+      "status": 200,
+      "ok": true,
+      "mdPath": "evidence/phase4/harthio_blog.md",
+      "jsonPath": "evidence/phase4/harthio_blog.json"
+    }
+  },
+  "socialLinksFoundOnSite": {
+    "instagram": [
+      "https://www.instagram.com/harthiohq/"
+    ],
+    "linkedin": [
+      "https://linkedin.com/company/harthio"
+    ],
+    "twitter": [
+      "https://x.com/harthiohq",
+      "https://twitter.com/harthiohq"
+    ]
+  },
+  "instagramAudit": {
+    "status": "OK",
+    "url": "https://www.instagram.com/harthiohq/",
+    "screenshotPath": "screenshots/harthio_instagram.png",
+    "mdText": "# Harthio (@harthiohq)\n\nHarthio | Emotional Recovery \n🤝 Meaningful conversations\n🤖 24/7 AI support\n📊 Recovery tracking\n👇 Free to join\n\n13 followers · 1 following\n\nLinks: https://www.play.google.com/store/apps/details?id=com.harthio.mobile\n\n## Recent posts\n\n- [It is not normal for you not to be able to sleep at night. #Harthio #HealthTech #WellnessTech #MentalHealth #fy](https://instagram.com/p/Da2ZSOINLNb) · 2026-07-16 · 3 likes · 1 comments · 148 views\n- [Tap the strength you’ll need to bounce back from Harthio](https://instagram.com/p/DbtPsJethm4) · 2026-08-06 · 7 likes · 0 comments · 139 views\n- [Excited to share that I will be in Addis Ababa, Ethiopia next week for the International Conference on Public Health in…](https://instagram.com/p/Df4c2CHthkB) · 2026-11-18 · 1 likes · 0 comments\n- [Schedule or join a free Private Clarity session on Harthio](https://instagram.com/p/Df1PyuCt0D-) · 2026-11-17 · 1 likes · 0 comments\n- [It’s mid-November again.](https://instagram.com/p/DfwbewBt5TQ) · 2026-11-15 · 6 likes · 0 comments · 134 views\n- [Sometimes the loneliest moments happen in a world full of people. We often don't need someone to have all the answers,…](https://instagram.com/p/Dfhs0kQzMgb) · 2026-11-09 · 2 likes · 0 comments · 46 views\n- [Harthio won the 3rd position, taking 20 million naira home at the just concluded #hackaholics7 by @wemabank → 5,329+ ap…](https://instagram.com/p/DfeVjNOzFHC) · 2026-11-08 · 4 likes · 1 comments\n- [Your mental health is very important. Stop overthinking and seek help](https://instagram.com/p/Dd_BgQkzuI8) · 2026-10-02 · 2 likes · 0 comments · 25 views\n- [Harthio v1.0.56 is out. You can now book therapist near you, get timely reminder to log your mood, personalized new hom…](https://instagram.com/p/Dd02HgVDUcs) · 2026-09-28 · 3 likes · 0 comments\n- [Some nights I stay up with my thoughts that I can’t control. But like many of us, I don’t speak about it. We deal with…](https://instagram.com/p/DdVME3vijbg) · 2026-09-16 · 4 likes · 0 comments · 40 views\n- [Untitled post](https://instagram.com/p/DdCJJc4tqn5) · 2026-09-08 · 2 likes · 0 comments · 45 views\n- [Treat your wellness like the luxury asset it is. Executive clarity, real-time tracking, and therapy on the go. All in o…](https://instagram.com/p/Dcp2wAVI9qC) · 2026-08-30 · 3 likes · 0 comments · 17 views\n",
+    "interactParsed": {
+      "title": "Harthio (@harthiohq) • Instagram photos and videos",
+      "url": "https://www.instagram.com/harthiohq/",
+      "bodyText": "Log In\nSign Up\nharthiohq\n13 followers\n1 following\nHarthio\nHarthio | Emotional Recovery\n🤝 Meaningful conversations\n🤖 24/7 AI support\n📊 Recovery tracking\n👇 Free to join\nplay.google.com/store/apps/details?id=com.harthio.mobile\nShow more posts from harthiohq\nMeta\nAbout\nBlog\nJobs\nHelp\nAPI\nPrivacy\nConsumer Health Privacy\nTerms\nLocations\nPopular\nInstagram Lite\nMeta AI\nMuse\nThreads\nContact Uploading & Non-Users\nMeta Verified\nEnglish\nAfrikaans\nالعربية\nČeština\nDansk\nDeutsch\nΕλληνικά\nEnglish\nEnglish (UK)\nEspañol (España)\nEspañol\nفارسی\nSuomi\nFrançais\nעברית\nBahasa Indonesia\nItaliano\n日本語\n한국어\nBahasa Melayu\nNorsk\nNederlands\nPolski\nPortuguês (Brasil)\nPortuguês (Portugal)\nРусский\nSvenska\nภาษาไทย\nFilipino\nTürkçe\n中文(简体)\n中文(台灣)\nবাংলা\nગુજરાતી\nहिन्दी\nHrvatski\nMagyar\nಕನ್ನಡ\nമലയാളം\nमराठी\nनेपाली\nਪੰਜਾਬੀ\nසිංහල\nSlovenčina\nதமிழ்\nతెలుగు\nاردو\nTiếng Việt\n中文(香港)\nБългарски\nFrançais (Canada)\nRomână\nСрпски\nУкраїнська\n© 2026 Instagram from Meta\nSee photos, videos and more from harthiohq\nSign up and never miss a post from harthiohq.\nSign up\nLog in",
+      "domData": {
+        "posts": [
+          {
+            "href": "/harthiohq/reel/Da2ZSOINLNb/",
+            "imgAlt": "Video by Harthio on July 16, 2026.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/harthiohq/reel/DbtPsJethm4/",
+            "imgAlt": "Video by Harthio on August 06, 2026.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/harthiohq/p/Df4c2CHthkB/",
+            "imgAlt": "Photo by Harthio on November 18, 2026. May be a graphic of emu, poster, magazine and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/harthiohq/p/Df1PyuCt0D-/",
+            "imgAlt": "Photo by Harthio on November 16, 2026. May be a cartoon of umbrella, poster and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/harthiohq/reel/DfwbewBt5TQ/",
+            "imgAlt": "Video by Harthio on November 15, 2026. May be an image of fog, sky and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/harthiohq/reel/Dfhs0kQzMgb/",
+            "imgAlt": "Video by Harthio on November 09, 2026. May be a cartoon of skyscraper, street, night, buildings and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/harthiohq/p/DfeVjNOzFHC/",
+            "imgAlt": "Photo by Harthio on November 08, 2026. May be an image of one or more people, dais and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/harthiohq/reel/Dd_BgQkzuI8/",
+            "imgAlt": "Video by Harthio on October 02, 2026. May be a meme of money and text.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/harthiohq/p/Dd02HgVDUcs/",
+            "imgAlt": "Photo by Harthio on September 28, 2026. May be an image of screen, phone, thermostat and text.",
+            "svgs": [],
+            "isPinned": false,
+            "isReel": false,
+            "isCarousel": false
+          },
+          {
+            "href": "/harthiohq/reel/DdVME3vijbg/",
+            "imgAlt": "Video by Harthio on September 15, 2026. May be a graphic of poster.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/harthiohq/reel/DdCJJc4tqn5/",
+            "imgAlt": "Video by Harthio on September 08, 2026. May be an image of poster.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          },
+          {
+            "href": "/harthiohq/reel/Dcp2wAVI9qC/",
+            "imgAlt": "Video by Harthio on August 29, 2026.",
+            "svgs": [
+              "Clip"
+            ],
+            "isPinned": false,
+            "isReel": true,
+            "isCarousel": false
+          }
+        ],
+        "extLinks": [],
+        "loginWall": false
+      }
+    },
+    "allIgLinksFound": [
+      "https://www.instagram.com/harthiohq/"
+    ]
+  },
+  "evidencePaths": [
+    "evidence/phase2/harthio_sl_b7.md",
+    "evidence/phase2/harthio_a74cb0eb65.md",
+    "evidence/phase2/guardian_hackaholics7.md",
+    "evidence/phase2/wema_hackaholics7.md",
+    "evidence/phase4/harthio_home.json",
+    "evidence/phase4/harthio_home.md",
+    "evidence/phase4/harthio_about.json",
+    "evidence/phase4/harthio_about.md",
+    "evidence/phase4/harthio_blog.json",
+    "evidence/phase4/harthio_blog.md",
+    "evidence/phase4/harthio_ig_scrape.json",
+    "evidence/phase4/harthio_ig_scrape.md",
+    "evidence/phase4/harthio_ig_interact.json",
+    "evidence/phase4/harthio_ig_stop.json"
+  ]
+}
